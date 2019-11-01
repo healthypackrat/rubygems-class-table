@@ -1,0 +1,754 @@
+[
+  {
+    "class_name": "ActionDispatch::Routing",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/ActionDispatch/Routing",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ActionDispatch::Routing::Mapper",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/ActionDispatch/Routing/Mapper",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 10090,
+    "total": 10090
+  },
+  {
+    "class_name": "ActionDispatch::Routing::RouteSet",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/ActionDispatch/Routing/RouteSet",
+    "class_desc": 7,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 7
+  },
+  {
+    "class_name": "ActiveRecord",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/ActiveRecord",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ActiveRecord::Generators",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/ActiveRecord/Generators",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ActiveRecord::Generators::DeviseGenerator",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/ActiveRecord/Generators/DeviseGenerator",
+    "class_desc": 0,
+    "method_count": 11,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Devise",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise",
+    "class_desc": 0,
+    "method_count": 17,
+    "method_desc": 2316,
+    "total": 2316
+  },
+  {
+    "class_name": "Devise::ConfirmationsController",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/ConfirmationsController",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 109,
+    "total": 109
+  },
+  {
+    "class_name": "Devise::Controllers",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Controllers",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Devise::Controllers::Helpers",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Controllers/Helpers",
+    "class_desc": 69,
+    "method_count": 14,
+    "method_desc": 3355,
+    "total": 3424
+  },
+  {
+    "class_name": "Devise::Controllers::Helpers::ClassMethods",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Controllers/Helpers/ClassMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 1016,
+    "total": 1016
+  },
+  {
+    "class_name": "Devise::Controllers::Rememberable",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Controllers/Rememberable",
+    "class_desc": 167,
+    "method_count": 4,
+    "method_desc": 158,
+    "total": 325
+  },
+  {
+    "class_name": "Devise::Controllers::ScopedViews",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Controllers/ScopedViews",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Devise::Controllers::ScopedViews::ClassMethods",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Controllers/ScopedViews/ClassMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Devise::Controllers::SignInOut",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Controllers/SignInOut",
+    "class_desc": 83,
+    "method_count": 5,
+    "method_desc": 1957,
+    "total": 2040
+  },
+  {
+    "class_name": "Devise::Controllers::StoreLocation",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Controllers/StoreLocation",
+    "class_desc": 135,
+    "method_count": 2,
+    "method_desc": 447,
+    "total": 582
+  },
+  {
+    "class_name": "Devise::Controllers::UrlHelpers",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Controllers/UrlHelpers",
+    "class_desc": 1009,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 1009
+  },
+  {
+    "class_name": "Devise::Delegator",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Delegator",
+    "class_desc": 81,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 81
+  },
+  {
+    "class_name": "Devise::Encryptor",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Encryptor",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Devise::Engine",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Engine",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Devise::FailureApp",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/FailureApp",
+    "class_desc": 249,
+    "method_count": 6,
+    "method_desc": 183,
+    "total": 432
+  },
+  {
+    "class_name": "Devise::Generators",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Generators",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Devise::Generators::ControllersGenerator",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Generators/ControllersGenerator",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Devise::Generators::DeviseGenerator",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Generators/DeviseGenerator",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Devise::Generators::ErbGenerator",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Generators/ErbGenerator",
+    "class_desc": 7,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 7
+  },
+  {
+    "class_name": "Devise::Generators::FormForGenerator",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Generators/FormForGenerator",
+    "class_desc": 7,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 7
+  },
+  {
+    "class_name": "Devise::Generators::InstallGenerator",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Generators/InstallGenerator",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Devise::Generators::MarkerbGenerator",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Generators/MarkerbGenerator",
+    "class_desc": 7,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 7
+  },
+  {
+    "class_name": "Devise::Generators::OrmHelpers",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Generators/OrmHelpers",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Devise::Generators::SharedViewsGenerator",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Generators/SharedViewsGenerator",
+    "class_desc": 7,
+    "method_count": 1,
+    "method_desc": 51,
+    "total": 58
+  },
+  {
+    "class_name": "Devise::Generators::SimpleFormForGenerator",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Generators/SimpleFormForGenerator",
+    "class_desc": 7,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 7
+  },
+  {
+    "class_name": "Devise::Generators::ViewPathTemplates",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Generators/ViewPathTemplates",
+    "class_desc": 139,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 139
+  },
+  {
+    "class_name": "Devise::Generators::ViewsGenerator",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Generators/ViewsGenerator",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Devise::Getter",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Getter",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Devise::Hooks",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Hooks",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Devise::Hooks::Proxy",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Hooks/Proxy",
+    "class_desc": 78,
+    "method_count": 3,
+    "method_desc": 37,
+    "total": 115
+  },
+  {
+    "class_name": "Devise::Mailer",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Mailer",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Devise::Mailers",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Mailers",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Devise::Mailers::Helpers",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Mailers/Helpers",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Devise::Mapping",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Mapping",
+    "class_desc": 783,
+    "method_count": 24,
+    "method_desc": 897,
+    "total": 1680
+  },
+  {
+    "class_name": "Devise::MissingWarden",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/MissingWarden",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Devise::Models",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Models",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 910,
+    "total": 910
+  },
+  {
+    "class_name": "Devise::Models::Authenticatable",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Models/Authenticatable",
+    "class_desc": 2122,
+    "method_count": 8,
+    "method_desc": 770,
+    "total": 2892
+  },
+  {
+    "class_name": "Devise::Models::Authenticatable::ClassMethods",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Models/Authenticatable/ClassMethods",
+    "class_desc": 0,
+    "method_count": 8,
+    "method_desc": 1053,
+    "total": 1053
+  },
+  {
+    "class_name": "Devise::Models::Confirmable",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Models/Confirmable",
+    "class_desc": 2293,
+    "method_count": 13,
+    "method_desc": 983,
+    "total": 3276
+  },
+  {
+    "class_name": "Devise::Models::Confirmable::ClassMethods",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Models/Confirmable/ClassMethods",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 544,
+    "total": 544
+  },
+  {
+    "class_name": "Devise::Models::DatabaseAuthenticatable",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Models/DatabaseAuthenticatable",
+    "class_desc": 602,
+    "method_count": 14,
+    "method_desc": 1666,
+    "total": 2268
+  },
+  {
+    "class_name": "Devise::Models::DatabaseAuthenticatable::ClassMethods",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Models/DatabaseAuthenticatable/ClassMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 215,
+    "total": 215
+  },
+  {
+    "class_name": "Devise::Models::Lockable",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Models/Lockable",
+    "class_desc": 947,
+    "method_count": 11,
+    "method_desc": 849,
+    "total": 1796
+  },
+  {
+    "class_name": "Devise::Models::Lockable::ClassMethods",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Models/Lockable/ClassMethods",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 516,
+    "total": 516
+  },
+  {
+    "class_name": "Devise::Models::MissingAttribute",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Models/MissingAttribute",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Devise::Models::Omniauthable",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Models/Omniauthable",
+    "class_desc": 285,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 285
+  },
+  {
+    "class_name": "Devise::Models::Omniauthable::ClassMethods",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Models/Omniauthable/ClassMethods",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Devise::Models::Recoverable",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Models/Recoverable",
+    "class_desc": 771,
+    "method_count": 4,
+    "method_desc": 1075,
+    "total": 1846
+  },
+  {
+    "class_name": "Devise::Models::Recoverable::ClassMethods",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Models/Recoverable/ClassMethods",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 667,
+    "total": 667
+  },
+  {
+    "class_name": "Devise::Models::Registerable",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Models/Registerable",
+    "class_desc": 99,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 99
+  },
+  {
+    "class_name": "Devise::Models::Registerable::ClassMethods",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Models/Registerable/ClassMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 268,
+    "total": 268
+  },
+  {
+    "class_name": "Devise::Models::Rememberable",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Models/Rememberable",
+    "class_desc": 1317,
+    "method_count": 11,
+    "method_desc": 422,
+    "total": 1739
+  },
+  {
+    "class_name": "Devise::Models::Rememberable::ClassMethods",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Models/Rememberable/ClassMethods",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 176,
+    "total": 176
+  },
+  {
+    "class_name": "Devise::Models::Timeoutable",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Models/Timeoutable",
+    "class_desc": 429,
+    "method_count": 3,
+    "method_desc": 69,
+    "total": 498
+  },
+  {
+    "class_name": "Devise::Models::Timeoutable::ClassMethods",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Models/Timeoutable/ClassMethods",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Devise::Models::Trackable",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Models/Trackable",
+    "class_desc": 430,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 430
+  },
+  {
+    "class_name": "Devise::Models::Validatable",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Models/Validatable",
+    "class_desc": 500,
+    "method_count": 3,
+    "method_desc": 7,
+    "total": 507
+  },
+  {
+    "class_name": "Devise::Models::Validatable::ClassMethods",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Models/Validatable/ClassMethods",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Devise::OmniAuth",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/OmniAuth",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Devise::OmniAuth::Config",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/OmniAuth/Config",
+    "class_desc": 0,
+    "method_count": 10,
+    "method_desc": 222,
+    "total": 222
+  },
+  {
+    "class_name": "Devise::OmniAuth::StrategyNotFound",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/OmniAuth/StrategyNotFound",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Devise::OmniAuth::UrlHelpers",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/OmniAuth/UrlHelpers",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Devise::OmniauthCallbacksController",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/OmniauthCallbacksController",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Devise::ParameterFilter",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/ParameterFilter",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 71,
+    "total": 71
+  },
+  {
+    "class_name": "Devise::ParameterSanitizer",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/ParameterSanitizer",
+    "class_desc": 1212,
+    "method_count": 3,
+    "method_desc": 1492,
+    "total": 2704
+  },
+  {
+    "class_name": "Devise::PasswordsController",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/PasswordsController",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 126,
+    "total": 126
+  },
+  {
+    "class_name": "Devise::RegistrationsController",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/RegistrationsController",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 407,
+    "total": 407
+  },
+  {
+    "class_name": "Devise::RouteSet",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/RouteSet",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Devise::SecretKeyFinder",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/SecretKeyFinder",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Devise::SessionsController",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/SessionsController",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 68,
+    "total": 68
+  },
+  {
+    "class_name": "Devise::Strategies",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Strategies",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Devise::Strategies::Authenticatable",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Strategies/Authenticatable",
+    "class_desc": 190,
+    "method_count": 9,
+    "method_desc": 411,
+    "total": 601
+  },
+  {
+    "class_name": "Devise::Strategies::Base",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Strategies/Base",
+    "class_desc": 78,
+    "method_count": 2,
+    "method_desc": 147,
+    "total": 225
+  },
+  {
+    "class_name": "Devise::Strategies::DatabaseAuthenticatable",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Strategies/DatabaseAuthenticatable",
+    "class_desc": 90,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 90
+  },
+  {
+    "class_name": "Devise::Strategies::Rememberable",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Strategies/Rememberable",
+    "class_desc": 232,
+    "method_count": 3,
+    "method_desc": 473,
+    "total": 705
+  },
+  {
+    "class_name": "Devise::Test",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Test",
+    "class_desc": 417,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 417
+  },
+  {
+    "class_name": "Devise::Test::ControllerHelpers",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Test/ControllerHelpers",
+    "class_desc": 701,
+    "method_count": 5,
+    "method_desc": 702,
+    "total": 1403
+  },
+  {
+    "class_name": "Devise::Test::IntegrationHelpers",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/Test/IntegrationHelpers",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 403,
+    "total": 403
+  },
+  {
+    "class_name": "Devise::TestHelpers",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/TestHelpers",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Devise::TimeInflector",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/TimeInflector",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 39,
+    "total": 39
+  },
+  {
+    "class_name": "Devise::TokenGenerator",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/TokenGenerator",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Devise::UnlocksController",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Devise/UnlocksController",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 85,
+    "total": 85
+  },
+  {
+    "class_name": "DeviseController",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/DeviseController",
+    "class_desc": 47,
+    "method_count": 1,
+    "method_desc": 305,
+    "total": 352
+  },
+  {
+    "class_name": "DeviseHelper",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/DeviseHelper",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 122,
+    "total": 122
+  },
+  {
+    "class_name": "Mongoid",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Mongoid",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mongoid::Generators",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Mongoid/Generators",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mongoid::Generators::DeviseGenerator",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Mongoid/Generators/DeviseGenerator",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Warden::Mixins::Common",
+    "url": "https://rubydoc.info/gems/devise/4.7.1/Warden/Mixins/Common",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  }
+]
