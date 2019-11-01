@@ -1,0 +1,118 @@
+#!/usr/bin/env ruby
+
+require 'json'
+require 'pathname'
+require 'rubygems/gem_runner'
+require 'tmpdir'
+
+require 'bundler/setup'
+
+require 'yard'
+
+PUBLIC_DIR = Pathname.new(__dir__).join('..', 'public')
+
+GEMS_DIR = PUBLIC_DIR.join('gems')
+
+def add_gem(args)
+  gem_name = args.shift
+  gem_version = args.shift
+
+  unless gem_name
+    puts "Usage: #{$PROGRAM_NAME} add GEM_NAME [GEM_VERSION]"
+    exit
+  end
+
+  unpack_command = ['unpack', gem_name]
+
+  if gem_version
+    unpack_command.push('-v', gem_version)
+  end
+
+  gem_dir = nil
+
+  Dir.mktmpdir do |temp_dir|
+    Dir.chdir(temp_dir) do
+      Gem::GemRunner.new.run(unpack_command)
+
+      gem_dir = Dir["#{gem_name}-*"].first
+
+      raise "could not fetch #{gem_name.inspect}" unless gem_dir
+
+      Dir.chdir(gem_dir) do
+        YARD::CLI::Yardoc.run(*%w[-n -q])
+        YARD::Registry.load_yardoc
+      end
+    end
+  end
+
+  unless gem_version
+    gem_version = gem_dir[/-([^-]+)\z/, 1]
+  end
+
+  classes = YARD::Registry.all(:class, :module)
+
+  entries = classes.map do |c|
+    class_name = c.path
+
+    url = "https://rubydoc.info/gems/#{gem_name}/#{gem_version}/#{class_name.split(/::/).join('/')}"
+
+    methods = c.meths(visibility: :public, inherited: false, included: false)
+
+    entry = {
+      class_name: class_name,
+      url: url,
+      class_desc: c.docstring.size,
+      method_count: methods.size,
+      method_desc: methods.sum {|m| m.docstring.size }
+    }
+
+    entry[:total] = entry[:class_desc] + entry[:method_desc]
+
+    entry
+  end.sort_by do |entry|
+    entry[:class_name]
+  end
+
+  output_path = GEMS_DIR.join("#{gem_dir}.json")
+
+  output_path.parent.mkpath
+
+  output_path.write(JSON.pretty_generate(entries))
+end
+
+def pack_index
+  gems = GEMS_DIR.glob('*.json').map do |path|
+    basename = path.basename.to_s
+    name, version = /\A(.+)-([^-]+)\.json\z/.match(basename).to_a[1..2]
+    { name: name, version: version, basename: basename }
+  end
+
+  basenames = gems.sort do |x1, x2|
+    v1 = Gem::Version.new(x1[:version])
+    v2 = Gem::Version.new(x2[:version])
+    # 名前は昇順、バージョンは降順にソート
+    (x1[:name] < x2[:name]) ? -1 : (x1[:name] > x2[:name]) ? 1 : (v1 < v2) ? 1 : (v1 > v2) ? -1 : 0
+  end.map do |x|
+    x[:basename]
+  end
+
+  output_path = PUBLIC_DIR.join('gems.json')
+
+  output_path.parent.mkpath
+
+  output_path.write(JSON.pretty_generate(basenames))
+end
+
+command = ARGV.shift
+
+abort "no command was given" unless command
+
+case command
+when 'add'
+  add_gem(ARGV)
+  pack_index
+when 'pack'
+  pack_index
+else
+  abort "unknown command: #{command}"
+end
