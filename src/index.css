@@ -1,0 +1,11 @@
+.main {
+  max-width: 1200px;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+tbody td {
+  word-break: break-all;
+}

@@ -10,7 +10,10 @@ class Index extends React.Component {
 
   render() {
     return (
-      <div className="container my-3">
+      <div className="main container-fluid my-3">
+        <ol className="breadcrumb">
+          <li className="breadcrumb-item active">Home</li>
+        </ol>
         <ul>
           {this.props.items.map(item => {
             return <li key={item}><Link to={`/gems/${item}`}>{item}</Link></li>;
