@@ -14,6 +14,7 @@ class Index extends React.Component {
         <ol className="breadcrumb">
           <li className="breadcrumb-item active">Home</li>
         </ol>
+        <p><a href="https://github.com/healthypackrat/rubygems-class-table">リポジトリに戻る</a></p>
         <ul>
           {this.props.items.map(item => {
             return <li key={item}><Link to={`/gems/${item}`}>{item}</Link></li>;
