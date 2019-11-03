@@ -1,10 +1,42 @@
+export const SET_FILTER_KEY = 'SET_FILTER_KEY';
 export const SET_SORT_KEY = 'SET_SORT_KEY';
+export const SET_USE_REGEXP = 'SET_USE_REGEXP';
+export const SET_INVERT_RESULT = 'SET_INVERT_RESULT';
+export const SET_HIDE_NO_DOC = 'SET_HIDE_NO_DOC';
+
+export const setFilterKey = filterKey => ({
+  type: SET_FILTER_KEY,
+  payload: {
+    filterKey
+  }
+});
 
 export const setSortKey = (sortKey, reverse = true) => ({
   type: SET_SORT_KEY,
   payload: {
     sortKey,
     reverse
+  }
+});
+
+export const setUseRegExp = useRegExp => ({
+  type: SET_USE_REGEXP,
+  payload: {
+    useRegExp
+  }
+});
+
+export const setInvertResult = invertResult => ({
+  type: SET_INVERT_RESULT,
+  payload: {
+    invertResult
+  }
+});
+
+export const setHideNoDoc = hideNoDoc => ({
+  type: SET_HIDE_NO_DOC,
+  payload: {
+    hideNoDoc
   }
 });
 
