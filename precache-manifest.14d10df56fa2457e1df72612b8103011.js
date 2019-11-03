@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b4a73fe4d6be50626fd1e42fc081a80",
+    "revision": "da67a8e15452df1f265006f251365987",
     "url": "/rubygems-class-table/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rubygems-class-table/static/css/2.0624914a.chunk.css"
   },
   {
-    "revision": "18009272cdd5a9744ce0",
+    "revision": "93be62242a71d8461cbe",
     "url": "/rubygems-class-table/static/css/main.42d05314.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rubygems-class-table/static/js/2.f6f4cab5.chunk.js"
   },
   {
-    "revision": "18009272cdd5a9744ce0",
-    "url": "/rubygems-class-table/static/js/main.ce860a26.chunk.js"
+    "revision": "93be62242a71d8461cbe",
+    "url": "/rubygems-class-table/static/js/main.b4fb3d79.chunk.js"
   },
   {
     "revision": "f453f29554a64e0b0848",
