@@ -1,12 +1,19 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { connect } from 'react-redux';
-import { selectCurrentSlug, fetchEntriesIfNeeded } from '../actions/entries';
+import {
+  selectCurrentSlug,
+  fetchEntriesIfNeeded,
+  setFilterKey,
+  setSortKey,
+  setUseRegExp,
+  setInvertResult,
+  setHideNoDoc
+} from '../actions/entries';
 import SearchField from './filtering/SearchField';
 import UseRegExp from './filtering/UseRegExp';
 import InvertResult from './filtering/InvertResult';
 import HideNoDoc from './filtering/HideNoDoc';
-import ResultCount from './filtering/ResultCount';
 import Table from './table/Table';
 
 class EntryList extends React.Component {
@@ -21,6 +28,14 @@ class EntryList extends React.Component {
     this.props.fetchEntriesIfNeeded(this.slug);
   }
 
+  componentWillUnmount() {
+    this.props.setFilterKey('');
+    this.props.setSortKey('total', false);
+    this.props.setUseRegExp(false);
+    this.props.setInvertResult(false);
+    this.props.setHideNoDoc(true);
+  }
+
   render() {
     return (
       <div className="main container-fluid my-3">
@@ -32,7 +47,6 @@ class EntryList extends React.Component {
         <UseRegExp />
         <InvertResult />
         <HideNoDoc />
-        <ResultCount />
         <Table />
       </div>
     );
@@ -41,5 +55,13 @@ class EntryList extends React.Component {
 
 export default connect(
   null,
-  { selectCurrentSlug, fetchEntriesIfNeeded }
+  {
+    selectCurrentSlug,
+    fetchEntriesIfNeeded,
+    setFilterKey,
+    setSortKey,
+    setUseRegExp,
+    setInvertResult,
+    setHideNoDoc
+  }
 )(EntryList);
