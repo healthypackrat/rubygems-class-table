@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,MACE,gBACF,CAEA,SACE,cACF,CAEA,SACE,oBACF","file":"main.42d05314.chunk.css","sourcesContent":[".main {\n  max-width: 1200px;\n}\n\n.pointer {\n  cursor: pointer;\n}\n\ntbody td {\n  word-break: break-all;\n}\n"]}

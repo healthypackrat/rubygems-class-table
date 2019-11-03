@@ -1,0 +1,1218 @@
+[
+  {
+    "class_name": "Capybara",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara",
+    "class_desc": 0,
+    "method_count": 34,
+    "method_desc": 6795,
+    "total": 6795
+  },
+  {
+    "class_name": "Capybara::Ambiguous",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Ambiguous",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::CapybaraError",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/CapybaraError",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Config",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Config",
+    "class_desc": 0,
+    "method_count": 17,
+    "method_desc": 657,
+    "total": 657
+  },
+  {
+    "class_name": "Capybara::DSL",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/DSL",
+    "class_desc": 7,
+    "method_count": 5,
+    "method_desc": 241,
+    "total": 248
+  },
+  {
+    "class_name": "Capybara::DSLRSpecProxyInstaller",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/DSLRSpecProxyInstaller",
+    "class_desc": 7,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 7
+  },
+  {
+    "class_name": "Capybara::DSLRSpecProxyInstaller::ClassMethods",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/DSLRSpecProxyInstaller/ClassMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Driver",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Driver",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Driver::Base",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Driver/Base",
+    "class_desc": 0,
+    "method_count": 35,
+    "method_desc": 131,
+    "total": 131
+  },
+  {
+    "class_name": "Capybara::Driver::Node",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Driver/Node",
+    "class_desc": 0,
+    "method_count": 34,
+    "method_desc": 118,
+    "total": 118
+  },
+  {
+    "class_name": "Capybara::DriverNotFoundError",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/DriverNotFoundError",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::ElementNotFound",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/ElementNotFound",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::ExpectationNotMet",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/ExpectationNotMet",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::FileNotFound",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/FileNotFound",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::FrozenInTime",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/FrozenInTime",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Helpers",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Helpers",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 523,
+    "total": 523
+  },
+  {
+    "class_name": "Capybara::Helpers::Timer",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Helpers/Timer",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::InfiniteRedirectError",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/InfiniteRedirectError",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Minitest",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Minitest",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Minitest::Assertions",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Minitest/Assertions",
+    "class_desc": 0,
+    "method_count": 47,
+    "method_desc": 355,
+    "total": 355
+  },
+  {
+    "class_name": "Capybara::Minitest::Expectations",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Minitest/Expectations",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::ModalNotFound",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/ModalNotFound",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Node",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Node",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Node::Actions",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Node/Actions",
+    "class_desc": 0,
+    "method_count": 11,
+    "method_desc": 4377,
+    "total": 4377
+  },
+  {
+    "class_name": "Capybara::Node::Base",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Node/Base",
+    "class_desc": 933,
+    "method_count": 10,
+    "method_desc": 1567,
+    "total": 2500
+  },
+  {
+    "class_name": "Capybara::Node::Document",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Node/Document",
+    "class_desc": 123,
+    "method_count": 6,
+    "method_desc": 0,
+    "total": 123
+  },
+  {
+    "class_name": "Capybara::Node::DocumentMatchers",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Node/DocumentMatchers",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 180,
+    "total": 180
+  },
+  {
+    "class_name": "Capybara::Node::Element",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Node/Element",
+    "class_desc": 509,
+    "method_count": 36,
+    "method_desc": 5321,
+    "total": 5830
+  },
+  {
+    "class_name": "Capybara::Node::Finders",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Node/Finders",
+    "class_desc": 0,
+    "method_count": 10,
+    "method_desc": 6406,
+    "total": 6406
+  },
+  {
+    "class_name": "Capybara::Node::Matchers",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Node/Matchers",
+    "class_desc": 0,
+    "method_count": 52,
+    "method_desc": 10850,
+    "total": 10850
+  },
+  {
+    "class_name": "Capybara::Node::Simple",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Node/Simple",
+    "class_desc": 423,
+    "method_count": 20,
+    "method_desc": 394,
+    "total": 817
+  },
+  {
+    "class_name": "Capybara::NotSupportedByDriverError",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/NotSupportedByDriverError",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Queries",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Queries",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Queries::AncestorQuery",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Queries/AncestorQuery",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Queries::BaseQuery",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Queries/BaseQuery",
+    "class_desc": 0,
+    "method_count": 10,
+    "method_desc": 429,
+    "total": 429
+  },
+  {
+    "class_name": "Capybara::Queries::CurrentPathQuery",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Queries/CurrentPathQuery",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Queries::MatchQuery",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Queries/MatchQuery",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Queries::SelectorQuery",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Queries/SelectorQuery",
+    "class_desc": 0,
+    "method_count": 19,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Queries::SelectorQuery::Rectangle",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Queries/SelectorQuery/Rectangle",
+    "class_desc": 0,
+    "method_count": 11,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Queries::SiblingQuery",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Queries/SiblingQuery",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Queries::StyleQuery",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Queries/StyleQuery",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Queries::TextQuery",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Queries/TextQuery",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 39,
+    "total": 39
+  },
+  {
+    "class_name": "Capybara::Queries::TitleQuery",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Queries/TitleQuery",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RSpecMatcherProxies",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RSpecMatcherProxies",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RSpecMatcherProxyInstaller",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RSpecMatcherProxyInstaller",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RSpecMatcherProxyInstaller::ClassMethods",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RSpecMatcherProxyInstaller/ClassMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RSpecMatchers",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RSpecMatchers",
+    "class_desc": 0,
+    "method_count": 26,
+    "method_desc": 1208,
+    "total": 1208
+  },
+  {
+    "class_name": "Capybara::RSpecMatchers::CountSugar",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RSpecMatchers/CountSugar",
+    "class_desc": 0,
+    "method_count": 7,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RSpecMatchers::Matchers",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RSpecMatchers/Matchers",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RSpecMatchers::Matchers::Base",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RSpecMatchers/Matchers/Base",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 105,
+    "total": 105
+  },
+  {
+    "class_name": "Capybara::RSpecMatchers::Matchers::BecomeClosed",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RSpecMatchers/Matchers/BecomeClosed",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RSpecMatchers::Matchers::Compound",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RSpecMatchers/Matchers/Compound",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RSpecMatchers::Matchers::Compound::And",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RSpecMatchers/Matchers/Compound/And",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RSpecMatchers::Matchers::Compound::CapybaraEvaluator",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RSpecMatchers/Matchers/Compound/CapybaraEvaluator",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RSpecMatchers::Matchers::Compound::Or",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RSpecMatchers/Matchers/Compound/Or",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RSpecMatchers::Matchers::Compound::Synchronizer",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RSpecMatchers/Matchers/Compound/Synchronizer",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RSpecMatchers::Matchers::CountableWrappedElementMatcher",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RSpecMatchers/Matchers/CountableWrappedElementMatcher",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RSpecMatchers::Matchers::HaveAllSelectors",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RSpecMatchers/Matchers/HaveAllSelectors",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RSpecMatchers::Matchers::HaveAncestor",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RSpecMatchers/Matchers/HaveAncestor",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RSpecMatchers::Matchers::HaveAnySelectors",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RSpecMatchers/Matchers/HaveAnySelectors",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RSpecMatchers::Matchers::HaveCurrentPath",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RSpecMatchers/Matchers/HaveCurrentPath",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RSpecMatchers::Matchers::HaveNoSelectors",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RSpecMatchers/Matchers/HaveNoSelectors",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RSpecMatchers::Matchers::HaveSelector",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RSpecMatchers/Matchers/HaveSelector",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RSpecMatchers::Matchers::HaveSibling",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RSpecMatchers/Matchers/HaveSibling",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RSpecMatchers::Matchers::HaveStyle",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RSpecMatchers/Matchers/HaveStyle",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RSpecMatchers::Matchers::HaveText",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RSpecMatchers/Matchers/HaveText",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RSpecMatchers::Matchers::HaveTitle",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RSpecMatchers/Matchers/HaveTitle",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RSpecMatchers::Matchers::MatchSelector",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RSpecMatchers/Matchers/MatchSelector",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RSpecMatchers::Matchers::MatchStyle",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RSpecMatchers/Matchers/MatchStyle",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RSpecMatchers::Matchers::NegatedMatcher",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RSpecMatchers/Matchers/NegatedMatcher",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RSpecMatchers::Matchers::WrappedElementMatcher",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RSpecMatchers/Matchers/WrappedElementMatcher",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RSpecMatchers::SpatialSugar",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RSpecMatchers/SpatialSugar",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RackTest",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RackTest",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RackTest::Browser",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RackTest/Browser",
+    "class_desc": 0,
+    "method_count": 20,
+    "method_desc": 111,
+    "total": 111
+  },
+  {
+    "class_name": "Capybara::RackTest::CSSHandlers",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RackTest/CSSHandlers",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RackTest::Driver",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RackTest/Driver",
+    "class_desc": 0,
+    "method_count": 27,
+    "method_desc": 72,
+    "total": 72
+  },
+  {
+    "class_name": "Capybara::RackTest::Errors",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RackTest/Errors",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RackTest::Errors::StaleElementReferenceError",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RackTest/Errors/StaleElementReferenceError",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RackTest::Form",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RackTest/Form",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RackTest::Form::NilUploadedFile",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RackTest/Form/NilUploadedFile",
+    "class_desc": 336,
+    "method_count": 6,
+    "method_desc": 0,
+    "total": 336
+  },
+  {
+    "class_name": "Capybara::RackTest::Form::ParamsHash",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RackTest/Form/ParamsHash",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::RackTest::Node",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/RackTest/Node",
+    "class_desc": 0,
+    "method_count": 18,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::ReadOnlyElementError",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/ReadOnlyElementError",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::ReadOnlySessionConfig",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/ReadOnlySessionConfig",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Result",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Result",
+    "class_desc": 355,
+    "method_count": 11,
+    "method_desc": 0,
+    "total": 355
+  },
+  {
+    "class_name": "Capybara::ScopeError",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/ScopeError",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Selector",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selector",
+    "class_desc": 8750,
+    "method_count": 17,
+    "method_desc": 37,
+    "total": 8787
+  },
+  {
+    "class_name": "Capybara::Selector::CSS",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selector/CSS",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Selector::CSS::Splitter",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selector/CSS/Splitter",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Selector::CSSBuilder",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selector/CSSBuilder",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Selector::Definition",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selector/Definition",
+    "class_desc": 0,
+    "method_count": 25,
+    "method_desc": 591,
+    "total": 591
+  },
+  {
+    "class_name": "Capybara::Selector::FilterSet",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selector/FilterSet",
+    "class_desc": 0,
+    "method_count": 14,
+    "method_desc": 92,
+    "total": 92
+  },
+  {
+    "class_name": "Capybara::Selector::Filters",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selector/Filters",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Selector::Filters::Base",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selector/Filters/Base",
+    "class_desc": 0,
+    "method_count": 8,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Selector::Filters::ExpressionFilter",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selector/Filters/ExpressionFilter",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Selector::Filters::IdentityExpressionFilter",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selector/Filters/IdentityExpressionFilter",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Selector::Filters::LocatorFilter",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selector/Filters/LocatorFilter",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Selector::Filters::NodeFilter",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selector/Filters/NodeFilter",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Selector::RegexpDisassembler",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selector/RegexpDisassembler",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Selector::RegexpDisassembler::Expression",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selector/RegexpDisassembler/Expression",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Selector::XPathBuilder",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selector/XPathBuilder",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Selenium",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selenium",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Selenium::ChromeLogs",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selenium/ChromeLogs",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Selenium::ChromeNode",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selenium/ChromeNode",
+    "class_desc": 0,
+    "method_count": 7,
+    "method_desc": 41,
+    "total": 41
+  },
+  {
+    "class_name": "Capybara::Selenium::DeprecationSuppressor",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selenium/DeprecationSuppressor",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Selenium::Driver",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selenium/Driver",
+    "class_desc": 0,
+    "method_count": 37,
+    "method_desc": 118,
+    "total": 118
+  },
+  {
+    "class_name": "Capybara::Selenium::Driver::ChromeDriver",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selenium/Driver/ChromeDriver",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Selenium::Driver::EdgeDriver",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selenium/Driver/EdgeDriver",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Selenium::Driver::FirefoxDriver",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selenium/Driver/FirefoxDriver",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Selenium::Driver::InternetExplorerDriver",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selenium/Driver/InternetExplorerDriver",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Selenium::Driver::SafariDriver",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selenium/Driver/SafariDriver",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Selenium::Driver::W3CFirefoxDriver",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selenium/Driver/W3CFirefoxDriver",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Selenium::EdgeNode",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selenium/EdgeNode",
+    "class_desc": 0,
+    "method_count": 7,
+    "method_desc": 41,
+    "total": 41
+  },
+  {
+    "class_name": "Capybara::Selenium::ErrorSuppressor",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selenium/ErrorSuppressor",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Selenium::Find",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selenium/Find",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Selenium::FirefoxNode",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selenium/FirefoxNode",
+    "class_desc": 0,
+    "method_count": 8,
+    "method_desc": 41,
+    "total": 41
+  },
+  {
+    "class_name": "Capybara::Selenium::IENode",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selenium/IENode",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Selenium::IsDisplayed",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selenium/IsDisplayed",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Selenium::Node",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selenium/Node",
+    "class_desc": 0,
+    "method_count": 27,
+    "method_desc": 53,
+    "total": 53
+  },
+  {
+    "class_name": "Capybara::Selenium::Node::ClickOptions",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selenium/Node/ClickOptions",
+    "class_desc": 44,
+    "method_count": 7,
+    "method_desc": 73,
+    "total": 117
+  },
+  {
+    "class_name": "Capybara::Selenium::Node::FileInputClickEmulation",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selenium/Node/FileInputClickEmulation",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Selenium::Node::Html5Drag",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selenium/Node/Html5Drag",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 48,
+    "total": 48
+  },
+  {
+    "class_name": "Capybara::Selenium::Node::ModifierKeysStack",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selenium/Node/ModifierKeysStack",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Selenium::Node::SettableValue",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selenium/Node/SettableValue",
+    "class_desc": 53,
+    "method_count": 8,
+    "method_desc": 36,
+    "total": 89
+  },
+  {
+    "class_name": "Capybara::Selenium::PersistentClient",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selenium/PersistentClient",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Selenium::SafariNode",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selenium/SafariNode",
+    "class_desc": 0,
+    "method_count": 9,
+    "method_desc": 58,
+    "total": 58
+  },
+  {
+    "class_name": "Capybara::Selenium::Scroll",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Selenium/Scroll",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Server",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Server",
+    "class_desc": 0,
+    "method_count": 12,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Server::AnimationDisabler",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Server/AnimationDisabler",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Server::Checker",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Server/Checker",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Server::Middleware",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Server/Middleware",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Server::Middleware::Counter",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Server/Middleware/Counter",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Session",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Session",
+    "class_desc": 1324,
+    "method_count": 56,
+    "method_desc": 9523,
+    "total": 10847
+  },
+  {
+    "class_name": "Capybara::SessionConfig",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/SessionConfig",
+    "class_desc": 0,
+    "method_count": 29,
+    "method_desc": 770,
+    "total": 770
+  },
+  {
+    "class_name": "Capybara::SessionMatchers",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/SessionMatchers",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 1004,
+    "total": 1004
+  },
+  {
+    "class_name": "Capybara::SpecHelper",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/SpecHelper",
+    "class_desc": 0,
+    "method_count": 11,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::UnselectNotAllowed",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/UnselectNotAllowed",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Capybara::Window",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/Window",
+    "class_desc": 712,
+    "method_count": 15,
+    "method_desc": 1380,
+    "total": 2092
+  },
+  {
+    "class_name": "Capybara::WindowError",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Capybara/WindowError",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "CapybaraAtoms",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/CapybaraAtoms",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "NodeWrapper",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/NodeWrapper",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "PauseDurationFix",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/PauseDurationFix",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Puma",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Puma",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Puma::MiniSSL",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Puma/MiniSSL",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Puma::MiniSSL::Socket",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/Puma/MiniSSL/Socket",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "RSpec::Matchers",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/RSpec/Matchers",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "TestApp",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/TestApp",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 80,
+    "total": 80
+  },
+  {
+    "class_name": "TestApp::TestAppError",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/TestApp/TestAppError",
+    "class_desc": 37,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 37
+  },
+  {
+    "class_name": "TestApp::TestAppOtherError",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/TestApp/TestAppOtherError",
+    "class_desc": 37,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 37
+  },
+  {
+    "class_name": "XPath",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/XPath",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "XPath::DSL",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/XPath/DSL",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "XPath::Renderer",
+    "url": "https://rubydoc.info/gems/capybara/3.29.0/XPath/Renderer",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  }
+]

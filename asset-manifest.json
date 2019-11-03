@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/rubygems-class-table/static/css/main.42d05314.chunk.css",
+    "main.js": "/rubygems-class-table/static/js/main.ce860a26.chunk.js",
+    "main.js.map": "/rubygems-class-table/static/js/main.ce860a26.chunk.js.map",
+    "runtime-main.js": "/rubygems-class-table/static/js/runtime-main.6f655d34.js",
+    "runtime-main.js.map": "/rubygems-class-table/static/js/runtime-main.6f655d34.js.map",
+    "static/css/2.0624914a.chunk.css": "/rubygems-class-table/static/css/2.0624914a.chunk.css",
+    "static/js/2.f6f4cab5.chunk.js": "/rubygems-class-table/static/js/2.f6f4cab5.chunk.js",
+    "static/js/2.f6f4cab5.chunk.js.map": "/rubygems-class-table/static/js/2.f6f4cab5.chunk.js.map",
+    "index.html": "/rubygems-class-table/index.html",
+    "precache-manifest.2733076e93ae3aaa604db5ce4d882209.js": "/rubygems-class-table/precache-manifest.2733076e93ae3aaa604db5ce4d882209.js",
+    "service-worker.js": "/rubygems-class-table/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/rubygems-class-table/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.42d05314.chunk.css.map": "/rubygems-class-table/static/css/main.42d05314.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f655d34.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.f6f4cab5.chunk.js",
+    "static/css/main.42d05314.chunk.css",
+    "static/js/main.ce860a26.chunk.js"
+  ]
+}
