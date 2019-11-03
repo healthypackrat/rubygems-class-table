@@ -22,6 +22,7 @@ const initialState = {
   },
   bySlug: {},
   filteredEntries: [],
+  currentSlug: null
 };
 
 const filterEntries = state => {
