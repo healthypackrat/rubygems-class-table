@@ -6,10 +6,11 @@ import { routerMiddleware } from 'connected-react-router';
 import createRootReducer from './reducers';
 import loadStateFromLocation from './middleware/loadStateFromLocation';
 import updateLocation from './middleware/updateLocation';
+import updateTitle from './middleware/updateTitle';
 
 export const history = createHashHistory();
 
-const middleware = [thunk, routerMiddleware(history), loadStateFromLocation, updateLocation];
+const middleware = [thunk, routerMiddleware(history), loadStateFromLocation, updateLocation, updateTitle];
 
 export default function configureStore(preloadedState) {
   return createStore(
