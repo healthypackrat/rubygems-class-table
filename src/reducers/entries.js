@@ -45,8 +45,10 @@ const filterEntries = state => {
     }
     return 0;
   }).map((entry, index) => {
-    entry.index = index + 1;
-    return entry;
+    return {
+      ...entry,
+      index: index + 1
+    };
   });
 };
 
