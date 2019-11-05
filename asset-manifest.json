@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rubygems-class-table/static/css/main.42d05314.chunk.css",
-    "main.js": "/rubygems-class-table/static/js/main.f2fef46d.chunk.js",
-    "main.js.map": "/rubygems-class-table/static/js/main.f2fef46d.chunk.js.map",
+    "main.js": "/rubygems-class-table/static/js/main.250ce27e.chunk.js",
+    "main.js.map": "/rubygems-class-table/static/js/main.250ce27e.chunk.js.map",
     "runtime-main.js": "/rubygems-class-table/static/js/runtime-main.6f655d34.js",
     "runtime-main.js.map": "/rubygems-class-table/static/js/runtime-main.6f655d34.js.map",
     "static/css/2.0624914a.chunk.css": "/rubygems-class-table/static/css/2.0624914a.chunk.css",
     "static/js/2.a0718d6b.chunk.js": "/rubygems-class-table/static/js/2.a0718d6b.chunk.js",
     "static/js/2.a0718d6b.chunk.js.map": "/rubygems-class-table/static/js/2.a0718d6b.chunk.js.map",
     "index.html": "/rubygems-class-table/index.html",
-    "precache-manifest.92105ad39e235e41ff31bc2b57867dc7.js": "/rubygems-class-table/precache-manifest.92105ad39e235e41ff31bc2b57867dc7.js",
+    "precache-manifest.f2492eb4af3dcaad86496665ae4da361.js": "/rubygems-class-table/precache-manifest.f2492eb4af3dcaad86496665ae4da361.js",
     "service-worker.js": "/rubygems-class-table/service-worker.js",
     "static/css/2.0624914a.chunk.css.map": "/rubygems-class-table/static/css/2.0624914a.chunk.css.map",
     "static/css/main.42d05314.chunk.css.map": "/rubygems-class-table/static/css/main.42d05314.chunk.css.map"
@@ -19,6 +19,6 @@
     "static/css/2.0624914a.chunk.css",
     "static/js/2.a0718d6b.chunk.js",
     "static/css/main.42d05314.chunk.css",
-    "static/js/main.f2fef46d.chunk.js"
+    "static/js/main.250ce27e.chunk.js"
   ]
 }
