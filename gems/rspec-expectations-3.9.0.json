@@ -1,0 +1,794 @@
+[
+  {
+    "class_name": "BasicObject",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/BasicObject",
+    "class_desc": 283,
+    "method_count": 2,
+    "method_desc": 127,
+    "total": 410
+  },
+  {
+    "class_name": "RSpec",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec",
+    "class_desc": 130,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 130
+  },
+  {
+    "class_name": "RSpec::Expectations",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Expectations",
+    "class_desc": 1746,
+    "method_count": 3,
+    "method_desc": 174,
+    "total": 1920
+  },
+  {
+    "class_name": "RSpec::Expectations::BlockExpectationTarget",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Expectations/BlockExpectationTarget",
+    "class_desc": 223,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 223
+  },
+  {
+    "class_name": "RSpec::Expectations::BlockSnippetExtractor",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Expectations/BlockSnippetExtractor",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 382,
+    "total": 382
+  },
+  {
+    "class_name": "RSpec::Expectations::BlockSnippetExtractor::BlockLocator",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Expectations/BlockSnippetExtractor/BlockLocator",
+    "class_desc": 80,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 80
+  },
+  {
+    "class_name": "RSpec::Expectations::BlockSnippetExtractor::BlockTokenExtractor",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Expectations/BlockSnippetExtractor/BlockTokenExtractor",
+    "class_desc": 99,
+    "method_count": 3,
+    "method_desc": 78,
+    "total": 177
+  },
+  {
+    "class_name": "RSpec::Expectations::Configuration",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Expectations/Configuration",
+    "class_desc": 235,
+    "method_count": 17,
+    "method_desc": 2257,
+    "total": 2492
+  },
+  {
+    "class_name": "RSpec::Expectations::Differ",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Expectations/Differ",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "RSpec::Expectations::ExpectationHelper",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Expectations/ExpectationHelper",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 89,
+    "total": 89
+  },
+  {
+    "class_name": "RSpec::Expectations::ExpectationNotMetError",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Expectations/ExpectationNotMetError",
+    "class_desc": 127,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 127
+  },
+  {
+    "class_name": "RSpec::Expectations::ExpectationTarget",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Expectations/ExpectationTarget",
+    "class_desc": 35,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 35
+  },
+  {
+    "class_name": "RSpec::Expectations::ExpectationTarget::InstanceMethods",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Expectations/ExpectationTarget/InstanceMethods",
+    "class_desc": 230,
+    "method_count": 3,
+    "method_desc": 188,
+    "total": 418
+  },
+  {
+    "class_name": "RSpec::Expectations::FailureAggregator",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Expectations/FailureAggregator",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 189,
+    "total": 189
+  },
+  {
+    "class_name": "RSpec::Expectations::LegacyMatcherAdapter",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Expectations/LegacyMatcherAdapter",
+    "class_desc": 101,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 101
+  },
+  {
+    "class_name": "RSpec::Expectations::LegacyMatcherAdapter::RSpec1",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Expectations/LegacyMatcherAdapter/RSpec1",
+    "class_desc": 104,
+    "method_count": 3,
+    "method_desc": 147,
+    "total": 251
+  },
+  {
+    "class_name": "RSpec::Expectations::LegacyMatcherAdapter::RSpec2",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Expectations/LegacyMatcherAdapter/RSpec2",
+    "class_desc": 168,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 168
+  },
+  {
+    "class_name": "RSpec::Expectations::MultipleExpectationsNotMetError",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Expectations/MultipleExpectationsNotMetError",
+    "class_desc": 75,
+    "method_count": 8,
+    "method_desc": 58,
+    "total": 133
+  },
+  {
+    "class_name": "RSpec::Expectations::NegativeExpectationHandler",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Expectations/NegativeExpectationHandler",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "RSpec::Expectations::PositiveExpectationHandler",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Expectations/PositiveExpectationHandler",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "RSpec::Expectations::Syntax",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Expectations/Syntax",
+    "class_desc": 98,
+    "method_count": 9,
+    "method_desc": 511,
+    "total": 609
+  },
+  {
+    "class_name": "RSpec::Expectations::Version",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Expectations/Version",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "RSpec::Matchers",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers",
+    "class_desc": 7815,
+    "method_count": 108,
+    "method_desc": 21446,
+    "total": 29261
+  },
+  {
+    "class_name": "RSpec::Matchers::AliasedMatcher",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/AliasedMatcher",
+    "class_desc": 356,
+    "method_count": 5,
+    "method_desc": 993,
+    "total": 1349
+  },
+  {
+    "class_name": "RSpec::Matchers::AliasedMatcherWithOperatorSupport",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/AliasedMatcherWithOperatorSupport",
+    "class_desc": 95,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 95
+  },
+  {
+    "class_name": "RSpec::Matchers::AliasedNegatedMatcher",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/AliasedNegatedMatcher",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn",
+    "class_desc": 381,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 381
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::All",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/All",
+    "class_desc": 80,
+    "method_count": 6,
+    "method_desc": 0,
+    "total": 80
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::BaseMatcher",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/BaseMatcher",
+    "class_desc": 328,
+    "method_count": 15,
+    "method_desc": 689,
+    "total": 1017
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::BaseMatcher::DefaultFailureMessages",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/BaseMatcher/DefaultFailureMessages",
+    "class_desc": 81,
+    "method_count": 3,
+    "method_desc": 369,
+    "total": 450
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::BaseMatcher::HashFormatting",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/BaseMatcher/HashFormatting",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 181,
+    "total": 181
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::Be",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/Be",
+    "class_desc": 79,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 79
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::BeAKindOf",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/BeAKindOf",
+    "class_desc": 89,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 89
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::BeAnInstanceOf",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/BeAnInstanceOf",
+    "class_desc": 94,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 94
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::BeBetween",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/BeBetween",
+    "class_desc": 87,
+    "method_count": 6,
+    "method_desc": 78,
+    "total": 165
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::BeComparedTo",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/BeComparedTo",
+    "class_desc": 95,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 95
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::BeFalsey",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/BeFalsey",
+    "class_desc": 86,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 86
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::BeHelpers",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/BeHelpers",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::BeNil",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/BeNil",
+    "class_desc": 83,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 83
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::BePredicate",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/BePredicate",
+    "class_desc": 90,
+    "method_count": 6,
+    "method_desc": 0,
+    "total": 90
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::BeTruthy",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/BeTruthy",
+    "class_desc": 86,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 86
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::BeWithin",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/BeWithin",
+    "class_desc": 86,
+    "method_count": 7,
+    "method_desc": 95,
+    "total": 181
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::CaptureStderr",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/CaptureStderr",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::CaptureStdout",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/CaptureStdout",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::CaptureStreamToTempfile",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/CaptureStreamToTempfile",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 120,
+    "total": 120
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::Change",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/Change",
+    "class_desc": 83,
+    "method_count": 11,
+    "method_desc": 205,
+    "total": 288
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::ChangeDetails",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/ChangeDetails",
+    "class_desc": 806,
+    "method_count": 6,
+    "method_desc": 43,
+    "total": 849
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::ChangeFromValue",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/ChangeFromValue",
+    "class_desc": 86,
+    "method_count": 4,
+    "method_desc": 35,
+    "total": 121
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::ChangeRelatively",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/ChangeRelatively",
+    "class_desc": 34,
+    "method_count": 6,
+    "method_desc": 0,
+    "total": 34
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::ChangeToValue",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/ChangeToValue",
+    "class_desc": 86,
+    "method_count": 3,
+    "method_desc": 29,
+    "total": 115
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::Compound",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/Compound",
+    "class_desc": 48,
+    "method_count": 10,
+    "method_desc": 0,
+    "total": 48
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::Compound::And",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/Compound/And",
+    "class_desc": 55,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 55
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::Compound::NestedEvaluator",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/Compound/NestedEvaluator",
+    "class_desc": 370,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 370
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::Compound::Or",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/Compound/Or",
+    "class_desc": 54,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 54
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::Compound::SequentialEvaluator",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/Compound/SequentialEvaluator",
+    "class_desc": 66,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 66
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::ContainExactly",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/ContainExactly",
+    "class_desc": 138,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 138
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::ContainExactly::PairingsMaximizer",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/ContainExactly/PairingsMaximizer",
+    "class_desc": 1509,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 1509
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::ContainExactly::PairingsMaximizer::Solution",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/ContainExactly/PairingsMaximizer/Solution",
+    "class_desc": 0,
+    "method_count": 13,
+    "method_desc": 416,
+    "total": 416
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::Cover",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/Cover",
+    "class_desc": 82,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 82
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::EndWith",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/EndWith",
+    "class_desc": 85,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 85
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::Eq",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/Eq",
+    "class_desc": 79,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 79
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::Eql",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/Eql",
+    "class_desc": 80,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 80
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::Equal",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/Equal",
+    "class_desc": 82,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 82
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::Exist",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/Exist",
+    "class_desc": 82,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 82
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::Exist::ExistenceTest",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/Exist/ExistenceTest",
+    "class_desc": 83,
+    "method_count": 7,
+    "method_desc": 128,
+    "total": 211
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::Has",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/Has",
+    "class_desc": 92,
+    "method_count": 6,
+    "method_desc": 0,
+    "total": 92
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::HaveAttributes",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/HaveAttributes",
+    "class_desc": 92,
+    "method_count": 9,
+    "method_desc": 0,
+    "total": 92
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::Include",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/Include",
+    "class_desc": 84,
+    "method_count": 9,
+    "method_desc": 0,
+    "total": 84
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::Match",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/Match",
+    "class_desc": 82,
+    "method_count": 4,
+    "method_desc": 45,
+    "total": 127
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::NegativeOperatorMatcher",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/NegativeOperatorMatcher",
+    "class_desc": 42,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 42
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::NullCapture",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/NullCapture",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::OperatorMatcher",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/OperatorMatcher",
+    "class_desc": 130,
+    "method_count": 8,
+    "method_desc": 0,
+    "total": 130
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::Output",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/Output",
+    "class_desc": 83,
+    "method_count": 12,
+    "method_desc": 529,
+    "total": 612
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::PositiveOperatorMatcher",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/PositiveOperatorMatcher",
+    "class_desc": 38,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 38
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::RaiseError",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/RaiseError",
+    "class_desc": 148,
+    "method_count": 9,
+    "method_desc": 65,
+    "total": 213
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::ReliableMatchData",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/ReliableMatchData",
+    "class_desc": 54,
+    "method_count": 3,
+    "method_desc": 91,
+    "total": 145
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::RespondTo",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/RespondTo",
+    "class_desc": 87,
+    "method_count": 15,
+    "method_desc": 723,
+    "total": 810
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::Satisfy",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/Satisfy",
+    "class_desc": 84,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 84
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::SpecificValuesChange",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/SpecificValuesChange",
+    "class_desc": 66,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 66
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::StartOrEndWith",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/StartOrEndWith",
+    "class_desc": 98,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 98
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::StartWith",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/StartWith",
+    "class_desc": 87,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 87
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::ThrowSymbol",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/ThrowSymbol",
+    "class_desc": 89,
+    "method_count": 8,
+    "method_desc": 102,
+    "total": 191
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::YieldControl",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/YieldControl",
+    "class_desc": 90,
+    "method_count": 13,
+    "method_desc": 402,
+    "total": 492
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::YieldProbe",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/YieldProbe",
+    "class_desc": 146,
+    "method_count": 13,
+    "method_desc": 500,
+    "total": 646
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::YieldSuccessiveArgs",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/YieldSuccessiveArgs",
+    "class_desc": 98,
+    "method_count": 7,
+    "method_desc": 0,
+    "total": 98
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::YieldWithArgs",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/YieldWithArgs",
+    "class_desc": 92,
+    "method_count": 7,
+    "method_desc": 0,
+    "total": 92
+  },
+  {
+    "class_name": "RSpec::Matchers::BuiltIn::YieldWithNoArgs",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/BuiltIn/YieldWithNoArgs",
+    "class_desc": 95,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 95
+  },
+  {
+    "class_name": "RSpec::Matchers::Composable",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/Composable",
+    "class_desc": 160,
+    "method_count": 10,
+    "method_desc": 2208,
+    "total": 2368
+  },
+  {
+    "class_name": "RSpec::Matchers::Composable::DescribableItem",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/Composable/DescribableItem",
+    "class_desc": 66,
+    "method_count": 2,
+    "method_desc": 92,
+    "total": 158
+  },
+  {
+    "class_name": "RSpec::Matchers::DSL",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/DSL",
+    "class_desc": 31,
+    "method_count": 4,
+    "method_desc": 504,
+    "total": 535
+  },
+  {
+    "class_name": "RSpec::Matchers::DSL::DefaultImplementations",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/DSL/DefaultImplementations",
+    "class_desc": 217,
+    "method_count": 4,
+    "method_desc": 204,
+    "total": 421
+  },
+  {
+    "class_name": "RSpec::Matchers::DSL::Macros",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/DSL/Macros",
+    "class_desc": 114,
+    "method_count": 9,
+    "method_desc": 2663,
+    "total": 2777
+  },
+  {
+    "class_name": "RSpec::Matchers::DSL::Macros::Deprecated",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/DSL/Macros/Deprecated",
+    "class_desc": 74,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 74
+  },
+  {
+    "class_name": "RSpec::Matchers::DSL::Matcher",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/DSL/Matcher",
+    "class_desc": 227,
+    "method_count": 10,
+    "method_desc": 984,
+    "total": 1211
+  },
+  {
+    "class_name": "RSpec::Matchers::EnglishPhrasing",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/EnglishPhrasing",
+    "class_desc": 55,
+    "method_count": 3,
+    "method_desc": 726,
+    "total": 781
+  },
+  {
+    "class_name": "RSpec::Matchers::ExpectedsForMultipleDiffs",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/ExpectedsForMultipleDiffs",
+    "class_desc": 105,
+    "method_count": 4,
+    "method_desc": 319,
+    "total": 424
+  },
+  {
+    "class_name": "RSpec::Matchers::FailMatchers",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/FailMatchers",
+    "class_desc": 190,
+    "method_count": 3,
+    "method_desc": 150,
+    "total": 340
+  },
+  {
+    "class_name": "RSpec::Matchers::MatcherDelegator",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/MatcherDelegator",
+    "class_desc": 67,
+    "method_count": 6,
+    "method_desc": 50,
+    "total": 117
+  },
+  {
+    "class_name": "RSpec::Matchers::MatcherProtocol",
+    "url": "https://rubydoc.info/gems/rspec-expectations/3.9.0/RSpec/Matchers/MatcherProtocol",
+    "class_desc": 82,
+    "method_count": 10,
+    "method_desc": 1579,
+    "total": 1661
+  }
+]
