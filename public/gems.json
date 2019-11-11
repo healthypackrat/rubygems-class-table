@@ -3,6 +3,7 @@
   "capybara-3.29.0.json",
   "devise-4.7.1.json",
   "mechanize-2.7.6.json",
+  "nokogiri-1.10.5.json",
   "rspec-core-3.9.0.json",
   "rspec-expectations-3.9.0.json",
   "rspec-mocks-3.9.0.json",
