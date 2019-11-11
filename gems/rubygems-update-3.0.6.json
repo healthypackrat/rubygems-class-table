@@ -1,0 +1,2034 @@
+[
+  {
+    "class_name": "Gem",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem",
+    "class_desc": 311,
+    "method_count": 106,
+    "method_desc": 12489,
+    "total": 12800
+  },
+  {
+    "class_name": "Gem::AvailableSet",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/AvailableSet",
+    "class_desc": 0,
+    "method_count": 20,
+    "method_desc": 511,
+    "total": 511
+  },
+  {
+    "class_name": "Gem::AvailableSet::Tuple",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/AvailableSet/Tuple",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 120,
+    "total": 120
+  },
+  {
+    "class_name": "Gem::BasicSpecification",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/BasicSpecification",
+    "class_desc": 123,
+    "method_count": 34,
+    "method_desc": 2260,
+    "total": 2383
+  },
+  {
+    "class_name": "Gem::BundlerVersionFinder",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/BundlerVersionFinder",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Gem::Command",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Command",
+    "class_desc": 277,
+    "method_count": 39,
+    "method_desc": 3625,
+    "total": 3902
+  },
+  {
+    "class_name": "Gem::CommandLineError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/CommandLineError",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Gem::CommandManager",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/CommandManager",
+    "class_desc": 645,
+    "method_count": 13,
+    "method_desc": 481,
+    "total": 1126
+  },
+  {
+    "class_name": "Gem::Commands",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands",
+    "class_desc": 42,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 42
+  },
+  {
+    "class_name": "Gem::Commands::BuildCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/BuildCommand",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 21,
+    "total": 21
+  },
+  {
+    "class_name": "Gem::Commands::CertCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/CertCommand",
+    "class_desc": 0,
+    "method_count": 16,
+    "method_desc": 56,
+    "total": 56
+  },
+  {
+    "class_name": "Gem::Commands::CheckCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/CheckCommand",
+    "class_desc": 0,
+    "method_count": 8,
+    "method_desc": 28,
+    "total": 28
+  },
+  {
+    "class_name": "Gem::Commands::CleanupCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/CleanupCommand",
+    "class_desc": 0,
+    "method_count": 11,
+    "method_desc": 28,
+    "total": 28
+  },
+  {
+    "class_name": "Gem::Commands::ContentsCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/ContentsCommand",
+    "class_desc": 0,
+    "method_count": 16,
+    "method_desc": 49,
+    "total": 49
+  },
+  {
+    "class_name": "Gem::Commands::DependencyCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/DependencyCommand",
+    "class_desc": 0,
+    "method_count": 17,
+    "method_desc": 168,
+    "total": 168
+  },
+  {
+    "class_name": "Gem::Commands::EnvironmentCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/EnvironmentCommand",
+    "class_desc": 0,
+    "method_count": 7,
+    "method_desc": 28,
+    "total": 28
+  },
+  {
+    "class_name": "Gem::Commands::FetchCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/FetchCommand",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 28,
+    "total": 28
+  },
+  {
+    "class_name": "Gem::Commands::GenerateIndexCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/GenerateIndexCommand",
+    "class_desc": 79,
+    "method_count": 4,
+    "method_desc": 14,
+    "total": 93
+  },
+  {
+    "class_name": "Gem::Commands::HelpCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/HelpCommand",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 31,
+    "total": 31
+  },
+  {
+    "class_name": "Gem::Commands::InfoCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/InfoCommand",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 21,
+    "total": 21
+  },
+  {
+    "class_name": "Gem::Commands::InstallCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/InstallCommand",
+    "class_desc": 55,
+    "method_count": 16,
+    "method_desc": 115,
+    "total": 170
+  },
+  {
+    "class_name": "Gem::Commands::ListCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/ListCommand",
+    "class_desc": 103,
+    "method_count": 5,
+    "method_desc": 28,
+    "total": 131
+  },
+  {
+    "class_name": "Gem::Commands::LockCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/LockCommand",
+    "class_desc": 0,
+    "method_count": 8,
+    "method_desc": 28,
+    "total": 28
+  },
+  {
+    "class_name": "Gem::Commands::MirrorCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/MirrorCommand",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 7,
+    "total": 7
+  },
+  {
+    "class_name": "Gem::Commands::OpenCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/OpenCommand",
+    "class_desc": 0,
+    "method_count": 10,
+    "method_desc": 28,
+    "total": 28
+  },
+  {
+    "class_name": "Gem::Commands::OutdatedCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/OutdatedCommand",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 7,
+    "total": 7
+  },
+  {
+    "class_name": "Gem::Commands::OwnerCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/OwnerCommand",
+    "class_desc": 0,
+    "method_count": 9,
+    "method_desc": 21,
+    "total": 21
+  },
+  {
+    "class_name": "Gem::Commands::PristineCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/PristineCommand",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 28,
+    "total": 28
+  },
+  {
+    "class_name": "Gem::Commands::PushCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/PushCommand",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 21,
+    "total": 21
+  },
+  {
+    "class_name": "Gem::Commands::QueryCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/QueryCommand",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 14,
+    "total": 14
+  },
+  {
+    "class_name": "Gem::Commands::RdocCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/RdocCommand",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 28,
+    "total": 28
+  },
+  {
+    "class_name": "Gem::Commands::SearchCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/SearchCommand",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 28,
+    "total": 28
+  },
+  {
+    "class_name": "Gem::Commands::ServerCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/ServerCommand",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 14,
+    "total": 14
+  },
+  {
+    "class_name": "Gem::Commands::SetupCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/SetupCommand",
+    "class_desc": 105,
+    "method_count": 22,
+    "method_desc": 86,
+    "total": 191
+  },
+  {
+    "class_name": "Gem::Commands::SetupCommand::MakeDirs",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/SetupCommand/MakeDirs",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Gem::Commands::SigninCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/SigninCommand",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 14,
+    "total": 14
+  },
+  {
+    "class_name": "Gem::Commands::SignoutCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/SignoutCommand",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 14,
+    "total": 14
+  },
+  {
+    "class_name": "Gem::Commands::SourcesCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/SourcesCommand",
+    "class_desc": 0,
+    "method_count": 12,
+    "method_desc": 70,
+    "total": 70
+  },
+  {
+    "class_name": "Gem::Commands::SpecificationCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/SpecificationCommand",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 28,
+    "total": 28
+  },
+  {
+    "class_name": "Gem::Commands::StaleCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/StaleCommand",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 14,
+    "total": 14
+  },
+  {
+    "class_name": "Gem::Commands::UninstallCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/UninstallCommand",
+    "class_desc": 59,
+    "method_count": 11,
+    "method_desc": 35,
+    "total": 94
+  },
+  {
+    "class_name": "Gem::Commands::UnpackCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/UnpackCommand",
+    "class_desc": 0,
+    "method_count": 9,
+    "method_desc": 1003,
+    "total": 1003
+  },
+  {
+    "class_name": "Gem::Commands::UpdateCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/UpdateCommand",
+    "class_desc": 0,
+    "method_count": 20,
+    "method_desc": 138,
+    "total": 138
+  },
+  {
+    "class_name": "Gem::Commands::WhichCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/WhichCommand",
+    "class_desc": 0,
+    "method_count": 7,
+    "method_desc": 28,
+    "total": 28
+  },
+  {
+    "class_name": "Gem::Commands::YankCommand",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Commands/YankCommand",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 21,
+    "total": 21
+  },
+  {
+    "class_name": "Gem::ConfigFile",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/ConfigFile",
+    "class_desc": 830,
+    "method_count": 44,
+    "method_desc": 3053,
+    "total": 3883
+  },
+  {
+    "class_name": "Gem::ConflictError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/ConflictError",
+    "class_desc": 50,
+    "method_count": 3,
+    "method_desc": 125,
+    "total": 175
+  },
+  {
+    "class_name": "Gem::ConsoleUI",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/ConsoleUI",
+    "class_desc": 92,
+    "method_count": 1,
+    "method_desc": 126,
+    "total": 218
+  },
+  {
+    "class_name": "Gem::DefaultUserInteraction",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/DefaultUserInteraction",
+    "class_desc": 146,
+    "method_count": 6,
+    "method_desc": 288,
+    "total": 434
+  },
+  {
+    "class_name": "Gem::Dependency",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Dependency",
+    "class_desc": 0,
+    "method_count": 25,
+    "method_desc": 1693,
+    "total": 1693
+  },
+  {
+    "class_name": "Gem::DependencyError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/DependencyError",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Gem::DependencyInstaller",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/DependencyInstaller",
+    "class_desc": 74,
+    "method_count": 15,
+    "method_desc": 2292,
+    "total": 2366
+  },
+  {
+    "class_name": "Gem::DependencyList",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/DependencyList",
+    "class_desc": 319,
+    "method_count": 19,
+    "method_desc": 1526,
+    "total": 1845
+  },
+  {
+    "class_name": "Gem::DependencyRemovalException",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/DependencyRemovalException",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Gem::DependencyResolutionError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/DependencyResolutionError",
+    "class_desc": 174,
+    "method_count": 3,
+    "method_desc": 39,
+    "total": 213
+  },
+  {
+    "class_name": "Gem::Deprecate",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Deprecate",
+    "class_desc": 404,
+    "method_count": 4,
+    "method_desc": 298,
+    "total": 702
+  },
+  {
+    "class_name": "Gem::Doctor",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Doctor",
+    "class_desc": 267,
+    "method_count": 6,
+    "method_desc": 396,
+    "total": 663
+  },
+  {
+    "class_name": "Gem::DocumentError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/DocumentError",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Gem::EndOfYAMLException",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/EndOfYAMLException",
+    "class_desc": 53,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 53
+  },
+  {
+    "class_name": "Gem::ErrorReason",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/ErrorReason",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Gem::Exception",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Exception",
+    "class_desc": 96,
+    "method_count": 2,
+    "method_desc": 94,
+    "total": 190
+  },
+  {
+    "class_name": "Gem::Ext",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Ext",
+    "class_desc": 44,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 44
+  },
+  {
+    "class_name": "Gem::Ext::BuildError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Ext/BuildError",
+    "class_desc": 56,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 56
+  },
+  {
+    "class_name": "Gem::Ext::Builder",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Ext/Builder",
+    "class_desc": 0,
+    "method_count": 12,
+    "method_desc": 478,
+    "total": 478
+  },
+  {
+    "class_name": "Gem::Ext::CmakeBuilder",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Ext/CmakeBuilder",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Gem::Ext::ConfigureBuilder",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Ext/ConfigureBuilder",
+    "class_desc": 127,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 127
+  },
+  {
+    "class_name": "Gem::Ext::ExtConfBuilder",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Ext/ExtConfBuilder",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Gem::Ext::RakeBuilder",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Ext/RakeBuilder",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Gem::FakeFetcher",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/FakeFetcher",
+    "class_desc": 478,
+    "method_count": 14,
+    "method_desc": 161,
+    "total": 639
+  },
+  {
+    "class_name": "Gem::FilePermissionError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/FilePermissionError",
+    "class_desc": 98,
+    "method_count": 2,
+    "method_desc": 40,
+    "total": 138
+  },
+  {
+    "class_name": "Gem::FormatException",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/FormatException",
+    "class_desc": 40,
+    "method_count": 2,
+    "method_desc": 68,
+    "total": 108
+  },
+  {
+    "class_name": "Gem::GemNotFoundException",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/GemNotFoundException",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Gem::GemNotInHomeException",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/GemNotInHomeException",
+    "class_desc": 65,
+    "method_count": 2,
+    "method_desc": 58,
+    "total": 123
+  },
+  {
+    "class_name": "Gem::GemRunner",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/GemRunner",
+    "class_desc": 282,
+    "method_count": 3,
+    "method_desc": 150,
+    "total": 432
+  },
+  {
+    "class_name": "Gem::GemcutterUtilities",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/GemcutterUtilities",
+    "class_desc": 43,
+    "method_count": 11,
+    "method_desc": 887,
+    "total": 930
+  },
+  {
+    "class_name": "Gem::ImpossibleDependenciesError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/ImpossibleDependenciesError",
+    "class_desc": 120,
+    "method_count": 5,
+    "method_desc": 85,
+    "total": 205
+  },
+  {
+    "class_name": "Gem::Indexer",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Indexer",
+    "class_desc": 54,
+    "method_count": 24,
+    "method_desc": 1185,
+    "total": 1239
+  },
+  {
+    "class_name": "Gem::InstallError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/InstallError",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Gem::InstallUpdateOptions",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/InstallUpdateOptions",
+    "class_desc": 62,
+    "method_count": 2,
+    "method_desc": 96,
+    "total": 158
+  },
+  {
+    "class_name": "Gem::Installer",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Installer",
+    "class_desc": 638,
+    "method_count": 63,
+    "method_desc": 6499,
+    "total": 7137
+  },
+  {
+    "class_name": "Gem::Installer::FakePackage",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Installer/FakePackage",
+    "class_desc": 0,
+    "method_count": 11,
+    "method_desc": 260,
+    "total": 260
+  },
+  {
+    "class_name": "Gem::InstallerTestCase",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/InstallerTestCase",
+    "class_desc": 31,
+    "method_count": 5,
+    "method_desc": 889,
+    "total": 920
+  },
+  {
+    "class_name": "Gem::InvalidSpecificationException",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/InvalidSpecificationException",
+    "class_desc": 53,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 53
+  },
+  {
+    "class_name": "Gem::Licenses",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Licenses",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Gem::List",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/List",
+    "class_desc": 0,
+    "method_count": 10,
+    "method_desc": 125,
+    "total": 125
+  },
+  {
+    "class_name": "Gem::LoadError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/LoadError",
+    "class_desc": 212,
+    "method_count": 4,
+    "method_desc": 74,
+    "total": 286
+  },
+  {
+    "class_name": "Gem::LocalRemoteOptions",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/LocalRemoteOptions",
+    "class_desc": 56,
+    "method_count": 10,
+    "method_desc": 339,
+    "total": 395
+  },
+  {
+    "class_name": "Gem::MissingSpecError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/MissingSpecError",
+    "class_desc": 208,
+    "method_count": 2,
+    "method_desc": 7,
+    "total": 215
+  },
+  {
+    "class_name": "Gem::MissingSpecVersionError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/MissingSpecVersionError",
+    "class_desc": 229,
+    "method_count": 2,
+    "method_desc": 36,
+    "total": 265
+  },
+  {
+    "class_name": "Gem::MockGemUi",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/MockGemUi",
+    "class_desc": 92,
+    "method_count": 7,
+    "method_desc": 0,
+    "total": 92
+  },
+  {
+    "class_name": "Gem::MockGemUi::InputEOFError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/MockGemUi/InputEOFError",
+    "class_desc": 63,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 63
+  },
+  {
+    "class_name": "Gem::MockGemUi::SystemExitException",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/MockGemUi/SystemExitException",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Gem::MockGemUi::TTY",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/MockGemUi/TTY",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 56,
+    "total": 56
+  },
+  {
+    "class_name": "Gem::MockGemUi::TermError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/MockGemUi/TermError",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 40,
+    "total": 40
+  },
+  {
+    "class_name": "Gem::NameTuple",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/NameTuple",
+    "class_desc": 0,
+    "method_count": 18,
+    "method_desc": 934,
+    "total": 934
+  },
+  {
+    "class_name": "Gem::NoAliasYAMLTree",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/NoAliasYAMLTree",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 37,
+    "total": 37
+  },
+  {
+    "class_name": "Gem::OperationNotSupportedError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/OperationNotSupportedError",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Gem::Package",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Package",
+    "class_desc": 0,
+    "method_count": 41,
+    "method_desc": 2875,
+    "total": 2875
+  },
+  {
+    "class_name": "Gem::Package::DigestIO",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Package/DigestIO",
+    "class_desc": 71,
+    "method_count": 4,
+    "method_desc": 769,
+    "total": 840
+  },
+  {
+    "class_name": "Gem::Package::Error",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Package/Error",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Gem::Package::FileSource",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Package/FileSource",
+    "class_desc": 195,
+    "method_count": 6,
+    "method_desc": 11,
+    "total": 206
+  },
+  {
+    "class_name": "Gem::Package::FormatError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Package/FormatError",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 35,
+    "total": 35
+  },
+  {
+    "class_name": "Gem::Package::IOSource",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Package/IOSource",
+    "class_desc": 255,
+    "method_count": 7,
+    "method_desc": 11,
+    "total": 266
+  },
+  {
+    "class_name": "Gem::Package::NonSeekableIO",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Package/NonSeekableIO",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Gem::Package::Old",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Package/Old",
+    "class_desc": 154,
+    "method_count": 8,
+    "method_desc": 478,
+    "total": 632
+  },
+  {
+    "class_name": "Gem::Package::PathError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Package/PathError",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Gem::Package::Source",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Package/Source",
+    "class_desc": 7,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 7
+  },
+  {
+    "class_name": "Gem::Package::TarHeader",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Package/TarHeader",
+    "class_desc": 723,
+    "method_count": 8,
+    "method_desc": 142,
+    "total": 865
+  },
+  {
+    "class_name": "Gem::Package::TarInvalidError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Package/TarInvalidError",
+    "class_desc": 33,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 33
+  },
+  {
+    "class_name": "Gem::Package::TarReader",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Package/TarReader",
+    "class_desc": 63,
+    "method_count": 7,
+    "method_desc": 478,
+    "total": 541
+  },
+  {
+    "class_name": "Gem::Package::TarReader::Entry",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Package/TarReader/Entry",
+    "class_desc": 43,
+    "method_count": 18,
+    "method_desc": 506,
+    "total": 549
+  },
+  {
+    "class_name": "Gem::Package::TarReader::UnexpectedEOF",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Package/TarReader/UnexpectedEOF",
+    "class_desc": 36,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 36
+  },
+  {
+    "class_name": "Gem::Package::TarTestCase",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Package/TarTestCase",
+    "class_desc": 42,
+    "method_count": 14,
+    "method_desc": 0,
+    "total": 42
+  },
+  {
+    "class_name": "Gem::Package::TarWriter",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Package/TarWriter",
+    "class_desc": 27,
+    "method_count": 13,
+    "method_desc": 1161,
+    "total": 1188
+  },
+  {
+    "class_name": "Gem::Package::TarWriter::BoundedStream",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Package/TarWriter/BoundedStream",
+    "class_desc": 55,
+    "method_count": 4,
+    "method_desc": 228,
+    "total": 283
+  },
+  {
+    "class_name": "Gem::Package::TarWriter::FileOverflow",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Package/TarWriter/FileOverflow",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Gem::Package::TarWriter::RestrictedStream",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Package/TarWriter/RestrictedStream",
+    "class_desc": 36,
+    "method_count": 2,
+    "method_desc": 69,
+    "total": 105
+  },
+  {
+    "class_name": "Gem::Package::TooLongFileName",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Package/TooLongFileName",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Gem::PackageTask",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/PackageTask",
+    "class_desc": 924,
+    "method_count": 5,
+    "method_desc": 744,
+    "total": 1668
+  },
+  {
+    "class_name": "Gem::PathSupport",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/PathSupport",
+    "class_desc": 100,
+    "method_count": 4,
+    "method_desc": 222,
+    "total": 322
+  },
+  {
+    "class_name": "Gem::Platform",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Platform",
+    "class_desc": 123,
+    "method_count": 19,
+    "method_desc": 859,
+    "total": 982
+  },
+  {
+    "class_name": "Gem::PlatformMismatch",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/PlatformMismatch",
+    "class_desc": 237,
+    "method_count": 6,
+    "method_desc": 363,
+    "total": 600
+  },
+  {
+    "class_name": "Gem::RemoteError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/RemoteError",
+    "class_desc": 298,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 298
+  },
+  {
+    "class_name": "Gem::RemoteFetcher",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/RemoteFetcher",
+    "class_desc": 9,
+    "method_count": 18,
+    "method_desc": 1538,
+    "total": 1547
+  },
+  {
+    "class_name": "Gem::RemoteFetcher::FetchError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/RemoteFetcher/FetchError",
+    "class_desc": 128,
+    "method_count": 4,
+    "method_desc": 129,
+    "total": 257
+  },
+  {
+    "class_name": "Gem::RemoteFetcher::UnknownHostError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/RemoteFetcher/UnknownHostError",
+    "class_desc": 117,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 117
+  },
+  {
+    "class_name": "Gem::RemoteInstallationCancelled",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/RemoteInstallationCancelled",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Gem::RemoteInstallationSkipped",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/RemoteInstallationSkipped",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Gem::RemoteSourceException",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/RemoteSourceException",
+    "class_desc": 43,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 43
+  },
+  {
+    "class_name": "Gem::Request",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Request",
+    "class_desc": 0,
+    "method_count": 15,
+    "method_desc": 274,
+    "total": 274
+  },
+  {
+    "class_name": "Gem::Request::ConnectionPools",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Request/ConnectionPools",
+    "class_desc": 7,
+    "method_count": 5,
+    "method_desc": 62,
+    "total": 69
+  },
+  {
+    "class_name": "Gem::Request::HTTPPool",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Request/HTTPPool",
+    "class_desc": 226,
+    "method_count": 6,
+    "method_desc": 81,
+    "total": 307
+  },
+  {
+    "class_name": "Gem::Request::HTTPSPool",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Request/HTTPSPool",
+    "class_desc": 7,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 7
+  },
+  {
+    "class_name": "Gem::RequestSet",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/RequestSet",
+    "class_desc": 328,
+    "method_count": 38,
+    "method_desc": 2259,
+    "total": 2587
+  },
+  {
+    "class_name": "Gem::RequestSet::GemDependencyAPI",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/RequestSet/GemDependencyAPI",
+    "class_desc": 1031,
+    "method_count": 21,
+    "method_desc": 7358,
+    "total": 8389
+  },
+  {
+    "class_name": "Gem::RequestSet::Lockfile",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/RequestSet/Lockfile",
+    "class_desc": 153,
+    "method_count": 13,
+    "method_desc": 239,
+    "total": 392
+  },
+  {
+    "class_name": "Gem::RequestSet::Lockfile::ParseError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/RequestSet/Lockfile/ParseError",
+    "class_desc": 39,
+    "method_count": 4,
+    "method_desc": 217,
+    "total": 256
+  },
+  {
+    "class_name": "Gem::RequestSet::Lockfile::Parser",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/RequestSet/Lockfile/Parser",
+    "class_desc": 0,
+    "method_count": 9,
+    "method_desc": 231,
+    "total": 231
+  },
+  {
+    "class_name": "Gem::RequestSet::Lockfile::Tokenizer",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/RequestSet/Lockfile/Tokenizer",
+    "class_desc": 0,
+    "method_count": 11,
+    "method_desc": 89,
+    "total": 89
+  },
+  {
+    "class_name": "Gem::RequestSet::Lockfile::Tokenizer::Token",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/RequestSet/Lockfile/Tokenizer/Token",
+    "class_desc": 0,
+    "method_count": 8,
+    "method_desc": 238,
+    "total": 238
+  },
+  {
+    "class_name": "Gem::Requirement",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Requirement",
+    "class_desc": 241,
+    "method_count": 26,
+    "method_desc": 1667,
+    "total": 1908
+  },
+  {
+    "class_name": "Gem::Requirement::BadRequirementError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Requirement/BadRequirementError",
+    "class_desc": 44,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 44
+  },
+  {
+    "class_name": "Gem::Resolver",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver",
+    "class_desc": 241,
+    "method_count": 30,
+    "method_desc": 1816,
+    "total": 2057
+  },
+  {
+    "class_name": "Gem::Resolver::APISet",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/APISet",
+    "class_desc": 100,
+    "method_count": 9,
+    "method_desc": 512,
+    "total": 612
+  },
+  {
+    "class_name": "Gem::Resolver::APISpecification",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/APISpecification",
+    "class_desc": 180,
+    "method_count": 7,
+    "method_desc": 268,
+    "total": 448
+  },
+  {
+    "class_name": "Gem::Resolver::ActivationRequest",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/ActivationRequest",
+    "class_desc": 130,
+    "method_count": 16,
+    "method_desc": 932,
+    "total": 1062
+  },
+  {
+    "class_name": "Gem::Resolver::BestSet",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/BestSet",
+    "class_desc": 103,
+    "method_count": 6,
+    "method_desc": 390,
+    "total": 493
+  },
+  {
+    "class_name": "Gem::Resolver::ComposedSet",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/ComposedSet",
+    "class_desc": 217,
+    "method_count": 7,
+    "method_desc": 311,
+    "total": 528
+  },
+  {
+    "class_name": "Gem::Resolver::Conflict",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/Conflict",
+    "class_desc": 93,
+    "method_count": 12,
+    "method_desc": 559,
+    "total": 652
+  },
+  {
+    "class_name": "Gem::Resolver::CurrentSet",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/CurrentSet",
+    "class_desc": 122,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 122
+  },
+  {
+    "class_name": "Gem::Resolver::DependencyRequest",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/DependencyRequest",
+    "class_desc": 93,
+    "method_count": 15,
+    "method_desc": 849,
+    "total": 942
+  },
+  {
+    "class_name": "Gem::Resolver::GitSet",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/GitSet",
+    "class_desc": 227,
+    "method_count": 11,
+    "method_desc": 850,
+    "total": 1077
+  },
+  {
+    "class_name": "Gem::Resolver::GitSpecification",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/GitSpecification",
+    "class_desc": 152,
+    "method_count": 4,
+    "method_desc": 111,
+    "total": 263
+  },
+  {
+    "class_name": "Gem::Resolver::IndexSet",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/IndexSet",
+    "class_desc": 70,
+    "method_count": 3,
+    "method_desc": 93,
+    "total": 163
+  },
+  {
+    "class_name": "Gem::Resolver::IndexSpecification",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/IndexSpecification",
+    "class_desc": 174,
+    "method_count": 5,
+    "method_desc": 383,
+    "total": 557
+  },
+  {
+    "class_name": "Gem::Resolver::InstalledSpecification",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/InstalledSpecification",
+    "class_desc": 77,
+    "method_count": 5,
+    "method_desc": 203,
+    "total": 280
+  },
+  {
+    "class_name": "Gem::Resolver::InstallerSet",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/InstallerSet",
+    "class_desc": 79,
+    "method_count": 20,
+    "method_desc": 1056,
+    "total": 1135
+  },
+  {
+    "class_name": "Gem::Resolver::LocalSpecification",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/LocalSpecification",
+    "class_desc": 68,
+    "method_count": 3,
+    "method_desc": 81,
+    "total": 149
+  },
+  {
+    "class_name": "Gem::Resolver::LockSet",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/LockSet",
+    "class_desc": 47,
+    "method_count": 6,
+    "method_desc": 434,
+    "total": 481
+  },
+  {
+    "class_name": "Gem::Resolver::LockSpecification",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/LockSpecification",
+    "class_desc": 151,
+    "method_count": 6,
+    "method_desc": 255,
+    "total": 406
+  },
+  {
+    "class_name": "Gem::Resolver::Molinillo",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/Molinillo",
+    "class_desc": 70,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 70
+  },
+  {
+    "class_name": "Gem::Resolver::Molinillo::CircularDependencyError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/Molinillo/CircularDependencyError",
+    "class_desc": 70,
+    "method_count": 2,
+    "method_desc": 121,
+    "total": 191
+  },
+  {
+    "class_name": "Gem::Resolver::Molinillo::Delegates",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/Molinillo/Delegates",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Gem::Resolver::Molinillo::Delegates::ResolutionState",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/Molinillo/Delegates/ResolutionState",
+    "class_desc": 89,
+    "method_count": 7,
+    "method_desc": 226,
+    "total": 315
+  },
+  {
+    "class_name": "Gem::Resolver::Molinillo::Delegates::SpecificationProvider",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/Molinillo/Delegates/SpecificationProvider",
+    "class_desc": 112,
+    "method_count": 8,
+    "method_desc": 821,
+    "total": 933
+  },
+  {
+    "class_name": "Gem::Resolver::Molinillo::DependencyGraph",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/Molinillo/DependencyGraph",
+    "class_desc": 65,
+    "method_count": 19,
+    "method_desc": 651,
+    "total": 716
+  },
+  {
+    "class_name": "Gem::Resolver::Molinillo::DependencyGraph::Action",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/Molinillo/DependencyGraph/Action",
+    "class_desc": 63,
+    "method_count": 7,
+    "method_desc": 78,
+    "total": 141
+  },
+  {
+    "class_name": "Gem::Resolver::Molinillo::DependencyGraph::AddEdgeNoCircular",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/Molinillo/DependencyGraph/AddEdgeNoCircular",
+    "class_desc": 42,
+    "method_count": 8,
+    "method_desc": 135,
+    "total": 177
+  },
+  {
+    "class_name": "Gem::Resolver::Molinillo::DependencyGraph::AddVertex",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/Molinillo/DependencyGraph/AddVertex",
+    "class_desc": 32,
+    "method_count": 7,
+    "method_desc": 136,
+    "total": 168
+  },
+  {
+    "class_name": "Gem::Resolver::Molinillo::DependencyGraph::DeleteEdge",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/Molinillo/DependencyGraph/DeleteEdge",
+    "class_desc": 33,
+    "method_count": 8,
+    "method_desc": 135,
+    "total": 168
+  },
+  {
+    "class_name": "Gem::Resolver::Molinillo::DependencyGraph::DetachVertexNamed",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/Molinillo/DependencyGraph/DetachVertexNamed",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 141,
+    "total": 141
+  },
+  {
+    "class_name": "Gem::Resolver::Molinillo::DependencyGraph::Edge",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/Molinillo/DependencyGraph/Edge",
+    "class_desc": 38,
+    "method_count": 6,
+    "method_desc": 222,
+    "total": 260
+  },
+  {
+    "class_name": "Gem::Resolver::Molinillo::DependencyGraph::Log",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/Molinillo/DependencyGraph/Log",
+    "class_desc": 34,
+    "method_count": 9,
+    "method_desc": 351,
+    "total": 385
+  },
+  {
+    "class_name": "Gem::Resolver::Molinillo::DependencyGraph::SetPayload",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/Molinillo/DependencyGraph/SetPayload",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 156,
+    "total": 156
+  },
+  {
+    "class_name": "Gem::Resolver::Molinillo::DependencyGraph::Tag",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/Molinillo/DependencyGraph/Tag",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 135,
+    "total": 135
+  },
+  {
+    "class_name": "Gem::Resolver::Molinillo::DependencyGraph::Vertex",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/Molinillo/DependencyGraph/Vertex",
+    "class_desc": 76,
+    "method_count": 27,
+    "method_desc": 369,
+    "total": 445
+  },
+  {
+    "class_name": "Gem::Resolver::Molinillo::DependencyState",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/Molinillo/DependencyState",
+    "class_desc": 83,
+    "method_count": 1,
+    "method_desc": 33,
+    "total": 116
+  },
+  {
+    "class_name": "Gem::Resolver::Molinillo::NoSuchDependencyError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/Molinillo/NoSuchDependencyError",
+    "class_desc": 116,
+    "method_count": 6,
+    "method_desc": 158,
+    "total": 274
+  },
+  {
+    "class_name": "Gem::Resolver::Molinillo::PossibilityState",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/Molinillo/PossibilityState",
+    "class_desc": 82,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 82
+  },
+  {
+    "class_name": "Gem::Resolver::Molinillo::ResolutionState",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/Molinillo/ResolutionState",
+    "class_desc": 37,
+    "method_count": 15,
+    "method_desc": 485,
+    "total": 522
+  },
+  {
+    "class_name": "Gem::Resolver::Molinillo::Resolver",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/Molinillo/Resolver",
+    "class_desc": 178,
+    "method_count": 4,
+    "method_desc": 140,
+    "total": 318
+  },
+  {
+    "class_name": "Gem::Resolver::Molinillo::Resolver::Resolution",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/Molinillo/Resolver/Resolution",
+    "class_desc": 45,
+    "method_count": 9,
+    "method_desc": 107,
+    "total": 152
+  },
+  {
+    "class_name": "Gem::Resolver::Molinillo::Resolver::Resolution::Conflict",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/Molinillo/Resolver/Resolution/Conflict",
+    "class_desc": 50,
+    "method_count": 14,
+    "method_desc": 722,
+    "total": 772
+  },
+  {
+    "class_name": "Gem::Resolver::Molinillo::ResolverError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/Molinillo/ResolverError",
+    "class_desc": 52,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 52
+  },
+  {
+    "class_name": "Gem::Resolver::Molinillo::SpecificationProvider",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/Molinillo/SpecificationProvider",
+    "class_desc": 303,
+    "method_count": 8,
+    "method_desc": 821,
+    "total": 1124
+  },
+  {
+    "class_name": "Gem::Resolver::Molinillo::UI",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/Molinillo/UI",
+    "class_desc": 59,
+    "method_count": 7,
+    "method_desc": 574,
+    "total": 633
+  },
+  {
+    "class_name": "Gem::Resolver::Molinillo::VersionConflict",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/Molinillo/VersionConflict",
+    "class_desc": 39,
+    "method_count": 2,
+    "method_desc": 57,
+    "total": 96
+  },
+  {
+    "class_name": "Gem::Resolver::RequirementList",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/RequirementList",
+    "class_desc": 181,
+    "method_count": 8,
+    "method_desc": 284,
+    "total": 465
+  },
+  {
+    "class_name": "Gem::Resolver::Set",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/Set",
+    "class_desc": 116,
+    "method_count": 10,
+    "method_desc": 820,
+    "total": 936
+  },
+  {
+    "class_name": "Gem::Resolver::SourceSet",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/SourceSet",
+    "class_desc": 128,
+    "method_count": 4,
+    "method_desc": 144,
+    "total": 272
+  },
+  {
+    "class_name": "Gem::Resolver::SpecSpecification",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/SpecSpecification",
+    "class_desc": 130,
+    "method_count": 6,
+    "method_desc": 435,
+    "total": 565
+  },
+  {
+    "class_name": "Gem::Resolver::Specification",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/Specification",
+    "class_desc": 184,
+    "method_count": 14,
+    "method_desc": 1053,
+    "total": 1237
+  },
+  {
+    "class_name": "Gem::Resolver::Stats",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/Stats",
+    "class_desc": 0,
+    "method_count": 7,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Gem::Resolver::VendorSet",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/VendorSet",
+    "class_desc": 355,
+    "method_count": 6,
+    "method_desc": 319,
+    "total": 674
+  },
+  {
+    "class_name": "Gem::Resolver::VendorSpecification",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Resolver/VendorSpecification",
+    "class_desc": 156,
+    "method_count": 2,
+    "method_desc": 95,
+    "total": 251
+  },
+  {
+    "class_name": "Gem::RubyVersionMismatch",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/RubyVersionMismatch",
+    "class_desc": 101,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 101
+  },
+  {
+    "class_name": "Gem::RuntimeRequirementNotMetError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/RuntimeRequirementNotMetError",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 70,
+    "total": 70
+  },
+  {
+    "class_name": "Gem::S3URISigner",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/S3URISigner",
+    "class_desc": 193,
+    "method_count": 4,
+    "method_desc": 192,
+    "total": 385
+  },
+  {
+    "class_name": "Gem::S3URISigner::ConfigurationError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/S3URISigner/ConfigurationError",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 7,
+    "total": 7
+  },
+  {
+    "class_name": "Gem::S3URISigner::InstanceProfileError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/S3URISigner/InstanceProfileError",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 7,
+    "total": 7
+  },
+  {
+    "class_name": "Gem::S3URISigner::S3Config",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/S3URISigner/S3Config",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Gem::SafeYAML",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/SafeYAML",
+    "class_desc": 224,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 224
+  },
+  {
+    "class_name": "Gem::Security",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Security",
+    "class_desc": 15,
+    "method_count": 12,
+    "method_desc": 1349,
+    "total": 1364
+  },
+  {
+    "class_name": "Gem::Security::Exception",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Security/Exception",
+    "class_desc": 36,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 36
+  },
+  {
+    "class_name": "Gem::Security::Policy",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Security/Policy",
+    "class_desc": 7,
+    "method_count": 25,
+    "method_desc": 1637,
+    "total": 1644
+  },
+  {
+    "class_name": "Gem::Security::Signer",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Security/Signer",
+    "class_desc": 0,
+    "method_count": 13,
+    "method_desc": 1482,
+    "total": 1482
+  },
+  {
+    "class_name": "Gem::Security::TrustDir",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Security/TrustDir",
+    "class_desc": 77,
+    "method_count": 9,
+    "method_desc": 647,
+    "total": 724
+  },
+  {
+    "class_name": "Gem::SecurityOption",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/SecurityOption",
+    "class_desc": 51,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 51
+  },
+  {
+    "class_name": "Gem::Server",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Server",
+    "class_desc": 681,
+    "method_count": 18,
+    "method_desc": 1751,
+    "total": 2432
+  },
+  {
+    "class_name": "Gem::SilentUI",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/SilentUI",
+    "class_desc": 50,
+    "method_count": 4,
+    "method_desc": 74,
+    "total": 124
+  },
+  {
+    "class_name": "Gem::Source",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Source",
+    "class_desc": 180,
+    "method_count": 13,
+    "method_desc": 798,
+    "total": 978
+  },
+  {
+    "class_name": "Gem::Source::Git",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Source/Git",
+    "class_desc": 161,
+    "method_count": 22,
+    "method_desc": 1272,
+    "total": 1433
+  },
+  {
+    "class_name": "Gem::Source::Installed",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Source/Installed",
+    "class_desc": 69,
+    "method_count": 4,
+    "method_desc": 103,
+    "total": 172
+  },
+  {
+    "class_name": "Gem::Source::Local",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Source/Local",
+    "class_desc": 81,
+    "method_count": 8,
+    "method_desc": 112,
+    "total": 193
+  },
+  {
+    "class_name": "Gem::Source::Lock",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Source/Lock",
+    "class_desc": 171,
+    "method_count": 7,
+    "method_desc": 187,
+    "total": 358
+  },
+  {
+    "class_name": "Gem::Source::SpecificFile",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Source/SpecificFile",
+    "class_desc": 87,
+    "method_count": 8,
+    "method_desc": 415,
+    "total": 502
+  },
+  {
+    "class_name": "Gem::Source::Vendor",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Source/Vendor",
+    "class_desc": 70,
+    "method_count": 2,
+    "method_desc": 66,
+    "total": 136
+  },
+  {
+    "class_name": "Gem::SourceFetchProblem",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/SourceFetchProblem",
+    "class_desc": 72,
+    "method_count": 5,
+    "method_desc": 309,
+    "total": 381
+  },
+  {
+    "class_name": "Gem::SourceList",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/SourceList",
+    "class_desc": 352,
+    "method_count": 16,
+    "method_desc": 729,
+    "total": 1081
+  },
+  {
+    "class_name": "Gem::SpecFetcher",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/SpecFetcher",
+    "class_desc": 66,
+    "method_count": 13,
+    "method_desc": 1256,
+    "total": 1322
+  },
+  {
+    "class_name": "Gem::SpecificGemNotFoundException",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/SpecificGemNotFoundException",
+    "class_desc": 69,
+    "method_count": 4,
+    "method_desc": 301,
+    "total": 370
+  },
+  {
+    "class_name": "Gem::Specification",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Specification",
+    "class_desc": 795,
+    "method_count": 197,
+    "method_desc": 23112,
+    "total": 23907
+  },
+  {
+    "class_name": "Gem::SpecificationPolicy",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/SpecificationPolicy",
+    "class_desc": 0,
+    "method_count": 7,
+    "method_desc": 517,
+    "total": 517
+  },
+  {
+    "class_name": "Gem::StreamUI",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/StreamUI",
+    "class_desc": 62,
+    "method_count": 21,
+    "method_desc": 1443,
+    "total": 1505
+  },
+  {
+    "class_name": "Gem::StreamUI::SilentDownloadReporter",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/StreamUI/SilentDownloadReporter",
+    "class_desc": 39,
+    "method_count": 4,
+    "method_desc": 293,
+    "total": 332
+  },
+  {
+    "class_name": "Gem::StreamUI::SilentProgressReporter",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/StreamUI/SilentProgressReporter",
+    "class_desc": 39,
+    "method_count": 4,
+    "method_desc": 297,
+    "total": 336
+  },
+  {
+    "class_name": "Gem::StreamUI::SimpleProgressReporter",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/StreamUI/SimpleProgressReporter",
+    "class_desc": 33,
+    "method_count": 4,
+    "method_desc": 300,
+    "total": 333
+  },
+  {
+    "class_name": "Gem::StreamUI::ThreadedDownloadReporter",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/StreamUI/ThreadedDownloadReporter",
+    "class_desc": 66,
+    "method_count": 5,
+    "method_desc": 351,
+    "total": 417
+  },
+  {
+    "class_name": "Gem::StreamUI::VerboseProgressReporter",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/StreamUI/VerboseProgressReporter",
+    "class_desc": 72,
+    "method_count": 4,
+    "method_desc": 325,
+    "total": 397
+  },
+  {
+    "class_name": "Gem::StubSpecification",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/StubSpecification",
+    "class_desc": 155,
+    "method_count": 18,
+    "method_desc": 444,
+    "total": 599
+  },
+  {
+    "class_name": "Gem::StubSpecification::StubLine",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/StubSpecification/StubLine",
+    "class_desc": 11,
+    "method_count": 7,
+    "method_desc": 237,
+    "total": 248
+  },
+  {
+    "class_name": "Gem::SystemExitException",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/SystemExitException",
+    "class_desc": 79,
+    "method_count": 3,
+    "method_desc": 118,
+    "total": 197
+  },
+  {
+    "class_name": "Gem::TestCase",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/TestCase",
+    "class_desc": 307,
+    "method_count": 80,
+    "method_desc": 6472,
+    "total": 6779
+  },
+  {
+    "class_name": "Gem::TestCase::SpecFetcherSetup",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/TestCase/SpecFetcherSetup",
+    "class_desc": 416,
+    "method_count": 11,
+    "method_desc": 1065,
+    "total": 1481
+  },
+  {
+    "class_name": "Gem::TestCase::StaticSet",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/TestCase/StaticSet",
+    "class_desc": 118,
+    "method_count": 8,
+    "method_desc": 387,
+    "total": 505
+  },
+  {
+    "class_name": "Gem::Text",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Text",
+    "class_desc": 38,
+    "method_count": 5,
+    "method_desc": 291,
+    "total": 329
+  },
+  {
+    "class_name": "Gem::UninstallError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/UninstallError",
+    "class_desc": 59,
+    "method_count": 2,
+    "method_desc": 58,
+    "total": 117
+  },
+  {
+    "class_name": "Gem::Uninstaller",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Uninstaller",
+    "class_desc": 300,
+    "method_count": 15,
+    "method_desc": 1002,
+    "total": 1302
+  },
+  {
+    "class_name": "Gem::UnsatisfiableDependencyError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/UnsatisfiableDependencyError",
+    "class_desc": 79,
+    "method_count": 6,
+    "method_desc": 421,
+    "total": 500
+  },
+  {
+    "class_name": "Gem::UriFormatter",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/UriFormatter",
+    "class_desc": 146,
+    "method_count": 5,
+    "method_desc": 210,
+    "total": 356
+  },
+  {
+    "class_name": "Gem::UserInteraction",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/UserInteraction",
+    "class_desc": 451,
+    "method_count": 10,
+    "method_desc": 656,
+    "total": 1107
+  },
+  {
+    "class_name": "Gem::Util",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Util",
+    "class_desc": 63,
+    "method_count": 8,
+    "method_desc": 564,
+    "total": 627
+  },
+  {
+    "class_name": "Gem::Validator",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Validator",
+    "class_desc": 63,
+    "method_count": 4,
+    "method_desc": 606,
+    "total": 669
+  },
+  {
+    "class_name": "Gem::Validator::ErrorData",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Validator/ErrorData",
+    "class_desc": 41,
+    "method_count": 5,
+    "method_desc": 129,
+    "total": 170
+  },
+  {
+    "class_name": "Gem::VerificationError",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/VerificationError",
+    "class_desc": 62,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 62
+  },
+  {
+    "class_name": "Gem::Version",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/Version",
+    "class_desc": 6065,
+    "method_count": 23,
+    "method_desc": 1533,
+    "total": 7598
+  },
+  {
+    "class_name": "Gem::VersionOption",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Gem/VersionOption",
+    "class_desc": 64,
+    "method_count": 3,
+    "method_desc": 142,
+    "total": 206
+  },
+  {
+    "class_name": "Kernel",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Kernel",
+    "class_desc": 246,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 246
+  },
+  {
+    "class_name": "Psych",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Psych",
+    "class_desc": 197,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 197
+  },
+  {
+    "class_name": "Psych::PrivateType",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/Psych/PrivateType",
+    "class_desc": 7,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 7
+  },
+  {
+    "class_name": "TempIO",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/TempIO",
+    "class_desc": 225,
+    "method_count": 2,
+    "method_desc": 104,
+    "total": 329
+  },
+  {
+    "class_name": "YAML",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/YAML",
+    "class_desc": 323,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 323
+  },
+  {
+    "class_name": "YAML::Syck",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/YAML/Syck",
+    "class_desc": 136,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 136
+  },
+  {
+    "class_name": "YAML::Syck::DefaultKey",
+    "url": "https://rubydoc.info/gems/rubygems-update/3.0.6/YAML/Syck/DefaultKey",
+    "class_desc": 7,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 7
+  }
+]
