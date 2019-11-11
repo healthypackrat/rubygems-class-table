@@ -1,0 +1,786 @@
+[
+  {
+    "class_name": "BadChunkingServlet",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/BadChunkingServlet",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "BasicAuthServlet",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/BasicAuthServlet",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ContentTypeServlet",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/ContentTypeServlet",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "DigestAuthServlet",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/DigestAuthServlet",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FileUploadServlet",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/FileUploadServlet",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FormServlet",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/FormServlet",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "GzipServlet",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/GzipServlet",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "HTTP::CookieJar",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/HTTP/CookieJar",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "HeaderServlet",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/HeaderServlet",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "HttpRefreshServlet",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/HttpRefreshServlet",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "InfiniteRedirectServlet",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/InfiniteRedirectServlet",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "InfiniteRefreshServlet",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/InfiniteRefreshServlet",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ManyCookiesAsStringServlet",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/ManyCookiesAsStringServlet",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ManyCookiesServlet",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/ManyCookiesServlet",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mechanize",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize",
+    "class_desc": 1760,
+    "method_count": 115,
+    "method_desc": 14785,
+    "total": 16545
+  },
+  {
+    "class_name": "Mechanize::ChunkedTerminationError",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/ChunkedTerminationError",
+    "class_desc": 90,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 90
+  },
+  {
+    "class_name": "Mechanize::ContentTypeError",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/ContentTypeError",
+    "class_desc": 207,
+    "method_count": 2,
+    "method_desc": 43,
+    "total": 250
+  },
+  {
+    "class_name": "Mechanize::Cookie",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/Cookie",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mechanize::CookieCMethods",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/CookieCMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mechanize::CookieDeprecated",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/CookieDeprecated",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mechanize::CookieIMethods",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/CookieIMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mechanize::CookieJar",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/CookieJar",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mechanize::CookieJarIMethods",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/CookieJarIMethods",
+    "class_desc": 0,
+    "method_count": 7,
+    "method_desc": 151,
+    "total": 151
+  },
+  {
+    "class_name": "Mechanize::DirectorySaver",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/DirectorySaver",
+    "class_desc": 277,
+    "method_count": 5,
+    "method_desc": 679,
+    "total": 956
+  },
+  {
+    "class_name": "Mechanize::Download",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/Download",
+    "class_desc": 258,
+    "method_count": 9,
+    "method_desc": 864,
+    "total": 1122
+  },
+  {
+    "class_name": "Mechanize::ElementMatcher",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/ElementMatcher",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mechanize::ElementNotFoundError",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/ElementNotFoundError",
+    "class_desc": 51,
+    "method_count": 4,
+    "method_desc": 116,
+    "total": 167
+  },
+  {
+    "class_name": "Mechanize::Error",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/Error",
+    "class_desc": 26,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 26
+  },
+  {
+    "class_name": "Mechanize::File",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/File",
+    "class_desc": 488,
+    "method_count": 9,
+    "method_desc": 1466,
+    "total": 1954
+  },
+  {
+    "class_name": "Mechanize::FileConnection",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/FileConnection",
+    "class_desc": 48,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 48
+  },
+  {
+    "class_name": "Mechanize::FileRequest",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/FileRequest",
+    "class_desc": 80,
+    "method_count": 8,
+    "method_desc": 56,
+    "total": 136
+  },
+  {
+    "class_name": "Mechanize::FileResponse",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/FileResponse",
+    "class_desc": 48,
+    "method_count": 11,
+    "method_desc": 0,
+    "total": 48
+  },
+  {
+    "class_name": "Mechanize::FileSaver",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/FileSaver",
+    "class_desc": 418,
+    "method_count": 3,
+    "method_desc": 182,
+    "total": 600
+  },
+  {
+    "class_name": "Mechanize::Form",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/Form",
+    "class_desc": 364,
+    "method_count": 60,
+    "method_desc": 4933,
+    "total": 5297
+  },
+  {
+    "class_name": "Mechanize::Form::Button",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/Form/Button",
+    "class_desc": 25,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 25
+  },
+  {
+    "class_name": "Mechanize::Form::CheckBox",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/Form/CheckBox",
+    "class_desc": 121,
+    "method_count": 2,
+    "method_desc": 7,
+    "total": 128
+  },
+  {
+    "class_name": "Mechanize::Form::Field",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/Form/Field",
+    "class_desc": 228,
+    "method_count": 17,
+    "method_desc": 683,
+    "total": 911
+  },
+  {
+    "class_name": "Mechanize::Form::FileUpload",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/Form/FileUpload",
+    "class_desc": 244,
+    "method_count": 7,
+    "method_desc": 58,
+    "total": 302
+  },
+  {
+    "class_name": "Mechanize::Form::Hidden",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/Form/Hidden",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mechanize::Form::ImageButton",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/Form/ImageButton",
+    "class_desc": 133,
+    "method_count": 6,
+    "method_desc": 104,
+    "total": 237
+  },
+  {
+    "class_name": "Mechanize::Form::Keygen",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/Form/Keygen",
+    "class_desc": 227,
+    "method_count": 4,
+    "method_desc": 122,
+    "total": 349
+  },
+  {
+    "class_name": "Mechanize::Form::MultiSelectList",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/Form/MultiSelectList",
+    "class_desc": 368,
+    "method_count": 10,
+    "method_desc": 308,
+    "total": 676
+  },
+  {
+    "class_name": "Mechanize::Form::Option",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/Form/Option",
+    "class_desc": 250,
+    "method_count": 13,
+    "method_desc": 379,
+    "total": 629
+  },
+  {
+    "class_name": "Mechanize::Form::RadioButton",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/Form/RadioButton",
+    "class_desc": 127,
+    "method_count": 15,
+    "method_desc": 173,
+    "total": 300
+  },
+  {
+    "class_name": "Mechanize::Form::Reset",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/Form/Reset",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mechanize::Form::SelectList",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/Form/SelectList",
+    "class_desc": 387,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 387
+  },
+  {
+    "class_name": "Mechanize::Form::Submit",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/Form/Submit",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mechanize::Form::Text",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/Form/Text",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mechanize::Form::Textarea",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/Form/Textarea",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mechanize::HTTP",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/HTTP",
+    "class_desc": 158,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 158
+  },
+  {
+    "class_name": "Mechanize::HTTP::Agent",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/HTTP/Agent",
+    "class_desc": 121,
+    "method_count": 122,
+    "method_desc": 7790,
+    "total": 7911
+  },
+  {
+    "class_name": "Mechanize::HTTP::AuthChallenge",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/HTTP/AuthChallenge",
+    "class_desc": 32,
+    "method_count": 10,
+    "method_desc": 367,
+    "total": 399
+  },
+  {
+    "class_name": "Mechanize::HTTP::AuthRealm",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/HTTP/AuthRealm",
+    "class_desc": 0,
+    "method_count": 8,
+    "method_desc": 121,
+    "total": 121
+  },
+  {
+    "class_name": "Mechanize::HTTP::AuthStore",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/HTTP/AuthStore",
+    "class_desc": 392,
+    "method_count": 8,
+    "method_desc": 953,
+    "total": 1345
+  },
+  {
+    "class_name": "Mechanize::HTTP::ContentDisposition",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/HTTP/ContentDisposition",
+    "class_desc": 0,
+    "method_count": 14,
+    "method_desc": 480,
+    "total": 480
+  },
+  {
+    "class_name": "Mechanize::HTTP::ContentDispositionParser",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/HTTP/ContentDispositionParser",
+    "class_desc": 184,
+    "method_count": 10,
+    "method_desc": 721,
+    "total": 905
+  },
+  {
+    "class_name": "Mechanize::HTTP::WWWAuthenticateParser",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/HTTP/WWWAuthenticateParser",
+    "class_desc": 65,
+    "method_count": 10,
+    "method_desc": 631,
+    "total": 696
+  },
+  {
+    "class_name": "Mechanize::Headers",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/Headers",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mechanize::History",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/History",
+    "class_desc": 53,
+    "method_count": 12,
+    "method_desc": 73,
+    "total": 126
+  },
+  {
+    "class_name": "Mechanize::Image",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/Image",
+    "class_desc": 55,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 55
+  },
+  {
+    "class_name": "Mechanize::Page",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/Page",
+    "class_desc": 253,
+    "method_count": 41,
+    "method_desc": 3325,
+    "total": 3578
+  },
+  {
+    "class_name": "Mechanize::Page::Base",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/Page/Base",
+    "class_desc": 148,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 148
+  },
+  {
+    "class_name": "Mechanize::Page::Frame",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/Page/Frame",
+    "class_desc": 306,
+    "method_count": 6,
+    "method_desc": 105,
+    "total": 411
+  },
+  {
+    "class_name": "Mechanize::Page::Image",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/Page/Image",
+    "class_desc": 32,
+    "method_count": 25,
+    "method_desc": 1583,
+    "total": 1615
+  },
+  {
+    "class_name": "Mechanize::Page::Label",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/Page/Label",
+    "class_desc": 28,
+    "method_count": 6,
+    "method_desc": 140,
+    "total": 168
+  },
+  {
+    "class_name": "Mechanize::Page::Link",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/Page/Link",
+    "class_desc": 368,
+    "method_count": 18,
+    "method_desc": 809,
+    "total": 1177
+  },
+  {
+    "class_name": "Mechanize::Page::MetaRefresh",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/Page/MetaRefresh",
+    "class_desc": 201,
+    "method_count": 6,
+    "method_desc": 517,
+    "total": 718
+  },
+  {
+    "class_name": "Mechanize::Parser",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/Parser",
+    "class_desc": 137,
+    "method_count": 10,
+    "method_desc": 688,
+    "total": 825
+  },
+  {
+    "class_name": "Mechanize::PluggableParser",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/PluggableParser",
+    "class_desc": 1832,
+    "method_count": 12,
+    "method_desc": 680,
+    "total": 2512
+  },
+  {
+    "class_name": "Mechanize::Prependable",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/Prependable",
+    "class_desc": 1068,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 1068
+  },
+  {
+    "class_name": "Mechanize::RedirectLimitReachedError",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/RedirectLimitReachedError",
+    "class_desc": 39,
+    "method_count": 4,
+    "method_desc": 119,
+    "total": 158
+  },
+  {
+    "class_name": "Mechanize::RedirectNotGetOrHeadError",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/RedirectNotGetOrHeadError",
+    "class_desc": 128,
+    "method_count": 7,
+    "method_desc": 148,
+    "total": 276
+  },
+  {
+    "class_name": "Mechanize::ResponseCodeError",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/ResponseCodeError",
+    "class_desc": 258,
+    "method_count": 5,
+    "method_desc": 79,
+    "total": 337
+  },
+  {
+    "class_name": "Mechanize::ResponseReadError",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/ResponseReadError",
+    "class_desc": 189,
+    "method_count": 8,
+    "method_desc": 377,
+    "total": 566
+  },
+  {
+    "class_name": "Mechanize::RobotsDisallowedError",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/RobotsDisallowedError",
+    "class_desc": 109,
+    "method_count": 5,
+    "method_desc": 239,
+    "total": 348
+  },
+  {
+    "class_name": "Mechanize::TestCase",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/TestCase",
+    "class_desc": 552,
+    "method_count": 12,
+    "method_desc": 722,
+    "total": 1274
+  },
+  {
+    "class_name": "Mechanize::UnauthorizedError",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/UnauthorizedError",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 41,
+    "total": 41
+  },
+  {
+    "class_name": "Mechanize::UnsupportedSchemeError",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/UnsupportedSchemeError",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 118,
+    "total": 118
+  },
+  {
+    "class_name": "Mechanize::Util",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/Util",
+    "class_desc": 0,
+    "method_count": 7,
+    "method_desc": 961,
+    "total": 961
+  },
+  {
+    "class_name": "Mechanize::XmlFile",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Mechanize/XmlFile",
+    "class_desc": 456,
+    "method_count": 2,
+    "method_desc": 172,
+    "total": 628
+  },
+  {
+    "class_name": "ModifiedSinceServlet",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/ModifiedSinceServlet",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "NTLMServlet",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/NTLMServlet",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Net",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Net",
+    "class_desc": 7,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 7
+  },
+  {
+    "class_name": "Net::HTTP",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Net/HTTP",
+    "class_desc": 7,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 7
+  },
+  {
+    "class_name": "Net::HTTPRequest",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Net/HTTPRequest",
+    "class_desc": 7,
+    "method_count": 10,
+    "method_desc": 240,
+    "total": 247
+  },
+  {
+    "class_name": "OneCookieNoSpacesServlet",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/OneCookieNoSpacesServlet",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "OneCookieServlet",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/OneCookieServlet",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "QuotedValueCookieServlet",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/QuotedValueCookieServlet",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "RedirectServlet",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/RedirectServlet",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "RefererServlet",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/RefererServlet",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "RefreshWithEmptyUrl",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/RefreshWithEmptyUrl",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "RefreshWithoutUrl",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/RefreshWithoutUrl",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Response",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/Response",
+    "class_desc": 7,
+    "method_count": 19,
+    "method_desc": 462,
+    "total": 469
+  },
+  {
+    "class_name": "ResponseCodeServlet",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/ResponseCodeServlet",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "RobotsTxtServlet",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/RobotsTxtServlet",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "SendCookiesServlet",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/SendCookiesServlet",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "String",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/String",
+    "class_desc": 30,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 30
+  },
+  {
+    "class_name": "VerbServlet",
+    "url": "https://rubydoc.info/gems/mechanize/2.7.6/VerbServlet",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  }
+]
