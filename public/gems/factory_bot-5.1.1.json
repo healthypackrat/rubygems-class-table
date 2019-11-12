@@ -1,0 +1,482 @@
+[
+  {
+    "class_name": "FactoryBot",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot",
+    "class_desc": 0,
+    "method_count": 12,
+    "method_desc": 937,
+    "total": 937
+  },
+  {
+    "class_name": "FactoryBot::AssociationDefinitionError",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/AssociationDefinitionError",
+    "class_desc": 67,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 67
+  },
+  {
+    "class_name": "FactoryBot::Attribute",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Attribute",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::Attribute::Association",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Attribute/Association",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::Attribute::Dynamic",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Attribute/Dynamic",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::Attribute::Sequence",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Attribute/Sequence",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::AttributeAssigner",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/AttributeAssigner",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::AttributeDefinitionError",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/AttributeDefinitionError",
+    "class_desc": 59,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 59
+  },
+  {
+    "class_name": "FactoryBot::AttributeList",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/AttributeList",
+    "class_desc": 0,
+    "method_count": 8,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::Callback",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Callback",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 35,
+    "total": 35
+  },
+  {
+    "class_name": "FactoryBot::CallbacksObserver",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/CallbacksObserver",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::Configuration",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Configuration",
+    "class_desc": 0,
+    "method_count": 7,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::Declaration",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Declaration",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::Declaration::Association",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Declaration/Association",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::Declaration::Dynamic",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Declaration/Dynamic",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::Declaration::Implicit",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Declaration/Implicit",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::DeclarationList",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/DeclarationList",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::Decorator",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Decorator",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 35,
+    "total": 35
+  },
+  {
+    "class_name": "FactoryBot::Decorator::AttributeHash",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Decorator/AttributeHash",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::Decorator::DisallowsDuplicatesRegistry",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Decorator/DisallowsDuplicatesRegistry",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::Decorator::InvocationTracker",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Decorator/InvocationTracker",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 35,
+    "total": 35
+  },
+  {
+    "class_name": "FactoryBot::Decorator::NewConstructor",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Decorator/NewConstructor",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::Definition",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Definition",
+    "class_desc": 0,
+    "method_count": 19,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::DefinitionHierarchy",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/DefinitionHierarchy",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::DefinitionProxy",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/DefinitionProxy",
+    "class_desc": 0,
+    "method_count": 13,
+    "method_desc": 2051,
+    "total": 2051
+  },
+  {
+    "class_name": "FactoryBot::DuplicateDefinitionError",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/DuplicateDefinitionError",
+    "class_desc": 84,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 84
+  },
+  {
+    "class_name": "FactoryBot::Evaluation",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Evaluation",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::Evaluator",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Evaluator",
+    "class_desc": 0,
+    "method_count": 9,
+    "method_desc": 35,
+    "total": 35
+  },
+  {
+    "class_name": "FactoryBot::EvaluatorClassDefiner",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/EvaluatorClassDefiner",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::Factory",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Factory",
+    "class_desc": 0,
+    "method_count": 10,
+    "method_desc": 470,
+    "total": 470
+  },
+  {
+    "class_name": "FactoryBot::FactoryRunner",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/FactoryRunner",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::Internal",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Internal",
+    "class_desc": 0,
+    "method_count": 16,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::InvalidCallbackNameError",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/InvalidCallbackNameError",
+    "class_desc": 58,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 58
+  },
+  {
+    "class_name": "FactoryBot::InvalidFactoryError",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/InvalidFactoryError",
+    "class_desc": 45,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 45
+  },
+  {
+    "class_name": "FactoryBot::Linter",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Linter",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::Linter::FactoryError",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Linter/FactoryError",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::Linter::FactoryTraitError",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Linter/FactoryTraitError",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::MethodDefinitionError",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/MethodDefinitionError",
+    "class_desc": 68,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 68
+  },
+  {
+    "class_name": "FactoryBot::NullFactory",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/NullFactory",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::NullObject",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/NullObject",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::Registry",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Registry",
+    "class_desc": 0,
+    "method_count": 8,
+    "method_desc": 35,
+    "total": 35
+  },
+  {
+    "class_name": "FactoryBot::Sequence",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Sequence",
+    "class_desc": 112,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 112
+  },
+  {
+    "class_name": "FactoryBot::Sequence::EnumeratorAdapter",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Sequence/EnumeratorAdapter",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::SequenceAbuseError",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/SequenceAbuseError",
+    "class_desc": 76,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 76
+  },
+  {
+    "class_name": "FactoryBot::Strategy",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Strategy",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::Strategy::AttributesFor",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Strategy/AttributesFor",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::Strategy::Build",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Strategy/Build",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::Strategy::Create",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Strategy/Create",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::Strategy::Null",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Strategy/Null",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::Strategy::Stub",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Strategy/Stub",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::StrategyCalculator",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/StrategyCalculator",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::StrategySyntaxMethodRegistrar",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/StrategySyntaxMethodRegistrar",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::Syntax",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Syntax",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::Syntax::Default",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Syntax/Default",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::Syntax::Default::DSL",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Syntax/Default/DSL",
+    "class_desc": 0,
+    "method_count": 7,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::Syntax::Default::ModifyDSL",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Syntax/Default/ModifyDSL",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::Syntax::Methods",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Syntax/Methods",
+    "class_desc": 273,
+    "method_count": 12,
+    "method_desc": 489,
+    "total": 762
+  },
+  {
+    "class_name": "FactoryBot::SyntaxRunner",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/SyntaxRunner",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::Trait",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/Trait",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "FactoryBot::TraitDefinitionError",
+    "url": "https://rubydoc.info/gems/factory_bot/5.1.1/FactoryBot/TraitDefinitionError",
+    "class_desc": 54,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 54
+  }
+]
