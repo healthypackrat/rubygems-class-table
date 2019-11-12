@@ -2,6 +2,7 @@
   "bundler-2.0.2.json",
   "capybara-3.29.0.json",
   "devise-4.7.1.json",
+  "factory_bot-5.1.1.json",
   "mechanize-2.7.6.json",
   "nokogiri-1.10.5.json",
   "rspec-core-3.9.0.json",
