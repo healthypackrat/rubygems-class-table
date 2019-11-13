@@ -1,0 +1,146 @@
+[
+  {
+    "class_name": "Warden",
+    "url": "https://rubydoc.info/gems/warden/1.2.8/Warden",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 455,
+    "total": 455
+  },
+  {
+    "class_name": "Warden::Config",
+    "url": "https://rubydoc.info/gems/warden/1.2.8/Warden/Config",
+    "class_desc": 148,
+    "method_count": 10,
+    "method_desc": 623,
+    "total": 771
+  },
+  {
+    "class_name": "Warden::Hooks",
+    "url": "https://rubydoc.info/gems/warden/1.2.8/Warden/Hooks",
+    "class_desc": 0,
+    "method_count": 13,
+    "method_desc": 4723,
+    "total": 4723
+  },
+  {
+    "class_name": "Warden::Manager",
+    "url": "https://rubydoc.info/gems/warden/1.2.8/Warden/Manager",
+    "class_desc": 174,
+    "method_count": 7,
+    "method_desc": 1348,
+    "total": 1522
+  },
+  {
+    "class_name": "Warden::Mixins",
+    "url": "https://rubydoc.info/gems/warden/1.2.8/Warden/Mixins",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Warden::Mixins::Common",
+    "url": "https://rubydoc.info/gems/warden/1.2.8/Warden/Mixins/Common",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 563,
+    "total": 563
+  },
+  {
+    "class_name": "Warden::NotAuthenticated",
+    "url": "https://rubydoc.info/gems/warden/1.2.8/Warden/NotAuthenticated",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Warden::Proxy",
+    "url": "https://rubydoc.info/gems/warden/1.2.8/Warden/Proxy",
+    "class_desc": 0,
+    "method_count": 28,
+    "method_desc": 5284,
+    "total": 5284
+  },
+  {
+    "class_name": "Warden::Proxy::Errors",
+    "url": "https://rubydoc.info/gems/warden/1.2.8/Warden/Proxy/Errors",
+    "class_desc": 49,
+    "method_count": 7,
+    "method_desc": 253,
+    "total": 302
+  },
+  {
+    "class_name": "Warden::SessionSerializer",
+    "url": "https://rubydoc.info/gems/warden/1.2.8/Warden/SessionSerializer",
+    "class_desc": 0,
+    "method_count": 10,
+    "method_desc": 99,
+    "total": 99
+  },
+  {
+    "class_name": "Warden::Strategies",
+    "url": "https://rubydoc.info/gems/warden/1.2.8/Warden/Strategies",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 170,
+    "total": 170
+  },
+  {
+    "class_name": "Warden::Strategies::Base",
+    "url": "https://rubydoc.info/gems/warden/1.2.8/Warden/Strategies/Base",
+    "class_desc": 1102,
+    "method_count": 28,
+    "method_desc": 2258,
+    "total": 3360
+  },
+  {
+    "class_name": "Warden::Test",
+    "url": "https://rubydoc.info/gems/warden/1.2.8/Warden/Test",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Warden::Test::Helpers",
+    "url": "https://rubydoc.info/gems/warden/1.2.8/Warden/Test/Helpers",
+    "class_desc": 234,
+    "method_count": 3,
+    "method_desc": 295,
+    "total": 529
+  },
+  {
+    "class_name": "Warden::Test::Mock",
+    "url": "https://rubydoc.info/gems/warden/1.2.8/Warden/Test/Mock",
+    "class_desc": 143,
+    "method_count": 2,
+    "method_desc": 76,
+    "total": 219
+  },
+  {
+    "class_name": "Warden::Test::Mock::Session",
+    "url": "https://rubydoc.info/gems/warden/1.2.8/Warden/Test/Mock/Session",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 56,
+    "total": 56
+  },
+  {
+    "class_name": "Warden::Test::WardenHelpers",
+    "url": "https://rubydoc.info/gems/warden/1.2.8/Warden/Test/WardenHelpers",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 363,
+    "total": 363
+  },
+  {
+    "class_name": "Warden::UserNotSet",
+    "url": "https://rubydoc.info/gems/warden/1.2.8/Warden/UserNotSet",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  }
+]
