@@ -1,0 +1,490 @@
+[
+  {
+    "class_name": "IO",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/IO",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "IO::WaitReadable",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/IO/WaitReadable",
+    "class_desc": 145,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 145
+  },
+  {
+    "class_name": "OpenSSL",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/OpenSSL",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "OpenSSL::SSL",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/OpenSSL/SSL",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "OpenSSL::SSL::SSLServer",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/OpenSSL/SSL/SSLServer",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Puma",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma",
+    "class_desc": 0,
+    "method_count": 7,
+    "method_desc": 448,
+    "total": 448
+  },
+  {
+    "class_name": "Puma::App",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/App",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Puma::App::Status",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/App/Status",
+    "class_desc": 88,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 88
+  },
+  {
+    "class_name": "Puma::Binder",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/Binder",
+    "class_desc": 0,
+    "method_count": 17,
+    "method_desc": 440,
+    "total": 440
+  },
+  {
+    "class_name": "Puma::CLI",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/CLI",
+    "class_desc": 54,
+    "method_count": 3,
+    "method_desc": 279,
+    "total": 333
+  },
+  {
+    "class_name": "Puma::Client",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/Client",
+    "class_desc": 608,
+    "method_count": 24,
+    "method_desc": 490,
+    "total": 1098
+  },
+  {
+    "class_name": "Puma::Cluster",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/Cluster",
+    "class_desc": 528,
+    "method_count": 21,
+    "method_desc": 210,
+    "total": 738
+  },
+  {
+    "class_name": "Puma::Cluster::Worker",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/Cluster/Worker",
+    "class_desc": 0,
+    "method_count": 16,
+    "method_desc": 269,
+    "total": 269
+  },
+  {
+    "class_name": "Puma::CommonLogger",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/CommonLogger",
+    "class_desc": 663,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 663
+  },
+  {
+    "class_name": "Puma::ConfigDefault",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/ConfigDefault",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Puma::Configuration",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/Configuration",
+    "class_desc": 1497,
+    "method_count": 19,
+    "method_desc": 335,
+    "total": 1832
+  },
+  {
+    "class_name": "Puma::Configuration::ConfigMiddleware",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/Configuration/ConfigMiddleware",
+    "class_desc": 45,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 45
+  },
+  {
+    "class_name": "Puma::ConnectionError",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/ConnectionError",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Puma::Const",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/Const",
+    "class_desc": 638,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 638
+  },
+  {
+    "class_name": "Puma::ControlCLI",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/ControlCLI",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Puma::DSL",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/DSL",
+    "class_desc": 601,
+    "method_count": 58,
+    "method_desc": 9224,
+    "total": 9825
+  },
+  {
+    "class_name": "Puma::Events",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/Events",
+    "class_desc": 187,
+    "method_count": 20,
+    "method_desc": 810,
+    "total": 997
+  },
+  {
+    "class_name": "Puma::Events::DefaultFormatter",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/Events/DefaultFormatter",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Puma::Events::PidFormatter",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/Events/PidFormatter",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Puma::HttpParser",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/HttpParser",
+    "class_desc": 0,
+    "method_count": 8,
+    "method_desc": 1314,
+    "total": 1314
+  },
+  {
+    "class_name": "Puma::HttpParserError",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/HttpParserError",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Puma::IOBuffer",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/IOBuffer",
+    "class_desc": 0,
+    "method_count": 7,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Puma::JRubyRestart",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/JRubyRestart",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 80,
+    "total": 80
+  },
+  {
+    "class_name": "Puma::Launcher",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/Launcher",
+    "class_desc": 325,
+    "method_count": 17,
+    "method_desc": 1287,
+    "total": 1612
+  },
+  {
+    "class_name": "Puma::MiniSSL",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/MiniSSL",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Puma::MiniSSL::Context",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/MiniSSL/Context",
+    "class_desc": 0,
+    "method_count": 22,
+    "method_desc": 654,
+    "total": 654
+  },
+  {
+    "class_name": "Puma::MiniSSL::ContextBuilder",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/MiniSSL/ContextBuilder",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Puma::MiniSSL::Engine",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/MiniSSL/Engine",
+    "class_desc": 0,
+    "method_count": 9,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Puma::MiniSSL::SSLError",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/MiniSSL/SSLError",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Puma::MiniSSL::Server",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/MiniSSL/Server",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Puma::MiniSSL::Socket",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/MiniSSL/Socket",
+    "class_desc": 0,
+    "method_count": 16,
+    "method_desc": 489,
+    "total": 489
+  },
+  {
+    "class_name": "Puma::NullIO",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/NullIO",
+    "class_desc": 129,
+    "method_count": 10,
+    "method_desc": 28,
+    "total": 157
+  },
+  {
+    "class_name": "Puma::Plugin",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/Plugin",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Puma::PluginLoader",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/PluginLoader",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Puma::PluginRegistry",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/PluginRegistry",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Puma::Rack",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/Rack",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Puma::Rack::Builder",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/Rack/Builder",
+    "class_desc": 573,
+    "method_count": 10,
+    "method_desc": 1472,
+    "total": 2045
+  },
+  {
+    "class_name": "Puma::Rack::Options",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/Rack/Options",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Puma::Rack::URLMap",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/Rack/URLMap",
+    "class_desc": 524,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 524
+  },
+  {
+    "class_name": "Puma::Reactor",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/Reactor",
+    "class_desc": 1753,
+    "method_count": 7,
+    "method_desc": 2132,
+    "total": 3885
+  },
+  {
+    "class_name": "Puma::Runner",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/Runner",
+    "class_desc": 164,
+    "method_count": 16,
+    "method_desc": 0,
+    "total": 164
+  },
+  {
+    "class_name": "Puma::Server",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/Server",
+    "class_desc": 476,
+    "method_count": 48,
+    "method_desc": 2979,
+    "total": 3455
+  },
+  {
+    "class_name": "Puma::Single",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/Single",
+    "class_desc": 363,
+    "method_count": 8,
+    "method_desc": 0,
+    "total": 363
+  },
+  {
+    "class_name": "Puma::StateFile",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/StateFile",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Puma::TCPLogger",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/TCPLogger",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Puma::ThreadPool",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/ThreadPool",
+    "class_desc": 558,
+    "method_count": 16,
+    "method_desc": 2278,
+    "total": 2836
+  },
+  {
+    "class_name": "Puma::ThreadPool::Automaton",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/ThreadPool/Automaton",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Puma::ThreadPool::ForceShutdown",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/ThreadPool/ForceShutdown",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Puma::UnknownPlugin",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/UnknownPlugin",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Puma::UnsupportedOption",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/UnsupportedOption",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Puma::UserFileDefaultOptions",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/UserFileDefaultOptions",
+    "class_desc": 984,
+    "method_count": 9,
+    "method_desc": 132,
+    "total": 1116
+  },
+  {
+    "class_name": "Puma::Util",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/Util",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 244,
+    "total": 244
+  },
+  {
+    "class_name": "Puma::Util::HeaderHash",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Puma/Util/HeaderHash",
+    "class_desc": 78,
+    "method_count": 14,
+    "method_desc": 0,
+    "total": 78
+  },
+  {
+    "class_name": "Rack",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Rack",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack::Handler",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Rack/Handler",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack::Handler::Puma",
+    "url": "https://rubydoc.info/gems/puma/4.3.0/Rack/Handler/Puma",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  }
+]

@@ -2,12 +2,17 @@
   "bundler-2.0.2.json",
   "capybara-3.29.0.json",
   "devise-4.7.1.json",
+  "eventmachine-1.2.7.json",
   "factory_bot-5.1.1.json",
   "mechanize-2.7.6.json",
   "nokogiri-1.10.5.json",
+  "puma-4.3.0.json",
+  "rack-2.0.7.json",
   "rspec-core-3.9.0.json",
   "rspec-expectations-3.9.0.json",
   "rspec-mocks-3.9.0.json",
   "rspec-rails-3.9.0.json",
-  "rubygems-update-3.0.6.json"
+  "rubygems-update-3.0.6.json",
+  "thin-1.7.2.json",
+  "warden-1.2.8.json"
 ]

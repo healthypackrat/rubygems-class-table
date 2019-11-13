@@ -1,0 +1,338 @@
+[
+  {
+    "class_name": "Process",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Process",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 56,
+    "total": 56
+  },
+  {
+    "class_name": "Rack",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Rack",
+    "class_desc": 392,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 392
+  },
+  {
+    "class_name": "Rack::Adapter",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Rack/Adapter",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 295,
+    "total": 295
+  },
+  {
+    "class_name": "Rack::Adapter::Rails",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Rack/Adapter/Rails",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack::Adapter::Rails::CGIWrapper",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Rack/Adapter/Rails/CGIWrapper",
+    "class_desc": 0,
+    "method_count": 9,
+    "method_desc": 171,
+    "total": 171
+  },
+  {
+    "class_name": "Rack::Adapter::Rails::CgiApp",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Rack/Adapter/Rails/CgiApp",
+    "class_desc": 24,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 24
+  },
+  {
+    "class_name": "Rack::AdapterNotFound",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Rack/AdapterNotFound",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Thin",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Thin::Backends",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/Backends",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Thin::Backends::Base",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/Backends/Base",
+    "class_desc": 453,
+    "method_count": 30,
+    "method_desc": 1243,
+    "total": 1696
+  },
+  {
+    "class_name": "Thin::Backends::SwiftiplyClient",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/Backends/SwiftiplyClient",
+    "class_desc": 70,
+    "method_count": 10,
+    "method_desc": 206,
+    "total": 276
+  },
+  {
+    "class_name": "Thin::Backends::TcpServer",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/Backends/TcpServer",
+    "class_desc": 38,
+    "method_count": 8,
+    "method_desc": 298,
+    "total": 336
+  },
+  {
+    "class_name": "Thin::Backends::UnixServer",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/Backends/UnixServer",
+    "class_desc": 46,
+    "method_count": 7,
+    "method_desc": 208,
+    "total": 254
+  },
+  {
+    "class_name": "Thin::Command",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/Command",
+    "class_desc": 53,
+    "method_count": 6,
+    "method_desc": 279,
+    "total": 332
+  },
+  {
+    "class_name": "Thin::Connection",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/Connection",
+    "class_desc": 123,
+    "method_count": 25,
+    "method_desc": 1415,
+    "total": 1538
+  },
+  {
+    "class_name": "Thin::Controllers",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/Controllers",
+    "class_desc": 83,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 83
+  },
+  {
+    "class_name": "Thin::Controllers::Cluster",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/Controllers/Cluster",
+    "class_desc": 200,
+    "method_count": 23,
+    "method_desc": 223,
+    "total": 423
+  },
+  {
+    "class_name": "Thin::Controllers::Controller",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/Controllers/Controller",
+    "class_desc": 91,
+    "method_count": 7,
+    "method_desc": 92,
+    "total": 183
+  },
+  {
+    "class_name": "Thin::Controllers::Service",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/Controllers/Service",
+    "class_desc": 86,
+    "method_count": 6,
+    "method_desc": 0,
+    "total": 86
+  },
+  {
+    "class_name": "Thin::Daemonizable",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/Daemonizable",
+    "class_desc": 207,
+    "method_count": 10,
+    "method_desc": 345,
+    "total": 552
+  },
+  {
+    "class_name": "Thin::Daemonizable::ClassMethods",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/Daemonizable/ClassMethods",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 268,
+    "total": 268
+  },
+  {
+    "class_name": "Thin::Headers",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/Headers",
+    "class_desc": 98,
+    "method_count": 4,
+    "method_desc": 113,
+    "total": 211
+  },
+  {
+    "class_name": "Thin::HttpParser",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/HttpParser",
+    "class_desc": 0,
+    "method_count": 7,
+    "method_desc": 1271,
+    "total": 1271
+  },
+  {
+    "class_name": "Thin::InvalidOption",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/InvalidOption",
+    "class_desc": 35,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 35
+  },
+  {
+    "class_name": "Thin::InvalidRequest",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/InvalidRequest",
+    "class_desc": 79,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 79
+  },
+  {
+    "class_name": "Thin::Logging",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/Logging",
+    "class_desc": 339,
+    "method_count": 25,
+    "method_desc": 688,
+    "total": 1027
+  },
+  {
+    "class_name": "Thin::Logging::SimpleFormatter",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/Logging/SimpleFormatter",
+    "class_desc": 74,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 74
+  },
+  {
+    "class_name": "Thin::OptionRequired",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/OptionRequired",
+    "class_desc": 59,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 59
+  },
+  {
+    "class_name": "Thin::PidFileExist",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/PidFileExist",
+    "class_desc": 60,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 60
+  },
+  {
+    "class_name": "Thin::PidFileNotFound",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/PidFileNotFound",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Thin::PlatformNotSupported",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/PlatformNotSupported",
+    "class_desc": 63,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 63
+  },
+  {
+    "class_name": "Thin::Request",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/Request",
+    "class_desc": 43,
+    "method_count": 14,
+    "method_desc": 389,
+    "total": 432
+  },
+  {
+    "class_name": "Thin::Response",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/Response",
+    "class_desc": 30,
+    "method_count": 14,
+    "method_desc": 620,
+    "total": 650
+  },
+  {
+    "class_name": "Thin::RestartTimeout",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/RestartTimeout",
+    "class_desc": 71,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 71
+  },
+  {
+    "class_name": "Thin::Runner",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/Runner",
+    "class_desc": 69,
+    "method_count": 14,
+    "method_desc": 431,
+    "total": 500
+  },
+  {
+    "class_name": "Thin::RunnerError",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/RunnerError",
+    "class_desc": 65,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 65
+  },
+  {
+    "class_name": "Thin::Server",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/Server",
+    "class_desc": 1731,
+    "method_count": 17,
+    "method_desc": 1587,
+    "total": 3318
+  },
+  {
+    "class_name": "Thin::Stats",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/Stats",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Thin::Stats::Adapter",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/Stats/Adapter",
+    "class_desc": 51,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 51
+  },
+  {
+    "class_name": "Thin::SwiftiplyConnection",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/SwiftiplyConnection",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Thin::UnixConnection",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/UnixConnection",
+    "class_desc": 40,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 40
+  },
+  {
+    "class_name": "Thin::VERSION",
+    "url": "https://rubydoc.info/gems/thin/1.7.2/Thin/VERSION",
+    "class_desc": 7,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 7
+  }
+]
