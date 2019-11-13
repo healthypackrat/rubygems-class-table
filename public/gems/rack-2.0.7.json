@@ -1,0 +1,882 @@
+[
+  {
+    "class_name": "FCGI::Stream",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/FCGI/Stream",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack",
+    "class_desc": 229,
+    "method_count": 2,
+    "method_desc": 95,
+    "total": 324
+  },
+  {
+    "class_name": "Rack::Auth",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Auth",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack::Auth::AbstractHandler",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Auth/AbstractHandler",
+    "class_desc": 116,
+    "method_count": 3,
+    "method_desc": 60,
+    "total": 176
+  },
+  {
+    "class_name": "Rack::Auth::AbstractRequest",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Auth/AbstractRequest",
+    "class_desc": 0,
+    "method_count": 7,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack::Auth::Basic",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Auth/Basic",
+    "class_desc": 251,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 251
+  },
+  {
+    "class_name": "Rack::Auth::Basic::Request",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Auth/Basic/Request",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack::Auth::Digest",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Auth/Digest",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack::Auth::Digest::MD5",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Auth/Digest/MD5",
+    "class_desc": 310,
+    "method_count": 6,
+    "method_desc": 97,
+    "total": 407
+  },
+  {
+    "class_name": "Rack::Auth::Digest::Nonce",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Auth/Digest/Nonce",
+    "class_desc": 280,
+    "method_count": 11,
+    "method_desc": 142,
+    "total": 422
+  },
+  {
+    "class_name": "Rack::Auth::Digest::Params",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Auth/Digest/Params",
+    "class_desc": 0,
+    "method_count": 8,
+    "method_desc": 46,
+    "total": 46
+  },
+  {
+    "class_name": "Rack::Auth::Digest::Request",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Auth/Digest/Request",
+    "class_desc": 0,
+    "method_count": 7,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack::BodyProxy",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/BodyProxy",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 267,
+    "total": 267
+  },
+  {
+    "class_name": "Rack::Builder",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Builder",
+    "class_desc": 573,
+    "method_count": 10,
+    "method_desc": 1473,
+    "total": 2046
+  },
+  {
+    "class_name": "Rack::Cascade",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Cascade",
+    "class_desc": 145,
+    "method_count": 6,
+    "method_desc": 35,
+    "total": 180
+  },
+  {
+    "class_name": "Rack::Chunked",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Chunked",
+    "class_desc": 128,
+    "method_count": 3,
+    "method_desc": 96,
+    "total": 224
+  },
+  {
+    "class_name": "Rack::Chunked::Body",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Chunked/Body",
+    "class_desc": 43,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 43
+  },
+  {
+    "class_name": "Rack::CommonLogger",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/CommonLogger",
+    "class_desc": 663,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 663
+  },
+  {
+    "class_name": "Rack::ConditionalGet",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/ConditionalGet",
+    "class_desc": 652,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 652
+  },
+  {
+    "class_name": "Rack::Config",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Config",
+    "class_desc": 165,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 165
+  },
+  {
+    "class_name": "Rack::ContentLength",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/ContentLength",
+    "class_desc": 69,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 69
+  },
+  {
+    "class_name": "Rack::ContentType",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/ContentType",
+    "class_desc": 185,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 185
+  },
+  {
+    "class_name": "Rack::Deflater",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Deflater",
+    "class_desc": 389,
+    "method_count": 2,
+    "method_desc": 390,
+    "total": 779
+  },
+  {
+    "class_name": "Rack::Deflater::GzipStream",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Deflater/GzipStream",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack::Directory",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Directory",
+    "class_desc": 330,
+    "method_count": 12,
+    "method_desc": 154,
+    "total": 484
+  },
+  {
+    "class_name": "Rack::Directory::DirectoryBody",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Directory/DirectoryBody",
+    "class_desc": 0,
+    "method_count": 7,
+    "method_desc": 176,
+    "total": 176
+  },
+  {
+    "class_name": "Rack::ETag",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/ETag",
+    "class_desc": 469,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 469
+  },
+  {
+    "class_name": "Rack::Events",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Events",
+    "class_desc": 2373,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 2373
+  },
+  {
+    "class_name": "Rack::Events::Abstract",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Events/Abstract",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack::Events::BufferedResponse",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Events/BufferedResponse",
+    "class_desc": 7,
+    "method_count": 3,
+    "method_desc": 35,
+    "total": 42
+  },
+  {
+    "class_name": "Rack::Events::EventedBodyProxy",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Events/EventedBodyProxy",
+    "class_desc": 7,
+    "method_count": 4,
+    "method_desc": 77,
+    "total": 84
+  },
+  {
+    "class_name": "Rack::File",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/File",
+    "class_desc": 305,
+    "method_count": 5,
+    "method_desc": 35,
+    "total": 340
+  },
+  {
+    "class_name": "Rack::File::Iterator",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/File/Iterator",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 106,
+    "total": 106
+  },
+  {
+    "class_name": "Rack::ForwardRequest",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/ForwardRequest",
+    "class_desc": 148,
+    "method_count": 3,
+    "method_desc": 68,
+    "total": 216
+  },
+  {
+    "class_name": "Rack::Handler",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Handler",
+    "class_desc": 271,
+    "method_count": 5,
+    "method_desc": 485,
+    "total": 756
+  },
+  {
+    "class_name": "Rack::Handler::CGI",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Handler/CGI",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack::Handler::FastCGI",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Handler/FastCGI",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack::Handler::LSWS",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Handler/LSWS",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack::Handler::SCGI",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Handler/SCGI",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 56,
+    "total": 56
+  },
+  {
+    "class_name": "Rack::Handler::Thin",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Handler/Thin",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack::Handler::WEBrick",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Handler/WEBrick",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack::Head",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Head",
+    "class_desc": 95,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 95
+  },
+  {
+    "class_name": "Rack::Lint",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Lint",
+    "class_desc": 96,
+    "method_count": 15,
+    "method_desc": 603,
+    "total": 699
+  },
+  {
+    "class_name": "Rack::Lint::Assertion",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Lint/Assertion",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack::Lint::ErrorWrapper",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Lint/ErrorWrapper",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 294,
+    "total": 294
+  },
+  {
+    "class_name": "Rack::Lint::HijackWrapper",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Lint/HijackWrapper",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack::Lint::InputWrapper",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Lint/InputWrapper",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 1149,
+    "total": 1149
+  },
+  {
+    "class_name": "Rack::Lint::LintError",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Lint/LintError",
+    "class_desc": 9,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 9
+  },
+  {
+    "class_name": "Rack::Lobster",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Lobster",
+    "class_desc": 37,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 37
+  },
+  {
+    "class_name": "Rack::Lock",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Lock",
+    "class_desc": 112,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 112
+  },
+  {
+    "class_name": "Rack::Logger",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Logger",
+    "class_desc": 50,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 50
+  },
+  {
+    "class_name": "Rack::MediaType",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/MediaType",
+    "class_desc": 74,
+    "method_count": 2,
+    "method_desc": 579,
+    "total": 653
+  },
+  {
+    "class_name": "Rack::MethodOverride",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/MethodOverride",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack::Mime",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Mime",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 635,
+    "total": 635
+  },
+  {
+    "class_name": "Rack::MockRequest",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/MockRequest",
+    "class_desc": 513,
+    "method_count": 11,
+    "method_desc": 140,
+    "total": 653
+  },
+  {
+    "class_name": "Rack::MockRequest::FatalWarner",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/MockRequest/FatalWarner",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack::MockRequest::FatalWarning",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/MockRequest/FatalWarning",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack::MockResponse",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/MockResponse",
+    "class_desc": 142,
+    "method_count": 8,
+    "method_desc": 19,
+    "total": 161
+  },
+  {
+    "class_name": "Rack::Multipart",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Multipart",
+    "class_desc": 105,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 105
+  },
+  {
+    "class_name": "Rack::Multipart::Generator",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Multipart/Generator",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack::Multipart::MultipartPartLimitError",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Multipart/MultipartPartLimitError",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack::Multipart::Parser",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Multipart/Parser",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 36,
+    "total": 36
+  },
+  {
+    "class_name": "Rack::Multipart::Parser::BoundedIO",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Multipart/Parser/BoundedIO",
+    "class_desc": 7,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 7
+  },
+  {
+    "class_name": "Rack::Multipart::Parser::Collector",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Multipart/Parser/Collector",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack::Multipart::Parser::Collector::BufferPart",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Multipart/Parser/Collector/BufferPart",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack::Multipart::Parser::Collector::MimePart",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Multipart/Parser/Collector/MimePart",
+    "class_desc": 0,
+    "method_count": 11,
+    "method_desc": 314,
+    "total": 314
+  },
+  {
+    "class_name": "Rack::Multipart::Parser::Collector::TempfilePart",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Multipart/Parser/Collector/TempfilePart",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack::Multipart::Parser::MultipartInfo",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Multipart/Parser/MultipartInfo",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 130,
+    "total": 130
+  },
+  {
+    "class_name": "Rack::Multipart::UploadedFile",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Multipart/UploadedFile",
+    "class_desc": 0,
+    "method_count": 8,
+    "method_desc": 147,
+    "total": 147
+  },
+  {
+    "class_name": "Rack::NullLogger",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/NullLogger",
+    "class_desc": 0,
+    "method_count": 26,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack::QueryParser",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/QueryParser",
+    "class_desc": 0,
+    "method_count": 10,
+    "method_desc": 821,
+    "total": 821
+  },
+  {
+    "class_name": "Rack::QueryParser::InvalidParameterError",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/QueryParser/InvalidParameterError",
+    "class_desc": 157,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 157
+  },
+  {
+    "class_name": "Rack::QueryParser::ParameterTypeError",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/QueryParser/ParameterTypeError",
+    "class_desc": 140,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 140
+  },
+  {
+    "class_name": "Rack::QueryParser::Params",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/QueryParser/Params",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack::Recursive",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Recursive",
+    "class_desc": 202,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 202
+  },
+  {
+    "class_name": "Rack::Reloader",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Reloader",
+    "class_desc": 476,
+    "method_count": 4,
+    "method_desc": 63,
+    "total": 539
+  },
+  {
+    "class_name": "Rack::Reloader::Stat",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Reloader/Stat",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 151,
+    "total": 151
+  },
+  {
+    "class_name": "Rack::Request",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Request",
+    "class_desc": 226,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 226
+  },
+  {
+    "class_name": "Rack::Request::Env",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Request/Env",
+    "class_desc": 0,
+    "method_count": 10,
+    "method_desc": 649,
+    "total": 649
+  },
+  {
+    "class_name": "Rack::Request::Helpers",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Request/Helpers",
+    "class_desc": 0,
+    "method_count": 55,
+    "method_desc": 3264,
+    "total": 3264
+  },
+  {
+    "class_name": "Rack::Response",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Response",
+    "class_desc": 502,
+    "method_count": 24,
+    "method_desc": 392,
+    "total": 894
+  },
+  {
+    "class_name": "Rack::Response::Helpers",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Response/Helpers",
+    "class_desc": 0,
+    "method_count": 35,
+    "method_desc": 272,
+    "total": 272
+  },
+  {
+    "class_name": "Rack::Response::Raw",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Response/Raw",
+    "class_desc": 0,
+    "method_count": 8,
+    "method_desc": 100,
+    "total": 100
+  },
+  {
+    "class_name": "Rack::RewindableInput",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/RewindableInput",
+    "class_desc": 510,
+    "method_count": 6,
+    "method_desc": 236,
+    "total": 746
+  },
+  {
+    "class_name": "Rack::Runtime",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Runtime",
+    "class_desc": 232,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 232
+  },
+  {
+    "class_name": "Rack::Sendfile",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Sendfile",
+    "class_desc": 3156,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 3156
+  },
+  {
+    "class_name": "Rack::Server",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Server",
+    "class_desc": 0,
+    "method_count": 12,
+    "method_desc": 1618,
+    "total": 1618
+  },
+  {
+    "class_name": "Rack::Server::Options",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Server/Options",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack::Session",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Session",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack::Session::Abstract",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Session/Abstract",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack::Session::Abstract::ID",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Session/Abstract/ID",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 494,
+    "total": 494
+  },
+  {
+    "class_name": "Rack::Session::Abstract::Persisted",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Session/Abstract/Persisted",
+    "class_desc": 1305,
+    "method_count": 7,
+    "method_desc": 352,
+    "total": 1657
+  },
+  {
+    "class_name": "Rack::Session::Abstract::SessionHash",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Session/Abstract/SessionHash",
+    "class_desc": 65,
+    "method_count": 28,
+    "method_desc": 21,
+    "total": 86
+  },
+  {
+    "class_name": "Rack::Session::Cookie",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Session/Cookie",
+    "class_desc": 1205,
+    "method_count": 2,
+    "method_desc": 36,
+    "total": 1241
+  },
+  {
+    "class_name": "Rack::Session::Cookie::Base64",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Session/Cookie/Base64",
+    "class_desc": 32,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 32
+  },
+  {
+    "class_name": "Rack::Session::Cookie::Base64::JSON",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Session/Cookie/Base64/JSON",
+    "class_desc": 121,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 121
+  },
+  {
+    "class_name": "Rack::Session::Cookie::Base64::Marshal",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Session/Cookie/Base64/Marshal",
+    "class_desc": 47,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 47
+  },
+  {
+    "class_name": "Rack::Session::Cookie::Base64::ZipJSON",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Session/Cookie/Base64/ZipJSON",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rack::Session::Cookie::Identity",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Session/Cookie/Identity",
+    "class_desc": 35,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 35
+  },
+  {
+    "class_name": "Rack::Session::Memcache",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Session/Memcache",
+    "class_desc": 625,
+    "method_count": 8,
+    "method_desc": 71,
+    "total": 696
+  },
+  {
+    "class_name": "Rack::Session::Pool",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Session/Pool",
+    "class_desc": 530,
+    "method_count": 8,
+    "method_desc": 71,
+    "total": 601
+  },
+  {
+    "class_name": "Rack::ShowExceptions",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/ShowExceptions",
+    "class_desc": 300,
+    "method_count": 6,
+    "method_desc": 7,
+    "total": 307
+  },
+  {
+    "class_name": "Rack::ShowStatus",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/ShowStatus",
+    "class_desc": 283,
+    "method_count": 3,
+    "method_desc": 7,
+    "total": 290
+  },
+  {
+    "class_name": "Rack::Static",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Static",
+    "class_desc": 2812,
+    "method_count": 7,
+    "method_desc": 41,
+    "total": 2853
+  },
+  {
+    "class_name": "Rack::TempfileReaper",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/TempfileReaper",
+    "class_desc": 254,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 254
+  },
+  {
+    "class_name": "Rack::URLMap",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/URLMap",
+    "class_desc": 524,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 524
+  },
+  {
+    "class_name": "Rack::Utils",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Utils",
+    "class_desc": 120,
+    "method_count": 36,
+    "method_desc": 1542,
+    "total": 1662
+  },
+  {
+    "class_name": "Rack::Utils::Context",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Utils/Context",
+    "class_desc": 331,
+    "method_count": 6,
+    "method_desc": 68,
+    "total": 399
+  },
+  {
+    "class_name": "Rack::Utils::HeaderHash",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/Rack/Utils/HeaderHash",
+    "class_desc": 78,
+    "method_count": 15,
+    "method_desc": 46,
+    "total": 124
+  },
+  {
+    "class_name": "WEBrick::HTTPResponse",
+    "url": "https://rubydoc.info/gems/rack/2.0.7/WEBrick/HTTPResponse",
+    "class_desc": 125,
+    "method_count": 4,
+    "method_desc": 58,
+    "total": 183
+  }
+]
