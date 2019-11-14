@@ -45,9 +45,7 @@ def add_gem(args)
     end
   end
 
-  unless gem_version
-    gem_version = gem_dir[/-([^-]+)\z/, 1]
-  end
+  gem_version = gem_dir[/-([^-]+)\z/, 1]
 
   classes = YARD::Registry.all(:class, :module)
 
