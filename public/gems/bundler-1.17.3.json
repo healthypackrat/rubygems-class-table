@@ -1,7 +1,7 @@
 [
   {
     "class_name": "Bundler",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler",
     "class_desc": 382,
     "method_count": 58,
     "method_desc": 233,
@@ -9,7 +9,7 @@
   },
   {
     "class_name": "Bundler::APIResponseMismatchError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/APIResponseMismatchError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/APIResponseMismatchError",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -17,7 +17,7 @@
   },
   {
     "class_name": "Bundler::BuildMetadata",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/BuildMetadata",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/BuildMetadata",
     "class_desc": 56,
     "method_count": 4,
     "method_desc": 212,
@@ -25,7 +25,7 @@
   },
   {
     "class_name": "Bundler::BundlerError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/BundlerError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/BundlerError",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 0,
@@ -33,7 +33,7 @@
   },
   {
     "class_name": "Bundler::CLI",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CLI",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CLI",
     "class_desc": 0,
     "method_count": 37,
     "method_desc": 119,
@@ -41,7 +41,7 @@
   },
   {
     "class_name": "Bundler::CLI::Add",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CLI/Add",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CLI/Add",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 0,
@@ -49,7 +49,7 @@
   },
   {
     "class_name": "Bundler::CLI::Binstubs",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CLI/Binstubs",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CLI/Binstubs",
     "class_desc": 0,
     "method_count": 4,
     "method_desc": 73,
@@ -57,7 +57,7 @@
   },
   {
     "class_name": "Bundler::CLI::Cache",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CLI/Cache",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CLI/Cache",
     "class_desc": 0,
     "method_count": 3,
     "method_desc": 38,
@@ -65,7 +65,7 @@
   },
   {
     "class_name": "Bundler::CLI::Check",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CLI/Check",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CLI/Check",
     "class_desc": 0,
     "method_count": 3,
     "method_desc": 38,
@@ -73,7 +73,7 @@
   },
   {
     "class_name": "Bundler::CLI::Clean",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CLI/Clean",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CLI/Clean",
     "class_desc": 0,
     "method_count": 3,
     "method_desc": 38,
@@ -81,7 +81,7 @@
   },
   {
     "class_name": "Bundler::CLI::Common",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CLI/Common",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CLI/Common",
     "class_desc": 0,
     "method_count": 11,
     "method_desc": 0,
@@ -89,7 +89,7 @@
   },
   {
     "class_name": "Bundler::CLI::Config",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CLI/Config",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CLI/Config",
     "class_desc": 0,
     "method_count": 8,
     "method_desc": 202,
@@ -97,7 +97,7 @@
   },
   {
     "class_name": "Bundler::CLI::Console",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CLI/Console",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CLI/Console",
     "class_desc": 0,
     "method_count": 6,
     "method_desc": 74,
@@ -105,7 +105,7 @@
   },
   {
     "class_name": "Bundler::CLI::Doctor",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CLI/Doctor",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CLI/Doctor",
     "class_desc": 0,
     "method_count": 10,
     "method_desc": 38,
@@ -113,7 +113,7 @@
   },
   {
     "class_name": "Bundler::CLI::Exec",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CLI/Exec",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CLI/Exec",
     "class_desc": 0,
     "method_count": 5,
     "method_desc": 107,
@@ -121,7 +121,7 @@
   },
   {
     "class_name": "Bundler::CLI::Gem",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CLI/Gem",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CLI/Gem",
     "class_desc": 0,
     "method_count": 7,
     "method_desc": 184,
@@ -129,7 +129,7 @@
   },
   {
     "class_name": "Bundler::CLI::Info",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CLI/Info",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CLI/Info",
     "class_desc": 0,
     "method_count": 4,
     "method_desc": 77,
@@ -137,7 +137,7 @@
   },
   {
     "class_name": "Bundler::CLI::Init",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CLI/Init",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CLI/Init",
     "class_desc": 0,
     "method_count": 3,
     "method_desc": 38,
@@ -145,7 +145,7 @@
   },
   {
     "class_name": "Bundler::CLI::Inject",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CLI/Inject",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CLI/Inject",
     "class_desc": 0,
     "method_count": 8,
     "method_desc": 219,
@@ -153,7 +153,7 @@
   },
   {
     "class_name": "Bundler::CLI::Install",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CLI/Install",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CLI/Install",
     "class_desc": 0,
     "method_count": 3,
     "method_desc": 38,
@@ -161,7 +161,7 @@
   },
   {
     "class_name": "Bundler::CLI::Issue",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CLI/Issue",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CLI/Issue",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 0,
@@ -169,7 +169,7 @@
   },
   {
     "class_name": "Bundler::CLI::List",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CLI/List",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CLI/List",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 0,
@@ -177,7 +177,7 @@
   },
   {
     "class_name": "Bundler::CLI::Lock",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CLI/Lock",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CLI/Lock",
     "class_desc": 0,
     "method_count": 3,
     "method_desc": 38,
@@ -185,7 +185,7 @@
   },
   {
     "class_name": "Bundler::CLI::Open",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CLI/Open",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CLI/Open",
     "class_desc": 0,
     "method_count": 4,
     "method_desc": 73,
@@ -193,7 +193,7 @@
   },
   {
     "class_name": "Bundler::CLI::Outdated",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CLI/Outdated",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CLI/Outdated",
     "class_desc": 0,
     "method_count": 4,
     "method_desc": 73,
@@ -201,7 +201,7 @@
   },
   {
     "class_name": "Bundler::CLI::Package",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CLI/Package",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CLI/Package",
     "class_desc": 0,
     "method_count": 3,
     "method_desc": 38,
@@ -209,7 +209,7 @@
   },
   {
     "class_name": "Bundler::CLI::Platform",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CLI/Platform",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CLI/Platform",
     "class_desc": 0,
     "method_count": 3,
     "method_desc": 38,
@@ -217,7 +217,7 @@
   },
   {
     "class_name": "Bundler::CLI::Plugin",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CLI/Plugin",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CLI/Plugin",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -225,7 +225,7 @@
   },
   {
     "class_name": "Bundler::CLI::Pristine",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CLI/Pristine",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CLI/Pristine",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 0,
@@ -233,7 +233,7 @@
   },
   {
     "class_name": "Bundler::CLI::Remove",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CLI/Remove",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CLI/Remove",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 0,
@@ -241,7 +241,7 @@
   },
   {
     "class_name": "Bundler::CLI::Show",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CLI/Show",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CLI/Show",
     "class_desc": 0,
     "method_count": 5,
     "method_desc": 120,
@@ -249,7 +249,7 @@
   },
   {
     "class_name": "Bundler::CLI::Update",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CLI/Update",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CLI/Update",
     "class_desc": 0,
     "method_count": 4,
     "method_desc": 73,
@@ -257,7 +257,7 @@
   },
   {
     "class_name": "Bundler::CLI::Viz",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CLI/Viz",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CLI/Viz",
     "class_desc": 0,
     "method_count": 4,
     "method_desc": 77,
@@ -265,7 +265,7 @@
   },
   {
     "class_name": "Bundler::CompactIndexClient",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CompactIndexClient",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CompactIndexClient",
     "class_desc": 0,
     "method_count": 10,
     "method_desc": 40,
@@ -273,7 +273,7 @@
   },
   {
     "class_name": "Bundler::CompactIndexClient::Cache",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CompactIndexClient/Cache",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CompactIndexClient/Cache",
     "class_desc": 0,
     "method_count": 10,
     "method_desc": 40,
@@ -281,7 +281,7 @@
   },
   {
     "class_name": "Bundler::CompactIndexClient::Error",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CompactIndexClient/Error",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CompactIndexClient/Error",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -289,7 +289,7 @@
   },
   {
     "class_name": "Bundler::CompactIndexClient::Updater",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CompactIndexClient/Updater",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CompactIndexClient/Updater",
     "class_desc": 0,
     "method_count": 5,
     "method_desc": 0,
@@ -297,7 +297,7 @@
   },
   {
     "class_name": "Bundler::CompactIndexClient::Updater::MisMatchedChecksumError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CompactIndexClient/Updater/MisMatchedChecksumError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CompactIndexClient/Updater/MisMatchedChecksumError",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 0,
@@ -305,7 +305,7 @@
   },
   {
     "class_name": "Bundler::CurrentRuby",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CurrentRuby",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CurrentRuby",
     "class_desc": 0,
     "method_count": 10,
     "method_desc": 0,
@@ -313,7 +313,7 @@
   },
   {
     "class_name": "Bundler::CyclicDependencyError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/CyclicDependencyError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/CyclicDependencyError",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -321,7 +321,7 @@
   },
   {
     "class_name": "Bundler::Definition",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Definition",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Definition",
     "class_desc": 0,
     "method_count": 44,
     "method_desc": 1117,
@@ -329,7 +329,7 @@
   },
   {
     "class_name": "Bundler::DepProxy",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/DepProxy",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/DepProxy",
     "class_desc": 0,
     "method_count": 10,
     "method_desc": 75,
@@ -337,7 +337,7 @@
   },
   {
     "class_name": "Bundler::Dependency",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Dependency",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Dependency",
     "class_desc": 0,
     "method_count": 11,
     "method_desc": 271,
@@ -345,7 +345,7 @@
   },
   {
     "class_name": "Bundler::Deployment",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Deployment",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Deployment",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -353,7 +353,7 @@
   },
   {
     "class_name": "Bundler::Deprecate",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Deprecate",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Deprecate",
     "class_desc": 0,
     "method_count": 3,
     "method_desc": 0,
@@ -361,7 +361,7 @@
   },
   {
     "class_name": "Bundler::DeprecatedError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/DeprecatedError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/DeprecatedError",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -369,7 +369,7 @@
   },
   {
     "class_name": "Bundler::Dsl",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Dsl",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Dsl",
     "class_desc": 0,
     "method_count": 21,
     "method_desc": 113,
@@ -377,7 +377,7 @@
   },
   {
     "class_name": "Bundler::Dsl::DSLError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Dsl/DSLError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Dsl/DSLError",
     "class_desc": 0,
     "method_count": 7,
     "method_desc": 111,
@@ -385,7 +385,7 @@
   },
   {
     "class_name": "Bundler::EndpointSpecification",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/EndpointSpecification",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/EndpointSpecification",
     "class_desc": 60,
     "method_count": 22,
     "method_desc": 701,
@@ -393,7 +393,7 @@
   },
   {
     "class_name": "Bundler::Env",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Env",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Env",
     "class_desc": 0,
     "method_count": 3,
     "method_desc": 0,
@@ -401,7 +401,7 @@
   },
   {
     "class_name": "Bundler::EnvironmentPreserver",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/EnvironmentPreserver",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/EnvironmentPreserver",
     "class_desc": 0,
     "method_count": 3,
     "method_desc": 0,
@@ -409,7 +409,7 @@
   },
   {
     "class_name": "Bundler::FeatureFlag",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/FeatureFlag",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/FeatureFlag",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -417,7 +417,7 @@
   },
   {
     "class_name": "Bundler::Fetcher",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Fetcher",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Fetcher",
     "class_desc": 49,
     "method_count": 18,
     "method_desc": 442,
@@ -425,7 +425,7 @@
   },
   {
     "class_name": "Bundler::Fetcher::AuthenticationRequiredError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Fetcher/AuthenticationRequiredError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Fetcher/AuthenticationRequiredError",
     "class_desc": 74,
     "method_count": 1,
     "method_desc": 0,
@@ -433,7 +433,7 @@
   },
   {
     "class_name": "Bundler::Fetcher::BadAuthenticationError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Fetcher/BadAuthenticationError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Fetcher/BadAuthenticationError",
     "class_desc": 71,
     "method_count": 1,
     "method_desc": 0,
@@ -441,7 +441,7 @@
   },
   {
     "class_name": "Bundler::Fetcher::Base",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Fetcher/Base",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Fetcher/Base",
     "class_desc": 0,
     "method_count": 8,
     "method_desc": 120,
@@ -449,7 +449,7 @@
   },
   {
     "class_name": "Bundler::Fetcher::CertificateFailureError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Fetcher/CertificateFailureError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Fetcher/CertificateFailureError",
     "class_desc": 63,
     "method_count": 1,
     "method_desc": 0,
@@ -457,7 +457,7 @@
   },
   {
     "class_name": "Bundler::Fetcher::CompactIndex",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Fetcher/CompactIndex",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Fetcher/CompactIndex",
     "class_desc": 0,
     "method_count": 6,
     "method_desc": 0,
@@ -465,7 +465,7 @@
   },
   {
     "class_name": "Bundler::Fetcher::CompactIndex::ClientFetcher",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Fetcher/CompactIndex/ClientFetcher",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Fetcher/CompactIndex/ClientFetcher",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -473,7 +473,7 @@
   },
   {
     "class_name": "Bundler::Fetcher::Dependency",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Fetcher/Dependency",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Fetcher/Dependency",
     "class_desc": 0,
     "method_count": 7,
     "method_desc": 0,
@@ -481,7 +481,7 @@
   },
   {
     "class_name": "Bundler::Fetcher::Downloader",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Fetcher/Downloader",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Fetcher/Downloader",
     "class_desc": 0,
     "method_count": 5,
     "method_desc": 86,
@@ -489,7 +489,7 @@
   },
   {
     "class_name": "Bundler::Fetcher::FallbackError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Fetcher/FallbackError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Fetcher/FallbackError",
     "class_desc": 71,
     "method_count": 0,
     "method_desc": 0,
@@ -497,7 +497,7 @@
   },
   {
     "class_name": "Bundler::Fetcher::Index",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Fetcher/Index",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Fetcher/Index",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 0,
@@ -505,7 +505,7 @@
   },
   {
     "class_name": "Bundler::Fetcher::NetworkDownError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Fetcher/NetworkDownError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Fetcher/NetworkDownError",
     "class_desc": 59,
     "method_count": 0,
     "method_desc": 0,
@@ -513,7 +513,7 @@
   },
   {
     "class_name": "Bundler::Fetcher::SSLError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Fetcher/SSLError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Fetcher/SSLError",
     "class_desc": 71,
     "method_count": 1,
     "method_desc": 0,
@@ -521,7 +521,7 @@
   },
   {
     "class_name": "Bundler::FileUtils",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/FileUtils",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/FileUtils",
     "class_desc": 3385,
     "method_count": 57,
     "method_desc": 16393,
@@ -529,7 +529,7 @@
   },
   {
     "class_name": "Bundler::FileUtils::DryRun",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/FileUtils/DryRun",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/FileUtils/DryRun",
     "class_desc": 235,
     "method_count": 0,
     "method_desc": 0,
@@ -537,7 +537,7 @@
   },
   {
     "class_name": "Bundler::FileUtils::Entry_",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/FileUtils/Entry_",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/FileUtils/Entry_",
     "class_desc": 25,
     "method_count": 33,
     "method_desc": 0,
@@ -545,7 +545,7 @@
   },
   {
     "class_name": "Bundler::FileUtils::LowMethods",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/FileUtils/LowMethods",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/FileUtils/LowMethods",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -553,7 +553,7 @@
   },
   {
     "class_name": "Bundler::FileUtils::NoWrite",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/FileUtils/NoWrite",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/FileUtils/NoWrite",
     "class_desc": 177,
     "method_count": 0,
     "method_desc": 0,
@@ -561,7 +561,7 @@
   },
   {
     "class_name": "Bundler::FileUtils::StreamUtils_",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/FileUtils/StreamUtils_",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/FileUtils/StreamUtils_",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -569,7 +569,7 @@
   },
   {
     "class_name": "Bundler::FileUtils::Verbose",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/FileUtils/Verbose",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/FileUtils/Verbose",
     "class_desc": 182,
     "method_count": 0,
     "method_desc": 0,
@@ -577,7 +577,7 @@
   },
   {
     "class_name": "Bundler::FriendlyErrors",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/FriendlyErrors",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/FriendlyErrors",
     "class_desc": 0,
     "method_count": 4,
     "method_desc": 0,
@@ -585,7 +585,7 @@
   },
   {
     "class_name": "Bundler::GemHelper",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/GemHelper",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/GemHelper",
     "class_desc": 0,
     "method_count": 11,
     "method_desc": 151,
@@ -593,7 +593,7 @@
   },
   {
     "class_name": "Bundler::GemHelpers",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/GemHelpers",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/GemHelpers",
     "class_desc": 0,
     "method_count": 4,
     "method_desc": 0,
@@ -601,7 +601,7 @@
   },
   {
     "class_name": "Bundler::GemHelpers::PlatformMatch",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/GemHelpers/PlatformMatch",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/GemHelpers/PlatformMatch",
     "class_desc": 0,
     "method_count": 10,
     "method_desc": 228,
@@ -609,7 +609,7 @@
   },
   {
     "class_name": "Bundler::GemInstaller",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/GemInstaller",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/GemInstaller",
     "class_desc": 0,
     "method_count": 7,
     "method_desc": 189,
@@ -617,7 +617,7 @@
   },
   {
     "class_name": "Bundler::GemNotFound",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/GemNotFound",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/GemNotFound",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -625,7 +625,7 @@
   },
   {
     "class_name": "Bundler::GemRemoteFetcher",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/GemRemoteFetcher",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/GemRemoteFetcher",
     "class_desc": 231,
     "method_count": 3,
     "method_desc": 92,
@@ -633,7 +633,7 @@
   },
   {
     "class_name": "Bundler::GemRequireError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/GemRequireError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/GemRequireError",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 45,
@@ -641,7 +641,7 @@
   },
   {
     "class_name": "Bundler::GemVersionPromoter",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/GemVersionPromoter",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/GemVersionPromoter",
     "class_desc": 347,
     "method_count": 12,
     "method_desc": 1905,
@@ -649,7 +649,7 @@
   },
   {
     "class_name": "Bundler::Gemdeps",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Gemdeps",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Gemdeps",
     "class_desc": 0,
     "method_count": 6,
     "method_desc": 0,
@@ -657,7 +657,7 @@
   },
   {
     "class_name": "Bundler::GemfileError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/GemfileError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/GemfileError",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -665,7 +665,7 @@
   },
   {
     "class_name": "Bundler::GemfileEvalError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/GemfileEvalError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/GemfileEvalError",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -673,7 +673,7 @@
   },
   {
     "class_name": "Bundler::GemfileLockNotFound",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/GemfileLockNotFound",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/GemfileLockNotFound",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -681,7 +681,7 @@
   },
   {
     "class_name": "Bundler::GemfileNotFound",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/GemfileNotFound",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/GemfileNotFound",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -689,7 +689,7 @@
   },
   {
     "class_name": "Bundler::GemspecError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/GemspecError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/GemspecError",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -697,7 +697,7 @@
   },
   {
     "class_name": "Bundler::GenericSystemCallError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/GenericSystemCallError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/GenericSystemCallError",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 47,
@@ -705,7 +705,7 @@
   },
   {
     "class_name": "Bundler::GitError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/GitError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/GitError",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -713,7 +713,7 @@
   },
   {
     "class_name": "Bundler::Graph",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Graph",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Graph",
     "class_desc": 0,
     "method_count": 8,
     "method_desc": 249,
@@ -721,7 +721,7 @@
   },
   {
     "class_name": "Bundler::Graph::GraphVizClient",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Graph/GraphVizClient",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Graph/GraphVizClient",
     "class_desc": 0,
     "method_count": 3,
     "method_desc": 0,
@@ -729,7 +729,7 @@
   },
   {
     "class_name": "Bundler::HTTPError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/HTTPError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/HTTPError",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -737,7 +737,7 @@
   },
   {
     "class_name": "Bundler::Index",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Index",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Index",
     "class_desc": 0,
     "method_count": 22,
     "method_desc": 356,
@@ -745,7 +745,7 @@
   },
   {
     "class_name": "Bundler::Injector",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Injector",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Injector",
     "class_desc": 0,
     "method_count": 5,
     "method_desc": 0,
@@ -753,7 +753,7 @@
   },
   {
     "class_name": "Bundler::InstallError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/InstallError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/InstallError",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -761,7 +761,7 @@
   },
   {
     "class_name": "Bundler::InstallHookError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/InstallHookError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/InstallHookError",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -769,7 +769,7 @@
   },
   {
     "class_name": "Bundler::Installer",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Installer",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Installer",
     "class_desc": 0,
     "method_count": 8,
     "method_desc": 2084,
@@ -777,7 +777,7 @@
   },
   {
     "class_name": "Bundler::InvalidOption",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/InvalidOption",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/InvalidOption",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -785,7 +785,7 @@
   },
   {
     "class_name": "Bundler::LazySpecification",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/LazySpecification",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/LazySpecification",
     "class_desc": 0,
     "method_count": 18,
     "method_desc": 279,
@@ -793,7 +793,7 @@
   },
   {
     "class_name": "Bundler::LazySpecification::Identifier",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/LazySpecification/Identifier",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/LazySpecification/Identifier",
     "class_desc": 0,
     "method_count": 11,
     "method_desc": 324,
@@ -801,7 +801,7 @@
   },
   {
     "class_name": "Bundler::LockfileError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/LockfileError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/LockfileError",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -809,7 +809,7 @@
   },
   {
     "class_name": "Bundler::LockfileGenerator",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/LockfileGenerator",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/LockfileGenerator",
     "class_desc": 0,
     "method_count": 5,
     "method_desc": 75,
@@ -817,7 +817,7 @@
   },
   {
     "class_name": "Bundler::LockfileParser",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/LockfileParser",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/LockfileParser",
     "class_desc": 0,
     "method_count": 11,
     "method_desc": 246,
@@ -825,7 +825,7 @@
   },
   {
     "class_name": "Bundler::MarshalError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/MarshalError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/MarshalError",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -833,7 +833,7 @@
   },
   {
     "class_name": "Bundler::MatchPlatform",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/MatchPlatform",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/MatchPlatform",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 0,
@@ -841,7 +841,7 @@
   },
   {
     "class_name": "Bundler::MirrorSockets",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/MirrorSockets",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/MirrorSockets",
     "class_desc": 234,
     "method_count": 2,
     "method_desc": 0,
@@ -849,7 +849,7 @@
   },
   {
     "class_name": "Bundler::Molinillo",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Molinillo",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Molinillo",
     "class_desc": 64,
     "method_count": 0,
     "method_desc": 0,
@@ -857,7 +857,7 @@
   },
   {
     "class_name": "Bundler::Molinillo::CircularDependencyError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Molinillo/CircularDependencyError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Molinillo/CircularDependencyError",
     "class_desc": 70,
     "method_count": 2,
     "method_desc": 121,
@@ -865,7 +865,7 @@
   },
   {
     "class_name": "Bundler::Molinillo::Compatibility",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Molinillo/Compatibility",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Molinillo/Compatibility",
     "class_desc": 35,
     "method_count": 1,
     "method_desc": 8,
@@ -873,7 +873,7 @@
   },
   {
     "class_name": "Bundler::Molinillo::Delegates",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Molinillo/Delegates",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Molinillo/Delegates",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -881,7 +881,7 @@
   },
   {
     "class_name": "Bundler::Molinillo::Delegates::ResolutionState",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Molinillo/Delegates/ResolutionState",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Molinillo/Delegates/ResolutionState",
     "class_desc": 83,
     "method_count": 8,
     "method_desc": 306,
@@ -889,7 +889,7 @@
   },
   {
     "class_name": "Bundler::Molinillo::Delegates::SpecificationProvider",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Molinillo/Delegates/SpecificationProvider",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Molinillo/Delegates/SpecificationProvider",
     "class_desc": 106,
     "method_count": 8,
     "method_desc": 821,
@@ -897,7 +897,7 @@
   },
   {
     "class_name": "Bundler::Molinillo::DependencyGraph",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Molinillo/DependencyGraph",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Molinillo/DependencyGraph",
     "class_desc": 65,
     "method_count": 19,
     "method_desc": 651,
@@ -905,7 +905,7 @@
   },
   {
     "class_name": "Bundler::Molinillo::DependencyGraph::Action",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Molinillo/DependencyGraph/Action",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Molinillo/DependencyGraph/Action",
     "class_desc": 63,
     "method_count": 7,
     "method_desc": 78,
@@ -913,7 +913,7 @@
   },
   {
     "class_name": "Bundler::Molinillo::DependencyGraph::AddEdgeNoCircular",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Molinillo/DependencyGraph/AddEdgeNoCircular",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Molinillo/DependencyGraph/AddEdgeNoCircular",
     "class_desc": 42,
     "method_count": 8,
     "method_desc": 135,
@@ -921,7 +921,7 @@
   },
   {
     "class_name": "Bundler::Molinillo::DependencyGraph::AddVertex",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Molinillo/DependencyGraph/AddVertex",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Molinillo/DependencyGraph/AddVertex",
     "class_desc": 32,
     "method_count": 7,
     "method_desc": 136,
@@ -929,7 +929,7 @@
   },
   {
     "class_name": "Bundler::Molinillo::DependencyGraph::DeleteEdge",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Molinillo/DependencyGraph/DeleteEdge",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Molinillo/DependencyGraph/DeleteEdge",
     "class_desc": 33,
     "method_count": 8,
     "method_desc": 135,
@@ -937,7 +937,7 @@
   },
   {
     "class_name": "Bundler::Molinillo::DependencyGraph::DetachVertexNamed",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Molinillo/DependencyGraph/DetachVertexNamed",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Molinillo/DependencyGraph/DetachVertexNamed",
     "class_desc": 0,
     "method_count": 5,
     "method_desc": 141,
@@ -945,7 +945,7 @@
   },
   {
     "class_name": "Bundler::Molinillo::DependencyGraph::Edge",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Molinillo/DependencyGraph/Edge",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Molinillo/DependencyGraph/Edge",
     "class_desc": 38,
     "method_count": 6,
     "method_desc": 222,
@@ -953,7 +953,7 @@
   },
   {
     "class_name": "Bundler::Molinillo::DependencyGraph::Log",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Molinillo/DependencyGraph/Log",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Molinillo/DependencyGraph/Log",
     "class_desc": 34,
     "method_count": 9,
     "method_desc": 351,
@@ -961,7 +961,7 @@
   },
   {
     "class_name": "Bundler::Molinillo::DependencyGraph::SetPayload",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Molinillo/DependencyGraph/SetPayload",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Molinillo/DependencyGraph/SetPayload",
     "class_desc": 0,
     "method_count": 6,
     "method_desc": 156,
@@ -969,7 +969,7 @@
   },
   {
     "class_name": "Bundler::Molinillo::DependencyGraph::Tag",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Molinillo/DependencyGraph/Tag",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Molinillo/DependencyGraph/Tag",
     "class_desc": 0,
     "method_count": 5,
     "method_desc": 135,
@@ -977,7 +977,7 @@
   },
   {
     "class_name": "Bundler::Molinillo::DependencyGraph::Vertex",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Molinillo/DependencyGraph/Vertex",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Molinillo/DependencyGraph/Vertex",
     "class_desc": 76,
     "method_count": 27,
     "method_desc": 369,
@@ -985,7 +985,7 @@
   },
   {
     "class_name": "Bundler::Molinillo::DependencyState",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Molinillo/DependencyState",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Molinillo/DependencyState",
     "class_desc": 83,
     "method_count": 1,
     "method_desc": 33,
@@ -993,7 +993,7 @@
   },
   {
     "class_name": "Bundler::Molinillo::NoSuchDependencyError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Molinillo/NoSuchDependencyError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Molinillo/NoSuchDependencyError",
     "class_desc": 116,
     "method_count": 6,
     "method_desc": 158,
@@ -1001,7 +1001,7 @@
   },
   {
     "class_name": "Bundler::Molinillo::PossibilityState",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Molinillo/PossibilityState",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Molinillo/PossibilityState",
     "class_desc": 82,
     "method_count": 0,
     "method_desc": 0,
@@ -1009,7 +1009,7 @@
   },
   {
     "class_name": "Bundler::Molinillo::ResolutionState",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Molinillo/ResolutionState",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Molinillo/ResolutionState",
     "class_desc": 37,
     "method_count": 17,
     "method_desc": 645,
@@ -1017,7 +1017,7 @@
   },
   {
     "class_name": "Bundler::Molinillo::Resolver",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Molinillo/Resolver",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Molinillo/Resolver",
     "class_desc": 178,
     "method_count": 4,
     "method_desc": 140,
@@ -1025,7 +1025,7 @@
   },
   {
     "class_name": "Bundler::Molinillo::Resolver::Resolution",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Molinillo/Resolver/Resolution",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Molinillo/Resolver/Resolution",
     "class_desc": 45,
     "method_count": 9,
     "method_desc": 107,
@@ -1033,7 +1033,7 @@
   },
   {
     "class_name": "Bundler::Molinillo::Resolver::Resolution::Conflict",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Molinillo/Resolver/Resolution/Conflict",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Molinillo/Resolver/Resolution/Conflict",
     "class_desc": 50,
     "method_count": 17,
     "method_desc": 956,
@@ -1041,7 +1041,7 @@
   },
   {
     "class_name": "Bundler::Molinillo::Resolver::Resolution::PossibilitySet",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Molinillo/Resolver/Resolution/PossibilitySet",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Molinillo/Resolver/Resolution/PossibilitySet",
     "class_desc": 67,
     "method_count": 6,
     "method_desc": 185,
@@ -1049,7 +1049,7 @@
   },
   {
     "class_name": "Bundler::Molinillo::Resolver::Resolution::UnwindDetails",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Molinillo/Resolver/Resolution/UnwindDetails",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Molinillo/Resolver/Resolution/UnwindDetails",
     "class_desc": 85,
     "method_count": 17,
     "method_desc": 933,
@@ -1057,7 +1057,7 @@
   },
   {
     "class_name": "Bundler::Molinillo::ResolverError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Molinillo/ResolverError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Molinillo/ResolverError",
     "class_desc": 52,
     "method_count": 0,
     "method_desc": 0,
@@ -1065,7 +1065,7 @@
   },
   {
     "class_name": "Bundler::Molinillo::SpecificationProvider",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Molinillo/SpecificationProvider",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Molinillo/SpecificationProvider",
     "class_desc": 297,
     "method_count": 8,
     "method_desc": 821,
@@ -1073,7 +1073,7 @@
   },
   {
     "class_name": "Bundler::Molinillo::UI",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Molinillo/UI",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Molinillo/UI",
     "class_desc": 59,
     "method_count": 7,
     "method_desc": 574,
@@ -1081,7 +1081,7 @@
   },
   {
     "class_name": "Bundler::Molinillo::VersionConflict",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Molinillo/VersionConflict",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Molinillo/VersionConflict",
     "class_desc": 39,
     "method_count": 4,
     "method_desc": 57,
@@ -1089,7 +1089,7 @@
   },
   {
     "class_name": "Bundler::NoSpaceOnDeviceError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/NoSpaceOnDeviceError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/NoSpaceOnDeviceError",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -1097,7 +1097,7 @@
   },
   {
     "class_name": "Bundler::OperationNotSupportedError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/OperationNotSupportedError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/OperationNotSupportedError",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -1105,7 +1105,7 @@
   },
   {
     "class_name": "Bundler::ParallelInstaller",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/ParallelInstaller",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/ParallelInstaller",
     "class_desc": 0,
     "method_count": 5,
     "method_desc": 35,
@@ -1113,7 +1113,7 @@
   },
   {
     "class_name": "Bundler::ParallelInstaller::SpecInstallation",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/ParallelInstaller/SpecInstallation",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/ParallelInstaller/SpecInstallation",
     "class_desc": 0,
     "method_count": 23,
     "method_desc": 626,
@@ -1121,7 +1121,7 @@
   },
   {
     "class_name": "Bundler::PathError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/PathError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/PathError",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -1129,7 +1129,7 @@
   },
   {
     "class_name": "Bundler::PermissionError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/PermissionError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/PermissionError",
     "class_desc": 0,
     "method_count": 3,
     "method_desc": 0,
@@ -1137,7 +1137,7 @@
   },
   {
     "class_name": "Bundler::Persistent",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Persistent",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Persistent",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -1145,7 +1145,7 @@
   },
   {
     "class_name": "Bundler::Persistent::Net",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Persistent/Net",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Persistent/Net",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -1153,7 +1153,7 @@
   },
   {
     "class_name": "Bundler::Persistent::Net::HTTP",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Persistent/Net/HTTP",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Persistent/Net/HTTP",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -1161,7 +1161,7 @@
   },
   {
     "class_name": "Bundler::Persistent::Net::HTTP::Persistent",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Persistent/Net/HTTP/Persistent",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Persistent/Net/HTTP/Persistent",
     "class_desc": 6008,
     "method_count": 79,
     "method_desc": 10213,
@@ -1169,7 +1169,7 @@
   },
   {
     "class_name": "Bundler::Persistent::Net::HTTP::Persistent::Error",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Persistent/Net/HTTP/Persistent/Error",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Persistent/Net/HTTP/Persistent/Error",
     "class_desc": 164,
     "method_count": 0,
     "method_desc": 0,
@@ -1177,7 +1177,7 @@
   },
   {
     "class_name": "Bundler::Persistent::Net::HTTP::Persistent::SSLReuse",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Persistent/Net/HTTP/Persistent/SSLReuse",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Persistent/Net/HTTP/Persistent/SSLReuse",
     "class_desc": 209,
     "method_count": 1,
     "method_desc": 7,
@@ -1185,7 +1185,7 @@
   },
   {
     "class_name": "Bundler::PersistentHTTP",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/PersistentHTTP",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/PersistentHTTP",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 0,
@@ -1193,7 +1193,7 @@
   },
   {
     "class_name": "Bundler::Plugin",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Plugin",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Plugin",
     "class_desc": 142,
     "method_count": 23,
     "method_desc": 1350,
@@ -1201,7 +1201,7 @@
   },
   {
     "class_name": "Bundler::Plugin::API",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Plugin/API",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Plugin/API",
     "class_desc": 0,
     "method_count": 7,
     "method_desc": 289,
@@ -1209,7 +1209,7 @@
   },
   {
     "class_name": "Bundler::Plugin::API::Source",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Plugin/API/Source",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Plugin/API/Source",
     "class_desc": 974,
     "method_count": 32,
     "method_desc": 5212,
@@ -1217,7 +1217,7 @@
   },
   {
     "class_name": "Bundler::Plugin::DSL",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Plugin/DSL",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Plugin/DSL",
     "class_desc": 55,
     "method_count": 6,
     "method_desc": 353,
@@ -1225,7 +1225,7 @@
   },
   {
     "class_name": "Bundler::Plugin::DSL::PluginGemfileError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Plugin/DSL/PluginGemfileError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Plugin/DSL/PluginGemfileError",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -1233,7 +1233,7 @@
   },
   {
     "class_name": "Bundler::Plugin::Events",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Plugin/Events",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Plugin/Events",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 34,
@@ -1241,7 +1241,7 @@
   },
   {
     "class_name": "Bundler::Plugin::Index",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Plugin/Index",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Plugin/Index",
     "class_desc": 0,
     "method_count": 13,
     "method_desc": 419,
@@ -1249,7 +1249,7 @@
   },
   {
     "class_name": "Bundler::Plugin::Index::CommandConflict",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Plugin/Index/CommandConflict",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Plugin/Index/CommandConflict",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -1257,7 +1257,7 @@
   },
   {
     "class_name": "Bundler::Plugin::Index::SourceConflict",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Plugin/Index/SourceConflict",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Plugin/Index/SourceConflict",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -1265,7 +1265,7 @@
   },
   {
     "class_name": "Bundler::Plugin::Installer",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Plugin/Installer",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Plugin/Installer",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 118,
@@ -1273,7 +1273,7 @@
   },
   {
     "class_name": "Bundler::Plugin::Installer::Git",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Plugin/Installer/Git",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Plugin/Installer/Git",
     "class_desc": 0,
     "method_count": 5,
     "method_desc": 0,
@@ -1281,7 +1281,7 @@
   },
   {
     "class_name": "Bundler::Plugin::Installer::Rubygems",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Plugin/Installer/Rubygems",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Plugin/Installer/Rubygems",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -1289,7 +1289,7 @@
   },
   {
     "class_name": "Bundler::Plugin::MalformattedPlugin",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Plugin/MalformattedPlugin",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Plugin/MalformattedPlugin",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -1297,7 +1297,7 @@
   },
   {
     "class_name": "Bundler::Plugin::SourceList",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Plugin/SourceList",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Plugin/SourceList",
     "class_desc": 0,
     "method_count": 3,
     "method_desc": 0,
@@ -1305,7 +1305,7 @@
   },
   {
     "class_name": "Bundler::Plugin::UndefinedCommandError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Plugin/UndefinedCommandError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Plugin/UndefinedCommandError",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -1313,7 +1313,7 @@
   },
   {
     "class_name": "Bundler::Plugin::UnknownSourceError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Plugin/UnknownSourceError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Plugin/UnknownSourceError",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -1321,7 +1321,7 @@
   },
   {
     "class_name": "Bundler::PluginError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/PluginError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/PluginError",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -1329,7 +1329,7 @@
   },
   {
     "class_name": "Bundler::ProcessLock",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/ProcessLock",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/ProcessLock",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -1337,7 +1337,7 @@
   },
   {
     "class_name": "Bundler::ProductionError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/ProductionError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/ProductionError",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -1345,7 +1345,7 @@
   },
   {
     "class_name": "Bundler::RemoteSpecification",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/RemoteSpecification",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/RemoteSpecification",
     "class_desc": 279,
     "method_count": 18,
     "method_desc": 909,
@@ -1353,7 +1353,7 @@
   },
   {
     "class_name": "Bundler::Resolver",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Resolver",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Resolver",
     "class_desc": 0,
     "method_count": 19,
     "method_desc": 486,
@@ -1361,7 +1361,7 @@
   },
   {
     "class_name": "Bundler::Resolver::SpecGroup",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Resolver/SpecGroup",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Resolver/SpecGroup",
     "class_desc": 0,
     "method_count": 17,
     "method_desc": 290,
@@ -1369,7 +1369,7 @@
   },
   {
     "class_name": "Bundler::Retry",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Retry",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Retry",
     "class_desc": 53,
     "method_count": 12,
     "method_desc": 200,
@@ -1377,7 +1377,7 @@
   },
   {
     "class_name": "Bundler::RubyDsl",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/RubyDsl",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/RubyDsl",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -1385,7 +1385,7 @@
   },
   {
     "class_name": "Bundler::RubyGemsGemInstaller",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/RubyGemsGemInstaller",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/RubyGemsGemInstaller",
     "class_desc": 0,
     "method_count": 6,
     "method_desc": 38,
@@ -1393,7 +1393,7 @@
   },
   {
     "class_name": "Bundler::RubyVersion",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/RubyVersion",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/RubyVersion",
     "class_desc": 0,
     "method_count": 17,
     "method_desc": 435,
@@ -1401,7 +1401,7 @@
   },
   {
     "class_name": "Bundler::RubyVersionMismatch",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/RubyVersionMismatch",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/RubyVersionMismatch",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -1409,7 +1409,7 @@
   },
   {
     "class_name": "Bundler::RubygemsIntegration",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/RubygemsIntegration",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/RubygemsIntegration",
     "class_desc": 0,
     "method_count": 74,
     "method_desc": 799,
@@ -1417,7 +1417,7 @@
   },
   {
     "class_name": "Bundler::RubygemsIntegration::AlmostModern",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/RubygemsIntegration/AlmostModern",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/RubygemsIntegration/AlmostModern",
     "class_desc": 23,
     "method_count": 1,
     "method_desc": 179,
@@ -1425,7 +1425,7 @@
   },
   {
     "class_name": "Bundler::RubygemsIntegration::Ancient",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/RubygemsIntegration/Ancient",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/RubygemsIntegration/Ancient",
     "class_desc": 33,
     "method_count": 1,
     "method_desc": 0,
@@ -1433,7 +1433,7 @@
   },
   {
     "class_name": "Bundler::RubygemsIntegration::Future",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/RubygemsIntegration/Future",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/RubygemsIntegration/Future",
     "class_desc": 12,
     "method_count": 12,
     "method_desc": 0,
@@ -1441,7 +1441,7 @@
   },
   {
     "class_name": "Bundler::RubygemsIntegration::Legacy",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/RubygemsIntegration/Legacy",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/RubygemsIntegration/Legacy",
     "class_desc": 24,
     "method_count": 7,
     "method_desc": 0,
@@ -1449,7 +1449,7 @@
   },
   {
     "class_name": "Bundler::RubygemsIntegration::Modern",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/RubygemsIntegration/Modern",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/RubygemsIntegration/Modern",
     "class_desc": 21,
     "method_count": 3,
     "method_desc": 0,
@@ -1457,7 +1457,7 @@
   },
   {
     "class_name": "Bundler::RubygemsIntegration::MoreFuture",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/RubygemsIntegration/MoreFuture",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/RubygemsIntegration/MoreFuture",
     "class_desc": 14,
     "method_count": 7,
     "method_desc": 247,
@@ -1465,7 +1465,7 @@
   },
   {
     "class_name": "Bundler::RubygemsIntegration::MoreModern",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/RubygemsIntegration/MoreModern",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/RubygemsIntegration/MoreModern",
     "class_desc": 16,
     "method_count": 1,
     "method_desc": 99,
@@ -1473,7 +1473,7 @@
   },
   {
     "class_name": "Bundler::RubygemsIntegration::Transitional",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/RubygemsIntegration/Transitional",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/RubygemsIntegration/Transitional",
     "class_desc": 12,
     "method_count": 2,
     "method_desc": 0,
@@ -1481,7 +1481,7 @@
   },
   {
     "class_name": "Bundler::Runtime",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Runtime",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Runtime",
     "class_desc": 0,
     "method_count": 8,
     "method_desc": 0,
@@ -1489,7 +1489,7 @@
   },
   {
     "class_name": "Bundler::SSLCerts",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/SSLCerts",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/SSLCerts",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -1497,7 +1497,7 @@
   },
   {
     "class_name": "Bundler::SSLCerts::CertificateManager",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/SSLCerts/CertificateManager",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/SSLCerts/CertificateManager",
     "class_desc": 0,
     "method_count": 8,
     "method_desc": 137,
@@ -1505,7 +1505,7 @@
   },
   {
     "class_name": "Bundler::SecurityError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/SecurityError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/SecurityError",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -1513,7 +1513,7 @@
   },
   {
     "class_name": "Bundler::Settings",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Settings",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Settings",
     "class_desc": 0,
     "method_count": 20,
     "method_desc": 155,
@@ -1521,7 +1521,7 @@
   },
   {
     "class_name": "Bundler::Settings::Mirror",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Settings/Mirror",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Settings/Mirror",
     "class_desc": 161,
     "method_count": 8,
     "method_desc": 81,
@@ -1529,7 +1529,7 @@
   },
   {
     "class_name": "Bundler::Settings::MirrorConfig",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Settings/MirrorConfig",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Settings/MirrorConfig",
     "class_desc": 174,
     "method_count": 7,
     "method_desc": 116,
@@ -1537,7 +1537,7 @@
   },
   {
     "class_name": "Bundler::Settings::Mirrors",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Settings/Mirrors",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Settings/Mirrors",
     "class_desc": 73,
     "method_count": 4,
     "method_desc": 140,
@@ -1545,7 +1545,7 @@
   },
   {
     "class_name": "Bundler::Settings::Path",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Settings/Path",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Settings/Path",
     "class_desc": 0,
     "method_count": 13,
     "method_desc": 332,
@@ -1553,7 +1553,7 @@
   },
   {
     "class_name": "Bundler::Settings::TCPSocketProbe",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Settings/TCPSocketProbe",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Settings/TCPSocketProbe",
     "class_desc": 59,
     "method_count": 1,
     "method_desc": 0,
@@ -1561,7 +1561,7 @@
   },
   {
     "class_name": "Bundler::Settings::Validator",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Settings/Validator",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Settings/Validator",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -1569,7 +1569,7 @@
   },
   {
     "class_name": "Bundler::Settings::Validator::Rule",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Settings/Validator/Rule",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Settings/Validator/Rule",
     "class_desc": 0,
     "method_count": 6,
     "method_desc": 42,
@@ -1577,7 +1577,7 @@
   },
   {
     "class_name": "Bundler::SharedHelpers",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/SharedHelpers",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/SharedHelpers",
     "class_desc": 0,
     "method_count": 20,
     "method_desc": 135,
@@ -1585,7 +1585,7 @@
   },
   {
     "class_name": "Bundler::SimilarityDetector",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/SimilarityDetector",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/SimilarityDetector",
     "class_desc": 0,
     "method_count": 3,
     "method_desc": 193,
@@ -1593,7 +1593,7 @@
   },
   {
     "class_name": "Bundler::SimilarityDetector::SimilarityScore",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/SimilarityDetector/SimilarityScore",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/SimilarityDetector/SimilarityScore",
     "class_desc": 0,
     "method_count": 4,
     "method_desc": 128,
@@ -1601,7 +1601,7 @@
   },
   {
     "class_name": "Bundler::SocketAddress",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/SocketAddress",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/SocketAddress",
     "class_desc": 109,
     "method_count": 5,
     "method_desc": 105,
@@ -1609,7 +1609,7 @@
   },
   {
     "class_name": "Bundler::Source",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Source",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Source",
     "class_desc": 0,
     "method_count": 11,
     "method_desc": 269,
@@ -1617,7 +1617,7 @@
   },
   {
     "class_name": "Bundler::Source::Gemspec",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Source/Gemspec",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Source/Gemspec",
     "class_desc": 0,
     "method_count": 3,
     "method_desc": 38,
@@ -1625,7 +1625,7 @@
   },
   {
     "class_name": "Bundler::Source::Git",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Source/Git",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Source/Git",
     "class_desc": 0,
     "method_count": 26,
     "method_desc": 693,
@@ -1633,7 +1633,7 @@
   },
   {
     "class_name": "Bundler::Source::Git::GitCommandError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Source/Git/GitCommandError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Source/Git/GitCommandError",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -1641,7 +1641,7 @@
   },
   {
     "class_name": "Bundler::Source::Git::GitNotAllowedError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Source/Git/GitNotAllowedError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Source/Git/GitNotAllowedError",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -1649,7 +1649,7 @@
   },
   {
     "class_name": "Bundler::Source::Git::GitNotInstalledError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Source/Git/GitNotInstalledError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Source/Git/GitNotInstalledError",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -1657,7 +1657,7 @@
   },
   {
     "class_name": "Bundler::Source::Git::GitProxy",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Source/Git/GitProxy",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Source/Git/GitProxy",
     "class_desc": 133,
     "method_count": 15,
     "method_desc": 197,
@@ -1665,7 +1665,7 @@
   },
   {
     "class_name": "Bundler::Source::Git::MissingGitRevisionError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Source/Git/MissingGitRevisionError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Source/Git/MissingGitRevisionError",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -1673,7 +1673,7 @@
   },
   {
     "class_name": "Bundler::Source::Metadata",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Source/Metadata",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Source/Metadata",
     "class_desc": 0,
     "method_count": 10,
     "method_desc": 0,
@@ -1681,7 +1681,7 @@
   },
   {
     "class_name": "Bundler::Source::Path",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Source/Path",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Source/Path",
     "class_desc": 0,
     "method_count": 23,
     "method_desc": 200,
@@ -1689,7 +1689,7 @@
   },
   {
     "class_name": "Bundler::Source::Path::Installer",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Source/Path/Installer",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Source/Path/Installer",
     "class_desc": 0,
     "method_count": 3,
     "method_desc": 35,
@@ -1697,7 +1697,7 @@
   },
   {
     "class_name": "Bundler::Source::Rubygems",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Source/Rubygems",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Source/Rubygems",
     "class_desc": 0,
     "method_count": 26,
     "method_desc": 75,
@@ -1705,7 +1705,7 @@
   },
   {
     "class_name": "Bundler::Source::Rubygems::Remote",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Source/Rubygems/Remote",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Source/Rubygems/Remote",
     "class_desc": 0,
     "method_count": 6,
     "method_desc": 122,
@@ -1713,7 +1713,7 @@
   },
   {
     "class_name": "Bundler::SourceList",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/SourceList",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/SourceList",
     "class_desc": 0,
     "method_count": 22,
     "method_desc": 262,
@@ -1721,7 +1721,7 @@
   },
   {
     "class_name": "Bundler::SpecSet",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/SpecSet",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/SpecSet",
     "class_desc": 0,
     "method_count": 13,
     "method_desc": 235,
@@ -1729,7 +1729,7 @@
   },
   {
     "class_name": "Bundler::Standalone",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Standalone",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Standalone",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 0,
@@ -1737,7 +1737,7 @@
   },
   {
     "class_name": "Bundler::StubSpecification",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/StubSpecification",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/StubSpecification",
     "class_desc": 0,
     "method_count": 17,
     "method_desc": 286,
@@ -1745,7 +1745,7 @@
   },
   {
     "class_name": "Bundler::SudoNotPermittedError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/SudoNotPermittedError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/SudoNotPermittedError",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -1753,7 +1753,7 @@
   },
   {
     "class_name": "Bundler::TemporaryResourceError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/TemporaryResourceError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/TemporaryResourceError",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -1761,7 +1761,7 @@
   },
   {
     "class_name": "Bundler::Thor",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor",
     "class_desc": 0,
     "method_count": 28,
     "method_desc": 5298,
@@ -1769,7 +1769,7 @@
   },
   {
     "class_name": "Bundler::Thor::Actions",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/Actions",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/Actions",
     "class_desc": 0,
     "method_count": 40,
     "method_desc": 14697,
@@ -1777,7 +1777,7 @@
   },
   {
     "class_name": "Bundler::Thor::Actions::CapturableERB",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/Actions/CapturableERB",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/Actions/CapturableERB",
     "class_desc": 128,
     "method_count": 1,
     "method_desc": 0,
@@ -1785,7 +1785,7 @@
   },
   {
     "class_name": "Bundler::Thor::Actions::ClassMethods",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/Actions/ClassMethods",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/Actions/ClassMethods",
     "class_desc": 0,
     "method_count": 4,
     "method_desc": 401,
@@ -1793,7 +1793,7 @@
   },
   {
     "class_name": "Bundler::Thor::Actions::CreateFile",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/Actions/CreateFile",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/Actions/CreateFile",
     "class_desc": 114,
     "method_count": 5,
     "method_desc": 204,
@@ -1801,7 +1801,7 @@
   },
   {
     "class_name": "Bundler::Thor::Actions::CreateLink",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/Actions/CreateLink",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/Actions/CreateLink",
     "class_desc": 120,
     "method_count": 4,
     "method_desc": 162,
@@ -1809,7 +1809,7 @@
   },
   {
     "class_name": "Bundler::Thor::Actions::Directory",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/Actions/Directory",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/Actions/Directory",
     "class_desc": 7,
     "method_count": 4,
     "method_desc": 37,
@@ -1817,7 +1817,7 @@
   },
   {
     "class_name": "Bundler::Thor::Actions::EmptyDirectory",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/Actions/EmptyDirectory",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/Actions/EmptyDirectory",
     "class_desc": 233,
     "method_count": 9,
     "method_desc": 633,
@@ -1825,7 +1825,7 @@
   },
   {
     "class_name": "Bundler::Thor::Actions::InjectIntoFile",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/Actions/InjectIntoFile",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/Actions/InjectIntoFile",
     "class_desc": 7,
     "method_count": 6,
     "method_desc": 116,
@@ -1833,7 +1833,7 @@
   },
   {
     "class_name": "Bundler::Thor::AmbiguousCommandError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/AmbiguousCommandError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/AmbiguousCommandError",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -1841,7 +1841,7 @@
   },
   {
     "class_name": "Bundler::Thor::Argument",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/Argument",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/Argument",
     "class_desc": 7,
     "method_count": 12,
     "method_desc": 296,
@@ -1849,7 +1849,7 @@
   },
   {
     "class_name": "Bundler::Thor::Arguments",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/Arguments",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/Arguments",
     "class_desc": 37,
     "method_count": 5,
     "method_desc": 141,
@@ -1857,7 +1857,7 @@
   },
   {
     "class_name": "Bundler::Thor::Base",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/Base",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/Base",
     "class_desc": 0,
     "method_count": 13,
     "method_desc": 1400,
@@ -1865,7 +1865,7 @@
   },
   {
     "class_name": "Bundler::Thor::Base::ClassMethods",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/Base/ClassMethods",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/Base/ClassMethods",
     "class_desc": 0,
     "method_count": 36,
     "method_desc": 7658,
@@ -1873,7 +1873,7 @@
   },
   {
     "class_name": "Bundler::Thor::Command",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/Command",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/Command",
     "class_desc": 0,
     "method_count": 17,
     "method_desc": 646,
@@ -1881,7 +1881,7 @@
   },
   {
     "class_name": "Bundler::Thor::CoreExt",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/CoreExt",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/CoreExt",
     "class_desc": 7,
     "method_count": 0,
     "method_desc": 0,
@@ -1889,7 +1889,7 @@
   },
   {
     "class_name": "Bundler::Thor::CoreExt::HashWithIndifferentAccess",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/CoreExt/HashWithIndifferentAccess",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/CoreExt/HashWithIndifferentAccess",
     "class_desc": 236,
     "method_count": 13,
     "method_desc": 42,
@@ -1897,7 +1897,7 @@
   },
   {
     "class_name": "Bundler::Thor::CoreExt::OrderedHash",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/CoreExt/OrderedHash",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/CoreExt/OrderedHash",
     "class_desc": 0,
     "method_count": 23,
     "method_desc": 110,
@@ -1905,7 +1905,7 @@
   },
   {
     "class_name": "Bundler::Thor::DynamicCommand",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/DynamicCommand",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/DynamicCommand",
     "class_desc": 56,
     "method_count": 2,
     "method_desc": 0,
@@ -1913,7 +1913,7 @@
   },
   {
     "class_name": "Bundler::Thor::Error",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/Error",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/Error",
     "class_desc": 371,
     "method_count": 0,
     "method_desc": 0,
@@ -1921,7 +1921,7 @@
   },
   {
     "class_name": "Bundler::Thor::Group",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/Group",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/Group",
     "class_desc": 282,
     "method_count": 12,
     "method_desc": 2200,
@@ -1929,7 +1929,7 @@
   },
   {
     "class_name": "Bundler::Thor::HiddenCommand",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/HiddenCommand",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/HiddenCommand",
     "class_desc": 62,
     "method_count": 1,
     "method_desc": 0,
@@ -1937,7 +1937,7 @@
   },
   {
     "class_name": "Bundler::Thor::Invocation",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/Invocation",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/Invocation",
     "class_desc": 0,
     "method_count": 8,
     "method_desc": 2426,
@@ -1945,7 +1945,7 @@
   },
   {
     "class_name": "Bundler::Thor::Invocation::ClassMethods",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/Invocation/ClassMethods",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/Invocation/ClassMethods",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 211,
@@ -1953,7 +1953,7 @@
   },
   {
     "class_name": "Bundler::Thor::InvocationError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/InvocationError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/InvocationError",
     "class_desc": 58,
     "method_count": 0,
     "method_desc": 0,
@@ -1961,7 +1961,7 @@
   },
   {
     "class_name": "Bundler::Thor::LineEditor",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/LineEditor",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/LineEditor",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 0,
@@ -1969,7 +1969,7 @@
   },
   {
     "class_name": "Bundler::Thor::LineEditor::Basic",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/LineEditor/Basic",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/LineEditor/Basic",
     "class_desc": 0,
     "method_count": 5,
     "method_desc": 75,
@@ -1977,7 +1977,7 @@
   },
   {
     "class_name": "Bundler::Thor::LineEditor::Readline",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/LineEditor/Readline",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/LineEditor/Readline",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 0,
@@ -1985,7 +1985,7 @@
   },
   {
     "class_name": "Bundler::Thor::LineEditor::Readline::PathCompletion",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/LineEditor/Readline/PathCompletion",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/LineEditor/Readline/PathCompletion",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 0,
@@ -1993,7 +1993,7 @@
   },
   {
     "class_name": "Bundler::Thor::MalformattedArgumentError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/MalformattedArgumentError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/MalformattedArgumentError",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -2001,7 +2001,7 @@
   },
   {
     "class_name": "Bundler::Thor::Option",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/Option",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/Option",
     "class_desc": 7,
     "method_count": 9,
     "method_desc": 1008,
@@ -2009,7 +2009,7 @@
   },
   {
     "class_name": "Bundler::Thor::Options",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/Options",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/Options",
     "class_desc": 37,
     "method_count": 6,
     "method_desc": 243,
@@ -2017,7 +2017,7 @@
   },
   {
     "class_name": "Bundler::Thor::RakeCompat",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/RakeCompat",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/RakeCompat",
     "class_desc": 464,
     "method_count": 2,
     "method_desc": 0,
@@ -2025,7 +2025,7 @@
   },
   {
     "class_name": "Bundler::Thor::RequiredArgumentMissingError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/RequiredArgumentMissingError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/RequiredArgumentMissingError",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -2033,7 +2033,7 @@
   },
   {
     "class_name": "Bundler::Thor::Runner",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/Runner",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/Runner",
     "class_desc": 37,
     "method_count": 10,
     "method_desc": 277,
@@ -2041,7 +2041,7 @@
   },
   {
     "class_name": "Bundler::Thor::Sandbox",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/Sandbox",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/Sandbox",
     "class_desc": 7,
     "method_count": 0,
     "method_desc": 0,
@@ -2049,7 +2049,7 @@
   },
   {
     "class_name": "Bundler::Thor::Shell",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/Shell",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/Shell",
     "class_desc": 0,
     "method_count": 4,
     "method_desc": 479,
@@ -2057,7 +2057,7 @@
   },
   {
     "class_name": "Bundler::Thor::Shell::Basic",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/Shell/Basic",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/Shell/Basic",
     "class_desc": 0,
     "method_count": 20,
     "method_desc": 3122,
@@ -2065,7 +2065,7 @@
   },
   {
     "class_name": "Bundler::Thor::Shell::Color",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/Shell/Color",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/Shell/Color",
     "class_desc": 132,
     "method_count": 1,
     "method_desc": 566,
@@ -2073,7 +2073,7 @@
   },
   {
     "class_name": "Bundler::Thor::Shell::HTML",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/Shell/HTML",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/Shell/HTML",
     "class_desc": 132,
     "method_count": 2,
     "method_desc": 381,
@@ -2081,7 +2081,7 @@
   },
   {
     "class_name": "Bundler::Thor::UndefinedCommandError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/UndefinedCommandError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/UndefinedCommandError",
     "class_desc": 36,
     "method_count": 0,
     "method_desc": 0,
@@ -2089,7 +2089,7 @@
   },
   {
     "class_name": "Bundler::Thor::UnknownArgumentError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/UnknownArgumentError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/UnknownArgumentError",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -2097,7 +2097,7 @@
   },
   {
     "class_name": "Bundler::Thor::Util",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Thor/Util",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Thor/Util",
     "class_desc": 277,
     "method_count": 15,
     "method_desc": 3341,
@@ -2105,7 +2105,7 @@
   },
   {
     "class_name": "Bundler::ThreadCreationError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/ThreadCreationError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/ThreadCreationError",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -2113,7 +2113,7 @@
   },
   {
     "class_name": "Bundler::UI",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/UI",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/UI",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -2121,7 +2121,7 @@
   },
   {
     "class_name": "Bundler::UI::RGProxy",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/UI/RGProxy",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/UI/RGProxy",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 0,
@@ -2129,7 +2129,7 @@
   },
   {
     "class_name": "Bundler::UI::Shell",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/UI/Shell",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/UI/Shell",
     "class_desc": 0,
     "method_count": 18,
     "method_desc": 24,
@@ -2137,7 +2137,7 @@
   },
   {
     "class_name": "Bundler::UI::Silent",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/UI/Silent",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/UI/Silent",
     "class_desc": 0,
     "method_count": 18,
     "method_desc": 24,
@@ -2145,7 +2145,7 @@
   },
   {
     "class_name": "Bundler::URICredentialsFilter",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/URICredentialsFilter",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/URICredentialsFilter",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 0,
@@ -2153,7 +2153,7 @@
   },
   {
     "class_name": "Bundler::VersionConflict",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/VersionConflict",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/VersionConflict",
     "class_desc": 33,
     "method_count": 2,
     "method_desc": 40,
@@ -2161,7 +2161,7 @@
   },
   {
     "class_name": "Bundler::VersionRanges",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/VersionRanges",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/VersionRanges",
     "class_desc": 0,
     "method_count": 3,
     "method_desc": 0,
@@ -2169,7 +2169,7 @@
   },
   {
     "class_name": "Bundler::VersionRanges::NEq",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/VersionRanges/NEq",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/VersionRanges/NEq",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 64,
@@ -2177,7 +2177,7 @@
   },
   {
     "class_name": "Bundler::VersionRanges::ReqR",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/VersionRanges/ReqR",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/VersionRanges/ReqR",
     "class_desc": 0,
     "method_count": 8,
     "method_desc": 118,
@@ -2185,7 +2185,7 @@
   },
   {
     "class_name": "Bundler::VersionRanges::ReqR::Endpoint",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/VersionRanges/ReqR/Endpoint",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/VersionRanges/ReqR/Endpoint",
     "class_desc": 0,
     "method_count": 4,
     "method_desc": 132,
@@ -2193,7 +2193,7 @@
   },
   {
     "class_name": "Bundler::VirtualProtocolError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/VirtualProtocolError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/VirtualProtocolError",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -2201,7 +2201,7 @@
   },
   {
     "class_name": "Bundler::Worker",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Worker",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Worker",
     "class_desc": 0,
     "method_count": 5,
     "method_desc": 153,
@@ -2209,7 +2209,7 @@
   },
   {
     "class_name": "Bundler::Worker::WrappedException",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/Worker/WrappedException",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/Worker/WrappedException",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 40,
@@ -2217,7 +2217,7 @@
   },
   {
     "class_name": "Bundler::YAMLSerializer",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/YAMLSerializer",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/YAMLSerializer",
     "class_desc": 75,
     "method_count": 4,
     "method_desc": 18,
@@ -2225,7 +2225,7 @@
   },
   {
     "class_name": "Bundler::YamlSyntaxError",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Bundler/YamlSyntaxError",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Bundler/YamlSyntaxError",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 45,
@@ -2233,7 +2233,7 @@
   },
   {
     "class_name": "Gem",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Gem",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Gem",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -2241,7 +2241,7 @@
   },
   {
     "class_name": "Gem::Dependency",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Gem/Dependency",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Gem/Dependency",
     "class_desc": 0,
     "method_count": 12,
     "method_desc": 253,
@@ -2249,7 +2249,7 @@
   },
   {
     "class_name": "Gem::Platform",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Gem/Platform",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Gem/Platform",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 0,
@@ -2257,7 +2257,7 @@
   },
   {
     "class_name": "Gem::Requirement",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Gem/Requirement",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Gem/Requirement",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 114,
@@ -2265,7 +2265,7 @@
   },
   {
     "class_name": "Gem::Specification",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Gem/Specification",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Gem/Specification",
     "class_desc": 0,
     "method_count": 21,
     "method_desc": 312,
@@ -2273,7 +2273,7 @@
   },
   {
     "class_name": "IO",
-    "url": "https://rubydoc.info/gems/bundler/< 2/IO",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/IO",
     "class_desc": 7,
     "method_count": 1,
     "method_desc": 0,
@@ -2281,7 +2281,7 @@
   },
   {
     "class_name": "Net::BufferedIO",
-    "url": "https://rubydoc.info/gems/bundler/< 2/Net/BufferedIO",
+    "url": "https://rubydoc.info/gems/bundler/1.17.3/Net/BufferedIO",
     "class_desc": 117,
     "method_count": 2,
     "method_desc": 0,
