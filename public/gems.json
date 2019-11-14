@@ -2,6 +2,7 @@
   "bundler-2.0.2.json",
   "bundler-1.17.3.json",
   "capybara-3.29.0.json",
+  "concurrent-ruby-1.1.5.json",
   "devise-4.7.1.json",
   "eventmachine-1.2.7.json",
   "factory_bot-5.1.1.json",
