@@ -1,0 +1,3218 @@
+[
+  {
+    "class_name": "Mongo",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo",
+    "class_desc": 560,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 560
+  },
+  {
+    "class_name": "Mongo::Address",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Address",
+    "class_desc": 76,
+    "method_count": 11,
+    "method_desc": 640,
+    "total": 716
+  },
+  {
+    "class_name": "Mongo::Address::IPv4",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Address/IPv4",
+    "class_desc": 69,
+    "method_count": 6,
+    "method_desc": 136,
+    "total": 205
+  },
+  {
+    "class_name": "Mongo::Address::IPv6",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Address/IPv6",
+    "class_desc": 69,
+    "method_count": 6,
+    "method_desc": 136,
+    "total": 205
+  },
+  {
+    "class_name": "Mongo::Address::Unix",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Address/Unix",
+    "class_desc": 25,
+    "method_count": 5,
+    "method_desc": 113,
+    "total": 138
+  },
+  {
+    "class_name": "Mongo::Address::Validator",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Address/Validator",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 90,
+    "total": 90
+  },
+  {
+    "class_name": "Mongo::Auth",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Auth",
+    "class_desc": 60,
+    "method_count": 1,
+    "method_desc": 63,
+    "total": 123
+  },
+  {
+    "class_name": "Mongo::Auth::CR",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Auth/CR",
+    "class_desc": 47,
+    "method_count": 3,
+    "method_desc": 72,
+    "total": 119
+  },
+  {
+    "class_name": "Mongo::Auth::CR::Conversation",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Auth/CR/Conversation",
+    "class_desc": 87,
+    "method_count": 8,
+    "method_desc": 388,
+    "total": 475
+  },
+  {
+    "class_name": "Mongo::Auth::InvalidConfiguration",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Auth/InvalidConfiguration",
+    "class_desc": 61,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 61
+  },
+  {
+    "class_name": "Mongo::Auth::InvalidMechanism",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Auth/InvalidMechanism",
+    "class_desc": 61,
+    "method_count": 1,
+    "method_desc": 26,
+    "total": 87
+  },
+  {
+    "class_name": "Mongo::Auth::LDAP",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Auth/LDAP",
+    "class_desc": 47,
+    "method_count": 3,
+    "method_desc": 72,
+    "total": 119
+  },
+  {
+    "class_name": "Mongo::Auth::LDAP::Conversation",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Auth/LDAP/Conversation",
+    "class_desc": 82,
+    "method_count": 5,
+    "method_desc": 251,
+    "total": 333
+  },
+  {
+    "class_name": "Mongo::Auth::Roles",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Auth/Roles",
+    "class_desc": 62,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 62
+  },
+  {
+    "class_name": "Mongo::Auth::SCRAM",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Auth/SCRAM",
+    "class_desc": 42,
+    "method_count": 3,
+    "method_desc": 72,
+    "total": 114
+  },
+  {
+    "class_name": "Mongo::Auth::SCRAM::Conversation",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Auth/SCRAM/Conversation",
+    "class_desc": 92,
+    "method_count": 9,
+    "method_desc": 428,
+    "total": 520
+  },
+  {
+    "class_name": "Mongo::Auth::StringPrep",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Auth/StringPrep",
+    "class_desc": 189,
+    "method_count": 1,
+    "method_desc": 73,
+    "total": 262
+  },
+  {
+    "class_name": "Mongo::Auth::StringPrep::Profiles",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Auth/StringPrep/Profiles",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mongo::Auth::StringPrep::Profiles::SASL",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Auth/StringPrep/Profiles/SASL",
+    "class_desc": 67,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 67
+  },
+  {
+    "class_name": "Mongo::Auth::StringPrep::Tables",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Auth/StringPrep/Tables",
+    "class_desc": 67,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 67
+  },
+  {
+    "class_name": "Mongo::Auth::Unauthorized",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Auth/Unauthorized",
+    "class_desc": 51,
+    "method_count": 1,
+    "method_desc": 26,
+    "total": 77
+  },
+  {
+    "class_name": "Mongo::Auth::User",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Auth/User",
+    "class_desc": 29,
+    "method_count": 16,
+    "method_desc": 508,
+    "total": 537
+  },
+  {
+    "class_name": "Mongo::Auth::User::View",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Auth/User/View",
+    "class_desc": 57,
+    "method_count": 6,
+    "method_desc": 172,
+    "total": 229
+  },
+  {
+    "class_name": "Mongo::Auth::X509",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Auth/X509",
+    "class_desc": 42,
+    "method_count": 3,
+    "method_desc": 72,
+    "total": 114
+  },
+  {
+    "class_name": "Mongo::Auth::X509::Conversation",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Auth/X509/Conversation",
+    "class_desc": 82,
+    "method_count": 5,
+    "method_desc": 251,
+    "total": 333
+  },
+  {
+    "class_name": "Mongo::BackgroundThread",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/BackgroundThread",
+    "class_desc": 301,
+    "method_count": 3,
+    "method_desc": 174,
+    "total": 475
+  },
+  {
+    "class_name": "Mongo::BulkWrite",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/BulkWrite",
+    "class_desc": 0,
+    "method_count": 7,
+    "method_desc": 136,
+    "total": 136
+  },
+  {
+    "class_name": "Mongo::BulkWrite::Combineable",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/BulkWrite/Combineable",
+    "class_desc": 33,
+    "method_count": 4,
+    "method_desc": 43,
+    "total": 76
+  },
+  {
+    "class_name": "Mongo::BulkWrite::OrderedCombiner",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/BulkWrite/OrderedCombiner",
+    "class_desc": 50,
+    "method_count": 1,
+    "method_desc": 30,
+    "total": 80
+  },
+  {
+    "class_name": "Mongo::BulkWrite::Result",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/BulkWrite/Result",
+    "class_desc": 59,
+    "method_count": 9,
+    "method_desc": 410,
+    "total": 469
+  },
+  {
+    "class_name": "Mongo::BulkWrite::ResultCombiner",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/BulkWrite/ResultCombiner",
+    "class_desc": 37,
+    "method_count": 5,
+    "method_desc": 89,
+    "total": 126
+  },
+  {
+    "class_name": "Mongo::BulkWrite::Transformable",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/BulkWrite/Transformable",
+    "class_desc": 40,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 40
+  },
+  {
+    "class_name": "Mongo::BulkWrite::UnorderedCombiner",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/BulkWrite/UnorderedCombiner",
+    "class_desc": 53,
+    "method_count": 1,
+    "method_desc": 30,
+    "total": 83
+  },
+  {
+    "class_name": "Mongo::BulkWrite::Validatable",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/BulkWrite/Validatable",
+    "class_desc": 36,
+    "method_count": 1,
+    "method_desc": 22,
+    "total": 58
+  },
+  {
+    "class_name": "Mongo::Client",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Client",
+    "class_desc": 96,
+    "method_count": 28,
+    "method_desc": 2277,
+    "total": 2373
+  },
+  {
+    "class_name": "Mongo::Cluster",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Cluster",
+    "class_desc": 560,
+    "method_count": 34,
+    "method_desc": 2847,
+    "total": 3407
+  },
+  {
+    "class_name": "Mongo::Cluster::CursorReaper",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Cluster/CursorReaper",
+    "class_desc": 140,
+    "method_count": 7,
+    "method_desc": 308,
+    "total": 448
+  },
+  {
+    "class_name": "Mongo::Cluster::PeriodicExecutor",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Cluster/PeriodicExecutor",
+    "class_desc": 69,
+    "method_count": 8,
+    "method_desc": 97,
+    "total": 166
+  },
+  {
+    "class_name": "Mongo::Cluster::SdamFlow",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Cluster/SdamFlow",
+    "class_desc": 250,
+    "method_count": 22,
+    "method_desc": 2201,
+    "total": 2451
+  },
+  {
+    "class_name": "Mongo::Cluster::SocketReaper",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Cluster/SocketReaper",
+    "class_desc": 82,
+    "method_count": 3,
+    "method_desc": 245,
+    "total": 327
+  },
+  {
+    "class_name": "Mongo::Cluster::SrvMonitor",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Cluster/SrvMonitor",
+    "class_desc": 278,
+    "method_count": 5,
+    "method_desc": 24,
+    "total": 302
+  },
+  {
+    "class_name": "Mongo::Cluster::Topology",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Cluster/Topology",
+    "class_desc": 546,
+    "method_count": 1,
+    "method_desc": 58,
+    "total": 604
+  },
+  {
+    "class_name": "Mongo::Cluster::Topology::Base",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Cluster/Topology/Base",
+    "class_desc": 42,
+    "method_count": 14,
+    "method_desc": 264,
+    "total": 306
+  },
+  {
+    "class_name": "Mongo::Cluster::Topology::NoReplicaSetOptions",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Cluster/Topology/NoReplicaSetOptions",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mongo::Cluster::Topology::ReplicaSetNoPrimary",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Cluster/Topology/ReplicaSetNoPrimary",
+    "class_desc": 141,
+    "method_count": 9,
+    "method_desc": 409,
+    "total": 550
+  },
+  {
+    "class_name": "Mongo::Cluster::Topology::ReplicaSetWithPrimary",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Cluster/Topology/ReplicaSetWithPrimary",
+    "class_desc": 120,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 120
+  },
+  {
+    "class_name": "Mongo::Cluster::Topology::Sharded",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Cluster/Topology/Sharded",
+    "class_desc": 59,
+    "method_count": 9,
+    "method_desc": 393,
+    "total": 452
+  },
+  {
+    "class_name": "Mongo::Cluster::Topology::Single",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Cluster/Topology/Single",
+    "class_desc": 58,
+    "method_count": 9,
+    "method_desc": 390,
+    "total": 448
+  },
+  {
+    "class_name": "Mongo::Cluster::Topology::Unknown",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Cluster/Topology/Unknown",
+    "class_desc": 59,
+    "method_count": 9,
+    "method_desc": 397,
+    "total": 456
+  },
+  {
+    "class_name": "Mongo::ClusterTime",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/ClusterTime",
+    "class_desc": 383,
+    "method_count": 9,
+    "method_desc": 700,
+    "total": 1083
+  },
+  {
+    "class_name": "Mongo::ClusterTime::Consumer",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/ClusterTime/Consumer",
+    "class_desc": 59,
+    "method_count": 2,
+    "method_desc": 305,
+    "total": 364
+  },
+  {
+    "class_name": "Mongo::Collection",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Collection",
+    "class_desc": 91,
+    "method_count": 36,
+    "method_desc": 2494,
+    "total": 2585
+  },
+  {
+    "class_name": "Mongo::Collection::View",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Collection/View",
+    "class_desc": 538,
+    "method_count": 9,
+    "method_desc": 274,
+    "total": 812
+  },
+  {
+    "class_name": "Mongo::Collection::View::Aggregation",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Collection/View/Aggregation",
+    "class_desc": 70,
+    "method_count": 5,
+    "method_desc": 183,
+    "total": 253
+  },
+  {
+    "class_name": "Mongo::Collection::View::Builder",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Collection/View/Builder",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mongo::Collection::View::Builder::Aggregation",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Collection/View/Builder/Aggregation",
+    "class_desc": 70,
+    "method_count": 5,
+    "method_desc": 82,
+    "total": 152
+  },
+  {
+    "class_name": "Mongo::Collection::View::Builder::FindCommand",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Collection/View/Builder/FindCommand",
+    "class_desc": 49,
+    "method_count": 3,
+    "method_desc": 165,
+    "total": 214
+  },
+  {
+    "class_name": "Mongo::Collection::View::Builder::Flags",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Collection/View/Builder/Flags",
+    "class_desc": 36,
+    "method_count": 1,
+    "method_desc": 49,
+    "total": 85
+  },
+  {
+    "class_name": "Mongo::Collection::View::Builder::MapReduce",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Collection/View/Builder/MapReduce",
+    "class_desc": 60,
+    "method_count": 8,
+    "method_desc": 220,
+    "total": 280
+  },
+  {
+    "class_name": "Mongo::Collection::View::Builder::Modifiers",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Collection/View/Builder/Modifiers",
+    "class_desc": 40,
+    "method_count": 2,
+    "method_desc": 130,
+    "total": 170
+  },
+  {
+    "class_name": "Mongo::Collection::View::Builder::OpQuery",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Collection/View/Builder/OpQuery",
+    "class_desc": 52,
+    "method_count": 3,
+    "method_desc": 36,
+    "total": 88
+  },
+  {
+    "class_name": "Mongo::Collection::View::ChangeStream",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Collection/View/ChangeStream",
+    "class_desc": 217,
+    "method_count": 9,
+    "method_desc": 807,
+    "total": 1024
+  },
+  {
+    "class_name": "Mongo::Collection::View::ChangeStream::Retryable",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Collection/View/ChangeStream/Retryable",
+    "class_desc": 41,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 41
+  },
+  {
+    "class_name": "Mongo::Collection::View::Explainable",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Collection/View/Explainable",
+    "class_desc": 53,
+    "method_count": 1,
+    "method_desc": 35,
+    "total": 88
+  },
+  {
+    "class_name": "Mongo::Collection::View::Immutable",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Collection/View/Immutable",
+    "class_desc": 63,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 63
+  },
+  {
+    "class_name": "Mongo::Collection::View::Iterable",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Collection/View/Iterable",
+    "class_desc": 88,
+    "method_count": 3,
+    "method_desc": 195,
+    "total": 283
+  },
+  {
+    "class_name": "Mongo::Collection::View::MapReduce",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Collection/View/MapReduce",
+    "class_desc": 71,
+    "method_count": 11,
+    "method_desc": 479,
+    "total": 550
+  },
+  {
+    "class_name": "Mongo::Collection::View::Readable",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Collection/View/Readable",
+    "class_desc": 50,
+    "method_count": 30,
+    "method_desc": 1677,
+    "total": 1727
+  },
+  {
+    "class_name": "Mongo::Collection::View::Writable",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Collection/View/Writable",
+    "class_desc": 51,
+    "method_count": 8,
+    "method_desc": 428,
+    "total": 479
+  },
+  {
+    "class_name": "Mongo::Cursor",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Cursor",
+    "class_desc": 203,
+    "method_count": 14,
+    "method_desc": 925,
+    "total": 1128
+  },
+  {
+    "class_name": "Mongo::Cursor::Builder",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Cursor/Builder",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mongo::Cursor::Builder::GetMoreCommand",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Cursor/Builder/GetMoreCommand",
+    "class_desc": 49,
+    "method_count": 3,
+    "method_desc": 45,
+    "total": 94
+  },
+  {
+    "class_name": "Mongo::Cursor::Builder::KillCursorsCommand",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Cursor/Builder/KillCursorsCommand",
+    "class_desc": 53,
+    "method_count": 5,
+    "method_desc": 154,
+    "total": 207
+  },
+  {
+    "class_name": "Mongo::Cursor::Builder::OpGetMore",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Cursor/Builder/OpGetMore",
+    "class_desc": 69,
+    "method_count": 3,
+    "method_desc": 45,
+    "total": 114
+  },
+  {
+    "class_name": "Mongo::Cursor::Builder::OpKillCursors",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Cursor/Builder/OpKillCursors",
+    "class_desc": 73,
+    "method_count": 5,
+    "method_desc": 154,
+    "total": 227
+  },
+  {
+    "class_name": "Mongo::DBRef",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/DBRef",
+    "class_desc": 44,
+    "method_count": 6,
+    "method_desc": 87,
+    "total": 131
+  },
+  {
+    "class_name": "Mongo::DBRef::ClassMethods",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/DBRef/ClassMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 69,
+    "total": 69
+  },
+  {
+    "class_name": "Mongo::Database",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Database",
+    "class_desc": 91,
+    "method_count": 20,
+    "method_desc": 1141,
+    "total": 1232
+  },
+  {
+    "class_name": "Mongo::Database::View",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Database/View",
+    "class_desc": 42,
+    "method_count": 8,
+    "method_desc": 185,
+    "total": 227
+  },
+  {
+    "class_name": "Mongo::Error",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error",
+    "class_desc": 46,
+    "method_count": 5,
+    "method_desc": 308,
+    "total": 354
+  },
+  {
+    "class_name": "Mongo::Error::AuthError",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/AuthError",
+    "class_desc": 181,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 181
+  },
+  {
+    "class_name": "Mongo::Error::BulkWriteError",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/BulkWriteError",
+    "class_desc": 77,
+    "method_count": 3,
+    "method_desc": 30,
+    "total": 107
+  },
+  {
+    "class_name": "Mongo::Error::ChangeStreamResumable",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/ChangeStreamResumable",
+    "class_desc": 77,
+    "method_count": 1,
+    "method_desc": 126,
+    "total": 203
+  },
+  {
+    "class_name": "Mongo::Error::ClosedStream",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/ClosedStream",
+    "class_desc": 84,
+    "method_count": 1,
+    "method_desc": 25,
+    "total": 109
+  },
+  {
+    "class_name": "Mongo::Error::ConnectionCheckOutTimeout",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/ConnectionCheckOutTimeout",
+    "class_desc": 178,
+    "method_count": 2,
+    "method_desc": 30,
+    "total": 208
+  },
+  {
+    "class_name": "Mongo::Error::ExtraFileChunk",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/ExtraFileChunk",
+    "class_desc": 34,
+    "method_count": 1,
+    "method_desc": 25,
+    "total": 59
+  },
+  {
+    "class_name": "Mongo::Error::FailedStringPrepValidation",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/FailedStringPrepValidation",
+    "class_desc": 134,
+    "method_count": 1,
+    "method_desc": 25,
+    "total": 159
+  },
+  {
+    "class_name": "Mongo::Error::FileNotFound",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/FileNotFound",
+    "class_desc": 62,
+    "method_count": 1,
+    "method_desc": 25,
+    "total": 87
+  },
+  {
+    "class_name": "Mongo::Error::HandshakeError",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/HandshakeError",
+    "class_desc": 37,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 37
+  },
+  {
+    "class_name": "Mongo::Error::InsufficientIterationCount",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/InsufficientIterationCount",
+    "class_desc": 71,
+    "method_count": 2,
+    "method_desc": 30,
+    "total": 101
+  },
+  {
+    "class_name": "Mongo::Error::InvalidAddress",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/InvalidAddress",
+    "class_desc": 66,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 66
+  },
+  {
+    "class_name": "Mongo::Error::InvalidApplicationName",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/InvalidApplicationName",
+    "class_desc": 122,
+    "method_count": 1,
+    "method_desc": 30,
+    "total": 152
+  },
+  {
+    "class_name": "Mongo::Error::InvalidBulkOperation",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/InvalidBulkOperation",
+    "class_desc": 59,
+    "method_count": 1,
+    "method_desc": 30,
+    "total": 89
+  },
+  {
+    "class_name": "Mongo::Error::InvalidBulkOperationType",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/InvalidBulkOperationType",
+    "class_desc": 59,
+    "method_count": 1,
+    "method_desc": 30,
+    "total": 89
+  },
+  {
+    "class_name": "Mongo::Error::InvalidCollectionName",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/InvalidCollectionName",
+    "class_desc": 73,
+    "method_count": 1,
+    "method_desc": 30,
+    "total": 103
+  },
+  {
+    "class_name": "Mongo::Error::InvalidDatabaseName",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/InvalidDatabaseName",
+    "class_desc": 71,
+    "method_count": 1,
+    "method_desc": 30,
+    "total": 101
+  },
+  {
+    "class_name": "Mongo::Error::InvalidDocument",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/InvalidDocument",
+    "class_desc": 55,
+    "method_count": 1,
+    "method_desc": 30,
+    "total": 85
+  },
+  {
+    "class_name": "Mongo::Error::InvalidFile",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/InvalidFile",
+    "class_desc": 84,
+    "method_count": 1,
+    "method_desc": 25,
+    "total": 109
+  },
+  {
+    "class_name": "Mongo::Error::InvalidFileRevision",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/InvalidFileRevision",
+    "class_desc": 51,
+    "method_count": 1,
+    "method_desc": 25,
+    "total": 76
+  },
+  {
+    "class_name": "Mongo::Error::InvalidMinPoolSize",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/InvalidMinPoolSize",
+    "class_desc": 95,
+    "method_count": 1,
+    "method_desc": 30,
+    "total": 125
+  },
+  {
+    "class_name": "Mongo::Error::InvalidNonce",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/InvalidNonce",
+    "class_desc": 99,
+    "method_count": 3,
+    "method_desc": 30,
+    "total": 129
+  },
+  {
+    "class_name": "Mongo::Error::InvalidReadOption",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/InvalidReadOption",
+    "class_desc": 86,
+    "method_count": 1,
+    "method_desc": 30,
+    "total": 116
+  },
+  {
+    "class_name": "Mongo::Error::InvalidReplacementDocument",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/InvalidReplacementDocument",
+    "class_desc": 67,
+    "method_count": 1,
+    "method_desc": 30,
+    "total": 97
+  },
+  {
+    "class_name": "Mongo::Error::InvalidServerPreference",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/InvalidServerPreference",
+    "class_desc": 53,
+    "method_count": 1,
+    "method_desc": 30,
+    "total": 83
+  },
+  {
+    "class_name": "Mongo::Error::InvalidSession",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/InvalidSession",
+    "class_desc": 82,
+    "method_count": 1,
+    "method_desc": 25,
+    "total": 107
+  },
+  {
+    "class_name": "Mongo::Error::InvalidSignature",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/InvalidSignature",
+    "class_desc": 102,
+    "method_count": 3,
+    "method_desc": 25,
+    "total": 127
+  },
+  {
+    "class_name": "Mongo::Error::InvalidTXTRecord",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/InvalidTXTRecord",
+    "class_desc": 124,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 124
+  },
+  {
+    "class_name": "Mongo::Error::InvalidTransactionOperation",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/InvalidTransactionOperation",
+    "class_desc": 79,
+    "method_count": 3,
+    "method_desc": 222,
+    "total": 301
+  },
+  {
+    "class_name": "Mongo::Error::InvalidURI",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/InvalidURI",
+    "class_desc": 90,
+    "method_count": 1,
+    "method_desc": 30,
+    "total": 120
+  },
+  {
+    "class_name": "Mongo::Error::InvalidUpdateDocument",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/InvalidUpdateDocument",
+    "class_desc": 62,
+    "method_count": 1,
+    "method_desc": 30,
+    "total": 92
+  },
+  {
+    "class_name": "Mongo::Error::InvalidWriteConcern",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/InvalidWriteConcern",
+    "class_desc": 49,
+    "method_count": 1,
+    "method_desc": 30,
+    "total": 79
+  },
+  {
+    "class_name": "Mongo::Error::LintError",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/LintError",
+    "class_desc": 561,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 561
+  },
+  {
+    "class_name": "Mongo::Error::MaxBSONSize",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/MaxBSONSize",
+    "class_desc": 95,
+    "method_count": 1,
+    "method_desc": 30,
+    "total": 125
+  },
+  {
+    "class_name": "Mongo::Error::MaxMessageSize",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/MaxMessageSize",
+    "class_desc": 85,
+    "method_count": 1,
+    "method_desc": 30,
+    "total": 115
+  },
+  {
+    "class_name": "Mongo::Error::MismatchedDomain",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/MismatchedDomain",
+    "class_desc": 148,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 148
+  },
+  {
+    "class_name": "Mongo::Error::MissingFileChunk",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/MissingFileChunk",
+    "class_desc": 105,
+    "method_count": 1,
+    "method_desc": 25,
+    "total": 130
+  },
+  {
+    "class_name": "Mongo::Error::MissingPassword",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/MissingPassword",
+    "class_desc": 165,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 165
+  },
+  {
+    "class_name": "Mongo::Error::MissingResumeToken",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/MissingResumeToken",
+    "class_desc": 70,
+    "method_count": 1,
+    "method_desc": 25,
+    "total": 95
+  },
+  {
+    "class_name": "Mongo::Error::MultiIndexDrop",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/MultiIndexDrop",
+    "class_desc": 57,
+    "method_count": 1,
+    "method_desc": 30,
+    "total": 87
+  },
+  {
+    "class_name": "Mongo::Error::NeedPrimaryServer",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/NeedPrimaryServer",
+    "class_desc": 53,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 53
+  },
+  {
+    "class_name": "Mongo::Error::NoSRVRecords",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/NoSRVRecords",
+    "class_desc": 80,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 80
+  },
+  {
+    "class_name": "Mongo::Error::NoServerAvailable",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/NoServerAvailable",
+    "class_desc": 65,
+    "method_count": 1,
+    "method_desc": 30,
+    "total": 95
+  },
+  {
+    "class_name": "Mongo::Error::Notable",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/Notable",
+    "class_desc": 127,
+    "method_count": 5,
+    "method_desc": 76,
+    "total": 203
+  },
+  {
+    "class_name": "Mongo::Error::OperationFailure",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/OperationFailure",
+    "class_desc": 47,
+    "method_count": 12,
+    "method_desc": 741,
+    "total": 788
+  },
+  {
+    "class_name": "Mongo::Error::Parser",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/Parser",
+    "class_desc": 91,
+    "method_count": 11,
+    "method_desc": 510,
+    "total": 601
+  },
+  {
+    "class_name": "Mongo::Error::PoolClosedError",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/PoolClosedError",
+    "class_desc": 74,
+    "method_count": 3,
+    "method_desc": 60,
+    "total": 134
+  },
+  {
+    "class_name": "Mongo::Error::SdamErrorDetection",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/SdamErrorDetection",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 705,
+    "total": 705
+  },
+  {
+    "class_name": "Mongo::Error::SessionEnded",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/SessionEnded",
+    "class_desc": 29,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 29
+  },
+  {
+    "class_name": "Mongo::Error::SocketError",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/SocketError",
+    "class_desc": 34,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 34
+  },
+  {
+    "class_name": "Mongo::Error::SocketTimeoutError",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/SocketTimeoutError",
+    "class_desc": 42,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 42
+  },
+  {
+    "class_name": "Mongo::Error::UnchangeableCollectionOption",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/UnchangeableCollectionOption",
+    "class_desc": 115,
+    "method_count": 1,
+    "method_desc": 25,
+    "total": 140
+  },
+  {
+    "class_name": "Mongo::Error::UnexpectedChunkLength",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/UnexpectedChunkLength",
+    "class_desc": 92,
+    "method_count": 1,
+    "method_desc": 25,
+    "total": 117
+  },
+  {
+    "class_name": "Mongo::Error::UnexpectedResponse",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/UnexpectedResponse",
+    "class_desc": 76,
+    "method_count": 1,
+    "method_desc": 25,
+    "total": 101
+  },
+  {
+    "class_name": "Mongo::Error::UnknownPayloadType",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/UnknownPayloadType",
+    "class_desc": 83,
+    "method_count": 1,
+    "method_desc": 25,
+    "total": 108
+  },
+  {
+    "class_name": "Mongo::Error::UnsupportedArrayFilters",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/UnsupportedArrayFilters",
+    "class_desc": 120,
+    "method_count": 1,
+    "method_desc": 25,
+    "total": 145
+  },
+  {
+    "class_name": "Mongo::Error::UnsupportedCollation",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/UnsupportedCollation",
+    "class_desc": 104,
+    "method_count": 1,
+    "method_desc": 25,
+    "total": 129
+  },
+  {
+    "class_name": "Mongo::Error::UnsupportedFeatures",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/UnsupportedFeatures",
+    "class_desc": 76,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 76
+  },
+  {
+    "class_name": "Mongo::Error::UnsupportedMessageType",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/UnsupportedMessageType",
+    "class_desc": 78,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 78
+  },
+  {
+    "class_name": "Mongo::Error::WriteRetryable",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Error/WriteRetryable",
+    "class_desc": 56,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 56
+  },
+  {
+    "class_name": "Mongo::Event",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Event",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mongo::Event::Base",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Event/Base",
+    "class_desc": 26,
+    "method_count": 1,
+    "method_desc": 93,
+    "total": 119
+  },
+  {
+    "class_name": "Mongo::Event::Listeners",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Event/Listeners",
+    "class_desc": 52,
+    "method_count": 3,
+    "method_desc": 115,
+    "total": 167
+  },
+  {
+    "class_name": "Mongo::Event::Publisher",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Event/Publisher",
+    "class_desc": 64,
+    "method_count": 2,
+    "method_desc": 27,
+    "total": 91
+  },
+  {
+    "class_name": "Mongo::Event::Subscriber",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Event/Subscriber",
+    "class_desc": 66,
+    "method_count": 2,
+    "method_desc": 32,
+    "total": 98
+  },
+  {
+    "class_name": "Mongo::Grid",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Grid",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mongo::Grid::FSBucket",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Grid/FSBucket",
+    "class_desc": 48,
+    "method_count": 19,
+    "method_desc": 1719,
+    "total": 1767
+  },
+  {
+    "class_name": "Mongo::Grid::FSBucket::Stream",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Grid/FSBucket/Stream",
+    "class_desc": 58,
+    "method_count": 1,
+    "method_desc": 60,
+    "total": 118
+  },
+  {
+    "class_name": "Mongo::Grid::FSBucket::Stream::Read",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Grid/FSBucket/Stream/Read",
+    "class_desc": 44,
+    "method_count": 10,
+    "method_desc": 347,
+    "total": 391
+  },
+  {
+    "class_name": "Mongo::Grid::FSBucket::Stream::Write",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Grid/FSBucket/Stream/Write",
+    "class_desc": 43,
+    "method_count": 10,
+    "method_desc": 243,
+    "total": 286
+  },
+  {
+    "class_name": "Mongo::Grid::File",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Grid/File",
+    "class_desc": 43,
+    "method_count": 6,
+    "method_desc": 108,
+    "total": 151
+  },
+  {
+    "class_name": "Mongo::Grid::File::Chunk",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Grid/File/Chunk",
+    "class_desc": 56,
+    "method_count": 11,
+    "method_desc": 320,
+    "total": 376
+  },
+  {
+    "class_name": "Mongo::Grid::File::Info",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Grid/File/Info",
+    "class_desc": 67,
+    "method_count": 16,
+    "method_desc": 666,
+    "total": 733
+  },
+  {
+    "class_name": "Mongo::Id",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Id",
+    "class_desc": 452,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 452
+  },
+  {
+    "class_name": "Mongo::Index",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Index",
+    "class_desc": 41,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 41
+  },
+  {
+    "class_name": "Mongo::Index::View",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Index/View",
+    "class_desc": 39,
+    "method_count": 9,
+    "method_desc": 372,
+    "total": 411
+  },
+  {
+    "class_name": "Mongo::Lint",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Lint",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 588,
+    "total": 588
+  },
+  {
+    "class_name": "Mongo::Loggable",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Loggable",
+    "class_desc": 40,
+    "method_count": 6,
+    "method_desc": 352,
+    "total": 392
+  },
+  {
+    "class_name": "Mongo::Logger",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Logger",
+    "class_desc": 33,
+    "method_count": 4,
+    "method_desc": 152,
+    "total": 185
+  },
+  {
+    "class_name": "Mongo::Monitoring",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring",
+    "class_desc": 62,
+    "method_count": 8,
+    "method_desc": 651,
+    "total": 713
+  },
+  {
+    "class_name": "Mongo::Monitoring::CmapLogSubscriber",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/CmapLogSubscriber",
+    "class_desc": 40,
+    "method_count": 3,
+    "method_desc": 50,
+    "total": 90
+  },
+  {
+    "class_name": "Mongo::Monitoring::CommandLogSubscriber",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/CommandLogSubscriber",
+    "class_desc": 43,
+    "method_count": 5,
+    "method_desc": 130,
+    "total": 173
+  },
+  {
+    "class_name": "Mongo::Monitoring::Event",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/Event",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mongo::Monitoring::Event::Cmap",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/Event/Cmap",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mongo::Monitoring::Event::Cmap::Base",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/Event/Cmap/Base",
+    "class_desc": 27,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 27
+  },
+  {
+    "class_name": "Mongo::Monitoring::Event::Cmap::ConnectionCheckOutFailed",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/Event/Cmap/ConnectionCheckOutFailed",
+    "class_desc": 72,
+    "method_count": 4,
+    "method_desc": 67,
+    "total": 139
+  },
+  {
+    "class_name": "Mongo::Monitoring::Event::Cmap::ConnectionCheckOutStarted",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/Event/Cmap/ConnectionCheckOutStarted",
+    "class_desc": 84,
+    "method_count": 3,
+    "method_desc": 67,
+    "total": 151
+  },
+  {
+    "class_name": "Mongo::Monitoring::Event::Cmap::ConnectionCheckedIn",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/Event/Cmap/ConnectionCheckedIn",
+    "class_desc": 67,
+    "method_count": 5,
+    "method_desc": 85,
+    "total": 152
+  },
+  {
+    "class_name": "Mongo::Monitoring::Event::Cmap::ConnectionCheckedOut",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/Event/Cmap/ConnectionCheckedOut",
+    "class_desc": 76,
+    "method_count": 5,
+    "method_desc": 88,
+    "total": 164
+  },
+  {
+    "class_name": "Mongo::Monitoring::Event::Cmap::ConnectionClosed",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/Event/Cmap/ConnectionClosed",
+    "class_desc": 44,
+    "method_count": 5,
+    "method_desc": 67,
+    "total": 111
+  },
+  {
+    "class_name": "Mongo::Monitoring::Event::Cmap::ConnectionCreated",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/Event/Cmap/ConnectionCreated",
+    "class_desc": 45,
+    "method_count": 4,
+    "method_desc": 67,
+    "total": 112
+  },
+  {
+    "class_name": "Mongo::Monitoring::Event::Cmap::ConnectionReady",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/Event/Cmap/ConnectionReady",
+    "class_desc": 69,
+    "method_count": 4,
+    "method_desc": 67,
+    "total": 136
+  },
+  {
+    "class_name": "Mongo::Monitoring::Event::Cmap::PoolCleared",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/Event/Cmap/PoolCleared",
+    "class_desc": 50,
+    "method_count": 3,
+    "method_desc": 67,
+    "total": 117
+  },
+  {
+    "class_name": "Mongo::Monitoring::Event::Cmap::PoolClosed",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/Event/Cmap/PoolClosed",
+    "class_desc": 49,
+    "method_count": 4,
+    "method_desc": 67,
+    "total": 116
+  },
+  {
+    "class_name": "Mongo::Monitoring::Event::Cmap::PoolCreated",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/Event/Cmap/PoolCreated",
+    "class_desc": 50,
+    "method_count": 5,
+    "method_desc": 75,
+    "total": 125
+  },
+  {
+    "class_name": "Mongo::Monitoring::Event::CommandFailed",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/Event/CommandFailed",
+    "class_desc": 51,
+    "method_count": 10,
+    "method_desc": 75,
+    "total": 126
+  },
+  {
+    "class_name": "Mongo::Monitoring::Event::CommandStarted",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/Event/CommandStarted",
+    "class_desc": 52,
+    "method_count": 11,
+    "method_desc": 178,
+    "total": 230
+  },
+  {
+    "class_name": "Mongo::Monitoring::Event::CommandSucceeded",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/Event/CommandSucceeded",
+    "class_desc": 54,
+    "method_count": 9,
+    "method_desc": 75,
+    "total": 129
+  },
+  {
+    "class_name": "Mongo::Monitoring::Event::Secure",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/Event/Secure",
+    "class_desc": 76,
+    "method_count": 2,
+    "method_desc": 126,
+    "total": 202
+  },
+  {
+    "class_name": "Mongo::Monitoring::Event::ServerClosed",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/Event/ServerClosed",
+    "class_desc": 38,
+    "method_count": 4,
+    "method_desc": 67,
+    "total": 105
+  },
+  {
+    "class_name": "Mongo::Monitoring::Event::ServerDescriptionChanged",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/Event/ServerDescriptionChanged",
+    "class_desc": 48,
+    "method_count": 6,
+    "method_desc": 67,
+    "total": 115
+  },
+  {
+    "class_name": "Mongo::Monitoring::Event::ServerHeartbeatFailed",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/Event/ServerHeartbeatFailed",
+    "class_desc": 50,
+    "method_count": 7,
+    "method_desc": 132,
+    "total": 182
+  },
+  {
+    "class_name": "Mongo::Monitoring::Event::ServerHeartbeatStarted",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/Event/ServerHeartbeatStarted",
+    "class_desc": 50,
+    "method_count": 3,
+    "method_desc": 67,
+    "total": 117
+  },
+  {
+    "class_name": "Mongo::Monitoring::Event::ServerHeartbeatSucceeded",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/Event/ServerHeartbeatSucceeded",
+    "class_desc": 50,
+    "method_count": 5,
+    "method_desc": 92,
+    "total": 142
+  },
+  {
+    "class_name": "Mongo::Monitoring::Event::ServerOpening",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/Event/ServerOpening",
+    "class_desc": 39,
+    "method_count": 4,
+    "method_desc": 67,
+    "total": 106
+  },
+  {
+    "class_name": "Mongo::Monitoring::Event::TopologyChanged",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/Event/TopologyChanged",
+    "class_desc": 38,
+    "method_count": 4,
+    "method_desc": 67,
+    "total": 105
+  },
+  {
+    "class_name": "Mongo::Monitoring::Event::TopologyClosed",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/Event/TopologyClosed",
+    "class_desc": 37,
+    "method_count": 3,
+    "method_desc": 67,
+    "total": 104
+  },
+  {
+    "class_name": "Mongo::Monitoring::Event::TopologyOpening",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/Event/TopologyOpening",
+    "class_desc": 41,
+    "method_count": 3,
+    "method_desc": 67,
+    "total": 108
+  },
+  {
+    "class_name": "Mongo::Monitoring::Global",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/Global",
+    "class_desc": 51,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 51
+  },
+  {
+    "class_name": "Mongo::Monitoring::Publishable",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/Publishable",
+    "class_desc": 66,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 66
+  },
+  {
+    "class_name": "Mongo::Monitoring::SDAMLogSubscriber",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/SDAMLogSubscriber",
+    "class_desc": 40,
+    "method_count": 3,
+    "method_desc": 62,
+    "total": 102
+  },
+  {
+    "class_name": "Mongo::Monitoring::ServerClosedLogSubscriber",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/ServerClosedLogSubscriber",
+    "class_desc": 49,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 49
+  },
+  {
+    "class_name": "Mongo::Monitoring::ServerDescriptionChangedLogSubscriber",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/ServerDescriptionChangedLogSubscriber",
+    "class_desc": 62,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 62
+  },
+  {
+    "class_name": "Mongo::Monitoring::ServerOpeningLogSubscriber",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/ServerOpeningLogSubscriber",
+    "class_desc": 50,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 50
+  },
+  {
+    "class_name": "Mongo::Monitoring::Subscribable",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/Subscribable",
+    "class_desc": 87,
+    "method_count": 4,
+    "method_desc": 551,
+    "total": 638
+  },
+  {
+    "class_name": "Mongo::Monitoring::TopologyChangedLogSubscriber",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/TopologyChangedLogSubscriber",
+    "class_desc": 52,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 52
+  },
+  {
+    "class_name": "Mongo::Monitoring::TopologyClosedLogSubscriber",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/TopologyClosedLogSubscriber",
+    "class_desc": 51,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 51
+  },
+  {
+    "class_name": "Mongo::Monitoring::TopologyOpeningLogSubscriber",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/TopologyOpeningLogSubscriber",
+    "class_desc": 52,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 52
+  },
+  {
+    "class_name": "Mongo::Monitoring::UnifiedSdamLogSubscriber",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Monitoring/UnifiedSdamLogSubscriber",
+    "class_desc": 40,
+    "method_count": 5,
+    "method_desc": 62,
+    "total": 102
+  },
+  {
+    "class_name": "Mongo::Operation",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mongo::Operation::Aggregate",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Aggregate",
+    "class_desc": 25,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 25
+  },
+  {
+    "class_name": "Mongo::Operation::Aggregate::Command",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Aggregate/Command",
+    "class_desc": 56,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 56
+  },
+  {
+    "class_name": "Mongo::Operation::Aggregate::OpMsg",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Aggregate/OpMsg",
+    "class_desc": 52,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 52
+  },
+  {
+    "class_name": "Mongo::Operation::Aggregate::Result",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Aggregate/Result",
+    "class_desc": 61,
+    "method_count": 3,
+    "method_desc": 335,
+    "total": 396
+  },
+  {
+    "class_name": "Mongo::Operation::BypassDocumentValidation",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/BypassDocumentValidation",
+    "class_desc": 80,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 80
+  },
+  {
+    "class_name": "Mongo::Operation::CausalConsistencySupported",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/CausalConsistencySupported",
+    "class_desc": 63,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 63
+  },
+  {
+    "class_name": "Mongo::Operation::CollectionsInfo",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/CollectionsInfo",
+    "class_desc": 71,
+    "method_count": 1,
+    "method_desc": 22,
+    "total": 93
+  },
+  {
+    "class_name": "Mongo::Operation::CollectionsInfo::Result",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/CollectionsInfo/Result",
+    "class_desc": 79,
+    "method_count": 1,
+    "method_desc": 33,
+    "total": 112
+  },
+  {
+    "class_name": "Mongo::Operation::Command",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Command",
+    "class_desc": 36,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 36
+  },
+  {
+    "class_name": "Mongo::Operation::Command::Command",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Command/Command",
+    "class_desc": 54,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 54
+  },
+  {
+    "class_name": "Mongo::Operation::Command::OpMsg",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Command/OpMsg",
+    "class_desc": 50,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 50
+  },
+  {
+    "class_name": "Mongo::Operation::Count",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Count",
+    "class_desc": 34,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 34
+  },
+  {
+    "class_name": "Mongo::Operation::Count::Command",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Count/Command",
+    "class_desc": 52,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 52
+  },
+  {
+    "class_name": "Mongo::Operation::Count::OpMsg",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Count/OpMsg",
+    "class_desc": 48,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 48
+  },
+  {
+    "class_name": "Mongo::Operation::Create",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Create",
+    "class_desc": 46,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 46
+  },
+  {
+    "class_name": "Mongo::Operation::Create::Command",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Create/Command",
+    "class_desc": 52,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 52
+  },
+  {
+    "class_name": "Mongo::Operation::Create::OpMsg",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Create/OpMsg",
+    "class_desc": 60,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 60
+  },
+  {
+    "class_name": "Mongo::Operation::CreateIndex",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/CreateIndex",
+    "class_desc": 41,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 41
+  },
+  {
+    "class_name": "Mongo::Operation::CreateIndex::Command",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/CreateIndex/Command",
+    "class_desc": 58,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 58
+  },
+  {
+    "class_name": "Mongo::Operation::CreateIndex::OpMsg",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/CreateIndex/OpMsg",
+    "class_desc": 54,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 54
+  },
+  {
+    "class_name": "Mongo::Operation::CreateUser",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/CreateUser",
+    "class_desc": 40,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 40
+  },
+  {
+    "class_name": "Mongo::Operation::CreateUser::Command",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/CreateUser/Command",
+    "class_desc": 57,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 57
+  },
+  {
+    "class_name": "Mongo::Operation::CreateUser::OpMsg",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/CreateUser/OpMsg",
+    "class_desc": 53,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 53
+  },
+  {
+    "class_name": "Mongo::Operation::Delete",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Delete",
+    "class_desc": 27,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 27
+  },
+  {
+    "class_name": "Mongo::Operation::Delete::BulkResult",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Delete/BulkResult",
+    "class_desc": 74,
+    "method_count": 1,
+    "method_desc": 37,
+    "total": 111
+  },
+  {
+    "class_name": "Mongo::Operation::Delete::Command",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Delete/Command",
+    "class_desc": 53,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 53
+  },
+  {
+    "class_name": "Mongo::Operation::Delete::Legacy",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Delete/Legacy",
+    "class_desc": 66,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 66
+  },
+  {
+    "class_name": "Mongo::Operation::Delete::OpMsg",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Delete/OpMsg",
+    "class_desc": 49,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 49
+  },
+  {
+    "class_name": "Mongo::Operation::Delete::Result",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Delete/Result",
+    "class_desc": 48,
+    "method_count": 2,
+    "method_desc": 36,
+    "total": 84
+  },
+  {
+    "class_name": "Mongo::Operation::Distinct",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Distinct",
+    "class_desc": 37,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 37
+  },
+  {
+    "class_name": "Mongo::Operation::Distinct::Command",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Distinct/Command",
+    "class_desc": 55,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 55
+  },
+  {
+    "class_name": "Mongo::Operation::Distinct::OpMsg",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Distinct/OpMsg",
+    "class_desc": 51,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 51
+  },
+  {
+    "class_name": "Mongo::Operation::Drop",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Drop",
+    "class_desc": 36,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 36
+  },
+  {
+    "class_name": "Mongo::Operation::Drop::Command",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Drop/Command",
+    "class_desc": 62,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 62
+  },
+  {
+    "class_name": "Mongo::Operation::Drop::OpMsg",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Drop/OpMsg",
+    "class_desc": 58,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 58
+  },
+  {
+    "class_name": "Mongo::Operation::DropDatabase",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/DropDatabase",
+    "class_desc": 34,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 34
+  },
+  {
+    "class_name": "Mongo::Operation::DropDatabase::Command",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/DropDatabase/Command",
+    "class_desc": 59,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 59
+  },
+  {
+    "class_name": "Mongo::Operation::DropDatabase::OpMsg",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/DropDatabase/OpMsg",
+    "class_desc": 56,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 56
+  },
+  {
+    "class_name": "Mongo::Operation::DropIndex",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/DropIndex",
+    "class_desc": 31,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 31
+  },
+  {
+    "class_name": "Mongo::Operation::DropIndex::Command",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/DropIndex/Command",
+    "class_desc": 56,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 56
+  },
+  {
+    "class_name": "Mongo::Operation::DropIndex::OpMsg",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/DropIndex/OpMsg",
+    "class_desc": 52,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 52
+  },
+  {
+    "class_name": "Mongo::Operation::Executable",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Executable",
+    "class_desc": 41,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 41
+  },
+  {
+    "class_name": "Mongo::Operation::ExecutableNoValidate",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/ExecutableNoValidate",
+    "class_desc": 93,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 93
+  },
+  {
+    "class_name": "Mongo::Operation::ExecutableTransactionLabel",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/ExecutableTransactionLabel",
+    "class_desc": 72,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 72
+  },
+  {
+    "class_name": "Mongo::Operation::Explain",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Explain",
+    "class_desc": 28,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 28
+  },
+  {
+    "class_name": "Mongo::Operation::Explain::Command",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Explain/Command",
+    "class_desc": 62,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 62
+  },
+  {
+    "class_name": "Mongo::Operation::Explain::Legacy",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Explain/Legacy",
+    "class_desc": 75,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 75
+  },
+  {
+    "class_name": "Mongo::Operation::Explain::OpMsg",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Explain/OpMsg",
+    "class_desc": 50,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 50
+  },
+  {
+    "class_name": "Mongo::Operation::Explain::Result",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Explain/Result",
+    "class_desc": 64,
+    "method_count": 2,
+    "method_desc": 50,
+    "total": 114
+  },
+  {
+    "class_name": "Mongo::Operation::Find",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Find",
+    "class_desc": 25,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 25
+  },
+  {
+    "class_name": "Mongo::Operation::Find::Command",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Find/Command",
+    "class_desc": 51,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 51
+  },
+  {
+    "class_name": "Mongo::Operation::Find::Legacy",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Find/Legacy",
+    "class_desc": 64,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 64
+  },
+  {
+    "class_name": "Mongo::Operation::Find::Legacy::Result",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Find/Legacy/Result",
+    "class_desc": 47,
+    "method_count": 1,
+    "method_desc": 37,
+    "total": 84
+  },
+  {
+    "class_name": "Mongo::Operation::Find::OpMsg",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Find/OpMsg",
+    "class_desc": 22,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 22
+  },
+  {
+    "class_name": "Mongo::Operation::Find::Result",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Find/Result",
+    "class_desc": 51,
+    "method_count": 2,
+    "method_desc": 50,
+    "total": 101
+  },
+  {
+    "class_name": "Mongo::Operation::GetMore",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/GetMore",
+    "class_desc": 28,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 28
+  },
+  {
+    "class_name": "Mongo::Operation::GetMore::Command",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/GetMore/Command",
+    "class_desc": 54,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 54
+  },
+  {
+    "class_name": "Mongo::Operation::GetMore::Legacy",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/GetMore/Legacy",
+    "class_desc": 67,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 67
+  },
+  {
+    "class_name": "Mongo::Operation::GetMore::OpMsg",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/GetMore/OpMsg",
+    "class_desc": 22,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 22
+  },
+  {
+    "class_name": "Mongo::Operation::GetMore::Result",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/GetMore/Result",
+    "class_desc": 60,
+    "method_count": 3,
+    "method_desc": 96,
+    "total": 156
+  },
+  {
+    "class_name": "Mongo::Operation::Idable",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Idable",
+    "class_desc": 76,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 76
+  },
+  {
+    "class_name": "Mongo::Operation::Indexes",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Indexes",
+    "class_desc": 28,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 28
+  },
+  {
+    "class_name": "Mongo::Operation::Indexes::Command",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Indexes/Command",
+    "class_desc": 54,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 54
+  },
+  {
+    "class_name": "Mongo::Operation::Indexes::Legacy",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Indexes/Legacy",
+    "class_desc": 67,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 67
+  },
+  {
+    "class_name": "Mongo::Operation::Indexes::OpMsg",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Indexes/OpMsg",
+    "class_desc": 50,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 50
+  },
+  {
+    "class_name": "Mongo::Operation::Indexes::Result",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Indexes/Result",
+    "class_desc": 70,
+    "method_count": 4,
+    "method_desc": 411,
+    "total": 481
+  },
+  {
+    "class_name": "Mongo::Operation::Insert",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Insert",
+    "class_desc": 27,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 27
+  },
+  {
+    "class_name": "Mongo::Operation::Insert::BulkResult",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Insert/BulkResult",
+    "class_desc": 83,
+    "method_count": 4,
+    "method_desc": 137,
+    "total": 220
+  },
+  {
+    "class_name": "Mongo::Operation::Insert::Command",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Insert/Command",
+    "class_desc": 53,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 53
+  },
+  {
+    "class_name": "Mongo::Operation::Insert::Legacy",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Insert/Legacy",
+    "class_desc": 66,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 66
+  },
+  {
+    "class_name": "Mongo::Operation::Insert::OpMsg",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Insert/OpMsg",
+    "class_desc": 49,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 49
+  },
+  {
+    "class_name": "Mongo::Operation::Insert::Result",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Insert/Result",
+    "class_desc": 166,
+    "method_count": 4,
+    "method_desc": 99,
+    "total": 265
+  },
+  {
+    "class_name": "Mongo::Operation::KillCursors",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/KillCursors",
+    "class_desc": 32,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 32
+  },
+  {
+    "class_name": "Mongo::Operation::KillCursors::Command",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/KillCursors/Command",
+    "class_desc": 58,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 58
+  },
+  {
+    "class_name": "Mongo::Operation::KillCursors::Legacy",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/KillCursors/Legacy",
+    "class_desc": 71,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 71
+  },
+  {
+    "class_name": "Mongo::Operation::KillCursors::OpMsg",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/KillCursors/OpMsg",
+    "class_desc": 54,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 54
+  },
+  {
+    "class_name": "Mongo::Operation::Limited",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Limited",
+    "class_desc": 76,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 76
+  },
+  {
+    "class_name": "Mongo::Operation::ListCollections",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/ListCollections",
+    "class_desc": 36,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 36
+  },
+  {
+    "class_name": "Mongo::Operation::ListCollections::Command",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/ListCollections/Command",
+    "class_desc": 62,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 62
+  },
+  {
+    "class_name": "Mongo::Operation::ListCollections::OpMsg",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/ListCollections/OpMsg",
+    "class_desc": 58,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 58
+  },
+  {
+    "class_name": "Mongo::Operation::ListCollections::Result",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/ListCollections/Result",
+    "class_desc": 74,
+    "method_count": 4,
+    "method_desc": 324,
+    "total": 398
+  },
+  {
+    "class_name": "Mongo::Operation::MapReduce",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/MapReduce",
+    "class_desc": 30,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 30
+  },
+  {
+    "class_name": "Mongo::Operation::MapReduce::Command",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/MapReduce/Command",
+    "class_desc": 56,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 56
+  },
+  {
+    "class_name": "Mongo::Operation::MapReduce::OpMsg",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/MapReduce/OpMsg",
+    "class_desc": 52,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 52
+  },
+  {
+    "class_name": "Mongo::Operation::MapReduce::Result",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/MapReduce/Result",
+    "class_desc": 62,
+    "method_count": 6,
+    "method_desc": 260,
+    "total": 322
+  },
+  {
+    "class_name": "Mongo::Operation::ObjectIdGenerator",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/ObjectIdGenerator",
+    "class_desc": 43,
+    "method_count": 1,
+    "method_desc": 18,
+    "total": 61
+  },
+  {
+    "class_name": "Mongo::Operation::OpMsgBase",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/OpMsgBase",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mongo::Operation::OpMsgOrCommand",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/OpMsgOrCommand",
+    "class_desc": 96,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 96
+  },
+  {
+    "class_name": "Mongo::Operation::OpMsgOrFindCommand",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/OpMsgOrFindCommand",
+    "class_desc": 154,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 154
+  },
+  {
+    "class_name": "Mongo::Operation::OpMsgOrListIndexesCommand",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/OpMsgOrListIndexesCommand",
+    "class_desc": 161,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 161
+  },
+  {
+    "class_name": "Mongo::Operation::ParallelScan",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/ParallelScan",
+    "class_desc": 33,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 33
+  },
+  {
+    "class_name": "Mongo::Operation::ParallelScan::Command",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/ParallelScan/Command",
+    "class_desc": 59,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 59
+  },
+  {
+    "class_name": "Mongo::Operation::ParallelScan::OpMsg",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/ParallelScan/OpMsg",
+    "class_desc": 55,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 55
+  },
+  {
+    "class_name": "Mongo::Operation::ParallelScan::Result",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/ParallelScan/Result",
+    "class_desc": 54,
+    "method_count": 2,
+    "method_desc": 76,
+    "total": 130
+  },
+  {
+    "class_name": "Mongo::Operation::PolymorphicLookup",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/PolymorphicLookup",
+    "class_desc": 80,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 80
+  },
+  {
+    "class_name": "Mongo::Operation::PolymorphicResult",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/PolymorphicResult",
+    "class_desc": 172,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 172
+  },
+  {
+    "class_name": "Mongo::Operation::PolymorphicResult::ClassMethods",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/PolymorphicResult/ClassMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mongo::Operation::ReadPreferenceSupported",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/ReadPreferenceSupported",
+    "class_desc": 59,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 59
+  },
+  {
+    "class_name": "Mongo::Operation::RemoveUser",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/RemoveUser",
+    "class_desc": 31,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 31
+  },
+  {
+    "class_name": "Mongo::Operation::RemoveUser::Command",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/RemoveUser/Command",
+    "class_desc": 57,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 57
+  },
+  {
+    "class_name": "Mongo::Operation::RemoveUser::OpMsg",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/RemoveUser/OpMsg",
+    "class_desc": 53,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 53
+  },
+  {
+    "class_name": "Mongo::Operation::ResponseHandling",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/ResponseHandling",
+    "class_desc": 52,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 52
+  },
+  {
+    "class_name": "Mongo::Operation::Result",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Result",
+    "class_desc": 30,
+    "method_count": 21,
+    "method_desc": 1329,
+    "total": 1359
+  },
+  {
+    "class_name": "Mongo::Operation::Result::Aggregatable",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Result/Aggregatable",
+    "class_desc": 45,
+    "method_count": 2,
+    "method_desc": 114,
+    "total": 159
+  },
+  {
+    "class_name": "Mongo::Operation::Result::UseLegacyErrorParser",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Result/UseLegacyErrorParser",
+    "class_desc": 55,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 55
+  },
+  {
+    "class_name": "Mongo::Operation::SessionsSupported",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/SessionsSupported",
+    "class_desc": 53,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 53
+  },
+  {
+    "class_name": "Mongo::Operation::Specifiable",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Specifiable",
+    "class_desc": 103,
+    "method_count": 36,
+    "method_desc": 1475,
+    "total": 1578
+  },
+  {
+    "class_name": "Mongo::Operation::Update",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Update",
+    "class_desc": 27,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 27
+  },
+  {
+    "class_name": "Mongo::Operation::Update::BulkResult",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Update/BulkResult",
+    "class_desc": 83,
+    "method_count": 4,
+    "method_desc": 341,
+    "total": 424
+  },
+  {
+    "class_name": "Mongo::Operation::Update::Command",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Update/Command",
+    "class_desc": 53,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 53
+  },
+  {
+    "class_name": "Mongo::Operation::Update::Legacy",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Update/Legacy",
+    "class_desc": 66,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 66
+  },
+  {
+    "class_name": "Mongo::Operation::Update::Legacy::Result",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Update/Legacy/Result",
+    "class_desc": 74,
+    "method_count": 4,
+    "method_desc": 180,
+    "total": 254
+  },
+  {
+    "class_name": "Mongo::Operation::Update::OpMsg",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Update/OpMsg",
+    "class_desc": 49,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 49
+  },
+  {
+    "class_name": "Mongo::Operation::Update::Result",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Update/Result",
+    "class_desc": 49,
+    "method_count": 5,
+    "method_desc": 180,
+    "total": 229
+  },
+  {
+    "class_name": "Mongo::Operation::UpdateUser",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/UpdateUser",
+    "class_desc": 31,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 31
+  },
+  {
+    "class_name": "Mongo::Operation::UpdateUser::Command",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/UpdateUser/Command",
+    "class_desc": 57,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 57
+  },
+  {
+    "class_name": "Mongo::Operation::UpdateUser::OpMsg",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/UpdateUser/OpMsg",
+    "class_desc": 53,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 53
+  },
+  {
+    "class_name": "Mongo::Operation::UsersInfo",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/UsersInfo",
+    "class_desc": 30,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 30
+  },
+  {
+    "class_name": "Mongo::Operation::UsersInfo::Command",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/UsersInfo/Command",
+    "class_desc": 56,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 56
+  },
+  {
+    "class_name": "Mongo::Operation::UsersInfo::OpMsg",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/UsersInfo/OpMsg",
+    "class_desc": 52,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 52
+  },
+  {
+    "class_name": "Mongo::Operation::UsersInfo::Result",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/UsersInfo/Result",
+    "class_desc": 68,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 68
+  },
+  {
+    "class_name": "Mongo::Operation::Write",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/Write",
+    "class_desc": 66,
+    "method_count": 2,
+    "method_desc": 55,
+    "total": 121
+  },
+  {
+    "class_name": "Mongo::Operation::WriteConcernSupported",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Operation/WriteConcernSupported",
+    "class_desc": 58,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 58
+  },
+  {
+    "class_name": "Mongo::Options",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Options",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mongo::Options::Mapper",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Options/Mapper",
+    "class_desc": 51,
+    "method_count": 5,
+    "method_desc": 466,
+    "total": 517
+  },
+  {
+    "class_name": "Mongo::Options::Redacted",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Options/Redacted",
+    "class_desc": 104,
+    "method_count": 8,
+    "method_desc": 436,
+    "total": 540
+  },
+  {
+    "class_name": "Mongo::Protocol",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mongo::Protocol::Compressed",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol/Compressed",
+    "class_desc": 107,
+    "method_count": 3,
+    "method_desc": 154,
+    "total": 261
+  },
+  {
+    "class_name": "Mongo::Protocol::Delete",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol/Delete",
+    "class_desc": 307,
+    "method_count": 2,
+    "method_desc": 68,
+    "total": 375
+  },
+  {
+    "class_name": "Mongo::Protocol::Delete::Upconverter",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol/Delete/Upconverter",
+    "class_desc": 76,
+    "method_count": 5,
+    "method_desc": 56,
+    "total": 132
+  },
+  {
+    "class_name": "Mongo::Protocol::GetMore",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol/GetMore",
+    "class_desc": 333,
+    "method_count": 3,
+    "method_desc": 121,
+    "total": 454
+  },
+  {
+    "class_name": "Mongo::Protocol::GetMore::Upconverter",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol/GetMore/Upconverter",
+    "class_desc": 77,
+    "method_count": 5,
+    "method_desc": 56,
+    "total": 133
+  },
+  {
+    "class_name": "Mongo::Protocol::Insert",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol/Insert",
+    "class_desc": 589,
+    "method_count": 2,
+    "method_desc": 68,
+    "total": 657
+  },
+  {
+    "class_name": "Mongo::Protocol::Insert::Upconverter",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol/Insert/Upconverter",
+    "class_desc": 76,
+    "method_count": 5,
+    "method_desc": 56,
+    "total": 132
+  },
+  {
+    "class_name": "Mongo::Protocol::KillCursors",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol/KillCursors",
+    "class_desc": 141,
+    "method_count": 2,
+    "method_desc": 73,
+    "total": 214
+  },
+  {
+    "class_name": "Mongo::Protocol::KillCursors::Upconverter",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol/KillCursors/Upconverter",
+    "class_desc": 76,
+    "method_count": 4,
+    "method_desc": 56,
+    "total": 132
+  },
+  {
+    "class_name": "Mongo::Protocol::Message",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol/Message",
+    "class_desc": 202,
+    "method_count": 13,
+    "method_desc": 652,
+    "total": 854
+  },
+  {
+    "class_name": "Mongo::Protocol::Msg",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol/Msg",
+    "class_desc": 156,
+    "method_count": 5,
+    "method_desc": 254,
+    "total": 410
+  },
+  {
+    "class_name": "Mongo::Protocol::Query",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol/Query",
+    "class_desc": 446,
+    "method_count": 4,
+    "method_desc": 138,
+    "total": 584
+  },
+  {
+    "class_name": "Mongo::Protocol::Query::Upconverter",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol/Query/Upconverter",
+    "class_desc": 75,
+    "method_count": 7,
+    "method_desc": 172,
+    "total": 247
+  },
+  {
+    "class_name": "Mongo::Protocol::Registry",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol/Registry",
+    "class_desc": 68,
+    "method_count": 2,
+    "method_desc": 126,
+    "total": 194
+  },
+  {
+    "class_name": "Mongo::Protocol::Reply",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol/Reply",
+    "class_desc": 54,
+    "method_count": 13,
+    "method_desc": 139,
+    "total": 193
+  },
+  {
+    "class_name": "Mongo::Protocol::Reply::Upconverter",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol/Reply/Upconverter",
+    "class_desc": 52,
+    "method_count": 5,
+    "method_desc": 59,
+    "total": 111
+  },
+  {
+    "class_name": "Mongo::Protocol::Serializers",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol/Serializers",
+    "class_desc": 362,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 362
+  },
+  {
+    "class_name": "Mongo::Protocol::Serializers::BitVector",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol/Serializers/BitVector",
+    "class_desc": 122,
+    "method_count": 3,
+    "method_desc": 164,
+    "total": 286
+  },
+  {
+    "class_name": "Mongo::Protocol::Serializers::Byte",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol/Serializers/Byte",
+    "class_desc": 119,
+    "method_count": 2,
+    "method_desc": 71,
+    "total": 190
+  },
+  {
+    "class_name": "Mongo::Protocol::Serializers::Bytes",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol/Serializers/Bytes",
+    "class_desc": 105,
+    "method_count": 2,
+    "method_desc": 69,
+    "total": 174
+  },
+  {
+    "class_name": "Mongo::Protocol::Serializers::CString",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol/Serializers/CString",
+    "class_desc": 130,
+    "method_count": 1,
+    "method_desc": 43,
+    "total": 173
+  },
+  {
+    "class_name": "Mongo::Protocol::Serializers::Document",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol/Serializers/Document",
+    "class_desc": 114,
+    "method_count": 3,
+    "method_desc": 146,
+    "total": 260
+  },
+  {
+    "class_name": "Mongo::Protocol::Serializers::Header",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol/Serializers/Header",
+    "class_desc": 225,
+    "method_count": 2,
+    "method_desc": 91,
+    "total": 316
+  },
+  {
+    "class_name": "Mongo::Protocol::Serializers::Int32",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol/Serializers/Int32",
+    "class_desc": 115,
+    "method_count": 2,
+    "method_desc": 86,
+    "total": 201
+  },
+  {
+    "class_name": "Mongo::Protocol::Serializers::Int64",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol/Serializers/Int64",
+    "class_desc": 115,
+    "method_count": 2,
+    "method_desc": 86,
+    "total": 201
+  },
+  {
+    "class_name": "Mongo::Protocol::Serializers::Sections",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol/Serializers/Sections",
+    "class_desc": 119,
+    "method_count": 3,
+    "method_desc": 180,
+    "total": 299
+  },
+  {
+    "class_name": "Mongo::Protocol::Serializers::Sections::PayloadOne",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol/Serializers/Sections/PayloadOne",
+    "class_desc": 84,
+    "method_count": 2,
+    "method_desc": 123,
+    "total": 207
+  },
+  {
+    "class_name": "Mongo::Protocol::Serializers::Sections::PayloadZero",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol/Serializers/Sections/PayloadZero",
+    "class_desc": 84,
+    "method_count": 2,
+    "method_desc": 123,
+    "total": 207
+  },
+  {
+    "class_name": "Mongo::Protocol::Serializers::Zero",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol/Serializers/Zero",
+    "class_desc": 108,
+    "method_count": 1,
+    "method_desc": 40,
+    "total": 148
+  },
+  {
+    "class_name": "Mongo::Protocol::Update",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol/Update",
+    "class_desc": 508,
+    "method_count": 2,
+    "method_desc": 68,
+    "total": 576
+  },
+  {
+    "class_name": "Mongo::Protocol::Update::Upconverter",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Protocol/Update/Upconverter",
+    "class_desc": 76,
+    "method_count": 6,
+    "method_desc": 56,
+    "total": 132
+  },
+  {
+    "class_name": "Mongo::Retryable",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Retryable",
+    "class_desc": 50,
+    "method_count": 6,
+    "method_desc": 3568,
+    "total": 3618
+  },
+  {
+    "class_name": "Mongo::SRV",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/SRV",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mongo::SRV::Monitor",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/SRV/Monitor",
+    "class_desc": 128,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 128
+  },
+  {
+    "class_name": "Mongo::Semaphore",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Semaphore",
+    "class_desc": 156,
+    "method_count": 4,
+    "method_desc": 122,
+    "total": 278
+  },
+  {
+    "class_name": "Mongo::Server",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Server",
+    "class_desc": 105,
+    "method_count": 35,
+    "method_desc": 1712,
+    "total": 1817
+  },
+  {
+    "class_name": "Mongo::Server::AppMetadata",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Server/AppMetadata",
+    "class_desc": 111,
+    "method_count": 2,
+    "method_desc": 101,
+    "total": 212
+  },
+  {
+    "class_name": "Mongo::Server::Connectable",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Server/Connectable",
+    "class_desc": 53,
+    "method_count": 3,
+    "method_desc": 186,
+    "total": 239
+  },
+  {
+    "class_name": "Mongo::Server::Connection",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Server/Connection",
+    "class_desc": 72,
+    "method_count": 12,
+    "method_desc": 1002,
+    "total": 1074
+  },
+  {
+    "class_name": "Mongo::Server::ConnectionBase",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Server/ConnectionBase",
+    "class_desc": 56,
+    "method_count": 4,
+    "method_desc": 106,
+    "total": 162
+  },
+  {
+    "class_name": "Mongo::Server::ConnectionPool",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Server/ConnectionPool",
+    "class_desc": 52,
+    "method_count": 24,
+    "method_desc": 3036,
+    "total": 3088
+  },
+  {
+    "class_name": "Mongo::Server::Context",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Server/Context",
+    "class_desc": 78,
+    "method_count": 3,
+    "method_desc": 129,
+    "total": 207
+  },
+  {
+    "class_name": "Mongo::Server::Description",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Server/Description",
+    "class_desc": 517,
+    "method_count": 46,
+    "method_desc": 2064,
+    "total": 2581
+  },
+  {
+    "class_name": "Mongo::Server::Description::Features",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Server/Description/Features",
+    "class_desc": 65,
+    "method_count": 3,
+    "method_desc": 139,
+    "total": 204
+  },
+  {
+    "class_name": "Mongo::Server::Monitor",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Server/Monitor",
+    "class_desc": 215,
+    "method_count": 10,
+    "method_desc": 739,
+    "total": 954
+  },
+  {
+    "class_name": "Mongo::Server::Monitor::AppMetadata",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Server/Monitor/AppMetadata",
+    "class_desc": 129,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 129
+  },
+  {
+    "class_name": "Mongo::Server::Monitor::Connection",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Server/Monitor/Connection",
+    "class_desc": 61,
+    "method_count": 9,
+    "method_desc": 554,
+    "total": 615
+  },
+  {
+    "class_name": "Mongo::Server::PendingConnection",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Server/PendingConnection",
+    "class_desc": 72,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 72
+  },
+  {
+    "class_name": "Mongo::Server::Populator",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Server/Populator",
+    "class_desc": 98,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 98
+  },
+  {
+    "class_name": "Mongo::Server::RoundTripTimeAverager",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Server/RoundTripTimeAverager",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mongo::ServerSelector",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/ServerSelector",
+    "class_desc": 80,
+    "method_count": 2,
+    "method_desc": 214,
+    "total": 294
+  },
+  {
+    "class_name": "Mongo::ServerSelector::Nearest",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/ServerSelector/Nearest",
+    "class_desc": 84,
+    "method_count": 5,
+    "method_desc": 420,
+    "total": 504
+  },
+  {
+    "class_name": "Mongo::ServerSelector::Primary",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/ServerSelector/Primary",
+    "class_desc": 90,
+    "method_count": 5,
+    "method_desc": 421,
+    "total": 511
+  },
+  {
+    "class_name": "Mongo::ServerSelector::PrimaryPreferred",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/ServerSelector/PrimaryPreferred",
+    "class_desc": 108,
+    "method_count": 5,
+    "method_desc": 420,
+    "total": 528
+  },
+  {
+    "class_name": "Mongo::ServerSelector::Secondary",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/ServerSelector/Secondary",
+    "class_desc": 89,
+    "method_count": 5,
+    "method_desc": 420,
+    "total": 509
+  },
+  {
+    "class_name": "Mongo::ServerSelector::SecondaryPreferred",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/ServerSelector/SecondaryPreferred",
+    "class_desc": 108,
+    "method_count": 5,
+    "method_desc": 562,
+    "total": 670
+  },
+  {
+    "class_name": "Mongo::ServerSelector::Selectable",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/ServerSelector/Selectable",
+    "class_desc": 83,
+    "method_count": 11,
+    "method_desc": 1155,
+    "total": 1238
+  },
+  {
+    "class_name": "Mongo::Session",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Session",
+    "class_desc": 118,
+    "method_count": 40,
+    "method_desc": 4427,
+    "total": 4545
+  },
+  {
+    "class_name": "Mongo::Session::ServerSession",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Session/ServerSession",
+    "class_desc": 47,
+    "method_count": 7,
+    "method_desc": 1021,
+    "total": 1068
+  },
+  {
+    "class_name": "Mongo::Session::SessionPool",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Session/SessionPool",
+    "class_desc": 26,
+    "method_count": 6,
+    "method_desc": 247,
+    "total": 273
+  },
+  {
+    "class_name": "Mongo::Socket",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Socket",
+    "class_desc": 61,
+    "method_count": 13,
+    "method_desc": 464,
+    "total": 525
+  },
+  {
+    "class_name": "Mongo::Socket::SSL",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Socket/SSL",
+    "class_desc": 24,
+    "method_count": 6,
+    "method_desc": 64,
+    "total": 88
+  },
+  {
+    "class_name": "Mongo::Socket::TCP",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Socket/TCP",
+    "class_desc": 24,
+    "method_count": 3,
+    "method_desc": 29,
+    "total": 53
+  },
+  {
+    "class_name": "Mongo::Socket::Unix",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Socket/Unix",
+    "class_desc": 25,
+    "method_count": 2,
+    "method_desc": 30,
+    "total": 55
+  },
+  {
+    "class_name": "Mongo::Srv",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Srv",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mongo::Srv::Resolver",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Srv/Resolver",
+    "class_desc": 87,
+    "method_count": 3,
+    "method_desc": 302,
+    "total": 389
+  },
+  {
+    "class_name": "Mongo::Srv::Result",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Srv/Result",
+    "class_desc": 116,
+    "method_count": 7,
+    "method_desc": 124,
+    "total": 240
+  },
+  {
+    "class_name": "Mongo::Srv::WarningResult",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/Srv/WarningResult",
+    "class_desc": 78,
+    "method_count": 1,
+    "method_desc": 18,
+    "total": 96
+  },
+  {
+    "class_name": "Mongo::URI",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/URI",
+    "class_desc": 173,
+    "method_count": 9,
+    "method_desc": 487,
+    "total": 660
+  },
+  {
+    "class_name": "Mongo::URI::SRVProtocol",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/URI/SRVProtocol",
+    "class_desc": 611,
+    "method_count": 4,
+    "method_desc": 436,
+    "total": 1047
+  },
+  {
+    "class_name": "Mongo::WriteConcern",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/WriteConcern",
+    "class_desc": 52,
+    "method_count": 1,
+    "method_desc": 89,
+    "total": 141
+  },
+  {
+    "class_name": "Mongo::WriteConcern::Acknowledged",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/WriteConcern/Acknowledged",
+    "class_desc": 117,
+    "method_count": 3,
+    "method_desc": 158,
+    "total": 275
+  },
+  {
+    "class_name": "Mongo::WriteConcern::Base",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/WriteConcern/Base",
+    "class_desc": 43,
+    "method_count": 2,
+    "method_desc": 50,
+    "total": 93
+  },
+  {
+    "class_name": "Mongo::WriteConcern::Unacknowledged",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Mongo/WriteConcern/Unacknowledged",
+    "class_desc": 108,
+    "method_count": 3,
+    "method_desc": 161,
+    "total": 269
+  },
+  {
+    "class_name": "Symbol",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/Symbol",
+    "class_desc": 49,
+    "method_count": 1,
+    "method_desc": 80,
+    "total": 129
+  },
+  {
+    "class_name": "UnicodeNormalize",
+    "url": "https://rubydoc.info/gems/mongo/2.11.1/UnicodeNormalize",
+    "class_desc": 7,
+    "method_count": 7,
+    "method_desc": 86,
+    "total": 93
+  }
+]
