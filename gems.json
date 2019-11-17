@@ -12,6 +12,7 @@
   "nokogiri-1.10.5.json",
   "puma-4.3.0.json",
   "rack-2.0.7.json",
+  "rake-13.0.1.json",
   "rspec-core-3.9.0.json",
   "rspec-expectations-3.9.0.json",
   "rspec-mocks-3.9.0.json",
