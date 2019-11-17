@@ -7,6 +7,7 @@
   "eventmachine-1.2.7.json",
   "factory_bot-5.1.1.json",
   "mechanize-2.7.6.json",
+  "minitest-5.13.0.json",
   "mongo-2.11.1.json",
   "mongoid-7.0.5.json",
   "nokogiri-1.10.5.json",
@@ -19,6 +20,7 @@
   "rspec-rails-3.9.0.json",
   "rubygems-update-3.0.6.json",
   "sequel-5.26.0.json",
+  "test-unit-3.3.4.json",
   "thin-1.7.2.json",
   "warden-1.2.8.json"
 ]
