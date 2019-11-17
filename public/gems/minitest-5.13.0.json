@@ -1,0 +1,314 @@
+[
+  {
+    "class_name": "Hoe",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Hoe",
+    "class_desc": 9,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 9
+  },
+  {
+    "class_name": "Hoe::Minitest",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Hoe/Minitest",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Kernel",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Kernel",
+    "class_desc": 30,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 30
+  },
+  {
+    "class_name": "Minitest",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest",
+    "class_desc": 7,
+    "method_count": 13,
+    "method_desc": 967,
+    "total": 974
+  },
+  {
+    "class_name": "Minitest::AbstractReporter",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/AbstractReporter",
+    "class_desc": 85,
+    "method_count": 5,
+    "method_desc": 390,
+    "total": 475
+  },
+  {
+    "class_name": "Minitest::Assertion",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/Assertion",
+    "class_desc": 24,
+    "method_count": 4,
+    "method_desc": 71,
+    "total": 95
+  },
+  {
+    "class_name": "Minitest::Assertions",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/Assertions",
+    "class_desc": 364,
+    "method_count": 53,
+    "method_desc": 5789,
+    "total": 6153
+  },
+  {
+    "class_name": "Minitest::BacktraceFilter",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/BacktraceFilter",
+    "class_desc": 76,
+    "method_count": 1,
+    "method_desc": 67,
+    "total": 143
+  },
+  {
+    "class_name": "Minitest::BenchSpec",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/BenchSpec",
+    "class_desc": 40,
+    "method_count": 7,
+    "method_desc": 1384,
+    "total": 1424
+  },
+  {
+    "class_name": "Minitest::Benchmark",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/Benchmark",
+    "class_desc": 139,
+    "method_count": 20,
+    "method_desc": 3869,
+    "total": 4008
+  },
+  {
+    "class_name": "Minitest::CompositeReporter",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/CompositeReporter",
+    "class_desc": 38,
+    "method_count": 10,
+    "method_desc": 155,
+    "total": 193
+  },
+  {
+    "class_name": "Minitest::Expectations",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/Expectations",
+    "class_desc": 609,
+    "method_count": 32,
+    "method_desc": 2912,
+    "total": 3521
+  },
+  {
+    "class_name": "Minitest::Guard",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/Guard",
+    "class_desc": 371,
+    "method_count": 6,
+    "method_desc": 154,
+    "total": 525
+  },
+  {
+    "class_name": "Minitest::Mock",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/Mock",
+    "class_desc": 83,
+    "method_count": 7,
+    "method_desc": 1287,
+    "total": 1370
+  },
+  {
+    "class_name": "Minitest::Parallel",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/Parallel",
+    "class_desc": 7,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 7
+  },
+  {
+    "class_name": "Minitest::Parallel::Executor",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/Parallel/Executor",
+    "class_desc": 50,
+    "method_count": 5,
+    "method_desc": 254,
+    "total": 304
+  },
+  {
+    "class_name": "Minitest::Parallel::Test",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/Parallel/Test",
+    "class_desc": 7,
+    "method_count": 1,
+    "method_desc": 7,
+    "total": 14
+  },
+  {
+    "class_name": "Minitest::Parallel::Test::ClassMethods",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/Parallel/Test/ClassMethods",
+    "class_desc": 7,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 7
+  },
+  {
+    "class_name": "Minitest::PrideIO",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/PrideIO",
+    "class_desc": 24,
+    "method_count": 8,
+    "method_desc": 210,
+    "total": 234
+  },
+  {
+    "class_name": "Minitest::PrideLOL",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/PrideLOL",
+    "class_desc": 85,
+    "method_count": 2,
+    "method_desc": 50,
+    "total": 135
+  },
+  {
+    "class_name": "Minitest::ProgressReporter",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/ProgressReporter",
+    "class_desc": 256,
+    "method_count": 2,
+    "method_desc": 14,
+    "total": 270
+  },
+  {
+    "class_name": "Minitest::Reportable",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/Reportable",
+    "class_desc": 98,
+    "method_count": 6,
+    "method_desc": 305,
+    "total": 403
+  },
+  {
+    "class_name": "Minitest::Reporter",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/Reporter",
+    "class_desc": 7,
+    "method_count": 5,
+    "method_desc": 119,
+    "total": 126
+  },
+  {
+    "class_name": "Minitest::Result",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/Result",
+    "class_desc": 291,
+    "method_count": 7,
+    "method_desc": 196,
+    "total": 487
+  },
+  {
+    "class_name": "Minitest::Runnable",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/Runnable",
+    "class_desc": 7,
+    "method_count": 26,
+    "method_desc": 1273,
+    "total": 1280
+  },
+  {
+    "class_name": "Minitest::Skip",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/Skip",
+    "class_desc": 37,
+    "method_count": 1,
+    "method_desc": 7,
+    "total": 44
+  },
+  {
+    "class_name": "Minitest::Spec",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/Spec",
+    "class_desc": 123,
+    "method_count": 2,
+    "method_desc": 14,
+    "total": 137
+  },
+  {
+    "class_name": "Minitest::Spec::DSL",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/Spec/DSL",
+    "class_desc": 62,
+    "method_count": 16,
+    "method_desc": 2023,
+    "total": 2085
+  },
+  {
+    "class_name": "Minitest::Spec::DSL::InstanceMethods",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/Spec/DSL/InstanceMethods",
+    "class_desc": 28,
+    "method_count": 4,
+    "method_desc": 1849,
+    "total": 1877
+  },
+  {
+    "class_name": "Minitest::StatisticsReporter",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/StatisticsReporter",
+    "class_desc": 509,
+    "method_count": 21,
+    "method_desc": 983,
+    "total": 1492
+  },
+  {
+    "class_name": "Minitest::SummaryReporter",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/SummaryReporter",
+    "class_desc": 281,
+    "method_count": 10,
+    "method_desc": 129,
+    "total": 410
+  },
+  {
+    "class_name": "Minitest::Test",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/Test",
+    "class_desc": 129,
+    "method_count": 11,
+    "method_desc": 908,
+    "total": 1037
+  },
+  {
+    "class_name": "Minitest::Test::LifecycleHooks",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/Test/LifecycleHooks",
+    "class_desc": 152,
+    "method_count": 6,
+    "method_desc": 1252,
+    "total": 1404
+  },
+  {
+    "class_name": "Minitest::UnexpectedError",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/UnexpectedError",
+    "class_desc": 68,
+    "method_count": 7,
+    "method_desc": 49,
+    "total": 117
+  },
+  {
+    "class_name": "Minitest::Unit",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/Unit",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 14,
+    "total": 14
+  },
+  {
+    "class_name": "Minitest::Unit::TestCase",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Minitest/Unit/TestCase",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 7,
+    "total": 7
+  },
+  {
+    "class_name": "MockExpectationError",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/MockExpectationError",
+    "class_desc": 7,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 7
+  },
+  {
+    "class_name": "Module",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Module",
+    "class_desc": 7,
+    "method_count": 1,
+    "method_desc": 7,
+    "total": 14
+  },
+  {
+    "class_name": "Object",
+    "url": "https://rubydoc.info/gems/minitest/5.13.0/Object",
+    "class_desc": 7,
+    "method_count": 1,
+    "method_desc": 545,
+    "total": 552
+  }
+]
