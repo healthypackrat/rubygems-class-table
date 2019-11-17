@@ -1,0 +1,362 @@
+[
+  {
+    "class_name": "FileUtils",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/FileUtils",
+    "class_desc": 118,
+    "method_count": 4,
+    "method_desc": 1246,
+    "total": 1364
+  },
+  {
+    "class_name": "Module",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Module",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 342,
+    "total": 342
+  },
+  {
+    "class_name": "Rake",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake",
+    "class_desc": 9,
+    "method_count": 9,
+    "method_desc": 675,
+    "total": 684
+  },
+  {
+    "class_name": "Rake::Application",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/Application",
+    "class_desc": 121,
+    "method_count": 54,
+    "method_desc": 2948,
+    "total": 3069
+  },
+  {
+    "class_name": "Rake::Backtrace",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/Backtrace",
+    "class_desc": 11,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 11
+  },
+  {
+    "class_name": "Rake::Cleaner",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/Cleaner",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Rake::Cloneable",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/Cloneable",
+    "class_desc": 41,
+    "method_count": 1,
+    "method_desc": 54,
+    "total": 95
+  },
+  {
+    "class_name": "Rake::CpuCounter",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/CpuCounter",
+    "class_desc": 102,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 102
+  },
+  {
+    "class_name": "Rake::DSL",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/DSL",
+    "class_desc": 212,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 212
+  },
+  {
+    "class_name": "Rake::DefaultLoader",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/DefaultLoader",
+    "class_desc": 41,
+    "method_count": 1,
+    "method_desc": 55,
+    "total": 96
+  },
+  {
+    "class_name": "Rake::EarlyTime",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/EarlyTime",
+    "class_desc": 72,
+    "method_count": 2,
+    "method_desc": 49,
+    "total": 121
+  },
+  {
+    "class_name": "Rake::FileCreationTask",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/FileCreationTask",
+    "class_desc": 282,
+    "method_count": 2,
+    "method_desc": 140,
+    "total": 422
+  },
+  {
+    "class_name": "Rake::FileList",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/FileList",
+    "class_desc": 625,
+    "method_count": 28,
+    "method_desc": 3911,
+    "total": 4536
+  },
+  {
+    "class_name": "Rake::FileTask",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/FileTask",
+    "class_desc": 228,
+    "method_count": 3,
+    "method_desc": 250,
+    "total": 478
+  },
+  {
+    "class_name": "Rake::FileUtilsExt",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/FileUtilsExt",
+    "class_desc": 131,
+    "method_count": 9,
+    "method_desc": 1731,
+    "total": 1862
+  },
+  {
+    "class_name": "Rake::InvocationChain",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/InvocationChain",
+    "class_desc": 85,
+    "method_count": 4,
+    "method_desc": 210,
+    "total": 295
+  },
+  {
+    "class_name": "Rake::InvocationChain::EmptyInvocationChain",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/InvocationChain/EmptyInvocationChain",
+    "class_desc": 31,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 31
+  },
+  {
+    "class_name": "Rake::InvocationExceptionMixin",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/InvocationExceptionMixin",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 216,
+    "total": 216
+  },
+  {
+    "class_name": "Rake::LateTime",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/LateTime",
+    "class_desc": 70,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 70
+  },
+  {
+    "class_name": "Rake::LinkedList",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/LinkedList",
+    "class_desc": 83,
+    "method_count": 11,
+    "method_desc": 690,
+    "total": 773
+  },
+  {
+    "class_name": "Rake::LinkedList::EmptyLinkedList",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/LinkedList/EmptyLinkedList",
+    "class_desc": 299,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 299
+  },
+  {
+    "class_name": "Rake::MakefileLoader",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/MakefileLoader",
+    "class_desc": 404,
+    "method_count": 1,
+    "method_desc": 39,
+    "total": 443
+  },
+  {
+    "class_name": "Rake::MultiTask",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/MultiTask",
+    "class_desc": 96,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 96
+  },
+  {
+    "class_name": "Rake::NameSpace",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/NameSpace",
+    "class_desc": 89,
+    "method_count": 4,
+    "method_desc": 233,
+    "total": 322
+  },
+  {
+    "class_name": "Rake::PackageTask",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/PackageTask",
+    "class_desc": 1115,
+    "method_count": 36,
+    "method_desc": 1979,
+    "total": 3094
+  },
+  {
+    "class_name": "Rake::PrivateReader",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/PrivateReader",
+    "class_desc": 46,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 46
+  },
+  {
+    "class_name": "Rake::PrivateReader::ClassMethods",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/PrivateReader/ClassMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 35,
+    "total": 35
+  },
+  {
+    "class_name": "Rake::Promise",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/Promise",
+    "class_desc": 228,
+    "method_count": 5,
+    "method_desc": 311,
+    "total": 539
+  },
+  {
+    "class_name": "Rake::PseudoStatus",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/PseudoStatus",
+    "class_desc": 59,
+    "method_count": 6,
+    "method_desc": 41,
+    "total": 100
+  },
+  {
+    "class_name": "Rake::RuleRecursionOverflowError",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/RuleRecursionOverflowError",
+    "class_desc": 62,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 62
+  },
+  {
+    "class_name": "Rake::Scope",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/Scope",
+    "class_desc": 11,
+    "method_count": 3,
+    "method_desc": 155,
+    "total": 166
+  },
+  {
+    "class_name": "Rake::Scope::EmptyScope",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/Scope/EmptyScope",
+    "class_desc": 74,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 74
+  },
+  {
+    "class_name": "Rake::Task",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/Task",
+    "class_desc": 391,
+    "method_count": 49,
+    "method_desc": 3140,
+    "total": 3531
+  },
+  {
+    "class_name": "Rake::TaskArgumentError",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/TaskArgumentError",
+    "class_desc": 48,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 48
+  },
+  {
+    "class_name": "Rake::TaskArguments",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/TaskArguments",
+    "class_desc": 52,
+    "method_count": 16,
+    "method_desc": 779,
+    "total": 831
+  },
+  {
+    "class_name": "Rake::TaskLib",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/TaskLib",
+    "class_desc": 30,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 30
+  },
+  {
+    "class_name": "Rake::TaskManager",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/TaskManager",
+    "class_desc": 53,
+    "method_count": 20,
+    "method_desc": 1248,
+    "total": 1301
+  },
+  {
+    "class_name": "Rake::TestTask",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/TestTask",
+    "class_desc": 875,
+    "method_count": 35,
+    "method_desc": 2062,
+    "total": 2937
+  },
+  {
+    "class_name": "Rake::ThreadHistoryDisplay",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/ThreadHistoryDisplay",
+    "class_desc": 11,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 11
+  },
+  {
+    "class_name": "Rake::ThreadPool",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/ThreadPool",
+    "class_desc": 11,
+    "method_count": 6,
+    "method_desc": 874,
+    "total": 885
+  },
+  {
+    "class_name": "Rake::TraceOutput",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/TraceOutput",
+    "class_desc": 11,
+    "method_count": 1,
+    "method_desc": 188,
+    "total": 199
+  },
+  {
+    "class_name": "Rake::Version",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/Version",
+    "class_desc": 11,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 11
+  },
+  {
+    "class_name": "Rake::Win32",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/Win32",
+    "class_desc": 124,
+    "method_count": 3,
+    "method_desc": 332,
+    "total": 456
+  },
+  {
+    "class_name": "Rake::Win32::Win32HomeError",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/Rake/Win32/Win32HomeError",
+    "class_desc": 76,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 76
+  },
+  {
+    "class_name": "String",
+    "url": "https://rubydoc.info/gems/rake/13.0.1/String",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  }
+]
