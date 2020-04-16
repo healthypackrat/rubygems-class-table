@@ -1,0 +1,234 @@
+[
+  {
+    "class_name": "Dry",
+    "url": "https://rubydoc.info/gems/dry-logic/1.0.6/Dry",
+    "class_desc": 83,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 83
+  },
+  {
+    "class_name": "Dry::Logic",
+    "url": "https://rubydoc.info/gems/dry-logic/1.0.6/Dry/Logic",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Logic::Appliable",
+    "url": "https://rubydoc.info/gems/dry-logic/1.0.6/Dry/Logic/Appliable",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Logic::Evaluator",
+    "url": "https://rubydoc.info/gems/dry-logic/1.0.6/Dry/Logic/Evaluator",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 36,
+    "total": 36
+  },
+  {
+    "class_name": "Dry::Logic::Evaluator::Attr",
+    "url": "https://rubydoc.info/gems/dry-logic/1.0.6/Dry/Logic/Evaluator/Attr",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Logic::Evaluator::Key",
+    "url": "https://rubydoc.info/gems/dry-logic/1.0.6/Dry/Logic/Evaluator/Key",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Logic::Evaluator::Set",
+    "url": "https://rubydoc.info/gems/dry-logic/1.0.6/Dry/Logic/Evaluator/Set",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 42,
+    "total": 42
+  },
+  {
+    "class_name": "Dry::Logic::Operations",
+    "url": "https://rubydoc.info/gems/dry-logic/1.0.6/Dry/Logic/Operations",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Logic::Operations::Abstract",
+    "url": "https://rubydoc.info/gems/dry-logic/1.0.6/Dry/Logic/Operations/Abstract",
+    "class_desc": 0,
+    "method_count": 8,
+    "method_desc": 76,
+    "total": 76
+  },
+  {
+    "class_name": "Dry::Logic::Operations::And",
+    "url": "https://rubydoc.info/gems/dry-logic/1.0.6/Dry/Logic/Operations/And",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 37,
+    "total": 37
+  },
+  {
+    "class_name": "Dry::Logic::Operations::Attr",
+    "url": "https://rubydoc.info/gems/dry-logic/1.0.6/Dry/Logic/Operations/Attr",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Logic::Operations::Binary",
+    "url": "https://rubydoc.info/gems/dry-logic/1.0.6/Dry/Logic/Operations/Binary",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 73,
+    "total": 73
+  },
+  {
+    "class_name": "Dry::Logic::Operations::Check",
+    "url": "https://rubydoc.info/gems/dry-logic/1.0.6/Dry/Logic/Operations/Check",
+    "class_desc": 0,
+    "method_count": 7,
+    "method_desc": 41,
+    "total": 41
+  },
+  {
+    "class_name": "Dry::Logic::Operations::Each",
+    "url": "https://rubydoc.info/gems/dry-logic/1.0.6/Dry/Logic/Operations/Each",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Logic::Operations::Implication",
+    "url": "https://rubydoc.info/gems/dry-logic/1.0.6/Dry/Logic/Operations/Implication",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Logic::Operations::Key",
+    "url": "https://rubydoc.info/gems/dry-logic/1.0.6/Dry/Logic/Operations/Key",
+    "class_desc": 0,
+    "method_count": 10,
+    "method_desc": 77,
+    "total": 77
+  },
+  {
+    "class_name": "Dry::Logic::Operations::Negation",
+    "url": "https://rubydoc.info/gems/dry-logic/1.0.6/Dry/Logic/Operations/Negation",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Logic::Operations::Or",
+    "url": "https://rubydoc.info/gems/dry-logic/1.0.6/Dry/Logic/Operations/Or",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Logic::Operations::Set",
+    "url": "https://rubydoc.info/gems/dry-logic/1.0.6/Dry/Logic/Operations/Set",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Logic::Operations::Unary",
+    "url": "https://rubydoc.info/gems/dry-logic/1.0.6/Dry/Logic/Operations/Unary",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 36,
+    "total": 36
+  },
+  {
+    "class_name": "Dry::Logic::Operations::Xor",
+    "url": "https://rubydoc.info/gems/dry-logic/1.0.6/Dry/Logic/Operations/Xor",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Logic::Operators",
+    "url": "https://rubydoc.info/gems/dry-logic/1.0.6/Dry/Logic/Operators",
+    "class_desc": 0,
+    "method_count": 8,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Logic::Predicates",
+    "url": "https://rubydoc.info/gems/dry-logic/1.0.6/Dry/Logic/Predicates",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Logic::Predicates::Methods",
+    "url": "https://rubydoc.info/gems/dry-logic/1.0.6/Dry/Logic/Predicates/Methods",
+    "class_desc": 0,
+    "method_count": 47,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Logic::Result",
+    "url": "https://rubydoc.info/gems/dry-logic/1.0.6/Dry/Logic/Result",
+    "class_desc": 0,
+    "method_count": 10,
+    "method_desc": 115,
+    "total": 115
+  },
+  {
+    "class_name": "Dry::Logic::Rule",
+    "url": "https://rubydoc.info/gems/dry-logic/1.0.6/Dry/Logic/Rule",
+    "class_desc": 0,
+    "method_count": 16,
+    "method_desc": 153,
+    "total": 153
+  },
+  {
+    "class_name": "Dry::Logic::Rule::Interface",
+    "url": "https://rubydoc.info/gems/dry-logic/1.0.6/Dry/Logic/Rule/Interface",
+    "class_desc": 0,
+    "method_count": 14,
+    "method_desc": 76,
+    "total": 76
+  },
+  {
+    "class_name": "Dry::Logic::Rule::Predicate",
+    "url": "https://rubydoc.info/gems/dry-logic/1.0.6/Dry/Logic/Rule/Predicate",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Logic::RuleCompiler",
+    "url": "https://rubydoc.info/gems/dry-logic/1.0.6/Dry/Logic/RuleCompiler",
+    "class_desc": 0,
+    "method_count": 15,
+    "method_desc": 42,
+    "total": 42
+  }
+]

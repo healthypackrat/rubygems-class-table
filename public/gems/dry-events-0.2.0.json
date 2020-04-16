@@ -1,0 +1,74 @@
+[
+  {
+    "class_name": "Dry",
+    "url": "https://rubydoc.info/gems/dry-events/0.2.0/Dry",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Events",
+    "url": "https://rubydoc.info/gems/dry-events/0.2.0/Dry/Events",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Events::Bus",
+    "url": "https://rubydoc.info/gems/dry-events/0.2.0/Dry/Events/Bus",
+    "class_desc": 63,
+    "method_count": 10,
+    "method_desc": 26,
+    "total": 89
+  },
+  {
+    "class_name": "Dry::Events::Event",
+    "url": "https://rubydoc.info/gems/dry-events/0.2.0/Dry/Events/Event",
+    "class_desc": 12,
+    "method_count": 8,
+    "method_desc": 117,
+    "total": 129
+  },
+  {
+    "class_name": "Dry::Events::Filter",
+    "url": "https://rubydoc.info/gems/dry-events/0.2.0/Dry/Events/Filter",
+    "class_desc": 118,
+    "method_count": 7,
+    "method_desc": 80,
+    "total": 198
+  },
+  {
+    "class_name": "Dry::Events::Listener",
+    "url": "https://rubydoc.info/gems/dry-events/0.2.0/Dry/Events/Listener",
+    "class_desc": 47,
+    "method_count": 5,
+    "method_desc": 52,
+    "total": 99
+  },
+  {
+    "class_name": "Dry::Events::Publisher",
+    "url": "https://rubydoc.info/gems/dry-events/0.2.0/Dry/Events/Publisher",
+    "class_desc": 50,
+    "method_count": 6,
+    "method_desc": 348,
+    "total": 398
+  },
+  {
+    "class_name": "Dry::Events::Publisher::ClassMethods",
+    "url": "https://rubydoc.info/gems/dry-events/0.2.0/Dry/Events/Publisher/ClassMethods",
+    "class_desc": 37,
+    "method_count": 5,
+    "method_desc": 136,
+    "total": 173
+  },
+  {
+    "class_name": "Dry::Events::Publisher::InstanceMethods",
+    "url": "https://rubydoc.info/gems/dry-events/0.2.0/Dry/Events/Publisher/InstanceMethods",
+    "class_desc": 33,
+    "method_count": 8,
+    "method_desc": 447,
+    "total": 480
+  }
+]

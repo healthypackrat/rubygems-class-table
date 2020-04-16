@@ -1,0 +1,402 @@
+[
+  {
+    "class_name": "Dry",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry",
+    "class_desc": 114,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 114
+  },
+  {
+    "class_name": "Dry::Monads",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads",
+    "class_desc": 33,
+    "method_count": 3,
+    "method_desc": 427,
+    "total": 460
+  },
+  {
+    "class_name": "Dry::Monads::ConstructorNotAppliedError",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/ConstructorNotAppliedError",
+    "class_desc": 20,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 20
+  },
+  {
+    "class_name": "Dry::Monads::ConversionStubs",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/ConversionStubs",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Monads::ConversionStubs::Methods",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/ConversionStubs/Methods",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Monads::Curry",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Curry",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Monads::Do",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Do",
+    "class_desc": 33,
+    "method_count": 5,
+    "method_desc": 123,
+    "total": 156
+  },
+  {
+    "class_name": "Dry::Monads::Do::All",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Do/All",
+    "class_desc": 184,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 184
+  },
+  {
+    "class_name": "Dry::Monads::Do::All::InstanceMixin",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Do/All/InstanceMixin",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Monads::Do::All::MethodTracker",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Do/All/MethodTracker",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Monads::Do::Halt",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Do/Halt",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Monads::Do::Mixin",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Do/Mixin",
+    "class_desc": 79,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 79
+  },
+  {
+    "class_name": "Dry::Monads::InvalidFailureTypeError",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/InvalidFailureTypeError",
+    "class_desc": 55,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 55
+  },
+  {
+    "class_name": "Dry::Monads::Lazy",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Lazy",
+    "class_desc": 265,
+    "method_count": 6,
+    "method_desc": 205,
+    "total": 470
+  },
+  {
+    "class_name": "Dry::Monads::Lazy::Mixin",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Lazy/Mixin",
+    "class_desc": 17,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 17
+  },
+  {
+    "class_name": "Dry::Monads::Lazy::Mixin::Constructors",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Lazy/Mixin/Constructors",
+    "class_desc": 17,
+    "method_count": 1,
+    "method_desc": 27,
+    "total": 44
+  },
+  {
+    "class_name": "Dry::Monads::List",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/List",
+    "class_desc": 15,
+    "method_count": 38,
+    "method_desc": 1795,
+    "total": 1810
+  },
+  {
+    "class_name": "Dry::Monads::List::ListBuilder",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/List/ListBuilder",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Monads::List::Mixin",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/List/Mixin",
+    "class_desc": 17,
+    "method_count": 1,
+    "method_desc": 17,
+    "total": 34
+  },
+  {
+    "class_name": "Dry::Monads::Maybe",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Maybe",
+    "class_desc": 64,
+    "method_count": 13,
+    "method_desc": 762,
+    "total": 826
+  },
+  {
+    "class_name": "Dry::Monads::Maybe::Hash",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Maybe/Hash",
+    "class_desc": 54,
+    "method_count": 2,
+    "method_desc": 174,
+    "total": 228
+  },
+  {
+    "class_name": "Dry::Monads::Maybe::Mixin",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Maybe/Mixin",
+    "class_desc": 64,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 64
+  },
+  {
+    "class_name": "Dry::Monads::Maybe::Mixin::Constructors",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Maybe/Mixin/Constructors",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 16,
+    "total": 16
+  },
+  {
+    "class_name": "Dry::Monads::Maybe::None",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Maybe/None",
+    "class_desc": 53,
+    "method_count": 12,
+    "method_desc": 295,
+    "total": 348
+  },
+  {
+    "class_name": "Dry::Monads::Maybe::Some",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Maybe/Some",
+    "class_desc": 49,
+    "method_count": 7,
+    "method_desc": 444,
+    "total": 493
+  },
+  {
+    "class_name": "Dry::Monads::Result",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Result",
+    "class_desc": 57,
+    "method_count": 6,
+    "method_desc": 191,
+    "total": 248
+  },
+  {
+    "class_name": "Dry::Monads::Result::Failure",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Result/Failure",
+    "class_desc": 41,
+    "method_count": 18,
+    "method_desc": 605,
+    "total": 646
+  },
+  {
+    "class_name": "Dry::Monads::Result::Fixed",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Result/Fixed",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Monads::Result::Mixin",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Result/Mixin",
+    "class_desc": 65,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 65
+  },
+  {
+    "class_name": "Dry::Monads::Result::Mixin::Constructors",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Result/Mixin/Constructors",
+    "class_desc": 18,
+    "method_count": 2,
+    "method_desc": 38,
+    "total": 56
+  },
+  {
+    "class_name": "Dry::Monads::Result::Success",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Result/Success",
+    "class_desc": 45,
+    "method_count": 13,
+    "method_desc": 473,
+    "total": 518
+  },
+  {
+    "class_name": "Dry::Monads::RightBiased",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/RightBiased",
+    "class_desc": 79,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 79
+  },
+  {
+    "class_name": "Dry::Monads::RightBiased::Left",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/RightBiased/Left",
+    "class_desc": 25,
+    "method_count": 14,
+    "method_desc": 957,
+    "total": 982
+  },
+  {
+    "class_name": "Dry::Monads::RightBiased::Right",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/RightBiased/Right",
+    "class_desc": 10,
+    "method_count": 15,
+    "method_desc": 1193,
+    "total": 1203
+  },
+  {
+    "class_name": "Dry::Monads::Task",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Task",
+    "class_desc": 205,
+    "method_count": 23,
+    "method_desc": 1151,
+    "total": 1356
+  },
+  {
+    "class_name": "Dry::Monads::Task::Mixin",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Task/Mixin",
+    "class_desc": 18,
+    "method_count": 1,
+    "method_desc": 49,
+    "total": 67
+  },
+  {
+    "class_name": "Dry::Monads::Task::Mixin::Constructors",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Task/Mixin/Constructors",
+    "class_desc": 17,
+    "method_count": 1,
+    "method_desc": 27,
+    "total": 44
+  },
+  {
+    "class_name": "Dry::Monads::Task::Promise",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Task/Promise",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Monads::Transformer",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Transformer",
+    "class_desc": 24,
+    "method_count": 2,
+    "method_desc": 268,
+    "total": 292
+  },
+  {
+    "class_name": "Dry::Monads::Try",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Try",
+    "class_desc": 122,
+    "method_count": 9,
+    "method_desc": 430,
+    "total": 552
+  },
+  {
+    "class_name": "Dry::Monads::Try::Error",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Try/Error",
+    "class_desc": 42,
+    "method_count": 7,
+    "method_desc": 116,
+    "total": 158
+  },
+  {
+    "class_name": "Dry::Monads::Try::Mixin",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Try/Mixin",
+    "class_desc": 62,
+    "method_count": 2,
+    "method_desc": 34,
+    "total": 96
+  },
+  {
+    "class_name": "Dry::Monads::Try::Mixin::Constructors",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Try/Mixin/Constructors",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 276,
+    "total": 276
+  },
+  {
+    "class_name": "Dry::Monads::Try::Value",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Try/Value",
+    "class_desc": 46,
+    "method_count": 8,
+    "method_desc": 283,
+    "total": 329
+  },
+  {
+    "class_name": "Dry::Monads::UnwrapError",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/UnwrapError",
+    "class_desc": 58,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 58
+  },
+  {
+    "class_name": "Dry::Monads::Validated",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Validated",
+    "class_desc": 434,
+    "method_count": 3,
+    "method_desc": 72,
+    "total": 506
+  },
+  {
+    "class_name": "Dry::Monads::Validated::Invalid",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Validated/Invalid",
+    "class_desc": 14,
+    "method_count": 12,
+    "method_desc": 271,
+    "total": 285
+  },
+  {
+    "class_name": "Dry::Monads::Validated::Mixin",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Validated/Mixin",
+    "class_desc": 33,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 33
+  },
+  {
+    "class_name": "Dry::Monads::Validated::Mixin::Constructors",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Validated/Mixin/Constructors",
+    "class_desc": 26,
+    "method_count": 2,
+    "method_desc": 36,
+    "total": 62
+  },
+  {
+    "class_name": "Dry::Monads::Validated::Valid",
+    "url": "https://rubydoc.info/gems/dry-monads/1.3.5/Dry/Monads/Validated/Valid",
+    "class_desc": 12,
+    "method_count": 11,
+    "method_desc": 226,
+    "total": 238
+  }
+]

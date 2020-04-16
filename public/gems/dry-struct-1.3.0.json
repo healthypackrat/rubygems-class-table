@@ -1,0 +1,114 @@
+[
+  {
+    "class_name": "Dry",
+    "url": "https://rubydoc.info/gems/dry-struct/1.3.0/Dry",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 55,
+    "total": 55
+  },
+  {
+    "class_name": "Dry::Struct",
+    "url": "https://rubydoc.info/gems/dry-struct/1.3.0/Dry/Struct",
+    "class_desc": 877,
+    "method_count": 13,
+    "method_desc": 589,
+    "total": 1466
+  },
+  {
+    "class_name": "Dry::Struct::ClassInterface",
+    "url": "https://rubydoc.info/gems/dry-struct/1.3.0/Dry/Struct/ClassInterface",
+    "class_desc": 45,
+    "method_count": 30,
+    "method_desc": 530,
+    "total": 575
+  },
+  {
+    "class_name": "Dry::Struct::Compiler",
+    "url": "https://rubydoc.info/gems/dry-struct/1.3.0/Dry/Struct/Compiler",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Struct::Constructor",
+    "url": "https://rubydoc.info/gems/dry-struct/1.3.0/Dry/Struct/Constructor",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Struct::Hashify",
+    "url": "https://rubydoc.info/gems/dry-struct/1.3.0/Dry/Struct/Hashify",
+    "class_desc": 42,
+    "method_count": 1,
+    "method_desc": 34,
+    "total": 76
+  },
+  {
+    "class_name": "Dry::Struct::MissingAttributeError",
+    "url": "https://rubydoc.info/gems/dry-struct/1.3.0/Dry/Struct/MissingAttributeError",
+    "class_desc": 46,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 46
+  },
+  {
+    "class_name": "Dry::Struct::RecycledStructError",
+    "url": "https://rubydoc.info/gems/dry-struct/1.3.0/Dry/Struct/RecycledStructError",
+    "class_desc": 132,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 132
+  },
+  {
+    "class_name": "Dry::Struct::RepeatedAttributeError",
+    "url": "https://rubydoc.info/gems/dry-struct/1.3.0/Dry/Struct/RepeatedAttributeError",
+    "class_desc": 41,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 41
+  },
+  {
+    "class_name": "Dry::Struct::StructBuilder",
+    "url": "https://rubydoc.info/gems/dry-struct/1.3.0/Dry/Struct/StructBuilder",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 38,
+    "total": 38
+  },
+  {
+    "class_name": "Dry::Struct::Sum",
+    "url": "https://rubydoc.info/gems/dry-struct/1.3.0/Dry/Struct/Sum",
+    "class_desc": 117,
+    "method_count": 4,
+    "method_desc": 20,
+    "total": 137
+  },
+  {
+    "class_name": "Dry::Struct::Value",
+    "url": "https://rubydoc.info/gems/dry-struct/1.3.0/Dry/Struct/Value",
+    "class_desc": 111,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 111
+  },
+  {
+    "class_name": "Dry::Types",
+    "url": "https://rubydoc.info/gems/dry-struct/1.3.0/Dry/Types",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Types::Printer",
+    "url": "https://rubydoc.info/gems/dry-struct/1.3.0/Dry/Types/Printer",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  }
+]

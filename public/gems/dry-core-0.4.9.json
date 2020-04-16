@@ -1,0 +1,138 @@
+[
+  {
+    "class_name": "Dry",
+    "url": "https://rubydoc.info/gems/dry-core/0.4.9/Dry",
+    "class_desc": 7,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 7
+  },
+  {
+    "class_name": "Dry::Core",
+    "url": "https://rubydoc.info/gems/dry-core/0.4.9/Dry/Core",
+    "class_desc": 7,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 7
+  },
+  {
+    "class_name": "Dry::Core::Cache",
+    "url": "https://rubydoc.info/gems/dry-core/0.4.9/Dry/Core/Cache",
+    "class_desc": 73,
+    "method_count": 4,
+    "method_desc": 39,
+    "total": 112
+  },
+  {
+    "class_name": "Dry::Core::Cache::Methods",
+    "url": "https://rubydoc.info/gems/dry-core/0.4.9/Dry/Core/Cache/Methods",
+    "class_desc": 16,
+    "method_count": 1,
+    "method_desc": 40,
+    "total": 56
+  },
+  {
+    "class_name": "Dry::Core::ClassAttributes",
+    "url": "https://rubydoc.info/gems/dry-core/0.4.9/Dry/Core/ClassAttributes",
+    "class_desc": 48,
+    "method_count": 1,
+    "method_desc": 40,
+    "total": 88
+  },
+  {
+    "class_name": "Dry::Core::ClassBuilder",
+    "url": "https://rubydoc.info/gems/dry-core/0.4.9/Dry/Core/ClassBuilder",
+    "class_desc": 33,
+    "method_count": 5,
+    "method_desc": 148,
+    "total": 181
+  },
+  {
+    "class_name": "Dry::Core::Constants",
+    "url": "https://rubydoc.info/gems/dry-core/0.4.9/Dry/Core/Constants",
+    "class_desc": 79,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 79
+  },
+  {
+    "class_name": "Dry::Core::Deprecations",
+    "url": "https://rubydoc.info/gems/dry-core/0.4.9/Dry/Core/Deprecations",
+    "class_desc": 63,
+    "method_count": 7,
+    "method_desc": 219,
+    "total": 282
+  },
+  {
+    "class_name": "Dry::Core::Deprecations::Interface",
+    "url": "https://rubydoc.info/gems/dry-core/0.4.9/Dry/Core/Deprecations/Interface",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 155,
+    "total": 155
+  },
+  {
+    "class_name": "Dry::Core::Deprecations::Tagged",
+    "url": "https://rubydoc.info/gems/dry-core/0.4.9/Dry/Core/Deprecations/Tagged",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Core::DescendantsTracker",
+    "url": "https://rubydoc.info/gems/dry-core/0.4.9/Dry/Core/DescendantsTracker",
+    "class_desc": 90,
+    "method_count": 2,
+    "method_desc": 36,
+    "total": 126
+  },
+  {
+    "class_name": "Dry::Core::Extensions",
+    "url": "https://rubydoc.info/gems/dry-core/0.4.9/Dry/Core/Extensions",
+    "class_desc": 56,
+    "method_count": 4,
+    "method_desc": 127,
+    "total": 183
+  },
+  {
+    "class_name": "Dry::Core::Inflector",
+    "url": "https://rubydoc.info/gems/dry-core/0.4.9/Dry/Core/Inflector",
+    "class_desc": 68,
+    "method_count": 11,
+    "method_desc": 351,
+    "total": 419
+  },
+  {
+    "class_name": "Dry::Core::InvalidClassAttributeValue",
+    "url": "https://rubydoc.info/gems/dry-core/0.4.9/Dry/Core/InvalidClassAttributeValue",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Core::Memoizable",
+    "url": "https://rubydoc.info/gems/dry-core/0.4.9/Dry/Core/Memoizable",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 44,
+    "total": 44
+  },
+  {
+    "class_name": "Dry::Core::Memoizable::ClassInterface",
+    "url": "https://rubydoc.info/gems/dry-core/0.4.9/Dry/Core/Memoizable/ClassInterface",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Core::Memoizable::Memoizer",
+    "url": "https://rubydoc.info/gems/dry-core/0.4.9/Dry/Core/Memoizable/Memoizer",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  }
+]

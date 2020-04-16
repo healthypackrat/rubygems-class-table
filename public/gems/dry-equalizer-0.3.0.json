@@ -1,0 +1,26 @@
+[
+  {
+    "class_name": "Dry",
+    "url": "https://rubydoc.info/gems/dry-equalizer/0.3.0/Dry",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 58,
+    "total": 58
+  },
+  {
+    "class_name": "Dry::Equalizer",
+    "url": "https://rubydoc.info/gems/dry-equalizer/0.3.0/Dry/Equalizer",
+    "class_desc": 51,
+    "method_count": 1,
+    "method_desc": 128,
+    "total": 179
+  },
+  {
+    "class_name": "Dry::Equalizer::Methods",
+    "url": "https://rubydoc.info/gems/dry-equalizer/0.3.0/Dry/Equalizer/Methods",
+    "class_desc": 22,
+    "method_count": 2,
+    "method_desc": 101,
+    "total": 123
+  }
+]

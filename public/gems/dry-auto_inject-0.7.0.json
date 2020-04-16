@@ -1,0 +1,90 @@
+[
+  {
+    "class_name": "Dry",
+    "url": "https://rubydoc.info/gems/dry-auto_inject/0.7.0/Dry",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 34,
+    "total": 34
+  },
+  {
+    "class_name": "Dry::AutoInject",
+    "url": "https://rubydoc.info/gems/dry-auto_inject/0.7.0/Dry/AutoInject",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::AutoInject::Builder",
+    "url": "https://rubydoc.info/gems/dry-auto_inject/0.7.0/Dry/AutoInject/Builder",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::AutoInject::DependencyMap",
+    "url": "https://rubydoc.info/gems/dry-auto_inject/0.7.0/Dry/AutoInject/DependencyMap",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::AutoInject::Injector",
+    "url": "https://rubydoc.info/gems/dry-auto_inject/0.7.0/Dry/AutoInject/Injector",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::AutoInject::MethodParameters",
+    "url": "https://rubydoc.info/gems/dry-auto_inject/0.7.0/Dry/AutoInject/MethodParameters",
+    "class_desc": 0,
+    "method_count": 10,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::AutoInject::Strategies",
+    "url": "https://rubydoc.info/gems/dry-auto_inject/0.7.0/Dry/AutoInject/Strategies",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::AutoInject::Strategies::Args",
+    "url": "https://rubydoc.info/gems/dry-auto_inject/0.7.0/Dry/AutoInject/Strategies/Args",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::AutoInject::Strategies::Constructor",
+    "url": "https://rubydoc.info/gems/dry-auto_inject/0.7.0/Dry/AutoInject/Strategies/Constructor",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 172,
+    "total": 172
+  },
+  {
+    "class_name": "Dry::AutoInject::Strategies::Hash",
+    "url": "https://rubydoc.info/gems/dry-auto_inject/0.7.0/Dry/AutoInject/Strategies/Hash",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::AutoInject::Strategies::Kwargs",
+    "url": "https://rubydoc.info/gems/dry-auto_inject/0.7.0/Dry/AutoInject/Strategies/Kwargs",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  }
+]

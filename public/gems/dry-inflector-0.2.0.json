@@ -1,0 +1,50 @@
+[
+  {
+    "class_name": "Dry",
+    "url": "https://rubydoc.info/gems/dry-inflector/0.2.0/Dry",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Inflector",
+    "url": "https://rubydoc.info/gems/dry-inflector/0.2.0/Dry/Inflector",
+    "class_desc": 13,
+    "method_count": 18,
+    "method_desc": 483,
+    "total": 496
+  },
+  {
+    "class_name": "Dry::Inflector::Acronyms",
+    "url": "https://rubydoc.info/gems/dry-inflector/0.2.0/Dry/Inflector/Acronyms",
+    "class_desc": 17,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 17
+  },
+  {
+    "class_name": "Dry::Inflector::Inflections",
+    "url": "https://rubydoc.info/gems/dry-inflector/0.2.0/Dry/Inflector/Inflections",
+    "class_desc": 11,
+    "method_count": 13,
+    "method_desc": 1492,
+    "total": 1503
+  },
+  {
+    "class_name": "Dry::Inflector::Inflections::Defaults",
+    "url": "https://rubydoc.info/gems/dry-inflector/0.2.0/Dry/Inflector/Inflections/Defaults",
+    "class_desc": 89,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 89
+  },
+  {
+    "class_name": "Dry::Inflector::Rules",
+    "url": "https://rubydoc.info/gems/dry-inflector/0.2.0/Dry/Inflector/Rules",
+    "class_desc": 25,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 25
+  }
+]
