@@ -1,0 +1,1378 @@
+[
+  {
+    "class_name": "ROM",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM",
+    "class_desc": 48,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 48
+  },
+  {
+    "class_name": "ROM::AdapterNotPresentError",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/AdapterNotPresentError",
+    "class_desc": 81,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 81
+  },
+  {
+    "class_name": "ROM::AdapterPluginsContainer",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/AdapterPluginsContainer",
+    "class_desc": 44,
+    "method_count": 7,
+    "method_desc": 153,
+    "total": 197
+  },
+  {
+    "class_name": "ROM::ArrayDataset",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/ArrayDataset",
+    "class_desc": 69,
+    "method_count": 1,
+    "method_desc": 42,
+    "total": 111
+  },
+  {
+    "class_name": "ROM::AssociationSet",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/AssociationSet",
+    "class_desc": 75,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 75
+  },
+  {
+    "class_name": "ROM::Associations",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Associations",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Associations::Abstract",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Associations/Abstract",
+    "class_desc": 26,
+    "method_count": 20,
+    "method_desc": 899,
+    "total": 925
+  },
+  {
+    "class_name": "ROM::Associations::Definitions",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Associations/Definitions",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Associations::Definitions::Abstract",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Associations/Definitions/Abstract",
+    "class_desc": 38,
+    "method_count": 16,
+    "method_desc": 218,
+    "total": 256
+  },
+  {
+    "class_name": "ROM::Associations::Definitions::ManyToMany",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Associations/Definitions/ManyToMany",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Associations::Definitions::ManyToOne",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Associations/Definitions/ManyToOne",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Associations::Definitions::OneToMany",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Associations/Definitions/OneToMany",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Associations::Definitions::OneToOne",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Associations/Definitions/OneToOne",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Associations::Definitions::OneToOneThrough",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Associations/Definitions/OneToOneThrough",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Associations::ManyToMany",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Associations/ManyToMany",
+    "class_desc": 38,
+    "method_count": 7,
+    "method_desc": 183,
+    "total": 221
+  },
+  {
+    "class_name": "ROM::Associations::ManyToOne",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Associations/ManyToOne",
+    "class_desc": 37,
+    "method_count": 3,
+    "method_desc": 101,
+    "total": 138
+  },
+  {
+    "class_name": "ROM::Associations::OneToMany",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Associations/OneToMany",
+    "class_desc": 32,
+    "method_count": 3,
+    "method_desc": 107,
+    "total": 139
+  },
+  {
+    "class_name": "ROM::Associations::OneToOne",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Associations/OneToOne",
+    "class_desc": 36,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 36
+  },
+  {
+    "class_name": "ROM::Associations::OneToOneThrough",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Associations/OneToOneThrough",
+    "class_desc": 44,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 44
+  },
+  {
+    "class_name": "ROM::Associations::ThroughIdentifier",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Associations/ThroughIdentifier",
+    "class_desc": 0,
+    "method_count": 7,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Attribute",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Attribute",
+    "class_desc": 372,
+    "method_count": 26,
+    "method_desc": 1390,
+    "total": 1762
+  },
+  {
+    "class_name": "ROM::AutoCurry",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/AutoCurry",
+    "class_desc": 72,
+    "method_count": 5,
+    "method_desc": 19,
+    "total": 91
+  },
+  {
+    "class_name": "ROM::AutoRegistration",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/AutoRegistration",
+    "class_desc": 95,
+    "method_count": 7,
+    "method_desc": 54,
+    "total": 149
+  },
+  {
+    "class_name": "ROM::AutoRegistrationStrategies",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/AutoRegistrationStrategies",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::AutoRegistrationStrategies::Base",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/AutoRegistrationStrategies/Base",
+    "class_desc": 38,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 38
+  },
+  {
+    "class_name": "ROM::AutoRegistrationStrategies::CustomNamespace",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/AutoRegistrationStrategies/CustomNamespace",
+    "class_desc": 101,
+    "method_count": 3,
+    "method_desc": 16,
+    "total": 117
+  },
+  {
+    "class_name": "ROM::AutoRegistrationStrategies::NoNamespace",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/AutoRegistrationStrategies/NoNamespace",
+    "class_desc": 74,
+    "method_count": 3,
+    "method_desc": 15,
+    "total": 89
+  },
+  {
+    "class_name": "ROM::AutoRegistrationStrategies::WithNamespace",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/AutoRegistrationStrategies/WithNamespace",
+    "class_desc": 111,
+    "method_count": 2,
+    "method_desc": 15,
+    "total": 126
+  },
+  {
+    "class_name": "ROM::Cache",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Cache",
+    "class_desc": 48,
+    "method_count": 7,
+    "method_desc": 0,
+    "total": 48
+  },
+  {
+    "class_name": "ROM::Cache::Namespaced",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Cache/Namespaced",
+    "class_desc": 0,
+    "method_count": 7,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Command",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Command",
+    "class_desc": 77,
+    "method_count": 32,
+    "method_desc": 1406,
+    "total": 1483
+  },
+  {
+    "class_name": "ROM::Command::ClassInterface",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Command/ClassInterface",
+    "class_desc": 0,
+    "method_count": 14,
+    "method_desc": 674,
+    "total": 674
+  },
+  {
+    "class_name": "ROM::CommandCompiler",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/CommandCompiler",
+    "class_desc": 209,
+    "method_count": 16,
+    "method_desc": 798,
+    "total": 1007
+  },
+  {
+    "class_name": "ROM::CommandProxy",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/CommandProxy",
+    "class_desc": 121,
+    "method_count": 6,
+    "method_desc": 0,
+    "total": 121
+  },
+  {
+    "class_name": "ROM::CommandRegistry",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/CommandRegistry",
+    "class_desc": 39,
+    "method_count": 10,
+    "method_desc": 211,
+    "total": 250
+  },
+  {
+    "class_name": "ROM::Commands",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Commands",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Commands::Composite",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Commands/Composite",
+    "class_desc": 58,
+    "method_count": 5,
+    "method_desc": 168,
+    "total": 226
+  },
+  {
+    "class_name": "ROM::Commands::Create",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Commands/Create",
+    "class_desc": 64,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 64
+  },
+  {
+    "class_name": "ROM::Commands::Delete",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Commands/Delete",
+    "class_desc": 68,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 68
+  },
+  {
+    "class_name": "ROM::Commands::Graph",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Commands/Graph",
+    "class_desc": 13,
+    "method_count": 4,
+    "method_desc": 120,
+    "total": 133
+  },
+  {
+    "class_name": "ROM::Commands::Graph::ClassInterface",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Commands/Graph/ClassInterface",
+    "class_desc": 31,
+    "method_count": 2,
+    "method_desc": 107,
+    "total": 138
+  },
+  {
+    "class_name": "ROM::Commands::Graph::InputEvaluator",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Commands/Graph/InputEvaluator",
+    "class_desc": 81,
+    "method_count": 8,
+    "method_desc": 102,
+    "total": 183
+  },
+  {
+    "class_name": "ROM::Commands::Lazy",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Commands/Lazy",
+    "class_desc": 70,
+    "method_count": 11,
+    "method_desc": 136,
+    "total": 206
+  },
+  {
+    "class_name": "ROM::Commands::Lazy::Create",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Commands/Lazy/Create",
+    "class_desc": 40,
+    "method_count": 1,
+    "method_desc": 17,
+    "total": 57
+  },
+  {
+    "class_name": "ROM::Commands::Lazy::Delete",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Commands/Lazy/Delete",
+    "class_desc": 40,
+    "method_count": 1,
+    "method_desc": 29,
+    "total": 69
+  },
+  {
+    "class_name": "ROM::Commands::Lazy::Update",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Commands/Lazy/Update",
+    "class_desc": 40,
+    "method_count": 1,
+    "method_desc": 29,
+    "total": 69
+  },
+  {
+    "class_name": "ROM::Commands::Update",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Commands/Update",
+    "class_desc": 83,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 83
+  },
+  {
+    "class_name": "ROM::Configurable",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Configurable",
+    "class_desc": 138,
+    "method_count": 2,
+    "method_desc": 43,
+    "total": 181
+  },
+  {
+    "class_name": "ROM::Configurable::Config",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Configurable/Config",
+    "class_desc": 0,
+    "method_count": 8,
+    "method_desc": 16,
+    "total": 16
+  },
+  {
+    "class_name": "ROM::Configuration",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Configuration",
+    "class_desc": 0,
+    "method_count": 11,
+    "method_desc": 259,
+    "total": 259
+  },
+  {
+    "class_name": "ROM::ConfigurationDSL",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/ConfigurationDSL",
+    "class_desc": 53,
+    "method_count": 5,
+    "method_desc": 140,
+    "total": 193
+  },
+  {
+    "class_name": "ROM::ConfigurationDSL::Command",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/ConfigurationDSL/Command",
+    "class_desc": 37,
+    "method_count": 2,
+    "method_desc": 152,
+    "total": 189
+  },
+  {
+    "class_name": "ROM::ConfigurationDSL::CommandDSL",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/ConfigurationDSL/CommandDSL",
+    "class_desc": 43,
+    "method_count": 5,
+    "method_desc": 22,
+    "total": 65
+  },
+  {
+    "class_name": "ROM::ConfigurationDSL::MapperDSL",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/ConfigurationDSL/MapperDSL",
+    "class_desc": 39,
+    "method_count": 6,
+    "method_desc": 25,
+    "total": 64
+  },
+  {
+    "class_name": "ROM::ConfigurationDSL::Relation",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/ConfigurationDSL/Relation",
+    "class_desc": 38,
+    "method_count": 1,
+    "method_desc": 64,
+    "total": 102
+  },
+  {
+    "class_name": "ROM::Container",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Container",
+    "class_desc": 1121,
+    "method_count": 6,
+    "method_desc": 136,
+    "total": 1257
+  },
+  {
+    "class_name": "ROM::Core",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Core",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::CreateContainer",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/CreateContainer",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::DataProxy",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/DataProxy",
+    "class_desc": 179,
+    "method_count": 4,
+    "method_desc": 123,
+    "total": 302
+  },
+  {
+    "class_name": "ROM::DataProxy::ClassMethods",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/DataProxy/ClassMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 79,
+    "total": 79
+  },
+  {
+    "class_name": "ROM::ElementNotFoundError",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/ElementNotFoundError",
+    "class_desc": 73,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 73
+  },
+  {
+    "class_name": "ROM::EnumerableDataset",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/EnumerableDataset",
+    "class_desc": 283,
+    "method_count": 2,
+    "method_desc": 183,
+    "total": 466
+  },
+  {
+    "class_name": "ROM::Environment",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Environment",
+    "class_desc": 36,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 36
+  },
+  {
+    "class_name": "ROM::Finalize",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Finalize",
+    "class_desc": 150,
+    "method_count": 12,
+    "method_desc": 519,
+    "total": 669
+  },
+  {
+    "class_name": "ROM::Finalize::FinalizeCommands",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Finalize/FinalizeCommands",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 95,
+    "total": 95
+  },
+  {
+    "class_name": "ROM::Finalize::FinalizeMappers",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Finalize/FinalizeMappers",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 137,
+    "total": 137
+  },
+  {
+    "class_name": "ROM::Finalize::FinalizeRelations",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Finalize/FinalizeRelations",
+    "class_desc": 0,
+    "method_count": 9,
+    "method_desc": 127,
+    "total": 127
+  },
+  {
+    "class_name": "ROM::Gateway",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Gateway",
+    "class_desc": 103,
+    "method_count": 9,
+    "method_desc": 561,
+    "total": 664
+  },
+  {
+    "class_name": "ROM::Global",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Global",
+    "class_desc": 59,
+    "method_count": 5,
+    "method_desc": 240,
+    "total": 299
+  },
+  {
+    "class_name": "ROM::Global::PluginDSL",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Global/PluginDSL",
+    "class_desc": 23,
+    "method_count": 5,
+    "method_desc": 116,
+    "total": 139
+  },
+  {
+    "class_name": "ROM::Header",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Header",
+    "class_desc": 162,
+    "method_count": 19,
+    "method_desc": 509,
+    "total": 671
+  },
+  {
+    "class_name": "ROM::Header::Attribute",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Header/Attribute",
+    "class_desc": 250,
+    "method_count": 11,
+    "method_desc": 235,
+    "total": 485
+  },
+  {
+    "class_name": "ROM::Header::Embedded",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Header/Embedded",
+    "class_desc": 123,
+    "method_count": 4,
+    "method_desc": 71,
+    "total": 194
+  },
+  {
+    "class_name": "ROM::Initializer",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Initializer",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Initializer::DefineWithHook",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Initializer/DefineWithHook",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Initializer::InstanceMethods",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Initializer/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 82,
+    "total": 82
+  },
+  {
+    "class_name": "ROM::InlineCreateContainer",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/InlineCreateContainer",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::InvalidRelationName",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/InvalidRelationName",
+    "class_desc": 67,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 67
+  },
+  {
+    "class_name": "ROM::Lint",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Lint",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Lint::EnumerableDataset",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Lint/EnumerableDataset",
+    "class_desc": 84,
+    "method_count": 5,
+    "method_desc": 184,
+    "total": 268
+  },
+  {
+    "class_name": "ROM::Lint::Gateway",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Lint/Gateway",
+    "class_desc": 86,
+    "method_count": 10,
+    "method_desc": 406,
+    "total": 492
+  },
+  {
+    "class_name": "ROM::Lint::Linter",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Lint/Linter",
+    "class_desc": 318,
+    "method_count": 2,
+    "method_desc": 46,
+    "total": 364
+  },
+  {
+    "class_name": "ROM::Lint::Test",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Lint/Test",
+    "class_desc": 42,
+    "method_count": 1,
+    "method_desc": 60,
+    "total": 102
+  },
+  {
+    "class_name": "ROM::Lint::TestEnumerableDataset",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Lint/TestEnumerableDataset",
+    "class_desc": 94,
+    "method_count": 2,
+    "method_desc": 53,
+    "total": 147
+  },
+  {
+    "class_name": "ROM::Lint::TestGateway",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Lint/TestGateway",
+    "class_desc": 88,
+    "method_count": 3,
+    "method_desc": 119,
+    "total": 207
+  },
+  {
+    "class_name": "ROM::Mapper",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Mapper",
+    "class_desc": 66,
+    "method_count": 10,
+    "method_desc": 174,
+    "total": 240
+  },
+  {
+    "class_name": "ROM::Mapper::AttributeDSL",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Mapper/AttributeDSL",
+    "class_desc": 217,
+    "method_count": 21,
+    "method_desc": 1484,
+    "total": 1701
+  },
+  {
+    "class_name": "ROM::Mapper::Builder",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Mapper/Builder",
+    "class_desc": 36,
+    "method_count": 1,
+    "method_desc": 61,
+    "total": 97
+  },
+  {
+    "class_name": "ROM::Mapper::DSL",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Mapper/DSL",
+    "class_desc": 60,
+    "method_count": 1,
+    "method_desc": 47,
+    "total": 107
+  },
+  {
+    "class_name": "ROM::Mapper::DSL::ClassMethods",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Mapper/DSL/ClassMethods",
+    "class_desc": 29,
+    "method_count": 5,
+    "method_desc": 391,
+    "total": 420
+  },
+  {
+    "class_name": "ROM::Mapper::ModelDSL",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Mapper/ModelDSL",
+    "class_desc": 38,
+    "method_count": 4,
+    "method_desc": 141,
+    "total": 179
+  },
+  {
+    "class_name": "ROM::MapperCompiler",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/MapperCompiler",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::MapperRegistry",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/MapperRegistry",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Memoizable",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Memoizable",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Memoizable::ClassInterface",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Memoizable/ClassInterface",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Memoizable::Memoizer",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Memoizable/Memoizer",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Memory",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Memory",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Memory::Associations",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Memory/Associations",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Memory::Associations::ManyToMany",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Memory/Associations/ManyToMany",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Memory::Associations::ManyToOne",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Memory/Associations/ManyToOne",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Memory::Associations::OneToMany",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Memory/Associations/OneToMany",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Memory::Associations::OneToOne",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Memory/Associations/OneToOne",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Memory::Commands",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Memory/Commands",
+    "class_desc": 33,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 33
+  },
+  {
+    "class_name": "ROM::Memory::Commands::Create",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Memory/Commands/Create",
+    "class_desc": 24,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 24
+  },
+  {
+    "class_name": "ROM::Memory::Commands::Delete",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Memory/Commands/Delete",
+    "class_desc": 24,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 24
+  },
+  {
+    "class_name": "ROM::Memory::Commands::Update",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Memory/Commands/Update",
+    "class_desc": 24,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 24
+  },
+  {
+    "class_name": "ROM::Memory::Dataset",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Memory/Dataset",
+    "class_desc": 77,
+    "method_count": 7,
+    "method_desc": 155,
+    "total": 232
+  },
+  {
+    "class_name": "ROM::Memory::Gateway",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Memory/Gateway",
+    "class_desc": 27,
+    "method_count": 6,
+    "method_desc": 148,
+    "total": 175
+  },
+  {
+    "class_name": "ROM::Memory::MapperCompiler",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Memory/MapperCompiler",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Memory::Relation",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Memory/Relation",
+    "class_desc": 36,
+    "method_count": 9,
+    "method_desc": 172,
+    "total": 208
+  },
+  {
+    "class_name": "ROM::Memory::Schema",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Memory/Schema",
+    "class_desc": 37,
+    "method_count": 2,
+    "method_desc": 39,
+    "total": 76
+  },
+  {
+    "class_name": "ROM::Memory::Storage",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Memory/Storage",
+    "class_desc": 34,
+    "method_count": 6,
+    "method_desc": 114,
+    "total": 148
+  },
+  {
+    "class_name": "ROM::Memory::Types",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Memory/Types",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::ModelBuilder",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/ModelBuilder",
+    "class_desc": 138,
+    "method_count": 9,
+    "method_desc": 297,
+    "total": 435
+  },
+  {
+    "class_name": "ROM::ModelBuilder::PORO",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/ModelBuilder/PORO",
+    "class_desc": 24,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 24
+  },
+  {
+    "class_name": "ROM::Notifications",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Notifications",
+    "class_desc": 197,
+    "method_count": 4,
+    "method_desc": 35,
+    "total": 232
+  },
+  {
+    "class_name": "ROM::Notifications::Event",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Notifications/Event",
+    "class_desc": 12,
+    "method_count": 8,
+    "method_desc": 134,
+    "total": 146
+  },
+  {
+    "class_name": "ROM::Notifications::EventBus",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Notifications/EventBus",
+    "class_desc": 63,
+    "method_count": 4,
+    "method_desc": 26,
+    "total": 89
+  },
+  {
+    "class_name": "ROM::Notifications::Listener",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Notifications/Listener",
+    "class_desc": 47,
+    "method_count": 1,
+    "method_desc": 19,
+    "total": 66
+  },
+  {
+    "class_name": "ROM::Notifications::Publisher",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Notifications/Publisher",
+    "class_desc": 50,
+    "method_count": 2,
+    "method_desc": 99,
+    "total": 149
+  },
+  {
+    "class_name": "ROM::OpenStruct",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/OpenStruct",
+    "class_desc": 180,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 180
+  },
+  {
+    "class_name": "ROM::Pipeline",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Pipeline",
+    "class_desc": 30,
+    "method_count": 1,
+    "method_desc": 35,
+    "total": 65
+  },
+  {
+    "class_name": "ROM::Pipeline::Composite",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Pipeline/Composite",
+    "class_desc": 57,
+    "method_count": 4,
+    "method_desc": 42,
+    "total": 99
+  },
+  {
+    "class_name": "ROM::Pipeline::Operator",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Pipeline/Operator",
+    "class_desc": 30,
+    "method_count": 1,
+    "method_desc": 53,
+    "total": 83
+  },
+  {
+    "class_name": "ROM::Pipeline::Proxy",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Pipeline/Proxy",
+    "class_desc": 48,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 48
+  },
+  {
+    "class_name": "ROM::Plugin",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Plugin",
+    "class_desc": 61,
+    "method_count": 4,
+    "method_desc": 31,
+    "total": 92
+  },
+  {
+    "class_name": "ROM::PluginRegistry",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/PluginRegistry",
+    "class_desc": 29,
+    "method_count": 6,
+    "method_desc": 115,
+    "total": 144
+  },
+  {
+    "class_name": "ROM::Plugins",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Plugins",
+    "class_desc": 67,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 67
+  },
+  {
+    "class_name": "ROM::Plugins::Command",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Plugins/Command",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Plugins::Command::Schema",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Plugins/Command/Schema",
+    "class_desc": 71,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 71
+  },
+  {
+    "class_name": "ROM::Plugins::Command::Schema::ClassInterface",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Plugins/Command/Schema/ClassInterface",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 59,
+    "total": 59
+  },
+  {
+    "class_name": "ROM::Plugins::Command::Timestamps",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Plugins/Command/Timestamps",
+    "class_desc": 134,
+    "method_count": 6,
+    "method_desc": 0,
+    "total": 134
+  },
+  {
+    "class_name": "ROM::Plugins::Command::Timestamps::ClassInterface",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Plugins/Command/Timestamps/ClassInterface",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 228,
+    "total": 228
+  },
+  {
+    "class_name": "ROM::Plugins::Command::Timestamps::InstanceMethods",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Plugins/Command/Timestamps/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 48,
+    "total": 48
+  },
+  {
+    "class_name": "ROM::Plugins::Relation",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Plugins/Relation",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Plugins::Relation::Instrumentation",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Plugins/Relation/Instrumentation",
+    "class_desc": 134,
+    "method_count": 2,
+    "method_desc": 109,
+    "total": 243
+  },
+  {
+    "class_name": "ROM::Plugins::Relation::Instrumentation::ClassInterface",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Plugins/Relation/Instrumentation/ClassInterface",
+    "class_desc": 46,
+    "method_count": 1,
+    "method_desc": 46,
+    "total": 92
+  },
+  {
+    "class_name": "ROM::Plugins::Relation::RegistryReader",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Plugins/Relation/RegistryReader",
+    "class_desc": 102,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 102
+  },
+  {
+    "class_name": "ROM::Plugins::Schema",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Plugins/Schema",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Plugins::Schema::Timestamps",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Plugins/Schema/Timestamps",
+    "class_desc": 75,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 75
+  },
+  {
+    "class_name": "ROM::Plugins::Schema::Timestamps::DSL",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Plugins/Schema/Timestamps/DSL",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 37,
+    "total": 37
+  },
+  {
+    "class_name": "ROM::PluginsContainer",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/PluginsContainer",
+    "class_desc": 43,
+    "method_count": 2,
+    "method_desc": 44,
+    "total": 87
+  },
+  {
+    "class_name": "ROM::Processor",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Processor",
+    "class_desc": 76,
+    "method_count": 2,
+    "method_desc": 95,
+    "total": 171
+  },
+  {
+    "class_name": "ROM::Processor::Transproc",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Processor/Transproc",
+    "class_desc": 119,
+    "method_count": 8,
+    "method_desc": 99,
+    "total": 218
+  },
+  {
+    "class_name": "ROM::Processor::Transproc::Functions",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Processor/Transproc/Functions",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Registry",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Registry",
+    "class_desc": 0,
+    "method_count": 15,
+    "method_desc": 33,
+    "total": 33
+  },
+  {
+    "class_name": "ROM::Relation",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Relation",
+    "class_desc": 337,
+    "method_count": 47,
+    "method_desc": 2362,
+    "total": 2699
+  },
+  {
+    "class_name": "ROM::Relation::ClassInterface",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Relation/ClassInterface",
+    "class_desc": 43,
+    "method_count": 16,
+    "method_desc": 753,
+    "total": 796
+  },
+  {
+    "class_name": "ROM::Relation::Combined",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Relation/Combined",
+    "class_desc": 83,
+    "method_count": 6,
+    "method_desc": 988,
+    "total": 1071
+  },
+  {
+    "class_name": "ROM::Relation::Commands",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Relation/Commands",
+    "class_desc": 64,
+    "method_count": 1,
+    "method_desc": 176,
+    "total": 240
+  },
+  {
+    "class_name": "ROM::Relation::Composite",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Relation/Composite",
+    "class_desc": 59,
+    "method_count": 3,
+    "method_desc": 200,
+    "total": 259
+  },
+  {
+    "class_name": "ROM::Relation::Curried",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Relation/Curried",
+    "class_desc": 263,
+    "method_count": 10,
+    "method_desc": 387,
+    "total": 650
+  },
+  {
+    "class_name": "ROM::Relation::Graph",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Relation/Graph",
+    "class_desc": 29,
+    "method_count": 9,
+    "method_desc": 168,
+    "total": 197
+  },
+  {
+    "class_name": "ROM::Relation::Loaded",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Relation/Loaded",
+    "class_desc": 128,
+    "method_count": 11,
+    "method_desc": 468,
+    "total": 596
+  },
+  {
+    "class_name": "ROM::Relation::Materializable",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Relation/Materializable",
+    "class_desc": 69,
+    "method_count": 6,
+    "method_desc": 235,
+    "total": 304
+  },
+  {
+    "class_name": "ROM::Relation::Name",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Relation/Name",
+    "class_desc": 427,
+    "method_count": 12,
+    "method_desc": 190,
+    "total": 617
+  },
+  {
+    "class_name": "ROM::Relation::ViewDSL",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Relation/ViewDSL",
+    "class_desc": 360,
+    "method_count": 7,
+    "method_desc": 110,
+    "total": 470
+  },
+  {
+    "class_name": "ROM::Relation::Wrap",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Relation/Wrap",
+    "class_desc": 33,
+    "method_count": 4,
+    "method_desc": 125,
+    "total": 158
+  },
+  {
+    "class_name": "ROM::RelationRegistry",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/RelationRegistry",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Schema",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Schema",
+    "class_desc": 1049,
+    "method_count": 37,
+    "method_desc": 2014,
+    "total": 3063
+  },
+  {
+    "class_name": "ROM::Schema::AssociationsDSL",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Schema/AssociationsDSL",
+    "class_desc": 131,
+    "method_count": 12,
+    "method_desc": 379,
+    "total": 510
+  },
+  {
+    "class_name": "ROM::Schema::DSL",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Schema/DSL",
+    "class_desc": 57,
+    "method_count": 19,
+    "method_desc": 478,
+    "total": 535
+  },
+  {
+    "class_name": "ROM::Schema::Inferrer",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Schema/Inferrer",
+    "class_desc": 0,
+    "method_count": 9,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::SchemaPlugin",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/SchemaPlugin",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 59,
+    "total": 59
+  },
+  {
+    "class_name": "ROM::Setup",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Setup",
+    "class_desc": 73,
+    "method_count": 11,
+    "method_desc": 259,
+    "total": 332
+  },
+  {
+    "class_name": "ROM::Struct",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Struct",
+    "class_desc": 1049,
+    "method_count": 2,
+    "method_desc": 22,
+    "total": 1071
+  },
+  {
+    "class_name": "ROM::StructCompiler",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/StructCompiler",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 98,
+    "total": 98
+  },
+  {
+    "class_name": "ROM::Transaction",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Transaction",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 49,
+    "total": 49
+  },
+  {
+    "class_name": "ROM::Transformer",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Transformer",
+    "class_desc": 94,
+    "method_count": 5,
+    "method_desc": 180,
+    "total": 274
+  },
+  {
+    "class_name": "ROM::Types",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Types",
+    "class_desc": 82,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 82
+  },
+  {
+    "class_name": "ROM::Types::Coercible",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Types/Coercible",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 118,
+    "total": 118
+  },
+  {
+    "class_name": "ROM::Types::Methods",
+    "url": "https://rubydoc.info/gems/rom-core/5.2.2/ROM/Types/Methods",
+    "class_desc": 15,
+    "method_count": 1,
+    "method_desc": 50,
+    "total": 65
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "class_name": "Dry",
+    "url": "https://rubydoc.info/gems/dry-cli/0.6.0/Dry",
+    "class_desc": 3,
+    "method_count": 1,
+    "method_desc": 21,
+    "total": 24
+  },
+  {
+    "class_name": "Dry::CLI",
+    "url": "https://rubydoc.info/gems/dry-cli/0.6.0/Dry/CLI",
+    "class_desc": 63,
+    "method_count": 3,
+    "method_desc": 51,
+    "total": 114
+  },
+  {
+    "class_name": "Dry::CLI::Argument",
+    "url": "https://rubydoc.info/gems/dry-cli/0.6.0/Dry/CLI/Argument",
+    "class_desc": 21,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 21
+  },
+  {
+    "class_name": "Dry::CLI::Banner",
+    "url": "https://rubydoc.info/gems/dry-cli/0.6.0/Dry/CLI/Banner",
+    "class_desc": 14,
+    "method_count": 11,
+    "method_desc": 21,
+    "total": 35
+  },
+  {
+    "class_name": "Dry::CLI::Command",
+    "url": "https://rubydoc.info/gems/dry-cli/0.6.0/Dry/CLI/Command",
+    "class_desc": 23,
+    "method_count": 9,
+    "method_desc": 129,
+    "total": 152
+  },
+  {
+    "class_name": "Dry::CLI::Command::ClassMethods",
+    "url": "https://rubydoc.info/gems/dry-cli/0.6.0/Dry/CLI/Command/ClassMethods",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::CLI::CommandRegistry",
+    "url": "https://rubydoc.info/gems/dry-cli/0.6.0/Dry/CLI/CommandRegistry",
+    "class_desc": 16,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 16
+  },
+  {
+    "class_name": "Dry::CLI::CommandRegistry::Chain",
+    "url": "https://rubydoc.info/gems/dry-cli/0.6.0/Dry/CLI/CommandRegistry/Chain",
+    "class_desc": 15,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 15
+  },
+  {
+    "class_name": "Dry::CLI::CommandRegistry::LookupResult",
+    "url": "https://rubydoc.info/gems/dry-cli/0.6.0/Dry/CLI/CommandRegistry/LookupResult",
+    "class_desc": 27,
+    "method_count": 8,
+    "method_desc": 0,
+    "total": 27
+  },
+  {
+    "class_name": "Dry::CLI::CommandRegistry::Node",
+    "url": "https://rubydoc.info/gems/dry-cli/0.6.0/Dry/CLI/CommandRegistry/Node",
+    "class_desc": 20,
+    "method_count": 13,
+    "method_desc": 0,
+    "total": 20
+  },
+  {
+    "class_name": "Dry::CLI::Error",
+    "url": "https://rubydoc.info/gems/dry-cli/0.6.0/Dry/CLI/Error",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::CLI::Inflector",
+    "url": "https://rubydoc.info/gems/dry-cli/0.6.0/Dry/CLI/Inflector",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::CLI::Inline",
+    "url": "https://rubydoc.info/gems/dry-cli/0.6.0/Dry/CLI/Inline",
+    "class_desc": 361,
+    "method_count": 1,
+    "method_desc": 226,
+    "total": 587
+  },
+  {
+    "class_name": "Dry::CLI::InvalidCallbackError",
+    "url": "https://rubydoc.info/gems/dry-cli/0.6.0/Dry/CLI/InvalidCallbackError",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::CLI::Option",
+    "url": "https://rubydoc.info/gems/dry-cli/0.6.0/Dry/CLI/Option",
+    "class_desc": 19,
+    "method_count": 15,
+    "method_desc": 0,
+    "total": 19
+  },
+  {
+    "class_name": "Dry::CLI::Parser",
+    "url": "https://rubydoc.info/gems/dry-cli/0.6.0/Dry/CLI/Parser",
+    "class_desc": 40,
+    "method_count": 4,
+    "method_desc": 61,
+    "total": 101
+  },
+  {
+    "class_name": "Dry::CLI::Parser::Result",
+    "url": "https://rubydoc.info/gems/dry-cli/0.6.0/Dry/CLI/Parser/Result",
+    "class_desc": 0,
+    "method_count": 8,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::CLI::ProgramName",
+    "url": "https://rubydoc.info/gems/dry-cli/0.6.0/Dry/CLI/ProgramName",
+    "class_desc": 12,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 12
+  },
+  {
+    "class_name": "Dry::CLI::Registry",
+    "url": "https://rubydoc.info/gems/dry-cli/0.6.0/Dry/CLI/Registry",
+    "class_desc": 14,
+    "method_count": 5,
+    "method_desc": 72,
+    "total": 86
+  },
+  {
+    "class_name": "Dry::CLI::Registry::Prefix",
+    "url": "https://rubydoc.info/gems/dry-cli/0.6.0/Dry/CLI/Registry/Prefix",
+    "class_desc": 19,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 19
+  },
+  {
+    "class_name": "Dry::CLI::UnknownCommandError",
+    "url": "https://rubydoc.info/gems/dry-cli/0.6.0/Dry/CLI/UnknownCommandError",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::CLI::Usage",
+    "url": "https://rubydoc.info/gems/dry-cli/0.6.0/Dry/CLI/Usage",
+    "class_desc": 16,
+    "method_count": 7,
+    "method_desc": 0,
+    "total": 16
+  },
+  {
+    "class_name": "Dry::CLI::Utils",
+    "url": "https://rubydoc.info/gems/dry-cli/0.6.0/Dry/CLI/Utils",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::CLI::Utils::Files",
+    "url": "https://rubydoc.info/gems/dry-cli/0.6.0/Dry/CLI/Utils/Files",
+    "class_desc": 15,
+    "method_count": 19,
+    "method_desc": 1381,
+    "total": 1396
+  }
+]

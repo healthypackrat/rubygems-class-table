@@ -1,0 +1,202 @@
+[
+  {
+    "class_name": "Dry",
+    "url": "https://rubydoc.info/gems/dry-validation/1.5.0/Dry",
+    "class_desc": 14,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 14
+  },
+  {
+    "class_name": "Dry::Schema",
+    "url": "https://rubydoc.info/gems/dry-validation/1.5.0/Dry/Schema",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Schema::Path",
+    "url": "https://rubydoc.info/gems/dry-validation/1.5.0/Dry/Schema/Path",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Validation",
+    "url": "https://rubydoc.info/gems/dry-validation/1.5.0/Dry/Validation",
+    "class_desc": 22,
+    "method_count": 2,
+    "method_desc": 75,
+    "total": 97
+  },
+  {
+    "class_name": "Dry::Validation::Config",
+    "url": "https://rubydoc.info/gems/dry-validation/1.5.0/Dry/Validation/Config",
+    "class_desc": 27,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 27
+  },
+  {
+    "class_name": "Dry::Validation::Contract",
+    "url": "https://rubydoc.info/gems/dry-validation/1.5.0/Dry/Validation/Contract",
+    "class_desc": 48,
+    "method_count": 8,
+    "method_desc": 116,
+    "total": 164
+  },
+  {
+    "class_name": "Dry::Validation::Contract::ClassInterface",
+    "url": "https://rubydoc.info/gems/dry-validation/1.5.0/Dry/Validation/Contract/ClassInterface",
+    "class_desc": 26,
+    "method_count": 11,
+    "method_desc": 516,
+    "total": 542
+  },
+  {
+    "class_name": "Dry::Validation::Evaluator",
+    "url": "https://rubydoc.info/gems/dry-validation/1.5.0/Dry/Validation/Evaluator",
+    "class_desc": 203,
+    "method_count": 20,
+    "method_desc": 602,
+    "total": 805
+  },
+  {
+    "class_name": "Dry::Validation::Failures",
+    "url": "https://rubydoc.info/gems/dry-validation/1.5.0/Dry/Validation/Failures",
+    "class_desc": 26,
+    "method_count": 5,
+    "method_desc": 126,
+    "total": 152
+  },
+  {
+    "class_name": "Dry::Validation::Function",
+    "url": "https://rubydoc.info/gems/dry-validation/1.5.0/Dry/Validation/Function",
+    "class_desc": 39,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 39
+  },
+  {
+    "class_name": "Dry::Validation::Hints",
+    "url": "https://rubydoc.info/gems/dry-validation/1.5.0/Dry/Validation/Hints",
+    "class_desc": 15,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 15
+  },
+  {
+    "class_name": "Dry::Validation::Hints::ResultExtensions",
+    "url": "https://rubydoc.info/gems/dry-validation/1.5.0/Dry/Validation/Hints/ResultExtensions",
+    "class_desc": 27,
+    "method_count": 3,
+    "method_desc": 80,
+    "total": 107
+  },
+  {
+    "class_name": "Dry::Validation::Macro",
+    "url": "https://rubydoc.info/gems/dry-validation/1.5.0/Dry/Validation/Macro",
+    "class_desc": 37,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 37
+  },
+  {
+    "class_name": "Dry::Validation::Macros",
+    "url": "https://rubydoc.info/gems/dry-validation/1.5.0/Dry/Validation/Macros",
+    "class_desc": 45,
+    "method_count": 3,
+    "method_desc": 48,
+    "total": 93
+  },
+  {
+    "class_name": "Dry::Validation::Macros::Container",
+    "url": "https://rubydoc.info/gems/dry-validation/1.5.0/Dry/Validation/Macros/Container",
+    "class_desc": 19,
+    "method_count": 1,
+    "method_desc": 20,
+    "total": 39
+  },
+  {
+    "class_name": "Dry::Validation::Macros::Registrar",
+    "url": "https://rubydoc.info/gems/dry-validation/1.5.0/Dry/Validation/Macros/Registrar",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 16,
+    "total": 16
+  },
+  {
+    "class_name": "Dry::Validation::Message",
+    "url": "https://rubydoc.info/gems/dry-validation/1.5.0/Dry/Validation/Message",
+    "class_desc": 15,
+    "method_count": 7,
+    "method_desc": 208,
+    "total": 223
+  },
+  {
+    "class_name": "Dry::Validation::Message::Localized",
+    "url": "https://rubydoc.info/gems/dry-validation/1.5.0/Dry/Validation/Message/Localized",
+    "class_desc": 94,
+    "method_count": 1,
+    "method_desc": 43,
+    "total": 137
+  },
+  {
+    "class_name": "Dry::Validation::MessageSet",
+    "url": "https://rubydoc.info/gems/dry-validation/1.5.0/Dry/Validation/MessageSet",
+    "class_desc": 72,
+    "method_count": 7,
+    "method_desc": 400,
+    "total": 472
+  },
+  {
+    "class_name": "Dry::Validation::Messages",
+    "url": "https://rubydoc.info/gems/dry-validation/1.5.0/Dry/Validation/Messages",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Validation::Messages::Resolver",
+    "url": "https://rubydoc.info/gems/dry-validation/1.5.0/Dry/Validation/Messages/Resolver",
+    "class_desc": 50,
+    "method_count": 5,
+    "method_desc": 488,
+    "total": 538
+  },
+  {
+    "class_name": "Dry::Validation::PredicateRegistry",
+    "url": "https://rubydoc.info/gems/dry-validation/1.5.0/Dry/Validation/PredicateRegistry",
+    "class_desc": 50,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 50
+  },
+  {
+    "class_name": "Dry::Validation::Result",
+    "url": "https://rubydoc.info/gems/dry-validation/1.5.0/Dry/Validation/Result",
+    "class_desc": 36,
+    "method_count": 20,
+    "method_desc": 624,
+    "total": 660
+  },
+  {
+    "class_name": "Dry::Validation::Rule",
+    "url": "https://rubydoc.info/gems/dry-validation/1.5.0/Dry/Validation/Rule",
+    "class_desc": 184,
+    "method_count": 8,
+    "method_desc": 304,
+    "total": 488
+  },
+  {
+    "class_name": "Dry::Validation::Values",
+    "url": "https://rubydoc.info/gems/dry-validation/1.5.0/Dry/Validation/Values",
+    "class_desc": 174,
+    "method_count": 5,
+    "method_desc": 48,
+    "total": 222
+  }
+]

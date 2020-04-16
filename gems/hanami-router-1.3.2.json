@@ -1,0 +1,482 @@
+[
+  {
+    "class_name": "Hanami",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami",
+    "class_desc": 6,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 6
+  },
+  {
+    "class_name": "Hanami::Middleware",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Middleware",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Middleware::BodyParser",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Middleware/BodyParser",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Middleware::BodyParser::BodyParsingError",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Middleware/BodyParser/BodyParsingError",
+    "class_desc": 69,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 69
+  },
+  {
+    "class_name": "Hanami::Middleware::BodyParser::ClassInterface",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Middleware/BodyParser/ClassInterface",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Middleware::BodyParser::InvalidParserError",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Middleware/BodyParser/InvalidParserError",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Middleware::BodyParser::JsonParser",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Middleware/BodyParser/JsonParser",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 19,
+    "total": 19
+  },
+  {
+    "class_name": "Hanami::Middleware::BodyParser::UnknownParserError",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Middleware/BodyParser/UnknownParserError",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Router",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Router",
+    "class_desc": 50,
+    "method_count": 25,
+    "method_desc": 2967,
+    "total": 3017
+  },
+  {
+    "class_name": "Hanami::Router::NotRoutableEndpointError",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Router/NotRoutableEndpointError",
+    "class_desc": 87,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 87
+  },
+  {
+    "class_name": "Hanami::Routing",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Routing::ClassEndpoint",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/ClassEndpoint",
+    "class_desc": 271,
+    "method_count": 1,
+    "method_desc": 14,
+    "total": 285
+  },
+  {
+    "class_name": "Hanami::Routing::Endpoint",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Endpoint",
+    "class_desc": 195,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 195
+  },
+  {
+    "class_name": "Hanami::Routing::EndpointNotFound",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/EndpointNotFound",
+    "class_desc": 91,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 91
+  },
+  {
+    "class_name": "Hanami::Routing::EndpointResolver",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/EndpointResolver",
+    "class_desc": 28,
+    "method_count": 4,
+    "method_desc": 242,
+    "total": 270
+  },
+  {
+    "class_name": "Hanami::Routing::Error",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Error",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Routing::ForceSsl",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/ForceSsl",
+    "class_desc": 70,
+    "method_count": 3,
+    "method_desc": 134,
+    "total": 204
+  },
+  {
+    "class_name": "Hanami::Routing::HttpRouter",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/HttpRouter",
+    "class_desc": 200,
+    "method_count": 14,
+    "method_desc": 262,
+    "total": 462
+  },
+  {
+    "class_name": "Hanami::Routing::InvalidRouteException",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/InvalidRouteException",
+    "class_desc": 104,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 104
+  },
+  {
+    "class_name": "Hanami::Routing::LazyEndpoint",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/LazyEndpoint",
+    "class_desc": 553,
+    "method_count": 3,
+    "method_desc": 42,
+    "total": 595
+  },
+  {
+    "class_name": "Hanami::Routing::Namespace",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Namespace",
+    "class_desc": 64,
+    "method_count": 13,
+    "method_desc": 26,
+    "total": 90
+  },
+  {
+    "class_name": "Hanami::Routing::Parsers",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Parsers",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Routing::Parsing",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Parsing",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Routing::Parsing::BodyParsingError",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Parsing/BodyParsingError",
+    "class_desc": 69,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 69
+  },
+  {
+    "class_name": "Hanami::Routing::Parsing::JsonParser",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Parsing/JsonParser",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 19,
+    "total": 19
+  },
+  {
+    "class_name": "Hanami::Routing::Parsing::Parser",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Parsing/Parser",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Routing::Parsing::UnknownParserError",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Parsing/UnknownParserError",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Routing::RecognizedRoute",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/RecognizedRoute",
+    "class_desc": 47,
+    "method_count": 9,
+    "method_desc": 172,
+    "total": 219
+  },
+  {
+    "class_name": "Hanami::Routing::RedirectEndpoint",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/RedirectEndpoint",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Routing::Resource",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Resource",
+    "class_desc": 72,
+    "method_count": 5,
+    "method_desc": 117,
+    "total": 189
+  },
+  {
+    "class_name": "Hanami::Routing::Resource::Action",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Resource/Action",
+    "class_desc": 27,
+    "method_count": 5,
+    "method_desc": 120,
+    "total": 147
+  },
+  {
+    "class_name": "Hanami::Routing::Resource::CollectionAction",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Resource/CollectionAction",
+    "class_desc": 69,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 69
+  },
+  {
+    "class_name": "Hanami::Routing::Resource::Create",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Resource/Create",
+    "class_desc": 13,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 13
+  },
+  {
+    "class_name": "Hanami::Routing::Resource::DefaultMemberAction",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Resource/DefaultMemberAction",
+    "class_desc": 60,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 60
+  },
+  {
+    "class_name": "Hanami::Routing::Resource::Destroy",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Resource/Destroy",
+    "class_desc": 14,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 14
+  },
+  {
+    "class_name": "Hanami::Routing::Resource::Edit",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Resource/Edit",
+    "class_desc": 11,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 11
+  },
+  {
+    "class_name": "Hanami::Routing::Resource::MemberAction",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Resource/MemberAction",
+    "class_desc": 65,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 65
+  },
+  {
+    "class_name": "Hanami::Routing::Resource::Nested",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Resource/Nested",
+    "class_desc": 37,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 37
+  },
+  {
+    "class_name": "Hanami::Routing::Resource::New",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Resource/New",
+    "class_desc": 10,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 10
+  },
+  {
+    "class_name": "Hanami::Routing::Resource::Options",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Resource/Options",
+    "class_desc": 31,
+    "method_count": 4,
+    "method_desc": 188,
+    "total": 219
+  },
+  {
+    "class_name": "Hanami::Routing::Resource::Show",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Resource/Show",
+    "class_desc": 11,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 11
+  },
+  {
+    "class_name": "Hanami::Routing::Resource::Update",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Resource/Update",
+    "class_desc": 13,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 13
+  },
+  {
+    "class_name": "Hanami::Routing::Resources",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Resources",
+    "class_desc": 74,
+    "method_count": 1,
+    "method_desc": 40,
+    "total": 114
+  },
+  {
+    "class_name": "Hanami::Routing::Resources::Action",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Resources/Action",
+    "class_desc": 28,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 28
+  },
+  {
+    "class_name": "Hanami::Routing::Resources::CollectionAction",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Resources/CollectionAction",
+    "class_desc": 70,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 70
+  },
+  {
+    "class_name": "Hanami::Routing::Resources::Create",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Resources/Create",
+    "class_desc": 13,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 13
+  },
+  {
+    "class_name": "Hanami::Routing::Resources::DefaultMemberAction",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Resources/DefaultMemberAction",
+    "class_desc": 60,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 60
+  },
+  {
+    "class_name": "Hanami::Routing::Resources::Destroy",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Resources/Destroy",
+    "class_desc": 14,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 14
+  },
+  {
+    "class_name": "Hanami::Routing::Resources::Edit",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Resources/Edit",
+    "class_desc": 11,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 11
+  },
+  {
+    "class_name": "Hanami::Routing::Resources::Index",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Resources/Index",
+    "class_desc": 12,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 12
+  },
+  {
+    "class_name": "Hanami::Routing::Resources::MemberAction",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Resources/MemberAction",
+    "class_desc": 62,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 62
+  },
+  {
+    "class_name": "Hanami::Routing::Resources::New",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Resources/New",
+    "class_desc": 10,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 10
+  },
+  {
+    "class_name": "Hanami::Routing::Resources::PluralizedAction",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Resources/PluralizedAction",
+    "class_desc": 26,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 26
+  },
+  {
+    "class_name": "Hanami::Routing::Resources::Show",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Resources/Show",
+    "class_desc": 11,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 11
+  },
+  {
+    "class_name": "Hanami::Routing::Resources::Update",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Resources/Update",
+    "class_desc": 13,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 13
+  },
+  {
+    "class_name": "Hanami::Routing::Route",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/Route",
+    "class_desc": 27,
+    "method_count": 3,
+    "method_desc": 186,
+    "total": 213
+  },
+  {
+    "class_name": "Hanami::Routing::RoutesInspector",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/Hanami/Routing/RoutesInspector",
+    "class_desc": 16,
+    "method_count": 3,
+    "method_desc": 123,
+    "total": 139
+  },
+  {
+    "class_name": "HttpRouter",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/HttpRouter",
+    "class_desc": 120,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 120
+  },
+  {
+    "class_name": "HttpRouter::Node",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/HttpRouter/Node",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "HttpRouter::Node::Path",
+    "url": "https://rubydoc.info/gems/hanami-router/1.3.2/HttpRouter/Node/Path",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  }
+]

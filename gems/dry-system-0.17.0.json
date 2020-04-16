@@ -1,0 +1,282 @@
+[
+  {
+    "class_name": "Dry",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::System",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 106,
+    "total": 106
+  },
+  {
+    "class_name": "Dry::System::AutoRegistrar",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/AutoRegistrar",
+    "class_desc": 266,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 266
+  },
+  {
+    "class_name": "Dry::System::AutoRegistrar::Configuration",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/AutoRegistrar/Configuration",
+    "class_desc": 265,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 265
+  },
+  {
+    "class_name": "Dry::System::Booter",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/Booter",
+    "class_desc": 210,
+    "method_count": 19,
+    "method_desc": 0,
+    "total": 210
+  },
+  {
+    "class_name": "Dry::System::Booter::ComponentRegistry",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/Booter/ComponentRegistry",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::System::Component",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/Component",
+    "class_desc": 324,
+    "method_count": 19,
+    "method_desc": 27,
+    "total": 351
+  },
+  {
+    "class_name": "Dry::System::Components",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/Components",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::System::Components::Bootable",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/Components/Bootable",
+    "class_desc": 344,
+    "method_count": 23,
+    "method_desc": 615,
+    "total": 959
+  },
+  {
+    "class_name": "Dry::System::Components::Config",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/Components/Config",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::System::Container",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/Container",
+    "class_desc": 1446,
+    "method_count": 37,
+    "method_desc": 1992,
+    "total": 3438
+  },
+  {
+    "class_name": "Dry::System::Container::Stubs",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/Container/Stubs",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::System::Importer",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/Importer",
+    "class_desc": 269,
+    "method_count": 9,
+    "method_desc": 0,
+    "total": 269
+  },
+  {
+    "class_name": "Dry::System::Lifecycle",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/Lifecycle",
+    "class_desc": 122,
+    "method_count": 18,
+    "method_desc": 0,
+    "total": 122
+  },
+  {
+    "class_name": "Dry::System::Loader",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/Loader",
+    "class_desc": 165,
+    "method_count": 5,
+    "method_desc": 120,
+    "total": 285
+  },
+  {
+    "class_name": "Dry::System::MagicCommentsParser",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/MagicCommentsParser",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::System::ManualRegistrar",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/ManualRegistrar",
+    "class_desc": 296,
+    "method_count": 6,
+    "method_desc": 0,
+    "total": 296
+  },
+  {
+    "class_name": "Dry::System::Plugins",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/Plugins",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 139,
+    "total": 139
+  },
+  {
+    "class_name": "Dry::System::Plugins::Bootsnap",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/Plugins/Bootsnap",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 34,
+    "total": 34
+  },
+  {
+    "class_name": "Dry::System::Plugins::DependencyGraph",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/Plugins/DependencyGraph",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::System::Plugins::DependencyGraph::Strategies",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/Plugins/DependencyGraph/Strategies",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::System::Plugins::DependencyGraph::Strategies::Kwargs",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/Plugins/DependencyGraph/Strategies/Kwargs",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::System::Plugins::Env",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/Plugins/Env",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::System::Plugins::Logging",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/Plugins/Logging",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 80,
+    "total": 80
+  },
+  {
+    "class_name": "Dry::System::Plugins::Monitoring",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/Plugins/Monitoring",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::System::Plugins::Monitoring::Proxy",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/Plugins/Monitoring/Proxy",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::System::Plugins::Notifications",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/Plugins/Notifications",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::System::Plugins::Plugin",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/Plugins/Plugin",
+    "class_desc": 0,
+    "method_count": 9,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::System::Provider",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/Provider",
+    "class_desc": 0,
+    "method_count": 10,
+    "method_desc": 123,
+    "total": 123
+  },
+  {
+    "class_name": "Dry::System::ProviderRegistry",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/ProviderRegistry",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 37,
+    "total": 37
+  },
+  {
+    "class_name": "Dry::System::Settings",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/Settings",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::System::Settings::Configuration",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/Settings/Configuration",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::System::Settings::DSL",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/Settings/DSL",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 80,
+    "total": 80
+  },
+  {
+    "class_name": "Dry::System::Settings::FileLoader",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/Settings/FileLoader",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::System::Settings::FileParser",
+    "url": "https://rubydoc.info/gems/dry-system/0.17.0/Dry/System/Settings/FileParser",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  }
+]

@@ -1,0 +1,458 @@
+[
+  {
+    "class_name": "Hanami",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami",
+    "class_desc": 6,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 6
+  },
+  {
+    "class_name": "Hanami::Action",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action",
+    "class_desc": 16,
+    "method_count": 1,
+    "method_desc": 94,
+    "total": 110
+  },
+  {
+    "class_name": "Hanami::Action::BaseParams",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/BaseParams",
+    "class_desc": 0,
+    "method_count": 10,
+    "method_desc": 518,
+    "total": 518
+  },
+  {
+    "class_name": "Hanami::Action::Cache",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Cache",
+    "class_desc": 14,
+    "method_count": 1,
+    "method_desc": 61,
+    "total": 75
+  },
+  {
+    "class_name": "Hanami::Action::Cache::CacheControl",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Cache/CacheControl",
+    "class_desc": 31,
+    "method_count": 2,
+    "method_desc": 71,
+    "total": 102
+  },
+  {
+    "class_name": "Hanami::Action::Cache::CacheControl::ClassMethods",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Cache/CacheControl/ClassMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Action::Cache::CacheControl::Directives",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Cache/CacheControl/Directives",
+    "class_desc": 38,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 38
+  },
+  {
+    "class_name": "Hanami::Action::Cache::ConditionalGet",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Cache/ConditionalGet",
+    "class_desc": 111,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 111
+  },
+  {
+    "class_name": "Hanami::Action::Cache::Directives",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Cache/Directives",
+    "class_desc": 44,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 44
+  },
+  {
+    "class_name": "Hanami::Action::Cache::ETag",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Cache/ETag",
+    "class_desc": 17,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 17
+  },
+  {
+    "class_name": "Hanami::Action::Cache::Expires",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Cache/Expires",
+    "class_desc": 25,
+    "method_count": 2,
+    "method_desc": 71,
+    "total": 96
+  },
+  {
+    "class_name": "Hanami::Action::Cache::Expires::ClassMethods",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Cache/Expires/ClassMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Action::Cache::Expires::Directives",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Cache/Expires/Directives",
+    "class_desc": 37,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 37
+  },
+  {
+    "class_name": "Hanami::Action::Cache::LastModified",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Cache/LastModified",
+    "class_desc": 25,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 25
+  },
+  {
+    "class_name": "Hanami::Action::Cache::NonValueDirective",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Cache/NonValueDirective",
+    "class_desc": 53,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 53
+  },
+  {
+    "class_name": "Hanami::Action::Cache::ValueDirective",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Cache/ValueDirective",
+    "class_desc": 52,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 52
+  },
+  {
+    "class_name": "Hanami::Action::Callable",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Callable",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 454,
+    "total": 454
+  },
+  {
+    "class_name": "Hanami::Action::Callbacks",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Callbacks",
+    "class_desc": 26,
+    "method_count": 1,
+    "method_desc": 61,
+    "total": 87
+  },
+  {
+    "class_name": "Hanami::Action::Callbacks::ClassMethods",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Callbacks/ClassMethods",
+    "class_desc": 27,
+    "method_count": 7,
+    "method_desc": 878,
+    "total": 905
+  },
+  {
+    "class_name": "Hanami::Action::Callbacks::InstanceMethods",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Callbacks/InstanceMethods",
+    "class_desc": 30,
+    "method_count": 1,
+    "method_desc": 43,
+    "total": 73
+  },
+  {
+    "class_name": "Hanami::Action::Configurable",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Configurable",
+    "class_desc": 17,
+    "method_count": 1,
+    "method_desc": 65,
+    "total": 82
+  },
+  {
+    "class_name": "Hanami::Action::CookieJar",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/CookieJar",
+    "class_desc": 41,
+    "method_count": 5,
+    "method_desc": 270,
+    "total": 311
+  },
+  {
+    "class_name": "Hanami::Action::Cookies",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Cookies",
+    "class_desc": 51,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 51
+  },
+  {
+    "class_name": "Hanami::Action::Exposable",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Exposable",
+    "class_desc": 13,
+    "method_count": 3,
+    "method_desc": 98,
+    "total": 111
+  },
+  {
+    "class_name": "Hanami::Action::Exposable::ClassMethods",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Exposable/ClassMethods",
+    "class_desc": 27,
+    "method_count": 3,
+    "method_desc": 338,
+    "total": 365
+  },
+  {
+    "class_name": "Hanami::Action::Exposable::Guard",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Exposable/Guard",
+    "class_desc": 60,
+    "method_count": 1,
+    "method_desc": 77,
+    "total": 137
+  },
+  {
+    "class_name": "Hanami::Action::Exposable::Guard::ClassMethods",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Exposable/Guard/ClassMethods",
+    "class_desc": 33,
+    "method_count": 1,
+    "method_desc": 51,
+    "total": 84
+  },
+  {
+    "class_name": "Hanami::Action::Flash",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Flash",
+    "class_desc": 108,
+    "method_count": 9,
+    "method_desc": 481,
+    "total": 589
+  },
+  {
+    "class_name": "Hanami::Action::Glue",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Glue",
+    "class_desc": 141,
+    "method_count": 2,
+    "method_desc": 187,
+    "total": 328
+  },
+  {
+    "class_name": "Hanami::Action::Head",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Head",
+    "class_desc": 102,
+    "method_count": 1,
+    "method_desc": 102,
+    "total": 204
+  },
+  {
+    "class_name": "Hanami::Action::Mime",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Mime",
+    "class_desc": 13,
+    "method_count": 5,
+    "method_desc": 1099,
+    "total": 1112
+  },
+  {
+    "class_name": "Hanami::Action::Mime::ClassMethods",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Mime/ClassMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Action::Mime::InstanceMethods",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Mime/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Action::Mime::RequestMimeWeight",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Mime/RequestMimeWeight",
+    "class_desc": 0,
+    "method_count": 7,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Action::Params",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Params",
+    "class_desc": 360,
+    "method_count": 9,
+    "method_desc": 331,
+    "total": 691
+  },
+  {
+    "class_name": "Hanami::Action::Params::Errors",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Params/Errors",
+    "class_desc": 13,
+    "method_count": 2,
+    "method_desc": 181,
+    "total": 194
+  },
+  {
+    "class_name": "Hanami::Action::Rack",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Rack",
+    "class_desc": 20,
+    "method_count": 1,
+    "method_desc": 94,
+    "total": 114
+  },
+  {
+    "class_name": "Hanami::Action::Rack::Callable",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Rack/Callable",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 111,
+    "total": 111
+  },
+  {
+    "class_name": "Hanami::Action::Rack::ClassMethods",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Rack/ClassMethods",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 380,
+    "total": 380
+  },
+  {
+    "class_name": "Hanami::Action::Rack::Errors",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Rack/Errors",
+    "class_desc": 194,
+    "method_count": 2,
+    "method_desc": 70,
+    "total": 264
+  },
+  {
+    "class_name": "Hanami::Action::Rack::File",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Rack/File",
+    "class_desc": 15,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 15
+  },
+  {
+    "class_name": "Hanami::Action::Rack::InstanceMethods",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Rack/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Action::Redirect",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Redirect",
+    "class_desc": 17,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 17
+  },
+  {
+    "class_name": "Hanami::Action::Request",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Request",
+    "class_desc": 102,
+    "method_count": 9,
+    "method_desc": 0,
+    "total": 102
+  },
+  {
+    "class_name": "Hanami::Action::Session",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Session",
+    "class_desc": 51,
+    "method_count": 3,
+    "method_desc": 143,
+    "total": 194
+  },
+  {
+    "class_name": "Hanami::Action::Throwable",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Throwable",
+    "class_desc": 9,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 9
+  },
+  {
+    "class_name": "Hanami::Action::Throwable::ClassMethods",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Throwable/ClassMethods",
+    "class_desc": 23,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 23
+  },
+  {
+    "class_name": "Hanami::Action::Validatable",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Validatable",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Action::Validatable::ClassMethods",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Action/Validatable/ClassMethods",
+    "class_desc": 29,
+    "method_count": 1,
+    "method_desc": 618,
+    "total": 647
+  },
+  {
+    "class_name": "Hanami::Controller",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Controller",
+    "class_desc": 34,
+    "method_count": 4,
+    "method_desc": 668,
+    "total": 702
+  },
+  {
+    "class_name": "Hanami::Controller::Configuration",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Controller/Configuration",
+    "class_desc": 631,
+    "method_count": 27,
+    "method_desc": 3548,
+    "total": 4179
+  },
+  {
+    "class_name": "Hanami::Controller::Error",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Controller/Error",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Controller::IllegalExposureError",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Controller/IllegalExposureError",
+    "class_desc": 26,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 26
+  },
+  {
+    "class_name": "Hanami::Controller::MissingSessionError",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Controller/MissingSessionError",
+    "class_desc": 153,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 153
+  },
+  {
+    "class_name": "Hanami::Controller::UnknownFormatError",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Controller/UnknownFormatError",
+    "class_desc": 171,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 171
+  },
+  {
+    "class_name": "Hanami::Http",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Http",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Http::Status",
+    "url": "https://rubydoc.info/gems/hanami-controller/1.3.3/Hanami/Http/Status",
+    "class_desc": 14,
+    "method_count": 2,
+    "method_desc": 76,
+    "total": 90
+  }
+]

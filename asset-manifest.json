@@ -6,10 +6,10 @@
     "runtime-main.js": "/rubygems-class-table/static/js/runtime-main.6f655d34.js",
     "runtime-main.js.map": "/rubygems-class-table/static/js/runtime-main.6f655d34.js.map",
     "static/css/2.0624914a.chunk.css": "/rubygems-class-table/static/css/2.0624914a.chunk.css",
-    "static/js/2.a0718d6b.chunk.js": "/rubygems-class-table/static/js/2.a0718d6b.chunk.js",
-    "static/js/2.a0718d6b.chunk.js.map": "/rubygems-class-table/static/js/2.a0718d6b.chunk.js.map",
+    "static/js/2.17d888e0.chunk.js": "/rubygems-class-table/static/js/2.17d888e0.chunk.js",
+    "static/js/2.17d888e0.chunk.js.map": "/rubygems-class-table/static/js/2.17d888e0.chunk.js.map",
     "index.html": "/rubygems-class-table/index.html",
-    "precache-manifest.527d3c3f0dcb68da099fd3e7a993af82.js": "/rubygems-class-table/precache-manifest.527d3c3f0dcb68da099fd3e7a993af82.js",
+    "precache-manifest.1603d9305c823b12e1186df1375968ac.js": "/rubygems-class-table/precache-manifest.1603d9305c823b12e1186df1375968ac.js",
     "service-worker.js": "/rubygems-class-table/service-worker.js",
     "static/css/2.0624914a.chunk.css.map": "/rubygems-class-table/static/css/2.0624914a.chunk.css.map",
     "static/css/main.42d05314.chunk.css.map": "/rubygems-class-table/static/css/main.42d05314.chunk.css.map"
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.6f655d34.js",
     "static/css/2.0624914a.chunk.css",
-    "static/js/2.a0718d6b.chunk.js",
+    "static/js/2.17d888e0.chunk.js",
     "static/css/main.42d05314.chunk.css",
     "static/js/main.e29c5fc2.chunk.js"
   ]

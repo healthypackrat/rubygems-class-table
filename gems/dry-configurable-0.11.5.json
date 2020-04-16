@@ -1,0 +1,106 @@
+[
+  {
+    "class_name": "Dry",
+    "url": "https://rubydoc.info/gems/dry-configurable/0.11.5/Dry",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Configurable",
+    "url": "https://rubydoc.info/gems/dry-configurable/0.11.5/Dry/Configurable",
+    "class_desc": 16,
+    "method_count": 3,
+    "method_desc": 52,
+    "total": 68
+  },
+  {
+    "class_name": "Dry::Configurable::ClassMethods",
+    "url": "https://rubydoc.info/gems/dry-configurable/0.11.5/Dry/Configurable/ClassMethods",
+    "class_desc": 0,
+    "method_count": 7,
+    "method_desc": 102,
+    "total": 102
+  },
+  {
+    "class_name": "Dry::Configurable::Compiler",
+    "url": "https://rubydoc.info/gems/dry-configurable/0.11.5/Dry/Configurable/Compiler",
+    "class_desc": 43,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 43
+  },
+  {
+    "class_name": "Dry::Configurable::Config",
+    "url": "https://rubydoc.info/gems/dry-configurable/0.11.5/Dry/Configurable/Config",
+    "class_desc": 54,
+    "method_count": 12,
+    "method_desc": 187,
+    "total": 241
+  },
+  {
+    "class_name": "Dry::Configurable::DSL",
+    "url": "https://rubydoc.info/gems/dry-configurable/0.11.5/Dry/Configurable/DSL",
+    "class_desc": 33,
+    "method_count": 4,
+    "method_desc": 64,
+    "total": 97
+  },
+  {
+    "class_name": "Dry::Configurable::DSL::Args",
+    "url": "https://rubydoc.info/gems/dry-configurable/0.11.5/Dry/Configurable/DSL/Args",
+    "class_desc": 0,
+    "method_count": 8,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Dry::Configurable::InstanceMethods",
+    "url": "https://rubydoc.info/gems/dry-configurable/0.11.5/Dry/Configurable/InstanceMethods",
+    "class_desc": 66,
+    "method_count": 3,
+    "method_desc": 70,
+    "total": 136
+  },
+  {
+    "class_name": "Dry::Configurable::Methods",
+    "url": "https://rubydoc.info/gems/dry-configurable/0.11.5/Dry/Configurable/Methods",
+    "class_desc": 41,
+    "method_count": 2,
+    "method_desc": 33,
+    "total": 74
+  },
+  {
+    "class_name": "Dry::Configurable::Setting",
+    "url": "https://rubydoc.info/gems/dry-configurable/0.11.5/Dry/Configurable/Setting",
+    "class_desc": 55,
+    "method_count": 16,
+    "method_desc": 0,
+    "total": 55
+  },
+  {
+    "class_name": "Dry::Configurable::Setting::Nested",
+    "url": "https://rubydoc.info/gems/dry-configurable/0.11.5/Dry/Configurable/Setting/Nested",
+    "class_desc": 50,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 50
+  },
+  {
+    "class_name": "Dry::Configurable::Settings",
+    "url": "https://rubydoc.info/gems/dry-configurable/0.11.5/Dry/Configurable/Settings",
+    "class_desc": 14,
+    "method_count": 8,
+    "method_desc": 0,
+    "total": 14
+  },
+  {
+    "class_name": "Dry::Configurable::TestInterface",
+    "url": "https://rubydoc.info/gems/dry-configurable/0.11.5/Dry/Configurable/TestInterface",
+    "class_desc": 46,
+    "method_count": 1,
+    "method_desc": 38,
+    "total": 84
+  }
+]

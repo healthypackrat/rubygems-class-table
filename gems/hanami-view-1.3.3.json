@@ -1,0 +1,322 @@
+[
+  {
+    "class_name": "Hanami",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami",
+    "class_desc": 6,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 6
+  },
+  {
+    "class_name": "Hanami::Layout",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/Layout",
+    "class_desc": 6,
+    "method_count": 4,
+    "method_desc": 170,
+    "total": 176
+  },
+  {
+    "class_name": "Hanami::Layout::ClassMethods",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/Layout/ClassMethods",
+    "class_desc": 15,
+    "method_count": 3,
+    "method_desc": 129,
+    "total": 144
+  },
+  {
+    "class_name": "Hanami::Presenter",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/Presenter",
+    "class_desc": 176,
+    "method_count": 1,
+    "method_desc": 41,
+    "total": 217
+  },
+  {
+    "class_name": "Hanami::View",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View",
+    "class_desc": 4,
+    "method_count": 5,
+    "method_desc": 695,
+    "total": 699
+  },
+  {
+    "class_name": "Hanami::View::Configuration",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/Configuration",
+    "class_desc": 614,
+    "method_count": 22,
+    "method_desc": 2254,
+    "total": 2868
+  },
+  {
+    "class_name": "Hanami::View::Dsl",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/Dsl",
+    "class_desc": 15,
+    "method_count": 4,
+    "method_desc": 1373,
+    "total": 1388
+  },
+  {
+    "class_name": "Hanami::View::Error",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/Error",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::View::Escape",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/Escape",
+    "class_desc": 43,
+    "method_count": 3,
+    "method_desc": 147,
+    "total": 190
+  },
+  {
+    "class_name": "Hanami::View::Escape::InstanceMethods",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/Escape/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::View::Escape::Presentable",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/Escape/Presentable",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 65,
+    "total": 65
+  },
+  {
+    "class_name": "Hanami::View::Escape::Presenter",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/Escape/Presenter",
+    "class_desc": 21,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 21
+  },
+  {
+    "class_name": "Hanami::View::Inheritable",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/Inheritable",
+    "class_desc": 21,
+    "method_count": 2,
+    "method_desc": 52,
+    "total": 73
+  },
+  {
+    "class_name": "Hanami::View::MissingFormatError",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/MissingFormatError",
+    "class_desc": 97,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 97
+  },
+  {
+    "class_name": "Hanami::View::MissingTemplateError",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/MissingTemplateError",
+    "class_desc": 470,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 470
+  },
+  {
+    "class_name": "Hanami::View::MissingTemplateLayoutError",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/MissingTemplateLayoutError",
+    "class_desc": 106,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 106
+  },
+  {
+    "class_name": "Hanami::View::Rendering",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/Rendering",
+    "class_desc": 17,
+    "method_count": 2,
+    "method_desc": 166,
+    "total": 183
+  },
+  {
+    "class_name": "Hanami::View::Rendering::InstanceMethods",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/Rendering/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 409,
+    "total": 409
+  },
+  {
+    "class_name": "Hanami::View::Rendering::LayoutFinder",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/Rendering/LayoutFinder",
+    "class_desc": 34,
+    "method_count": 3,
+    "method_desc": 83,
+    "total": 117
+  },
+  {
+    "class_name": "Hanami::View::Rendering::LayoutRegistry",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/Rendering/LayoutRegistry",
+    "class_desc": 112,
+    "method_count": 2,
+    "method_desc": 64,
+    "total": 176
+  },
+  {
+    "class_name": "Hanami::View::Rendering::LayoutScope",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/Rendering/LayoutScope",
+    "class_desc": 26,
+    "method_count": 8,
+    "method_desc": 316,
+    "total": 342
+  },
+  {
+    "class_name": "Hanami::View::Rendering::NullLayout",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/Rendering/NullLayout",
+    "class_desc": 79,
+    "method_count": 2,
+    "method_desc": 36,
+    "total": 115
+  },
+  {
+    "class_name": "Hanami::View::Rendering::NullLocal",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/Rendering/NullLocal",
+    "class_desc": 10,
+    "method_count": 8,
+    "method_desc": 0,
+    "total": 10
+  },
+  {
+    "class_name": "Hanami::View::Rendering::NullTemplate",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/Rendering/NullTemplate",
+    "class_desc": 400,
+    "method_count": 1,
+    "method_desc": 26,
+    "total": 426
+  },
+  {
+    "class_name": "Hanami::View::Rendering::NullView",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/Rendering/NullView",
+    "class_desc": 94,
+    "method_count": 1,
+    "method_desc": 26,
+    "total": 120
+  },
+  {
+    "class_name": "Hanami::View::Rendering::Options",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/Rendering/Options",
+    "class_desc": 17,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 17
+  },
+  {
+    "class_name": "Hanami::View::Rendering::Partial",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/Rendering/Partial",
+    "class_desc": 71,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 71
+  },
+  {
+    "class_name": "Hanami::View::Rendering::PartialFile",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/Rendering/PartialFile",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::View::Rendering::PartialFinder",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/Rendering/PartialFinder",
+    "class_desc": 97,
+    "method_count": 1,
+    "method_desc": 286,
+    "total": 383
+  },
+  {
+    "class_name": "Hanami::View::Rendering::PartialTemplatesFinder",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/Rendering/PartialTemplatesFinder",
+    "class_desc": 41,
+    "method_count": 3,
+    "method_desc": 74,
+    "total": 115
+  },
+  {
+    "class_name": "Hanami::View::Rendering::Registry",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/Rendering/Registry",
+    "class_desc": 115,
+    "method_count": 1,
+    "method_desc": 39,
+    "total": 154
+  },
+  {
+    "class_name": "Hanami::View::Rendering::Scope",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/Rendering/Scope",
+    "class_desc": 20,
+    "method_count": 4,
+    "method_desc": 103,
+    "total": 123
+  },
+  {
+    "class_name": "Hanami::View::Rendering::Subscope",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/Rendering/Subscope",
+    "class_desc": 18,
+    "method_count": 1,
+    "method_desc": 29,
+    "total": 47
+  },
+  {
+    "class_name": "Hanami::View::Rendering::Template",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/Rendering/Template",
+    "class_desc": 79,
+    "method_count": 2,
+    "method_desc": 41,
+    "total": 120
+  },
+  {
+    "class_name": "Hanami::View::Rendering::TemplateFinder",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/Rendering/TemplateFinder",
+    "class_desc": 105,
+    "method_count": 2,
+    "method_desc": 63,
+    "total": 168
+  },
+  {
+    "class_name": "Hanami::View::Rendering::TemplateName",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/Rendering/TemplateName",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::View::Rendering::TemplatesFinder",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/Rendering/TemplatesFinder",
+    "class_desc": 25,
+    "method_count": 2,
+    "method_desc": 169,
+    "total": 194
+  },
+  {
+    "class_name": "Hanami::View::Rendering::ViewFinder",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/Rendering/ViewFinder",
+    "class_desc": 11,
+    "method_count": 2,
+    "method_desc": 107,
+    "total": 118
+  },
+  {
+    "class_name": "Hanami::View::Template",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/Template",
+    "class_desc": 22,
+    "method_count": 3,
+    "method_desc": 103,
+    "total": 125
+  },
+  {
+    "class_name": "Hanami::View::UnknownRenderTypeError",
+    "url": "https://rubydoc.info/gems/hanami-view/1.3.3/Hanami/View/UnknownRenderTypeError",
+    "class_desc": 110,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 110
+  }
+]

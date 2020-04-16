@@ -1,0 +1,618 @@
+[
+  {
+    "class_name": "Hanami",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami",
+    "class_desc": 6,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 6
+  },
+  {
+    "class_name": "Hanami::Entity",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Entity",
+    "class_desc": 1157,
+    "method_count": 9,
+    "method_desc": 428,
+    "total": 1585
+  },
+  {
+    "class_name": "Hanami::Entity::ClassMethods",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Entity/ClassMethods",
+    "class_desc": 21,
+    "method_count": 3,
+    "method_desc": 435,
+    "total": 456
+  },
+  {
+    "class_name": "Hanami::Entity::Schema",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Entity/Schema",
+    "class_desc": 59,
+    "method_count": 4,
+    "method_desc": 144,
+    "total": 203
+  },
+  {
+    "class_name": "Hanami::Entity::Schema::Definition",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Entity/Schema/Definition",
+    "class_desc": 17,
+    "method_count": 3,
+    "method_desc": 93,
+    "total": 110
+  },
+  {
+    "class_name": "Hanami::Entity::Schema::Definition::Dsl",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Entity/Schema/Definition/Dsl",
+    "class_desc": 10,
+    "method_count": 4,
+    "method_desc": 19,
+    "total": 29
+  },
+  {
+    "class_name": "Hanami::Entity::Schema::Schemaless",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Entity/Schema/Schemaless",
+    "class_desc": 25,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 25
+  },
+  {
+    "class_name": "Hanami::Entity::Types",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Entity/Types",
+    "class_desc": 58,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 58
+  },
+  {
+    "class_name": "Hanami::Model",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model",
+    "class_desc": 24,
+    "method_count": 10,
+    "method_desc": 453,
+    "total": 477
+  },
+  {
+    "class_name": "Hanami::Model::Association",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Association",
+    "class_desc": 19,
+    "method_count": 2,
+    "method_desc": 126,
+    "total": 145
+  },
+  {
+    "class_name": "Hanami::Model::Associations",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Associations",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Model::Associations::BelongsTo",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Associations/BelongsTo",
+    "class_desc": 23,
+    "method_count": 8,
+    "method_desc": 0,
+    "total": 23
+  },
+  {
+    "class_name": "Hanami::Model::Associations::Dsl",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Associations/Dsl",
+    "class_desc": 94,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 94
+  },
+  {
+    "class_name": "Hanami::Model::Associations::HasMany",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Associations/HasMany",
+    "class_desc": 23,
+    "method_count": 16,
+    "method_desc": 0,
+    "total": 23
+  },
+  {
+    "class_name": "Hanami::Model::Associations::HasOne",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Associations/HasOne",
+    "class_desc": 23,
+    "method_count": 14,
+    "method_desc": 0,
+    "total": 23
+  },
+  {
+    "class_name": "Hanami::Model::Associations::ManyToMany",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Associations/ManyToMany",
+    "class_desc": 24,
+    "method_count": 16,
+    "method_desc": 118,
+    "total": 142
+  },
+  {
+    "class_name": "Hanami::Model::CheckConstraintViolationError",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/CheckConstraintViolationError",
+    "class_desc": 53,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 53
+  },
+  {
+    "class_name": "Hanami::Model::Configuration",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Configuration",
+    "class_desc": 156,
+    "method_count": 20,
+    "method_desc": 296,
+    "total": 452
+  },
+  {
+    "class_name": "Hanami::Model::Configurator",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Configurator",
+    "class_desc": 17,
+    "method_count": 9,
+    "method_desc": 0,
+    "total": 17
+  },
+  {
+    "class_name": "Hanami::Model::ConstraintViolationError",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/ConstraintViolationError",
+    "class_desc": 30,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 30
+  },
+  {
+    "class_name": "Hanami::Model::DatabaseError",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/DatabaseError",
+    "class_desc": 22,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 22
+  },
+  {
+    "class_name": "Hanami::Model::EntityName",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/EntityName",
+    "class_desc": 139,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 139
+  },
+  {
+    "class_name": "Hanami::Model::Error",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Error",
+    "class_desc": 19,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 19
+  },
+  {
+    "class_name": "Hanami::Model::ForeignKeyConstraintViolationError",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/ForeignKeyConstraintViolationError",
+    "class_desc": 42,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 42
+  },
+  {
+    "class_name": "Hanami::Model::InvalidCommandError",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/InvalidCommandError",
+    "class_desc": 36,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 36
+  },
+  {
+    "class_name": "Hanami::Model::MappedRelation",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/MappedRelation",
+    "class_desc": 89,
+    "method_count": 3,
+    "method_desc": 37,
+    "total": 126
+  },
+  {
+    "class_name": "Hanami::Model::Mapping",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Mapping",
+    "class_desc": 7,
+    "method_count": 8,
+    "method_desc": 0,
+    "total": 7
+  },
+  {
+    "class_name": "Hanami::Model::Migration",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Migration",
+    "class_desc": 18,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 18
+  },
+  {
+    "class_name": "Hanami::Model::MigrationError",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/MigrationError",
+    "class_desc": 15,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 15
+  },
+  {
+    "class_name": "Hanami::Model::Migrator",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Migrator",
+    "class_desc": 24,
+    "method_count": 16,
+    "method_desc": 1734,
+    "total": 1758
+  },
+  {
+    "class_name": "Hanami::Model::Migrator::Adapter",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Migrator/Adapter",
+    "class_desc": 21,
+    "method_count": 8,
+    "method_desc": 265,
+    "total": 286
+  },
+  {
+    "class_name": "Hanami::Model::Migrator::Connection",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Migrator/Connection",
+    "class_desc": 65,
+    "method_count": 14,
+    "method_desc": 766,
+    "total": 831
+  },
+  {
+    "class_name": "Hanami::Model::Migrator::Logger",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Migrator/Logger",
+    "class_desc": 31,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 31
+  },
+  {
+    "class_name": "Hanami::Model::Migrator::Logger::Formatter",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Migrator/Logger/Formatter",
+    "class_desc": 31,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 31
+  },
+  {
+    "class_name": "Hanami::Model::Migrator::MySQLAdapter",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Migrator/MySQLAdapter",
+    "class_desc": 13,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 13
+  },
+  {
+    "class_name": "Hanami::Model::Migrator::PostgresAdapter",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Migrator/PostgresAdapter",
+    "class_desc": 18,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 18
+  },
+  {
+    "class_name": "Hanami::Model::Migrator::SQLiteAdapter",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Migrator/SQLiteAdapter",
+    "class_desc": 16,
+    "method_count": 5,
+    "method_desc": 18,
+    "total": 34
+  },
+  {
+    "class_name": "Hanami::Model::Migrator::SQLiteAdapter::Memory",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Migrator/SQLiteAdapter/Memory",
+    "class_desc": 29,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 29
+  },
+  {
+    "class_name": "Hanami::Model::MissingPrimaryKeyError",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/MissingPrimaryKeyError",
+    "class_desc": 25,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 25
+  },
+  {
+    "class_name": "Hanami::Model::NotNullConstraintViolationError",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/NotNullConstraintViolationError",
+    "class_desc": 39,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 39
+  },
+  {
+    "class_name": "Hanami::Model::Plugins",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Plugins",
+    "class_desc": 60,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 60
+  },
+  {
+    "class_name": "Hanami::Model::Plugins::Mapping",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Plugins/Mapping",
+    "class_desc": 52,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 52
+  },
+  {
+    "class_name": "Hanami::Model::Plugins::Mapping::ClassMethods",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Plugins/Mapping/ClassMethods",
+    "class_desc": 15,
+    "method_count": 1,
+    "method_desc": 27,
+    "total": 42
+  },
+  {
+    "class_name": "Hanami::Model::Plugins::Mapping::InputWithMapping",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Plugins/Mapping/InputWithMapping",
+    "class_desc": 48,
+    "method_count": 2,
+    "method_desc": 20,
+    "total": 68
+  },
+  {
+    "class_name": "Hanami::Model::Plugins::Schema",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Plugins/Schema",
+    "class_desc": 65,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 65
+  },
+  {
+    "class_name": "Hanami::Model::Plugins::Schema::ClassMethods",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Plugins/Schema/ClassMethods",
+    "class_desc": 15,
+    "method_count": 1,
+    "method_desc": 26,
+    "total": 41
+  },
+  {
+    "class_name": "Hanami::Model::Plugins::Schema::InputWithSchema",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Plugins/Schema/InputWithSchema",
+    "class_desc": 55,
+    "method_count": 2,
+    "method_desc": 19,
+    "total": 74
+  },
+  {
+    "class_name": "Hanami::Model::Plugins::Timestamps",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Plugins/Timestamps",
+    "class_desc": 69,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 69
+  },
+  {
+    "class_name": "Hanami::Model::Plugins::Timestamps::ClassMethods",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Plugins/Timestamps/ClassMethods",
+    "class_desc": 15,
+    "method_count": 1,
+    "method_desc": 77,
+    "total": 92
+  },
+  {
+    "class_name": "Hanami::Model::Plugins::Timestamps::InputWithCreateTimestamp",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Plugins/Timestamps/InputWithCreateTimestamp",
+    "class_desc": 79,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 79
+  },
+  {
+    "class_name": "Hanami::Model::Plugins::Timestamps::InputWithTimestamp",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Plugins/Timestamps/InputWithTimestamp",
+    "class_desc": 140,
+    "method_count": 2,
+    "method_desc": 19,
+    "total": 159
+  },
+  {
+    "class_name": "Hanami::Model::Plugins::Timestamps::InputWithUpdateTimestamp",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Plugins/Timestamps/InputWithUpdateTimestamp",
+    "class_desc": 57,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 57
+  },
+  {
+    "class_name": "Hanami::Model::Plugins::WrappingInput",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Plugins/WrappingInput",
+    "class_desc": 14,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 14
+  },
+  {
+    "class_name": "Hanami::Model::RelationName",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/RelationName",
+    "class_desc": 145,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 145
+  },
+  {
+    "class_name": "Hanami::Model::Sql",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Sql",
+    "class_desc": 11,
+    "method_count": 4,
+    "method_desc": 335,
+    "total": 346
+  },
+  {
+    "class_name": "Hanami::Model::Sql::Console",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Sql/Console",
+    "class_desc": 11,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 11
+  },
+  {
+    "class_name": "Hanami::Model::Sql::Consoles",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Sql/Consoles",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Model::Sql::Consoles::Abstract",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Sql/Consoles/Abstract",
+    "class_desc": 16,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 16
+  },
+  {
+    "class_name": "Hanami::Model::Sql::Consoles::Mysql",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Sql/Consoles/Mysql",
+    "class_desc": 13,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 13
+  },
+  {
+    "class_name": "Hanami::Model::Sql::Consoles::Postgresql",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Sql/Consoles/Postgresql",
+    "class_desc": 18,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 18
+  },
+  {
+    "class_name": "Hanami::Model::Sql::Consoles::Sqlite",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Sql/Consoles/Sqlite",
+    "class_desc": 14,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 14
+  },
+  {
+    "class_name": "Hanami::Model::Sql::Entity",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Sql/Entity",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Model::Sql::Entity::Schema",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Sql/Entity/Schema",
+    "class_desc": 190,
+    "method_count": 4,
+    "method_desc": 195,
+    "total": 385
+  },
+  {
+    "class_name": "Hanami::Model::Sql::Types",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Sql/Types",
+    "class_desc": 35,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 35
+  },
+  {
+    "class_name": "Hanami::Model::Sql::Types::Schema",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Sql/Types/Schema",
+    "class_desc": 28,
+    "method_count": 2,
+    "method_desc": 33,
+    "total": 61
+  },
+  {
+    "class_name": "Hanami::Model::Sql::Types::Schema::AssociationType",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Sql/Types/Schema/AssociationType",
+    "class_desc": 35,
+    "method_count": 2,
+    "method_desc": 29,
+    "total": 64
+  },
+  {
+    "class_name": "Hanami::Model::Sql::Types::Schema::Coercions",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Sql/Types/Schema/Coercions",
+    "class_desc": 101,
+    "method_count": 9,
+    "method_desc": 350,
+    "total": 451
+  },
+  {
+    "class_name": "Hanami::Model::Types",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Types",
+    "class_desc": 17,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 17
+  },
+  {
+    "class_name": "Hanami::Model::Types::ClassMethods",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Types/ClassMethods",
+    "class_desc": 56,
+    "method_count": 2,
+    "method_desc": 63,
+    "total": 119
+  },
+  {
+    "class_name": "Hanami::Model::Types::Schema",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Types/Schema",
+    "class_desc": 28,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 28
+  },
+  {
+    "class_name": "Hanami::Model::Types::Schema::CoercibleType",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/Types/Schema/CoercibleType",
+    "class_desc": 51,
+    "method_count": 4,
+    "method_desc": 217,
+    "total": 268
+  },
+  {
+    "class_name": "Hanami::Model::UniqueConstraintViolationError",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/UniqueConstraintViolationError",
+    "class_desc": 37,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 37
+  },
+  {
+    "class_name": "Hanami::Model::UnknownAttributeError",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/UnknownAttributeError",
+    "class_desc": 23,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 23
+  },
+  {
+    "class_name": "Hanami::Model::UnknownDatabaseAdapterError",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/UnknownDatabaseAdapterError",
+    "class_desc": 30,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 30
+  },
+  {
+    "class_name": "Hanami::Model::UnknownDatabaseTypeError",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Model/UnknownDatabaseTypeError",
+    "class_desc": 55,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 55
+  },
+  {
+    "class_name": "Hanami::Repository",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Repository",
+    "class_desc": 919,
+    "method_count": 17,
+    "method_desc": 1432,
+    "total": 2351
+  },
+  {
+    "class_name": "Hanami::Repository::Commands",
+    "url": "https://rubydoc.info/gems/hanami-model/1.3.2/Hanami/Repository/Commands",
+    "class_desc": 58,
+    "method_count": 3,
+    "method_desc": 49,
+    "total": 107
+  }
+]
