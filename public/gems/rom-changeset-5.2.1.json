@@ -1,0 +1,122 @@
+[
+  {
+    "class_name": "ROM",
+    "url": "https://rubydoc.info/gems/rom-changeset/5.2.1/ROM",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Changeset",
+    "url": "https://rubydoc.info/gems/rom-changeset/5.2.1/ROM/Changeset",
+    "class_desc": 98,
+    "method_count": 15,
+    "method_desc": 445,
+    "total": 543
+  },
+  {
+    "class_name": "ROM::Changeset::Associated",
+    "url": "https://rubydoc.info/gems/rom-changeset/5.2.1/ROM/Changeset/Associated",
+    "class_desc": 46,
+    "method_count": 7,
+    "method_desc": 378,
+    "total": 424
+  },
+  {
+    "class_name": "ROM::Changeset::Create",
+    "url": "https://rubydoc.info/gems/rom-changeset/5.2.1/ROM/Changeset/Create",
+    "class_desc": 44,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 44
+  },
+  {
+    "class_name": "ROM::Changeset::Delete",
+    "url": "https://rubydoc.info/gems/rom-changeset/5.2.1/ROM/Changeset/Delete",
+    "class_desc": 185,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 185
+  },
+  {
+    "class_name": "ROM::Changeset::Extensions",
+    "url": "https://rubydoc.info/gems/rom-changeset/5.2.1/ROM/Changeset/Extensions",
+    "class_desc": 34,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 34
+  },
+  {
+    "class_name": "ROM::Changeset::Pipe",
+    "url": "https://rubydoc.info/gems/rom-changeset/5.2.1/ROM/Changeset/Pipe",
+    "class_desc": 65,
+    "method_count": 10,
+    "method_desc": 0,
+    "total": 65
+  },
+  {
+    "class_name": "ROM::Changeset::PipeRegistry",
+    "url": "https://rubydoc.info/gems/rom-changeset/5.2.1/ROM/Changeset/PipeRegistry",
+    "class_desc": 34,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 34
+  },
+  {
+    "class_name": "ROM::Changeset::Stateful",
+    "url": "https://rubydoc.info/gems/rom-changeset/5.2.1/ROM/Changeset/Stateful",
+    "class_desc": 116,
+    "method_count": 19,
+    "method_desc": 1177,
+    "total": 1293
+  },
+  {
+    "class_name": "ROM::Changeset::Update",
+    "url": "https://rubydoc.info/gems/rom-changeset/5.2.1/ROM/Changeset/Update",
+    "class_desc": 220,
+    "method_count": 5,
+    "method_desc": 329,
+    "total": 549
+  },
+  {
+    "class_name": "ROM::Plugins",
+    "url": "https://rubydoc.info/gems/rom-changeset/5.2.1/ROM/Plugins",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Plugins::Relation",
+    "url": "https://rubydoc.info/gems/rom-changeset/5.2.1/ROM/Plugins/Relation",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "ROM::Plugins::Relation::Changeset",
+    "url": "https://rubydoc.info/gems/rom-changeset/5.2.1/ROM/Plugins/Relation/Changeset",
+    "class_desc": 54,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 54
+  },
+  {
+    "class_name": "ROM::Plugins::Relation::Changeset::InstanceMethods",
+    "url": "https://rubydoc.info/gems/rom-changeset/5.2.1/ROM/Plugins/Relation/Changeset/InstanceMethods",
+    "class_desc": 58,
+    "method_count": 1,
+    "method_desc": 33,
+    "total": 91
+  },
+  {
+    "class_name": "Relation::Graph",
+    "url": "https://rubydoc.info/gems/rom-changeset/5.2.1/Relation/Graph",
+    "class_desc": 42,
+    "method_count": 1,
+    "method_desc": 41,
+    "total": 83
+  }
+]
