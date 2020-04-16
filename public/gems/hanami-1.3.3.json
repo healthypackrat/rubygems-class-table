@@ -1,0 +1,818 @@
+[
+  {
+    "class_name": "Hanami",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami",
+    "class_desc": 161,
+    "method_count": 14,
+    "method_desc": 2031,
+    "total": 2192
+  },
+  {
+    "class_name": "Hanami::Action",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Action",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Action::CSRFProtection",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Action/CSRFProtection",
+    "class_desc": 851,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 851
+  },
+  {
+    "class_name": "Hanami::Action::InvalidCSRFTokenError",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Action/InvalidCSRFTokenError",
+    "class_desc": 18,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 18
+  },
+  {
+    "class_name": "Hanami::Action::RoutingHelpers",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Action/RoutingHelpers",
+    "class_desc": 227,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 227
+  },
+  {
+    "class_name": "Hanami::App",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/App",
+    "class_desc": 66,
+    "method_count": 2,
+    "method_desc": 45,
+    "total": 111
+  },
+  {
+    "class_name": "Hanami::Application",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Application",
+    "class_desc": 31,
+    "method_count": 3,
+    "method_desc": 175,
+    "total": 206
+  },
+  {
+    "class_name": "Hanami::Application::ClassMethods",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Application/ClassMethods",
+    "class_desc": 39,
+    "method_count": 4,
+    "method_desc": 158,
+    "total": 197
+  },
+  {
+    "class_name": "Hanami::ApplicationConfiguration",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/ApplicationConfiguration",
+    "class_desc": 38,
+    "method_count": 29,
+    "method_desc": 9880,
+    "total": 9918
+  },
+  {
+    "class_name": "Hanami::ApplicationName",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/ApplicationName",
+    "class_desc": 20,
+    "method_count": 5,
+    "method_desc": 783,
+    "total": 803
+  },
+  {
+    "class_name": "Hanami::ApplicationNamespace",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/ApplicationNamespace",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Assets",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Assets",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Assets::Asset",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Assets/Asset",
+    "class_desc": 15,
+    "method_count": 6,
+    "method_desc": 0,
+    "total": 15
+  },
+  {
+    "class_name": "Hanami::Assets::Static",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Assets/Static",
+    "class_desc": 438,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 438
+  },
+  {
+    "class_name": "Hanami::CLI",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI",
+    "class_desc": 10,
+    "method_count": 1,
+    "method_desc": 39,
+    "total": 49
+  },
+  {
+    "class_name": "Hanami::CLI::Commands",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands",
+    "class_desc": 21,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 21
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Assets",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Assets",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Assets::Precompile",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Assets/Precompile",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Command",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Command",
+    "class_desc": 16,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 16
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Command::ClassMethods",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Command/ClassMethods",
+    "class_desc": 21,
+    "method_count": 2,
+    "method_desc": 37,
+    "total": 58
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Command::InstanceMethods",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Command/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Command::Renderer",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Command/Renderer",
+    "class_desc": 17,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 17
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Console",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Console",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Console::CodeReloading",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Console/CodeReloading",
+    "class_desc": 33,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 33
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Context",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Context",
+    "class_desc": 19,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 19
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Db",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Db",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Db::Apply",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Db/Apply",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Db::Console",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Db/Console",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Db::Create",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Db/Create",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Db::Drop",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Db/Drop",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Db::Migrate",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Db/Migrate",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Db::Prepare",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Db/Prepare",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Db::Rollback",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Db/Rollback",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Db::Version",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Db/Version",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Destroy",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Destroy",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Destroy::Action",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Destroy/Action",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Destroy::App",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Destroy/App",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Destroy::Mailer",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Destroy/Mailer",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Destroy::Migration",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Destroy/Migration",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Destroy::Model",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Destroy/Model",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Generate",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Generate",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Generate::Action",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Generate/Action",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 68,
+    "total": 68
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Generate::App",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Generate/App",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 68,
+    "total": 68
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Generate::Mailer",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Generate/Mailer",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Generate::Migration",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Generate/Migration",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Generate::Model",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Generate/Model",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Generate::Secret",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Generate/Secret",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::New",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/New",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 68,
+    "total": 68
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::New::App",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/New/App",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::New::DatabaseConfig",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/New/DatabaseConfig",
+    "class_desc": 0,
+    "method_count": 7,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::New::TemplateEngine",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/New/TemplateEngine",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::New::TemplateEngine::UnsupportedTemplateEngine",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/New/TemplateEngine/UnsupportedTemplateEngine",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::New::TestFramework",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/New/TestFramework",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Project",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Project",
+    "class_desc": 0,
+    "method_count": 66,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Routes",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Routes",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Server",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Server",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Templates",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Templates",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Commands::Version",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CLI/Commands/Version",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CommonLogger",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/CommonLogger",
+    "class_desc": 26,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 26
+  },
+  {
+    "class_name": "Hanami::Components",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Components",
+    "class_desc": 0,
+    "method_count": 6,
+    "method_desc": 645,
+    "total": 645
+  },
+  {
+    "class_name": "Hanami::Components::App",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Components/App",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Components::App::Assets",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Components/App/Assets",
+    "class_desc": 74,
+    "method_count": 1,
+    "method_desc": 141,
+    "total": 215
+  },
+  {
+    "class_name": "Hanami::Components::App::Controller",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Components/App/Controller",
+    "class_desc": 78,
+    "method_count": 1,
+    "method_desc": 145,
+    "total": 223
+  },
+  {
+    "class_name": "Hanami::Components::App::Routes",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Components/App/Routes",
+    "class_desc": 74,
+    "method_count": 2,
+    "method_desc": 71,
+    "total": 145
+  },
+  {
+    "class_name": "Hanami::Components::App::View",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Components/App/View",
+    "class_desc": 72,
+    "method_count": 1,
+    "method_desc": 139,
+    "total": 211
+  },
+  {
+    "class_name": "Hanami::Components::Component",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Components/Component",
+    "class_desc": 14,
+    "method_count": 2,
+    "method_desc": 55,
+    "total": 69
+  },
+  {
+    "class_name": "Hanami::Components::RoutesInspector",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Components/RoutesInspector",
+    "class_desc": 26,
+    "method_count": 2,
+    "method_desc": 49,
+    "total": 75
+  },
+  {
+    "class_name": "Hanami::Config",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Config",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Config::Cookies",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Config/Cookies",
+    "class_desc": 21,
+    "method_count": 3,
+    "method_desc": 213,
+    "total": 234
+  },
+  {
+    "class_name": "Hanami::Config::FrameworkConfiguration",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Config/FrameworkConfiguration",
+    "class_desc": 116,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 116
+  },
+  {
+    "class_name": "Hanami::Config::LoadPaths",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Config/LoadPaths",
+    "class_desc": 55,
+    "method_count": 2,
+    "method_desc": 113,
+    "total": 168
+  },
+  {
+    "class_name": "Hanami::Config::Mapper",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Config/Mapper",
+    "class_desc": 20,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 20
+  },
+  {
+    "class_name": "Hanami::Config::Routes",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Config/Routes",
+    "class_desc": 19,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 19
+  },
+  {
+    "class_name": "Hanami::Config::Security",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Config/Security",
+    "class_desc": 34,
+    "method_count": 4,
+    "method_desc": 136,
+    "total": 170
+  },
+  {
+    "class_name": "Hanami::Config::Sessions",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Config/Sessions",
+    "class_desc": 22,
+    "method_count": 3,
+    "method_desc": 103,
+    "total": 125
+  },
+  {
+    "class_name": "Hanami::Configuration",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Configuration",
+    "class_desc": 0,
+    "method_count": 11,
+    "method_desc": 162,
+    "total": 162
+  },
+  {
+    "class_name": "Hanami::Configuration::App",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Configuration/App",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Configuration::Middleware",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Configuration/Middleware",
+    "class_desc": 24,
+    "method_count": 3,
+    "method_desc": 21,
+    "total": 45
+  },
+  {
+    "class_name": "Hanami::EarlyHints",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/EarlyHints",
+    "class_desc": 302,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 302
+  },
+  {
+    "class_name": "Hanami::EarlyHints::NotSupportedByServerError",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/EarlyHints/NotSupportedByServerError",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Env",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Env",
+    "class_desc": 25,
+    "method_count": 4,
+    "method_desc": 93,
+    "total": 118
+  },
+  {
+    "class_name": "Hanami::Environment",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Environment",
+    "class_desc": 59,
+    "method_count": 20,
+    "method_desc": 3660,
+    "total": 3719
+  },
+  {
+    "class_name": "Hanami::EnvironmentApplicationConfigurations",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/EnvironmentApplicationConfigurations",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Hanamirc",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Hanamirc",
+    "class_desc": 54,
+    "method_count": 4,
+    "method_desc": 218,
+    "total": 272
+  },
+  {
+    "class_name": "Hanami::Mailer",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Mailer",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Mailer::Glue",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Mailer/Glue",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::MiddlewareStack",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/MiddlewareStack",
+    "class_desc": 40,
+    "method_count": 5,
+    "method_desc": 214,
+    "total": 254
+  },
+  {
+    "class_name": "Hanami::RakeHelper",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/RakeHelper",
+    "class_desc": 30,
+    "method_count": 2,
+    "method_desc": 36,
+    "total": 66
+  },
+  {
+    "class_name": "Hanami::RenderingPolicy",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/RenderingPolicy",
+    "class_desc": 16,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 16
+  },
+  {
+    "class_name": "Hanami::Routes",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Routes",
+    "class_desc": 151,
+    "method_count": 4,
+    "method_desc": 197,
+    "total": 348
+  },
+  {
+    "class_name": "Hanami::Routing",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Routing",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Routing::Default",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Routing/Default",
+    "class_desc": 75,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 75
+  },
+  {
+    "class_name": "Hanami::Routing::Default::NullAction",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Routing/Default/NullAction",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Server",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Server",
+    "class_desc": 168,
+    "method_count": 4,
+    "method_desc": 103,
+    "total": 271
+  },
+  {
+    "class_name": "Hanami::Static",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Static",
+    "class_desc": 725,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 725
+  },
+  {
+    "class_name": "Hanami::Version",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Version",
+    "class_desc": 14,
+    "method_count": 4,
+    "method_desc": 0,
+    "total": 14
+  },
+  {
+    "class_name": "Hanami::Views",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Views",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Views::Default",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Views/Default",
+    "class_desc": 76,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 76
+  },
+  {
+    "class_name": "Hanami::Views::DefaultTemplateFinder",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Views/DefaultTemplateFinder",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 15,
+    "total": 15
+  },
+  {
+    "class_name": "Hanami::Views::NullView",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Views/NullView",
+    "class_desc": 29,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 29
+  },
+  {
+    "class_name": "Hanami::Welcome",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Hanami/Welcome",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Mailers",
+    "url": "https://rubydoc.info/gems/hanami/1.3.3/Mailers",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  }
+]

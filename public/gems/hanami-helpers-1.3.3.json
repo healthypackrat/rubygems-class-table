@@ -1,0 +1,146 @@
+[
+  {
+    "class_name": "Hanami",
+    "url": "https://rubydoc.info/gems/hanami-helpers/1.3.3/Hanami",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::Helpers",
+    "url": "https://rubydoc.info/gems/hanami-helpers/1.3.3/Hanami/Helpers",
+    "class_desc": 34,
+    "method_count": 1,
+    "method_desc": 67,
+    "total": 101
+  },
+  {
+    "class_name": "Hanami::Helpers::EscapeHelper",
+    "url": "https://rubydoc.info/gems/hanami-helpers/1.3.3/Hanami/Helpers/EscapeHelper",
+    "class_desc": 215,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 215
+  },
+  {
+    "class_name": "Hanami::Helpers::FormHelper",
+    "url": "https://rubydoc.info/gems/hanami-helpers/1.3.3/Hanami/Helpers/FormHelper",
+    "class_desc": 1531,
+    "method_count": 3,
+    "method_desc": 221,
+    "total": 1752
+  },
+  {
+    "class_name": "Hanami::Helpers::FormHelper::Form",
+    "url": "https://rubydoc.info/gems/hanami-helpers/1.3.3/Hanami/Helpers/FormHelper/Form",
+    "class_desc": 11,
+    "method_count": 5,
+    "method_desc": 673,
+    "total": 684
+  },
+  {
+    "class_name": "Hanami::Helpers::FormHelper::FormBuilder",
+    "url": "https://rubydoc.info/gems/hanami-helpers/1.3.3/Hanami/Helpers/FormHelper/FormBuilder",
+    "class_desc": 12,
+    "method_count": 32,
+    "method_desc": 2492,
+    "total": 2504
+  },
+  {
+    "class_name": "Hanami::Helpers::FormHelper::HtmlNode",
+    "url": "https://rubydoc.info/gems/hanami-helpers/1.3.3/Hanami/Helpers/FormHelper/HtmlNode",
+    "class_desc": 14,
+    "method_count": 1,
+    "method_desc": 31,
+    "total": 45
+  },
+  {
+    "class_name": "Hanami::Helpers::FormHelper::Values",
+    "url": "https://rubydoc.info/gems/hanami-helpers/1.3.3/Hanami/Helpers/FormHelper/Values",
+    "class_desc": 172,
+    "method_count": 2,
+    "method_desc": 103,
+    "total": 275
+  },
+  {
+    "class_name": "Hanami::Helpers::HtmlHelper",
+    "url": "https://rubydoc.info/gems/hanami-helpers/1.3.3/Hanami/Helpers/HtmlHelper",
+    "class_desc": 725,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 725
+  },
+  {
+    "class_name": "Hanami::Helpers::HtmlHelper::EmptyHtmlNode",
+    "url": "https://rubydoc.info/gems/hanami-helpers/1.3.3/Hanami/Helpers/HtmlHelper/EmptyHtmlNode",
+    "class_desc": 15,
+    "method_count": 2,
+    "method_desc": 61,
+    "total": 76
+  },
+  {
+    "class_name": "Hanami::Helpers::HtmlHelper::HtmlBuilder",
+    "url": "https://rubydoc.info/gems/hanami-helpers/1.3.3/Hanami/Helpers/HtmlHelper/HtmlBuilder",
+    "class_desc": 12,
+    "method_count": 13,
+    "method_desc": 575,
+    "total": 587
+  },
+  {
+    "class_name": "Hanami::Helpers::HtmlHelper::HtmlFragment",
+    "url": "https://rubydoc.info/gems/hanami-helpers/1.3.3/Hanami/Helpers/HtmlHelper/HtmlFragment",
+    "class_desc": 13,
+    "method_count": 3,
+    "method_desc": 55,
+    "total": 68
+  },
+  {
+    "class_name": "Hanami::Helpers::HtmlHelper::HtmlNode",
+    "url": "https://rubydoc.info/gems/hanami-helpers/1.3.3/Hanami/Helpers/HtmlHelper/HtmlNode",
+    "class_desc": 9,
+    "method_count": 2,
+    "method_desc": 55,
+    "total": 64
+  },
+  {
+    "class_name": "Hanami::Helpers::HtmlHelper::TextNode",
+    "url": "https://rubydoc.info/gems/hanami-helpers/1.3.3/Hanami/Helpers/HtmlHelper/TextNode",
+    "class_desc": 60,
+    "method_count": 2,
+    "method_desc": 55,
+    "total": 115
+  },
+  {
+    "class_name": "Hanami::Helpers::LinkToHelper",
+    "url": "https://rubydoc.info/gems/hanami-helpers/1.3.3/Hanami/Helpers/LinkToHelper",
+    "class_desc": 160,
+    "method_count": 1,
+    "method_desc": 85,
+    "total": 245
+  },
+  {
+    "class_name": "Hanami::Helpers::NumberFormattingHelper",
+    "url": "https://rubydoc.info/gems/hanami-helpers/1.3.3/Hanami/Helpers/NumberFormattingHelper",
+    "class_desc": 223,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 223
+  },
+  {
+    "class_name": "Hanami::Helpers::NumberFormattingHelper::Formatter",
+    "url": "https://rubydoc.info/gems/hanami-helpers/1.3.3/Hanami/Helpers/NumberFormattingHelper/Formatter",
+    "class_desc": 9,
+    "method_count": 2,
+    "method_desc": 74,
+    "total": 83
+  },
+  {
+    "class_name": "Hanami::Helpers::RoutingHelper",
+    "url": "https://rubydoc.info/gems/hanami-helpers/1.3.3/Hanami/Helpers/RoutingHelper",
+    "class_desc": 273,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 273
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "class_name": "Hanami",
+    "url": "https://rubydoc.info/gems/hanami-cli/0.3.1/Hanami",
+    "class_desc": 6,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 6
+  },
+  {
+    "class_name": "Hanami::CLI",
+    "url": "https://rubydoc.info/gems/hanami-cli/0.3.1/Hanami/CLI",
+    "class_desc": 63,
+    "method_count": 4,
+    "method_desc": 51,
+    "total": 114
+  },
+  {
+    "class_name": "Hanami::CLI::Argument",
+    "url": "https://rubydoc.info/gems/hanami-cli/0.3.1/Hanami/CLI/Argument",
+    "class_desc": 21,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 21
+  },
+  {
+    "class_name": "Hanami::CLI::Banner",
+    "url": "https://rubydoc.info/gems/hanami-cli/0.3.1/Hanami/CLI/Banner",
+    "class_desc": 14,
+    "method_count": 11,
+    "method_desc": 89,
+    "total": 103
+  },
+  {
+    "class_name": "Hanami::CLI::Command",
+    "url": "https://rubydoc.info/gems/hanami-cli/0.3.1/Hanami/CLI/Command",
+    "class_desc": 23,
+    "method_count": 11,
+    "method_desc": 129,
+    "total": 152
+  },
+  {
+    "class_name": "Hanami::CLI::Command::ClassMethods",
+    "url": "https://rubydoc.info/gems/hanami-cli/0.3.1/Hanami/CLI/Command/ClassMethods",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::CommandRegistry",
+    "url": "https://rubydoc.info/gems/hanami-cli/0.3.1/Hanami/CLI/CommandRegistry",
+    "class_desc": 16,
+    "method_count": 3,
+    "method_desc": 68,
+    "total": 84
+  },
+  {
+    "class_name": "Hanami::CLI::CommandRegistry::LookupResult",
+    "url": "https://rubydoc.info/gems/hanami-cli/0.3.1/Hanami/CLI/CommandRegistry/LookupResult",
+    "class_desc": 27,
+    "method_count": 8,
+    "method_desc": 0,
+    "total": 27
+  },
+  {
+    "class_name": "Hanami::CLI::CommandRegistry::Node",
+    "url": "https://rubydoc.info/gems/hanami-cli/0.3.1/Hanami/CLI/CommandRegistry/Node",
+    "class_desc": 20,
+    "method_count": 13,
+    "method_desc": 0,
+    "total": 20
+  },
+  {
+    "class_name": "Hanami::CLI::Error",
+    "url": "https://rubydoc.info/gems/hanami-cli/0.3.1/Hanami/CLI/Error",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::InvalidCallbackError",
+    "url": "https://rubydoc.info/gems/hanami-cli/0.3.1/Hanami/CLI/InvalidCallbackError",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Option",
+    "url": "https://rubydoc.info/gems/hanami-cli/0.3.1/Hanami/CLI/Option",
+    "class_desc": 19,
+    "method_count": 14,
+    "method_desc": 68,
+    "total": 87
+  },
+  {
+    "class_name": "Hanami::CLI::Parser",
+    "url": "https://rubydoc.info/gems/hanami-cli/0.3.1/Hanami/CLI/Parser",
+    "class_desc": 40,
+    "method_count": 4,
+    "method_desc": 187,
+    "total": 227
+  },
+  {
+    "class_name": "Hanami::CLI::Parser::Result",
+    "url": "https://rubydoc.info/gems/hanami-cli/0.3.1/Hanami/CLI/Parser/Result",
+    "class_desc": 0,
+    "method_count": 8,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::ProgramName",
+    "url": "https://rubydoc.info/gems/hanami-cli/0.3.1/Hanami/CLI/ProgramName",
+    "class_desc": 12,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 12
+  },
+  {
+    "class_name": "Hanami::CLI::Registry",
+    "url": "https://rubydoc.info/gems/hanami-cli/0.3.1/Hanami/CLI/Registry",
+    "class_desc": 14,
+    "method_count": 5,
+    "method_desc": 72,
+    "total": 86
+  },
+  {
+    "class_name": "Hanami::CLI::Registry::Prefix",
+    "url": "https://rubydoc.info/gems/hanami-cli/0.3.1/Hanami/CLI/Registry/Prefix",
+    "class_desc": 19,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 19
+  },
+  {
+    "class_name": "Hanami::CLI::UnknownCommandError",
+    "url": "https://rubydoc.info/gems/hanami-cli/0.3.1/Hanami/CLI/UnknownCommandError",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Hanami::CLI::Usage",
+    "url": "https://rubydoc.info/gems/hanami-cli/0.3.1/Hanami/CLI/Usage",
+    "class_desc": 16,
+    "method_count": 7,
+    "method_desc": 0,
+    "total": 16
+  }
+]
