@@ -1,0 +1,2218 @@
+[
+  {
+    "class_name": "Roda",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda",
+    "class_desc": 178,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 178
+  },
+  {
+    "class_name": "Roda::RodaCache",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaCache",
+    "class_desc": 89,
+    "method_count": 3,
+    "method_desc": 133,
+    "total": 222
+  },
+  {
+    "class_name": "Roda::RodaError",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaError",
+    "class_desc": 26,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 26
+  },
+  {
+    "class_name": "Roda::RodaPlugins",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins",
+    "class_desc": 107,
+    "method_count": 3,
+    "method_desc": 507,
+    "total": 614
+  },
+  {
+    "class_name": "Roda::RodaPlugins::AllVerbs",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/AllVerbs",
+    "class_desc": 718,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 718
+  },
+  {
+    "class_name": "Roda::RodaPlugins::AllVerbs::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/AllVerbs/RequestMethods",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Assets",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Assets",
+    "class_desc": 13371,
+    "method_count": 2,
+    "method_desc": 186,
+    "total": 13557
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Assets::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Assets/ClassMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 258,
+    "total": 258
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Assets::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Assets/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 1172,
+    "total": 1172
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Assets::RequestClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Assets/RequestClassMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 86,
+    "total": 86
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Assets::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Assets/RequestMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 73,
+    "total": 73
+  },
+  {
+    "class_name": "Roda::RodaPlugins::AssetsPreloading",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/AssetsPreloading",
+    "class_desc": 1604,
+    "method_count": 1,
+    "method_desc": 70,
+    "total": 1674
+  },
+  {
+    "class_name": "Roda::RodaPlugins::AssetsPreloading::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/AssetsPreloading/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 140,
+    "total": 140
+  },
+  {
+    "class_name": "Roda::RodaPlugins::BacktrackingArray",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/BacktrackingArray",
+    "class_desc": 852,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 852
+  },
+  {
+    "class_name": "Roda::RodaPlugins::BacktrackingArray::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/BacktrackingArray/RequestMethods",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Base",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Base",
+    "class_desc": 182,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 182
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Base::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Base/ClassMethods",
+    "class_desc": 33,
+    "method_count": 15,
+    "method_desc": 3676,
+    "total": 3709
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Base::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Base/InstanceMethods",
+    "class_desc": 314,
+    "method_count": 13,
+    "method_desc": 840,
+    "total": 1154
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Base::RequestClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Base/RequestClassMethods",
+    "class_desc": 29,
+    "method_count": 6,
+    "method_desc": 600,
+    "total": 629
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Base::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Base/RequestMethods",
+    "class_desc": 85,
+    "method_count": 21,
+    "method_desc": 5908,
+    "total": 5993
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Base::ResponseClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Base/ResponseClassMethods",
+    "class_desc": 30,
+    "method_count": 3,
+    "method_desc": 293,
+    "total": 323
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Base::ResponseMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Base/ResponseMethods",
+    "class_desc": 33,
+    "method_count": 16,
+    "method_desc": 1949,
+    "total": 1982
+  },
+  {
+    "class_name": "Roda::RodaPlugins::BeforeHook",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/BeforeHook",
+    "class_desc": 293,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 293
+  },
+  {
+    "class_name": "Roda::RodaPlugins::BeforeHook::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/BeforeHook/InstanceMethods",
+    "class_desc": 7,
+    "method_count": 2,
+    "method_desc": 106,
+    "total": 113
+  },
+  {
+    "class_name": "Roda::RodaPlugins::BranchLocals",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/BranchLocals",
+    "class_desc": 573,
+    "method_count": 1,
+    "method_desc": 124,
+    "total": 697
+  },
+  {
+    "class_name": "Roda::RodaPlugins::BranchLocals::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/BranchLocals/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 108,
+    "total": 108
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Caching",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Caching",
+    "class_desc": 2365,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 2365
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Caching::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Caching/RequestMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 1072,
+    "total": 1072
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Caching::ResponseMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Caching/ResponseMethods",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 796,
+    "total": 796
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Chunked",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Chunked",
+    "class_desc": 5104,
+    "method_count": 2,
+    "method_desc": 189,
+    "total": 5293
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Chunked::Body",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Chunked/Body",
+    "class_desc": 49,
+    "method_count": 2,
+    "method_desc": 295,
+    "total": 344
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Chunked::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Chunked/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 7,
+    "method_desc": 655,
+    "total": 655
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ClassLevelRouting",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ClassLevelRouting",
+    "class_desc": 1640,
+    "method_count": 1,
+    "method_desc": 218,
+    "total": 1858
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ClassLevelRouting::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ClassLevelRouting/ClassMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 86,
+    "total": 86
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ClassLevelRouting::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ClassLevelRouting/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ClassMatchers",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ClassMatchers",
+    "class_desc": 869,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 869
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ClassMatchers::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ClassMatchers/ClassMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 189,
+    "total": 189
+  },
+  {
+    "class_name": "Roda::RodaPlugins::CommonLogger",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/CommonLogger",
+    "class_desc": 494,
+    "method_count": 2,
+    "method_desc": 7,
+    "total": 501
+  },
+  {
+    "class_name": "Roda::RodaPlugins::CommonLogger::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/CommonLogger/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ContentFor",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ContentFor",
+    "class_desc": 1604,
+    "method_count": 2,
+    "method_desc": 244,
+    "total": 1848
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ContentFor::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ContentFor/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 207,
+    "total": 207
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ContentSecurityPolicy",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ContentSecurityPolicy",
+    "class_desc": 3435,
+    "method_count": 1,
+    "method_desc": 55,
+    "total": 3490
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ContentSecurityPolicy::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ContentSecurityPolicy/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 109,
+    "total": 109
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ContentSecurityPolicy::Policy",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ContentSecurityPolicy/Policy",
+    "class_desc": 37,
+    "method_count": 8,
+    "method_desc": 478,
+    "total": 515
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ContentSecurityPolicy::ResponseMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ContentSecurityPolicy/ResponseMethods",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 169,
+    "total": 169
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Cookies",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Cookies",
+    "class_desc": 480,
+    "method_count": 1,
+    "method_desc": 69,
+    "total": 549
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Cookies::ResponseMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Cookies/ResponseMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 407,
+    "total": 407
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Csrf",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Csrf",
+    "class_desc": 1110,
+    "method_count": 1,
+    "method_desc": 67,
+    "total": 1177
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Csrf::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Csrf/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 229,
+    "total": 229
+  },
+  {
+    "class_name": "Roda::RodaPlugins::DefaultHeaders",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/DefaultHeaders",
+    "class_desc": 477,
+    "method_count": 1,
+    "method_desc": 66,
+    "total": 543
+  },
+  {
+    "class_name": "Roda::RodaPlugins::DefaultHeaders::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/DefaultHeaders/ClassMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 58,
+    "total": 58
+  },
+  {
+    "class_name": "Roda::RodaPlugins::DefaultHeaders::ResponseMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/DefaultHeaders/ResponseMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 52,
+    "total": 52
+  },
+  {
+    "class_name": "Roda::RodaPlugins::DefaultStatus",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/DefaultStatus",
+    "class_desc": 349,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 349
+  },
+  {
+    "class_name": "Roda::RodaPlugins::DelayBuild",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/DelayBuild",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Roda::RodaPlugins::DelayBuild::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/DelayBuild/ClassMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 33,
+    "total": 33
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Delegate",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Delegate",
+    "class_desc": 1103,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 1103
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Delegate::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Delegate/ClassMethods",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 122,
+    "total": 122
+  },
+  {
+    "class_name": "Roda::RodaPlugins::DeleteEmptyHeaders",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/DeleteEmptyHeaders",
+    "class_desc": 339,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 339
+  },
+  {
+    "class_name": "Roda::RodaPlugins::DeleteEmptyHeaders::ResponseMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/DeleteEmptyHeaders/ResponseMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 98,
+    "total": 98
+  },
+  {
+    "class_name": "Roda::RodaPlugins::DirectCall",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/DirectCall",
+    "class_desc": 247,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 247
+  },
+  {
+    "class_name": "Roda::RodaPlugins::DirectCall::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/DirectCall/ClassMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 39,
+    "total": 39
+  },
+  {
+    "class_name": "Roda::RodaPlugins::DisallowFileUploads",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/DisallowFileUploads",
+    "class_desc": 693,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 693
+  },
+  {
+    "class_name": "Roda::RodaPlugins::DisallowFileUploads::Error",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/DisallowFileUploads/Error",
+    "class_desc": 63,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 63
+  },
+  {
+    "class_name": "Roda::RodaPlugins::DisallowFileUploads::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/DisallowFileUploads/RequestMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 53,
+    "total": 53
+  },
+  {
+    "class_name": "Roda::RodaPlugins::DropBody",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/DropBody",
+    "class_desc": 376,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 376
+  },
+  {
+    "class_name": "Roda::RodaPlugins::DropBody::ResponseMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/DropBody/ResponseMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 137,
+    "total": 137
+  },
+  {
+    "class_name": "Roda::RodaPlugins::EarlyHints",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/EarlyHints",
+    "class_desc": 284,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 284
+  },
+  {
+    "class_name": "Roda::RodaPlugins::EarlyHints::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/EarlyHints/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 231,
+    "total": 231
+  },
+  {
+    "class_name": "Roda::RodaPlugins::EmptyRoot",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/EmptyRoot",
+    "class_desc": 697,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 697
+  },
+  {
+    "class_name": "Roda::RodaPlugins::EmptyRoot::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/EmptyRoot/RequestMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 130,
+    "total": 130
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Environments",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Environments",
+    "class_desc": 963,
+    "method_count": 1,
+    "method_desc": 191,
+    "total": 1154
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Environments::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Environments/ClassMethods",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 279,
+    "total": 279
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ErrorEmail",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ErrorEmail",
+    "class_desc": 1488,
+    "method_count": 1,
+    "method_desc": 69,
+    "total": 1557
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ErrorEmail::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ErrorEmail/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 262,
+    "total": 262
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ErrorHandler",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ErrorHandler",
+    "class_desc": 1532,
+    "method_count": 1,
+    "method_desc": 85,
+    "total": 1617
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ErrorHandler::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ErrorHandler/ClassMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 176,
+    "total": 176
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ErrorHandler::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ErrorHandler/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 174,
+    "total": 174
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ErrorMail",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ErrorMail",
+    "class_desc": 1403,
+    "method_count": 1,
+    "method_desc": 69,
+    "total": 1472
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ErrorMail::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ErrorMail/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 261,
+    "total": 261
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ExceptionPage",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ExceptionPage",
+    "class_desc": 3492,
+    "method_count": 3,
+    "method_desc": 105,
+    "total": 3597
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ExceptionPage::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ExceptionPage/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 1791,
+    "total": 1791
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ExceptionPage::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ExceptionPage/RequestMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 27,
+    "total": 27
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Flash",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Flash",
+    "class_desc": 660,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 660
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Flash::FlashHash",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Flash/FlashHash",
+    "class_desc": 94,
+    "method_count": 7,
+    "method_desc": 552,
+    "total": 646
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Flash::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Flash/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 103,
+    "total": 103
+  },
+  {
+    "class_name": "Roda::RodaPlugins::H",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/H",
+    "class_desc": 199,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 199
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Halt",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Halt",
+    "class_desc": 1986,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 1986
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Halt::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Halt/RequestMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 82,
+    "total": 82
+  },
+  {
+    "class_name": "Roda::RodaPlugins::HashMatcher",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/HashMatcher",
+    "class_desc": 298,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 298
+  },
+  {
+    "class_name": "Roda::RodaPlugins::HashMatcher::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/HashMatcher/ClassMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 282,
+    "total": 282
+  },
+  {
+    "class_name": "Roda::RodaPlugins::HashRoutes",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/HashRoutes",
+    "class_desc": 7549,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 7549
+  },
+  {
+    "class_name": "Roda::RodaPlugins::HashRoutes::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/HashRoutes/ClassMethods",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 588,
+    "total": 588
+  },
+  {
+    "class_name": "Roda::RodaPlugins::HashRoutes::DSL",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/HashRoutes/DSL",
+    "class_desc": 79,
+    "method_count": 6,
+    "method_desc": 858,
+    "total": 937
+  },
+  {
+    "class_name": "Roda::RodaPlugins::HashRoutes::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/HashRoutes/RequestMethods",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 422,
+    "total": 422
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Head",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Head",
+    "class_desc": 1000,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 1000
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Head::CloseLater",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Head/CloseLater",
+    "class_desc": 100,
+    "method_count": 3,
+    "method_desc": 53,
+    "total": 153
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Head::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Head/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Head::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Head/RequestMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 39,
+    "total": 39
+  },
+  {
+    "class_name": "Roda::RodaPlugins::HeaderMatchers",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/HeaderMatchers",
+    "class_desc": 1051,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 1051
+  },
+  {
+    "class_name": "Roda::RodaPlugins::HeaderMatchers::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/HeaderMatchers/RequestMethods",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Heartbeat",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Heartbeat",
+    "class_desc": 344,
+    "method_count": 1,
+    "method_desc": 41,
+    "total": 385
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Heartbeat::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Heartbeat/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Hooks",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Hooks",
+    "class_desc": 912,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 912
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Hooks::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Hooks/ClassMethods",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 91,
+    "total": 91
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Hooks::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Hooks/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Roda::RodaPlugins::IndifferentParams",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/IndifferentParams",
+    "class_desc": 1461,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 1461
+  },
+  {
+    "class_name": "Roda::RodaPlugins::IndifferentParams::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/IndifferentParams/InstanceMethods",
+    "class_desc": 7,
+    "method_count": 1,
+    "method_desc": 80,
+    "total": 87
+  },
+  {
+    "class_name": "Roda::RodaPlugins::IndifferentParams::QueryParser",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/IndifferentParams/QueryParser",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 44,
+    "total": 44
+  },
+  {
+    "class_name": "Roda::RodaPlugins::IndifferentParams::QueryParser::Params",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/IndifferentParams/QueryParser/Params",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Roda::RodaPlugins::IndifferentParams::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/IndifferentParams/RequestMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Json",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Json",
+    "class_desc": 1427,
+    "method_count": 1,
+    "method_desc": 76,
+    "total": 1503
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Json::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Json/ClassMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 58,
+    "total": 58
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Json::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Json/RequestMethods",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Roda::RodaPlugins::JsonParser",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/JsonParser",
+    "class_desc": 261,
+    "method_count": 1,
+    "method_desc": 1029,
+    "total": 1290
+  },
+  {
+    "class_name": "Roda::RodaPlugins::JsonParser::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/JsonParser/RequestMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 121,
+    "total": 121
+  },
+  {
+    "class_name": "Roda::RodaPlugins::MailProcessor",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/MailProcessor",
+    "class_desc": 11974,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 11974
+  },
+  {
+    "class_name": "Roda::RodaPlugins::MailProcessor::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/MailProcessor/ClassMethods",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 808,
+    "total": 808
+  },
+  {
+    "class_name": "Roda::RodaPlugins::MailProcessor::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/MailProcessor/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 8,
+    "method_desc": 924,
+    "total": 924
+  },
+  {
+    "class_name": "Roda::RodaPlugins::MailProcessor::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/MailProcessor/RequestMethods",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 185,
+    "total": 185
+  },
+  {
+    "class_name": "Roda::RodaPlugins::MailProcessor::UnhandledMail",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/MailProcessor/UnhandledMail",
+    "class_desc": 184,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 184
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Mailer",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Mailer",
+    "class_desc": 3384,
+    "method_count": 1,
+    "method_desc": 116,
+    "total": 3500
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Mailer::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Mailer/ClassMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 364,
+    "total": 364
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Mailer::Error",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Mailer/Error",
+    "class_desc": 103,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 103
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Mailer::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Mailer/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 396,
+    "total": 396
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Mailer::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Mailer/RequestMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 347,
+    "total": 347
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Mailer::ResponseMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Mailer/ResponseMethods",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 390,
+    "total": 390
+  },
+  {
+    "class_name": "Roda::RodaPlugins::MatchAffix",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/MatchAffix",
+    "class_desc": 1125,
+    "method_count": 2,
+    "method_desc": 88,
+    "total": 1213
+  },
+  {
+    "class_name": "Roda::RodaPlugins::MatchAffix::RequestClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/MatchAffix/RequestClassMethods",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Roda::RodaPlugins::MatchAffix::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/MatchAffix/RequestMethods",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Roda::RodaPlugins::MatchHook",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/MatchHook",
+    "class_desc": 231,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 231
+  },
+  {
+    "class_name": "Roda::RodaPlugins::MatchHook::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/MatchHook/ClassMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 71,
+    "total": 71
+  },
+  {
+    "class_name": "Roda::RodaPlugins::MatchHook::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/MatchHook/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 51,
+    "total": 51
+  },
+  {
+    "class_name": "Roda::RodaPlugins::MatchHook::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/MatchHook/RequestMethods",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Middleware",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Middleware",
+    "class_desc": 1367,
+    "method_count": 1,
+    "method_desc": 601,
+    "total": 1968
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Middleware::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Middleware/ClassMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 68,
+    "total": 68
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Middleware::Forwarder",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Middleware/Forwarder",
+    "class_desc": 60,
+    "method_count": 2,
+    "method_desc": 289,
+    "total": 349
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Middleware::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Middleware/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 220,
+    "total": 220
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Middleware::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Middleware/RequestMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 116,
+    "total": 116
+  },
+  {
+    "class_name": "Roda::RodaPlugins::MiddlewareStack",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/MiddlewareStack",
+    "class_desc": 480,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 480
+  },
+  {
+    "class_name": "Roda::RodaPlugins::MiddlewareStack::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/MiddlewareStack/ClassMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 108,
+    "total": 108
+  },
+  {
+    "class_name": "Roda::RodaPlugins::MiddlewareStack::Stack",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/MiddlewareStack/Stack",
+    "class_desc": 134,
+    "method_count": 4,
+    "method_desc": 742,
+    "total": 876
+  },
+  {
+    "class_name": "Roda::RodaPlugins::MiddlewareStack::StackPosition",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/MiddlewareStack/StackPosition",
+    "class_desc": 106,
+    "method_count": 2,
+    "method_desc": 215,
+    "total": 321
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ModuleInclude",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ModuleInclude",
+    "class_desc": 552,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 552
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ModuleInclude::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ModuleInclude/ClassMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 613,
+    "total": 613
+  },
+  {
+    "class_name": "Roda::RodaPlugins::MultiRoute",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/MultiRoute",
+    "class_desc": 2911,
+    "method_count": 1,
+    "method_desc": 40,
+    "total": 2951
+  },
+  {
+    "class_name": "Roda::RodaPlugins::MultiRoute::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/MultiRoute/ClassMethods",
+    "class_desc": 0,
+    "method_count": 5,
+    "method_desc": 395,
+    "total": 395
+  },
+  {
+    "class_name": "Roda::RodaPlugins::MultiRoute::RequestClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/MultiRoute/RequestClassMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 303,
+    "total": 303
+  },
+  {
+    "class_name": "Roda::RodaPlugins::MultiRoute::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/MultiRoute/RequestMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 269,
+    "total": 269
+  },
+  {
+    "class_name": "Roda::RodaPlugins::MultiRun",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/MultiRun",
+    "class_desc": 1416,
+    "method_count": 1,
+    "method_desc": 54,
+    "total": 1470
+  },
+  {
+    "class_name": "Roda::RodaPlugins::MultiRun::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/MultiRun/ClassMethods",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 255,
+    "total": 255
+  },
+  {
+    "class_name": "Roda::RodaPlugins::MultiRun::RequestClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/MultiRun/RequestClassMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 168,
+    "total": 168
+  },
+  {
+    "class_name": "Roda::RodaPlugins::MultiRun::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/MultiRun/RequestMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 115,
+    "total": 115
+  },
+  {
+    "class_name": "Roda::RodaPlugins::MultiView",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/MultiView",
+    "class_desc": 1406,
+    "method_count": 1,
+    "method_desc": 95,
+    "total": 1501
+  },
+  {
+    "class_name": "Roda::RodaPlugins::MultiView::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/MultiView/ClassMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 121,
+    "total": 121
+  },
+  {
+    "class_name": "Roda::RodaPlugins::MultiView::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/MultiView/RequestMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 120,
+    "total": 120
+  },
+  {
+    "class_name": "Roda::RodaPlugins::MultibyteStringMatcher",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/MultibyteStringMatcher",
+    "class_desc": 634,
+    "method_count": 1,
+    "method_desc": 86,
+    "total": 720
+  },
+  {
+    "class_name": "Roda::RodaPlugins::MultibyteStringMatcher::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/MultibyteStringMatcher/RequestMethods",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Roda::RodaPlugins::NamedTemplates",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/NamedTemplates",
+    "class_desc": 1093,
+    "method_count": 2,
+    "method_desc": 70,
+    "total": 1163
+  },
+  {
+    "class_name": "Roda::RodaPlugins::NamedTemplates::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/NamedTemplates/ClassMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 150,
+    "total": 150
+  },
+  {
+    "class_name": "Roda::RodaPlugins::NamedTemplates::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/NamedTemplates/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Roda::RodaPlugins::NotAllowed",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/NotAllowed",
+    "class_desc": 1398,
+    "method_count": 1,
+    "method_desc": 95,
+    "total": 1493
+  },
+  {
+    "class_name": "Roda::RodaPlugins::NotAllowed::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/NotAllowed/RequestMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 308,
+    "total": 308
+  },
+  {
+    "class_name": "Roda::RodaPlugins::NotFound",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/NotFound",
+    "class_desc": 775,
+    "method_count": 2,
+    "method_desc": 97,
+    "total": 872
+  },
+  {
+    "class_name": "Roda::RodaPlugins::NotFound::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/NotFound/ClassMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 49,
+    "total": 49
+  },
+  {
+    "class_name": "Roda::RodaPlugins::OptimizedStringMatchers",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/OptimizedStringMatchers",
+    "class_desc": 693,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 693
+  },
+  {
+    "class_name": "Roda::RodaPlugins::OptimizedStringMatchers::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/OptimizedStringMatchers/RequestMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 122,
+    "total": 122
+  },
+  {
+    "class_name": "Roda::RodaPlugins::PadrinoRender",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/PadrinoRender",
+    "class_desc": 658,
+    "method_count": 1,
+    "method_desc": 70,
+    "total": 728
+  },
+  {
+    "class_name": "Roda::RodaPlugins::PadrinoRender::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/PadrinoRender/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 76,
+    "total": 76
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ParamMatchers",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ParamMatchers",
+    "class_desc": 1120,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 1120
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ParamMatchers::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ParamMatchers/RequestMethods",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 371,
+    "total": 371
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ParamsCapturing",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ParamsCapturing",
+    "class_desc": 1523,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 1523
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ParamsCapturing::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ParamsCapturing/RequestMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 55,
+    "total": 55
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Partials",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Partials",
+    "class_desc": 402,
+    "method_count": 1,
+    "method_desc": 70,
+    "total": 472
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Partials::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Partials/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 107,
+    "total": 107
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Pass",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Pass",
+    "class_desc": 283,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 283
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Pass::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Pass/RequestMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 52,
+    "total": 52
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Path",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Path",
+    "class_desc": 2192,
+    "method_count": 1,
+    "method_desc": 190,
+    "total": 2382
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Path::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Path/ClassMethods",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 302,
+    "total": 302
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Path::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Path/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 224,
+    "total": 224
+  },
+  {
+    "class_name": "Roda::RodaPlugins::PathMatchers",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/PathMatchers",
+    "class_desc": 759,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 759
+  },
+  {
+    "class_name": "Roda::RodaPlugins::PathMatchers::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/PathMatchers/RequestMethods",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 226,
+    "total": 226
+  },
+  {
+    "class_name": "Roda::RodaPlugins::PathRewriter",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/PathRewriter",
+    "class_desc": 1819,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 1819
+  },
+  {
+    "class_name": "Roda::RodaPlugins::PathRewriter::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/PathRewriter/ClassMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 151,
+    "total": 151
+  },
+  {
+    "class_name": "Roda::RodaPlugins::PathRewriter::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/PathRewriter/RequestMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 67,
+    "total": 67
+  },
+  {
+    "class_name": "Roda::RodaPlugins::PlaceholderStringMatchers",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/PlaceholderStringMatchers",
+    "class_desc": 532,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 532
+  },
+  {
+    "class_name": "Roda::RodaPlugins::PlaceholderStringMatchers::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/PlaceholderStringMatchers/RequestMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Roda::RodaPlugins::PrecompileTemplates",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/PrecompileTemplates",
+    "class_desc": 1627,
+    "method_count": 1,
+    "method_desc": 61,
+    "total": 1688
+  },
+  {
+    "class_name": "Roda::RodaPlugins::PrecompileTemplates::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/PrecompileTemplates/ClassMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 87,
+    "total": 87
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Public",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Public",
+    "class_desc": 934,
+    "method_count": 1,
+    "method_desc": 433,
+    "total": 1367
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Public::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Public/RequestMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 83,
+    "total": 83
+  },
+  {
+    "class_name": "Roda::RodaPlugins::RelativePath",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/RelativePath",
+    "class_desc": 662,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 662
+  },
+  {
+    "class_name": "Roda::RodaPlugins::RelativePath::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/RelativePath/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 234,
+    "total": 234
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Render",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Render",
+    "class_desc": 6089,
+    "method_count": 2,
+    "method_desc": 64,
+    "total": 6153
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Render::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Render/ClassMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 174,
+    "total": 174
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Render::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Render/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 272,
+    "total": 272
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Render::TemplateMtimeWrapper",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Render/TemplateMtimeWrapper",
+    "class_desc": 228,
+    "method_count": 4,
+    "method_desc": 384,
+    "total": 612
+  },
+  {
+    "class_name": "Roda::RodaPlugins::RenderEach",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/RenderEach",
+    "class_desc": 819,
+    "method_count": 1,
+    "method_desc": 85,
+    "total": 904
+  },
+  {
+    "class_name": "Roda::RodaPlugins::RenderEach::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/RenderEach/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 353,
+    "total": 353
+  },
+  {
+    "class_name": "Roda::RodaPlugins::RenderLocals",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/RenderLocals",
+    "class_desc": 649,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 649
+  },
+  {
+    "class_name": "Roda::RodaPlugins::RenderLocals::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/RenderLocals/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Roda::RodaPlugins::RequestAref",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/RequestAref",
+    "class_desc": 568,
+    "method_count": 1,
+    "method_desc": 110,
+    "total": 678
+  },
+  {
+    "class_name": "Roda::RodaPlugins::RequestAref::Error",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/RequestAref/Error",
+    "class_desc": 83,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 83
+  },
+  {
+    "class_name": "Roda::RodaPlugins::RequestAref::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/RequestAref/RequestMethods",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Roda::RodaPlugins::RequestHeaders",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/RequestHeaders",
+    "class_desc": 540,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 540
+  },
+  {
+    "class_name": "Roda::RodaPlugins::RequestHeaders::Headers",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/RequestHeaders/Headers",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 50,
+    "total": 50
+  },
+  {
+    "class_name": "Roda::RodaPlugins::RequestHeaders::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/RequestHeaders/RequestMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 64,
+    "total": 64
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ResponseRequest",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ResponseRequest",
+    "class_desc": 148,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 148
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ResponseRequest::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ResponseRequest/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 50,
+    "total": 50
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ResponseRequest::ResponseMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ResponseRequest/ResponseMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 74,
+    "total": 74
+  },
+  {
+    "class_name": "Roda::RodaPlugins::RouteBlockArgs",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/RouteBlockArgs",
+    "class_desc": 582,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 582
+  },
+  {
+    "class_name": "Roda::RodaPlugins::RouteBlockArgs::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/RouteBlockArgs/ClassMethods",
+    "class_desc": 139,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 139
+  },
+  {
+    "class_name": "Roda::RodaPlugins::RouteCsrf",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/RouteCsrf",
+    "class_desc": 8475,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 8475
+  },
+  {
+    "class_name": "Roda::RodaPlugins::RouteCsrf::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/RouteCsrf/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 9,
+    "method_desc": 1481,
+    "total": 1481
+  },
+  {
+    "class_name": "Roda::RodaPlugins::RouteCsrf::InvalidToken",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/RouteCsrf/InvalidToken",
+    "class_desc": 99,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 99
+  },
+  {
+    "class_name": "Roda::RodaPlugins::RunAppendSlash",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/RunAppendSlash",
+    "class_desc": 426,
+    "method_count": 1,
+    "method_desc": 140,
+    "total": 566
+  },
+  {
+    "class_name": "Roda::RodaPlugins::RunAppendSlash::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/RunAppendSlash/RequestMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 232,
+    "total": 232
+  },
+  {
+    "class_name": "Roda::RodaPlugins::RunHandler",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/RunHandler",
+    "class_desc": 626,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 626
+  },
+  {
+    "class_name": "Roda::RodaPlugins::RunHandler::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/RunHandler/RequestMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 296,
+    "total": 296
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Sessions",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Sessions",
+    "class_desc": 8175,
+    "method_count": 2,
+    "method_desc": 117,
+    "total": 8292
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Sessions::CookieTooLarge",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Sessions/CookieTooLarge",
+    "class_desc": 102,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 102
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Sessions::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Sessions/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 168,
+    "total": 168
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Sessions::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Sessions/RequestMethods",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 718,
+    "total": 718
+  },
+  {
+    "class_name": "Roda::RodaPlugins::SharedVars",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/SharedVars",
+    "class_desc": 865,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 865
+  },
+  {
+    "class_name": "Roda::RodaPlugins::SharedVars::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/SharedVars/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 472,
+    "total": 472
+  },
+  {
+    "class_name": "Roda::RodaPlugins::SinatraHelpers",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/SinatraHelpers",
+    "class_desc": 6887,
+    "method_count": 2,
+    "method_desc": 152,
+    "total": 7039
+  },
+  {
+    "class_name": "Roda::RodaPlugins::SinatraHelpers::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/SinatraHelpers/ClassMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 149,
+    "total": 149
+  },
+  {
+    "class_name": "Roda::RodaPlugins::SinatraHelpers::DelayedBody",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/SinatraHelpers/DelayedBody",
+    "class_desc": 130,
+    "method_count": 5,
+    "method_desc": 354,
+    "total": 484
+  },
+  {
+    "class_name": "Roda::RodaPlugins::SinatraHelpers::DelegateMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/SinatraHelpers/DelegateMethods",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Roda::RodaPlugins::SinatraHelpers::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/SinatraHelpers/RequestMethods",
+    "class_desc": 0,
+    "method_count": 8,
+    "method_desc": 816,
+    "total": 816
+  },
+  {
+    "class_name": "Roda::RodaPlugins::SinatraHelpers::ResponseMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/SinatraHelpers/ResponseMethods",
+    "class_desc": 0,
+    "method_count": 14,
+    "method_desc": 1080,
+    "total": 1080
+  },
+  {
+    "class_name": "Roda::RodaPlugins::SlashPathEmpty",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/SlashPathEmpty",
+    "class_desc": 417,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 417
+  },
+  {
+    "class_name": "Roda::RodaPlugins::SlashPathEmpty::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/SlashPathEmpty/RequestMethods",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Static",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Static",
+    "class_desc": 961,
+    "method_count": 1,
+    "method_desc": 150,
+    "total": 1111
+  },
+  {
+    "class_name": "Roda::RodaPlugins::StaticRouting",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/StaticRouting",
+    "class_desc": 1743,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 1743
+  },
+  {
+    "class_name": "Roda::RodaPlugins::StaticRouting::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/StaticRouting/ClassMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 276,
+    "total": 276
+  },
+  {
+    "class_name": "Roda::RodaPlugins::StaticRouting::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/StaticRouting/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Status303",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Status303",
+    "class_desc": 282,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 282
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Status303::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Status303/RequestMethods",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Roda::RodaPlugins::StatusHandler",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/StatusHandler",
+    "class_desc": 650,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 650
+  },
+  {
+    "class_name": "Roda::RodaPlugins::StatusHandler::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/StatusHandler/ClassMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 168,
+    "total": 168
+  },
+  {
+    "class_name": "Roda::RodaPlugins::StatusHandler::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/StatusHandler/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Streaming",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Streaming",
+    "class_desc": 1245,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 1245
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Streaming::AsyncStream",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Streaming/AsyncStream",
+    "class_desc": 222,
+    "method_count": 3,
+    "method_desc": 120,
+    "total": 342
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Streaming::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Streaming/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 219,
+    "total": 219
+  },
+  {
+    "class_name": "Roda::RodaPlugins::Streaming::Stream",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/Streaming/Stream",
+    "class_desc": 51,
+    "method_count": 6,
+    "method_desc": 354,
+    "total": 405
+  },
+  {
+    "class_name": "Roda::RodaPlugins::StripPathPrefix",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/StripPathPrefix",
+    "class_desc": 502,
+    "method_count": 1,
+    "method_desc": 66,
+    "total": 568
+  },
+  {
+    "class_name": "Roda::RodaPlugins::StripPathPrefix::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/StripPathPrefix/ClassMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 70,
+    "total": 70
+  },
+  {
+    "class_name": "Roda::RodaPlugins::SymbolMatchers",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/SymbolMatchers",
+    "class_desc": 1086,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 1086
+  },
+  {
+    "class_name": "Roda::RodaPlugins::SymbolMatchers::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/SymbolMatchers/ClassMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 67,
+    "total": 67
+  },
+  {
+    "class_name": "Roda::RodaPlugins::SymbolMatchers::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/SymbolMatchers/RequestMethods",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Roda::RodaPlugins::SymbolRegexpMatchers",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/SymbolRegexpMatchers",
+    "class_desc": 178,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 178
+  },
+  {
+    "class_name": "Roda::RodaPlugins::SymbolRegexpMatchers::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/SymbolRegexpMatchers/RequestMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 95,
+    "total": 95
+  },
+  {
+    "class_name": "Roda::RodaPlugins::SymbolStatus",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/SymbolStatus",
+    "class_desc": 371,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 371
+  },
+  {
+    "class_name": "Roda::RodaPlugins::SymbolStatus::ResponseMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/SymbolStatus/ResponseMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 54,
+    "total": 54
+  },
+  {
+    "class_name": "Roda::RodaPlugins::SymbolViews",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/SymbolViews",
+    "class_desc": 304,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 304
+  },
+  {
+    "class_name": "Roda::RodaPlugins::SymbolViews::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/SymbolViews/RequestMethods",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Roda::RodaPlugins::TimestampPublic",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/TimestampPublic",
+    "class_desc": 1341,
+    "method_count": 1,
+    "method_desc": 223,
+    "total": 1564
+  },
+  {
+    "class_name": "Roda::RodaPlugins::TimestampPublic::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/TimestampPublic/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 205,
+    "total": 205
+  },
+  {
+    "class_name": "Roda::RodaPlugins::TimestampPublic::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/TimestampPublic/RequestMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 181,
+    "total": 181
+  },
+  {
+    "class_name": "Roda::RodaPlugins::TypeRouting",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/TypeRouting",
+    "class_desc": 2832,
+    "method_count": 1,
+    "method_desc": 0,
+    "total": 2832
+  },
+  {
+    "class_name": "Roda::RodaPlugins::TypeRouting::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/TypeRouting/RequestMethods",
+    "class_desc": 0,
+    "method_count": 3,
+    "method_desc": 253,
+    "total": 253
+  },
+  {
+    "class_name": "Roda::RodaPlugins::TypecastParams",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/TypecastParams",
+    "class_desc": 10881,
+    "method_count": 1,
+    "method_desc": 219,
+    "total": 11100
+  },
+  {
+    "class_name": "Roda::RodaPlugins::TypecastParams::ClassMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/TypecastParams/ClassMethods",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 125,
+    "total": 125
+  },
+  {
+    "class_name": "Roda::RodaPlugins::TypecastParams::Error",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/TypecastParams/Error",
+    "class_desc": 142,
+    "method_count": 9,
+    "method_desc": 2367,
+    "total": 2509
+  },
+  {
+    "class_name": "Roda::RodaPlugins::TypecastParams::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/TypecastParams/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 143,
+    "total": 143
+  },
+  {
+    "class_name": "Roda::RodaPlugins::TypecastParams::Params",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/TypecastParams/Params",
+    "class_desc": 67,
+    "method_count": 12,
+    "method_desc": 3599,
+    "total": 3666
+  },
+  {
+    "class_name": "Roda::RodaPlugins::TypecastParams::ProgrammerError",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/TypecastParams/ProgrammerError",
+    "class_desc": 240,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 240
+  },
+  {
+    "class_name": "Roda::RodaPlugins::TypecastParams::StringStripper",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/TypecastParams/StringStripper",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Roda::RodaPlugins::UnescapePath",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/UnescapePath",
+    "class_desc": 346,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 346
+  },
+  {
+    "class_name": "Roda::RodaPlugins::UnescapePath::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/UnescapePath/RequestMethods",
+    "class_desc": 0,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ViewOptions",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ViewOptions",
+    "class_desc": 2161,
+    "method_count": 1,
+    "method_desc": 110,
+    "total": 2271
+  },
+  {
+    "class_name": "Roda::RodaPlugins::ViewOptions::InstanceMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaPlugins/ViewOptions/InstanceMethods",
+    "class_desc": 0,
+    "method_count": 4,
+    "method_desc": 461,
+    "total": 461
+  },
+  {
+    "class_name": "Roda::RodaRequest",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaRequest",
+    "class_desc": 202,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 202
+  },
+  {
+    "class_name": "Roda::RodaResponse",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/Roda/RodaResponse",
+    "class_desc": 205,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 205
+  },
+  {
+    "class_name": "RodaSessionMiddleware",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/RodaSessionMiddleware",
+    "class_desc": 182,
+    "method_count": 2,
+    "method_desc": 267,
+    "total": 449
+  },
+  {
+    "class_name": "RodaSessionMiddleware::RequestMethods",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/RodaSessionMiddleware/RequestMethods",
+    "class_desc": 0,
+    "method_count": 1,
+    "method_desc": 72,
+    "total": 72
+  },
+  {
+    "class_name": "RodaSessionMiddleware::SessionHash",
+    "url": "https://rubydoc.info/gems/roda/3.31.0/RodaSessionMiddleware/SessionHash",
+    "class_desc": 639,
+    "method_count": 25,
+    "method_desc": 759,
+    "total": 1398
+  }
+]
