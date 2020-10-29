@@ -1,15 +1,15 @@
 [
   {
     "class_name": "Concurrent",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent",
     "class_desc": 24,
-    "method_count": 25,
-    "method_desc": 1983,
-    "total": 2007
+    "method_count": 29,
+    "method_desc": 3605,
+    "total": 3629
   },
   {
     "class_name": "Concurrent::AbstractExchanger",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/AbstractExchanger",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/AbstractExchanger",
     "class_desc": 0,
     "method_count": 4,
     "method_desc": 1597,
@@ -17,31 +17,31 @@
   },
   {
     "class_name": "Concurrent::AbstractExecutorService",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/AbstractExecutorService",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/AbstractExecutorService",
     "class_desc": 0,
-    "method_count": 14,
-    "method_desc": 881,
-    "total": 881
+    "method_count": 16,
+    "method_desc": 917,
+    "total": 917
   },
   {
     "class_name": "Concurrent::AbstractThreadLocalVar",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/AbstractThreadLocalVar",
-    "class_desc": 2096,
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/AbstractThreadLocalVar",
+    "class_desc": 2104,
     "method_count": 4,
     "method_desc": 274,
-    "total": 2370
+    "total": 2378
   },
   {
     "class_name": "Concurrent::Agent",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Agent",
-    "class_desc": 7067,
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Agent",
+    "class_desc": 7075,
     "method_count": 24,
     "method_desc": 12552,
-    "total": 19619
+    "total": 19627
   },
   {
     "class_name": "Concurrent::Agent::Error",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Agent/Error",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Agent/Error",
     "class_desc": 74,
     "method_count": 1,
     "method_desc": 0,
@@ -49,7 +49,7 @@
   },
   {
     "class_name": "Concurrent::Agent::Job",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Agent/Job",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Agent/Job",
     "class_desc": 0,
     "method_count": 8,
     "method_desc": 248,
@@ -57,7 +57,7 @@
   },
   {
     "class_name": "Concurrent::Agent::ValidationError",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Agent/ValidationError",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Agent/ValidationError",
     "class_desc": 92,
     "method_count": 1,
     "method_desc": 0,
@@ -65,31 +65,31 @@
   },
   {
     "class_name": "Concurrent::Array",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Array",
-    "class_desc": 564,
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Array",
+    "class_desc": 208,
     "method_count": 0,
     "method_desc": 0,
-    "total": 564
+    "total": 208
   },
   {
     "class_name": "Concurrent::Async",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Async",
-    "class_desc": 8474,
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Async",
+    "class_desc": 8071,
     "method_count": 5,
     "method_desc": 1334,
-    "total": 9808
+    "total": 9405
   },
   {
     "class_name": "Concurrent::Async::AsyncDelegator",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Async/AsyncDelegator",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Async/AsyncDelegator",
     "class_desc": 71,
-    "method_count": 4,
+    "method_count": 5,
     "method_desc": 306,
     "total": 377
   },
   {
     "class_name": "Concurrent::Async::AwaitDelegator",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Async/AwaitDelegator",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Async/AwaitDelegator",
     "class_desc": 70,
     "method_count": 3,
     "method_desc": 141,
@@ -97,39 +97,31 @@
   },
   {
     "class_name": "Concurrent::Async::ClassMethods",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Async/ClassMethods",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Async/ClassMethods",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
     "total": 0
   },
   {
-    "class_name": "Concurrent::AtExitImplementation",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/AtExitImplementation",
-    "class_desc": 133,
-    "method_count": 9,
-    "method_desc": 271,
-    "total": 404
-  },
-  {
     "class_name": "Concurrent::Atom",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Atom",
-    "class_desc": 3666,
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Atom",
+    "class_desc": 3674,
     "method_count": 6,
     "method_desc": 1254,
-    "total": 4920
+    "total": 4928
   },
   {
     "class_name": "Concurrent::AtomicBoolean",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/AtomicBoolean",
-    "class_desc": 2533,
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/AtomicBoolean",
+    "class_desc": 2541,
     "method_count": 9,
     "method_desc": 247,
-    "total": 2780
+    "total": 2788
   },
   {
     "class_name": "Concurrent::AtomicDirectUpdate",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/AtomicDirectUpdate",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/AtomicDirectUpdate",
     "class_desc": 43,
     "method_count": 3,
     "method_desc": 373,
@@ -137,15 +129,15 @@
   },
   {
     "class_name": "Concurrent::AtomicFixnum",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/AtomicFixnum",
-    "class_desc": 2528,
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/AtomicFixnum",
+    "class_desc": 2536,
     "method_count": 9,
     "method_desc": 486,
-    "total": 3014
+    "total": 3022
   },
   {
     "class_name": "Concurrent::AtomicMarkableReference",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/AtomicMarkableReference",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/AtomicMarkableReference",
     "class_desc": 109,
     "method_count": 11,
     "method_desc": 1200,
@@ -153,7 +145,7 @@
   },
   {
     "class_name": "Concurrent::AtomicNumericCompareAndSetWrapper",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/AtomicNumericCompareAndSetWrapper",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/AtomicNumericCompareAndSetWrapper",
     "class_desc": 53,
     "method_count": 1,
     "method_desc": 156,
@@ -161,23 +153,23 @@
   },
   {
     "class_name": "Concurrent::AtomicReference",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/AtomicReference",
-    "class_desc": 2004,
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/AtomicReference",
+    "class_desc": 2012,
     "method_count": 10,
     "method_desc": 637,
-    "total": 2641
+    "total": 2649
   },
   {
     "class_name": "Concurrent::CachedThreadPool",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/CachedThreadPool",
-    "class_desc": 3550,
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/CachedThreadPool",
+    "class_desc": 3266,
     "method_count": 1,
     "method_desc": 25,
-    "total": 3575
+    "total": 3291
   },
   {
     "class_name": "Concurrent::Collection",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Collection",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Collection",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -185,7 +177,7 @@
   },
   {
     "class_name": "Concurrent::Collection::AtomicReferenceMapBackend",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Collection/AtomicReferenceMapBackend",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Collection/AtomicReferenceMapBackend",
     "class_desc": 9904,
     "method_count": 18,
     "method_desc": 102,
@@ -193,15 +185,15 @@
   },
   {
     "class_name": "Concurrent::Collection::AtomicReferenceMapBackend::Node",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Collection/AtomicReferenceMapBackend/Node",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Collection/AtomicReferenceMapBackend/Node",
     "class_desc": 358,
     "method_count": 10,
-    "method_desc": 580,
-    "total": 938
+    "method_desc": 581,
+    "total": 939
   },
   {
     "class_name": "Concurrent::Collection::AtomicReferenceMapBackend::Table",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Collection/AtomicReferenceMapBackend/Table",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Collection/AtomicReferenceMapBackend/Table",
     "class_desc": 0,
     "method_count": 4,
     "method_desc": 0,
@@ -209,7 +201,7 @@
   },
   {
     "class_name": "Concurrent::Collection::CopyOnNotifyObserverSet",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Collection/CopyOnNotifyObserverSet",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Collection/CopyOnNotifyObserverSet",
     "class_desc": 236,
     "method_count": 7,
     "method_desc": 459,
@@ -217,7 +209,7 @@
   },
   {
     "class_name": "Concurrent::Collection::CopyOnWriteObserverSet",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Collection/CopyOnWriteObserverSet",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Collection/CopyOnWriteObserverSet",
     "class_desc": 188,
     "method_count": 7,
     "method_desc": 459,
@@ -225,7 +217,7 @@
   },
   {
     "class_name": "Concurrent::Collection::JavaNonConcurrentPriorityQueue",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Collection/JavaNonConcurrentPriorityQueue",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Collection/JavaNonConcurrentPriorityQueue",
     "class_desc": 917,
     "method_count": 16,
     "method_desc": 1057,
@@ -233,7 +225,7 @@
   },
   {
     "class_name": "Concurrent::Collection::MriMapBackend",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Collection/MriMapBackend",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Collection/MriMapBackend",
     "class_desc": 0,
     "method_count": 12,
     "method_desc": 0,
@@ -241,7 +233,7 @@
   },
   {
     "class_name": "Concurrent::Collection::NonConcurrentMapBackend",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Collection/NonConcurrentMapBackend",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Collection/NonConcurrentMapBackend",
     "class_desc": 0,
     "method_count": 17,
     "method_desc": 220,
@@ -249,7 +241,7 @@
   },
   {
     "class_name": "Concurrent::Collection::NonConcurrentPriorityQueue",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Collection/NonConcurrentPriorityQueue",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Collection/NonConcurrentPriorityQueue",
     "class_desc": 917,
     "method_count": 16,
     "method_desc": 0,
@@ -257,7 +249,7 @@
   },
   {
     "class_name": "Concurrent::Collection::RubyNonConcurrentPriorityQueue",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Collection/RubyNonConcurrentPriorityQueue",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Collection/RubyNonConcurrentPriorityQueue",
     "class_desc": 917,
     "method_count": 16,
     "method_desc": 1048,
@@ -265,7 +257,7 @@
   },
   {
     "class_name": "Concurrent::Collection::SynchronizedMapBackend",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Collection/SynchronizedMapBackend",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Collection/SynchronizedMapBackend",
     "class_desc": 0,
     "method_count": 15,
     "method_desc": 105,
@@ -273,7 +265,7 @@
   },
   {
     "class_name": "Concurrent::Concern",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Concern",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Concern",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -281,7 +273,7 @@
   },
   {
     "class_name": "Concurrent::Concern::Deprecation",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Concern/Deprecation",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Concern/Deprecation",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 0,
@@ -289,7 +281,7 @@
   },
   {
     "class_name": "Concurrent::Concern::Dereferenceable",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Concern/Dereferenceable",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Concern/Dereferenceable",
     "class_desc": 1968,
     "method_count": 2,
     "method_desc": 224,
@@ -297,7 +289,7 @@
   },
   {
     "class_name": "Concurrent::Concern::Logging",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Concern/Logging",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Concern/Logging",
     "class_desc": 31,
     "method_count": 1,
     "method_desc": 80,
@@ -305,7 +297,7 @@
   },
   {
     "class_name": "Concurrent::Concern::Obligation",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Concern/Obligation",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Concern/Obligation",
     "class_desc": 0,
     "method_count": 15,
     "method_desc": 1203,
@@ -313,7 +305,7 @@
   },
   {
     "class_name": "Concurrent::Concern::Observable",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Concern/Observable",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Concern/Observable",
     "class_desc": 1534,
     "method_count": 5,
     "method_desc": 385,
@@ -321,7 +313,7 @@
   },
   {
     "class_name": "Concurrent::ConcurrentUpdateError",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/ConcurrentUpdateError",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/ConcurrentUpdateError",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -329,7 +321,7 @@
   },
   {
     "class_name": "Concurrent::CountDownLatch",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/CountDownLatch",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/CountDownLatch",
     "class_desc": 572,
     "method_count": 4,
     "method_desc": 273,
@@ -337,7 +329,7 @@
   },
   {
     "class_name": "Concurrent::CyclicBarrier",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/CyclicBarrier",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/CyclicBarrier",
     "class_desc": 110,
     "method_count": 6,
     "method_desc": 797,
@@ -345,15 +337,23 @@
   },
   {
     "class_name": "Concurrent::CyclicBarrier::Generation",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/CyclicBarrier/Generation",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/CyclicBarrier/Generation",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
     "total": 0
   },
   {
+    "class_name": "Concurrent::DaemonThreadFactory",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/DaemonThreadFactory",
+    "class_desc": 0,
+    "method_count": 2,
+    "method_desc": 0,
+    "total": 0
+  },
+  {
     "class_name": "Concurrent::Delay",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Delay",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Delay",
     "class_desc": 2899,
     "method_count": 5,
     "method_desc": 722,
@@ -361,15 +361,15 @@
   },
   {
     "class_name": "Concurrent::DependencyCounter",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/DependencyCounter",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/DependencyCounter",
     "class_desc": 0,
     "method_count": 2,
-    "method_desc": 0,
-    "total": 0
+    "method_desc": 7,
+    "total": 7
   },
   {
     "class_name": "Concurrent::Event",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Event",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Event",
     "class_desc": 490,
     "method_count": 6,
     "method_desc": 557,
@@ -377,15 +377,15 @@
   },
   {
     "class_name": "Concurrent::Exchanger",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Exchanger",
-    "class_desc": 2505,
-    "method_count": 4,
-    "method_desc": 1623,
-    "total": 4128
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Exchanger",
+    "class_desc": 2513,
+    "method_count": 0,
+    "method_desc": 0,
+    "total": 2513
   },
   {
     "class_name": "Concurrent::ExecutorService",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/ExecutorService",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/ExecutorService",
     "class_desc": 0,
     "method_count": 4,
     "method_desc": 217,
@@ -393,15 +393,15 @@
   },
   {
     "class_name": "Concurrent::FixedThreadPool",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/FixedThreadPool",
-    "class_desc": 2930,
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/FixedThreadPool",
+    "class_desc": 2646,
     "method_count": 1,
     "method_desc": 25,
-    "total": 2955
+    "total": 2671
   },
   {
     "class_name": "Concurrent::Future",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Future",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Future",
     "class_desc": 1652,
     "method_count": 7,
     "method_desc": 784,
@@ -409,7 +409,7 @@
   },
   {
     "class_name": "Concurrent::Hash",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Hash",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Hash",
     "class_desc": 261,
     "method_count": 0,
     "method_desc": 0,
@@ -417,7 +417,7 @@
   },
   {
     "class_name": "Concurrent::IVar",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/IVar",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/IVar",
     "class_desc": 1447,
     "method_count": 5,
     "method_desc": 749,
@@ -425,7 +425,7 @@
   },
   {
     "class_name": "Concurrent::ImmediateExecutor",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/ImmediateExecutor",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/ImmediateExecutor",
     "class_desc": 486,
     "method_count": 9,
     "method_desc": 629,
@@ -433,15 +433,15 @@
   },
   {
     "class_name": "Concurrent::ImmutableStruct",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/ImmutableStruct",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/ImmutableStruct",
     "class_desc": 63,
-    "method_count": 14,
-    "method_desc": 2514,
-    "total": 2577
+    "method_count": 13,
+    "method_desc": 1165,
+    "total": 1228
   },
   {
     "class_name": "Concurrent::IndirectImmediateExecutor",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/IndirectImmediateExecutor",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/IndirectImmediateExecutor",
     "class_desc": 775,
     "method_count": 2,
     "method_desc": 80,
@@ -449,7 +449,7 @@
   },
   {
     "class_name": "Concurrent::JavaCountDownLatch",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/JavaCountDownLatch",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/JavaCountDownLatch",
     "class_desc": 572,
     "method_count": 4,
     "method_desc": 273,
@@ -457,7 +457,7 @@
   },
   {
     "class_name": "Concurrent::JavaExchanger",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/JavaExchanger",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/JavaExchanger",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -465,15 +465,15 @@
   },
   {
     "class_name": "Concurrent::JavaExecutorService",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/JavaExecutorService",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/JavaExecutorService",
     "class_desc": 0,
-    "method_count": 14,
+    "method_count": 13,
     "method_desc": 856,
     "total": 856
   },
   {
     "class_name": "Concurrent::JavaExecutorService::Job",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/JavaExecutorService/Job",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/JavaExecutorService/Job",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 0,
@@ -481,7 +481,7 @@
   },
   {
     "class_name": "Concurrent::JavaSingleThreadExecutor",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/JavaSingleThreadExecutor",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/JavaSingleThreadExecutor",
     "class_desc": 895,
     "method_count": 14,
     "method_desc": 881,
@@ -489,7 +489,7 @@
   },
   {
     "class_name": "Concurrent::JavaThreadLocalVar",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/JavaThreadLocalVar",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/JavaThreadLocalVar",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 161,
@@ -497,15 +497,15 @@
   },
   {
     "class_name": "Concurrent::JavaThreadPoolExecutor",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/JavaThreadPoolExecutor",
-    "class_desc": 4311,
-    "method_count": 13,
-    "method_desc": 992,
-    "total": 5303
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/JavaThreadPoolExecutor",
+    "class_desc": 4027,
+    "method_count": 14,
+    "method_desc": 1113,
+    "total": 5140
   },
   {
     "class_name": "Concurrent::LockFreeStack",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/LockFreeStack",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/LockFreeStack",
     "class_desc": 0,
     "method_count": 15,
     "method_desc": 0,
@@ -513,7 +513,7 @@
   },
   {
     "class_name": "Concurrent::LockFreeStack::Node",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/LockFreeStack/Node",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/LockFreeStack/Node",
     "class_desc": 0,
     "method_count": 3,
     "method_desc": 0,
@@ -521,7 +521,7 @@
   },
   {
     "class_name": "Concurrent::MVar",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/MVar",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/MVar",
     "class_desc": 3180,
     "method_count": 11,
     "method_desc": 1304,
@@ -529,7 +529,7 @@
   },
   {
     "class_name": "Concurrent::Map",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Map",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Map",
     "class_desc": 487,
     "method_count": 27,
     "method_desc": 1548,
@@ -537,7 +537,7 @@
   },
   {
     "class_name": "Concurrent::Maybe",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Maybe",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Maybe",
     "class_desc": 2511,
     "method_count": 13,
     "method_desc": 1100,
@@ -545,47 +545,47 @@
   },
   {
     "class_name": "Concurrent::MultipleAssignmentError",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/MultipleAssignmentError",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/MultipleAssignmentError",
     "class_desc": 116,
     "method_count": 3,
-    "method_desc": 46,
-    "total": 162
+    "method_desc": 47,
+    "total": 163
   },
   {
     "class_name": "Concurrent::MultipleErrors",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/MultipleErrors",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/MultipleErrors",
     "class_desc": 31,
     "method_count": 2,
-    "method_desc": 37,
-    "total": 68
+    "method_desc": 38,
+    "total": 69
   },
   {
     "class_name": "Concurrent::MutableStruct",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/MutableStruct",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/MutableStruct",
     "class_desc": 148,
-    "method_count": 14,
-    "method_desc": 2611,
-    "total": 2759
+    "method_count": 13,
+    "method_desc": 1262,
+    "total": 1410
   },
   {
     "class_name": "Concurrent::MutexAtomicBoolean",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/MutexAtomicBoolean",
-    "class_desc": 2533,
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/MutexAtomicBoolean",
+    "class_desc": 2541,
     "method_count": 7,
     "method_desc": 247,
-    "total": 2780
+    "total": 2788
   },
   {
     "class_name": "Concurrent::MutexAtomicFixnum",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/MutexAtomicFixnum",
-    "class_desc": 2528,
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/MutexAtomicFixnum",
+    "class_desc": 2536,
     "method_count": 9,
     "method_desc": 614,
-    "total": 3142
+    "total": 3150
   },
   {
     "class_name": "Concurrent::MutexAtomicReference",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/MutexAtomicReference",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/MutexAtomicReference",
     "class_desc": 0,
     "method_count": 9,
     "method_desc": 372,
@@ -593,7 +593,7 @@
   },
   {
     "class_name": "Concurrent::MutexCountDownLatch",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/MutexCountDownLatch",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/MutexCountDownLatch",
     "class_desc": 572,
     "method_count": 4,
     "method_desc": 273,
@@ -601,7 +601,7 @@
   },
   {
     "class_name": "Concurrent::MutexSemaphore",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/MutexSemaphore",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/MutexSemaphore",
     "class_desc": 356,
     "method_count": 6,
     "method_desc": 485,
@@ -609,7 +609,7 @@
   },
   {
     "class_name": "Concurrent::Options",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Options",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Options",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -617,7 +617,7 @@
   },
   {
     "class_name": "Concurrent::Promise",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promise",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promise",
     "class_desc": 8361,
     "method_count": 17,
     "method_desc": 2511,
@@ -625,7 +625,7 @@
   },
   {
     "class_name": "Concurrent::Promises",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises",
     "class_desc": 43,
     "method_count": 0,
     "method_desc": 0,
@@ -633,7 +633,7 @@
   },
   {
     "class_name": "Concurrent::Promises::AbstractAnyPromise",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/AbstractAnyPromise",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/AbstractAnyPromise",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -641,7 +641,7 @@
   },
   {
     "class_name": "Concurrent::Promises::AbstractEventFuture",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/AbstractEventFuture",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/AbstractEventFuture",
     "class_desc": 86,
     "method_count": 17,
     "method_desc": 994,
@@ -649,7 +649,7 @@
   },
   {
     "class_name": "Concurrent::Promises::AbstractFlatPromise",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/AbstractFlatPromise",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/AbstractFlatPromise",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 0,
@@ -657,7 +657,7 @@
   },
   {
     "class_name": "Concurrent::Promises::AbstractPromise",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/AbstractPromise",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/AbstractPromise",
     "class_desc": 0,
     "method_count": 9,
     "method_desc": 0,
@@ -665,7 +665,7 @@
   },
   {
     "class_name": "Concurrent::Promises::AnyFulfilledFuturePromise",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/AnyFulfilledFuturePromise",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/AnyFulfilledFuturePromise",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -673,7 +673,7 @@
   },
   {
     "class_name": "Concurrent::Promises::AnyResolvedEventPromise",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/AnyResolvedEventPromise",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/AnyResolvedEventPromise",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -681,7 +681,7 @@
   },
   {
     "class_name": "Concurrent::Promises::AnyResolvedFuturePromise",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/AnyResolvedFuturePromise",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/AnyResolvedFuturePromise",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -689,7 +689,7 @@
   },
   {
     "class_name": "Concurrent::Promises::BlockedPromise",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/BlockedPromise",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/BlockedPromise",
     "class_desc": 0,
     "method_count": 9,
     "method_desc": 19,
@@ -697,7 +697,7 @@
   },
   {
     "class_name": "Concurrent::Promises::BlockedTaskPromise",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/BlockedTaskPromise",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/BlockedTaskPromise",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 0,
@@ -705,7 +705,7 @@
   },
   {
     "class_name": "Concurrent::Promises::ChainPromise",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/ChainPromise",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/ChainPromise",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -713,7 +713,7 @@
   },
   {
     "class_name": "Concurrent::Promises::DelayPromise",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/DelayPromise",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/DelayPromise",
     "class_desc": 0,
     "method_count": 3,
     "method_desc": 0,
@@ -721,7 +721,7 @@
   },
   {
     "class_name": "Concurrent::Promises::Event",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/Event",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/Event",
     "class_desc": 195,
     "method_count": 10,
     "method_desc": 1602,
@@ -729,7 +729,7 @@
   },
   {
     "class_name": "Concurrent::Promises::EventWrapperPromise",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/EventWrapperPromise",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/EventWrapperPromise",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -737,7 +737,7 @@
   },
   {
     "class_name": "Concurrent::Promises::FactoryMethods",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/FactoryMethods",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/FactoryMethods",
     "class_desc": 97,
     "method_count": 27,
     "method_desc": 3433,
@@ -745,7 +745,7 @@
   },
   {
     "class_name": "Concurrent::Promises::FactoryMethods::Configuration",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/FactoryMethods/Configuration",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/FactoryMethods/Configuration",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -753,7 +753,7 @@
   },
   {
     "class_name": "Concurrent::Promises::FlatEventPromise",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/FlatEventPromise",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/FlatEventPromise",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -761,7 +761,7 @@
   },
   {
     "class_name": "Concurrent::Promises::FlatFuturePromise",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/FlatFuturePromise",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/FlatFuturePromise",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -769,7 +769,7 @@
   },
   {
     "class_name": "Concurrent::Promises::Future",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/Future",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/Future",
     "class_desc": 132,
     "method_count": 33,
     "method_desc": 4157,
@@ -777,7 +777,7 @@
   },
   {
     "class_name": "Concurrent::Promises::FutureWrapperPromise",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/FutureWrapperPromise",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/FutureWrapperPromise",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -785,7 +785,7 @@
   },
   {
     "class_name": "Concurrent::Promises::ImmediateEventPromise",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/ImmediateEventPromise",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/ImmediateEventPromise",
     "class_desc": 28,
     "method_count": 1,
     "method_desc": 0,
@@ -793,7 +793,7 @@
   },
   {
     "class_name": "Concurrent::Promises::ImmediateFuturePromise",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/ImmediateFuturePromise",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/ImmediateFuturePromise",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -801,7 +801,7 @@
   },
   {
     "class_name": "Concurrent::Promises::InnerPromise",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/InnerPromise",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/InnerPromise",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -809,7 +809,7 @@
   },
   {
     "class_name": "Concurrent::Promises::InternalStates",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/InternalStates",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/InternalStates",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -817,7 +817,7 @@
   },
   {
     "class_name": "Concurrent::Promises::InternalStates::Fulfilled",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/InternalStates/Fulfilled",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/InternalStates/Fulfilled",
     "class_desc": 0,
     "method_count": 6,
     "method_desc": 0,
@@ -825,7 +825,7 @@
   },
   {
     "class_name": "Concurrent::Promises::InternalStates::FulfilledArray",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/InternalStates/FulfilledArray",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/InternalStates/FulfilledArray",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -833,7 +833,7 @@
   },
   {
     "class_name": "Concurrent::Promises::InternalStates::PartiallyRejected",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/InternalStates/PartiallyRejected",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/InternalStates/PartiallyRejected",
     "class_desc": 0,
     "method_count": 6,
     "method_desc": 0,
@@ -841,7 +841,7 @@
   },
   {
     "class_name": "Concurrent::Promises::InternalStates::Pending",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/InternalStates/Pending",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/InternalStates/Pending",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 0,
@@ -849,7 +849,7 @@
   },
   {
     "class_name": "Concurrent::Promises::InternalStates::Rejected",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/InternalStates/Rejected",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/InternalStates/Rejected",
     "class_desc": 0,
     "method_count": 6,
     "method_desc": 0,
@@ -857,7 +857,7 @@
   },
   {
     "class_name": "Concurrent::Promises::InternalStates::Reserved",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/InternalStates/Reserved",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/InternalStates/Reserved",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -865,7 +865,7 @@
   },
   {
     "class_name": "Concurrent::Promises::InternalStates::ResolvedWithResult",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/InternalStates/ResolvedWithResult",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/InternalStates/ResolvedWithResult",
     "class_desc": 0,
     "method_count": 7,
     "method_desc": 0,
@@ -873,7 +873,7 @@
   },
   {
     "class_name": "Concurrent::Promises::InternalStates::State",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/InternalStates/State",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/InternalStates/State",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 0,
@@ -881,7 +881,7 @@
   },
   {
     "class_name": "Concurrent::Promises::RescuePromise",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/RescuePromise",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/RescuePromise",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -889,7 +889,7 @@
   },
   {
     "class_name": "Concurrent::Promises::Resolvable",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/Resolvable",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/Resolvable",
     "class_desc": 49,
     "method_count": 0,
     "method_desc": 0,
@@ -897,7 +897,7 @@
   },
   {
     "class_name": "Concurrent::Promises::ResolvableEvent",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/ResolvableEvent",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/ResolvableEvent",
     "class_desc": 38,
     "method_count": 3,
     "method_desc": 236,
@@ -905,7 +905,7 @@
   },
   {
     "class_name": "Concurrent::Promises::ResolvableEventPromise",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/ResolvableEventPromise",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/ResolvableEventPromise",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -913,7 +913,7 @@
   },
   {
     "class_name": "Concurrent::Promises::ResolvableFuture",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/ResolvableFuture",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/ResolvableFuture",
     "class_desc": 39,
     "method_count": 12,
     "method_desc": 1154,
@@ -921,7 +921,7 @@
   },
   {
     "class_name": "Concurrent::Promises::ResolvableFuturePromise",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/ResolvableFuturePromise",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/ResolvableFuturePromise",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -929,7 +929,7 @@
   },
   {
     "class_name": "Concurrent::Promises::RunFuturePromise",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/RunFuturePromise",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/RunFuturePromise",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -937,7 +937,7 @@
   },
   {
     "class_name": "Concurrent::Promises::ScheduledPromise",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/ScheduledPromise",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/ScheduledPromise",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 0,
@@ -945,7 +945,7 @@
   },
   {
     "class_name": "Concurrent::Promises::ThenPromise",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/ThenPromise",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/ThenPromise",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -953,7 +953,7 @@
   },
   {
     "class_name": "Concurrent::Promises::ZipEventEventPromise",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/ZipEventEventPromise",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/ZipEventEventPromise",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -961,7 +961,7 @@
   },
   {
     "class_name": "Concurrent::Promises::ZipEventsPromise",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/ZipEventsPromise",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/ZipEventsPromise",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -969,7 +969,7 @@
   },
   {
     "class_name": "Concurrent::Promises::ZipFutureEventPromise",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/ZipFutureEventPromise",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/ZipFutureEventPromise",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -977,7 +977,7 @@
   },
   {
     "class_name": "Concurrent::Promises::ZipFuturesPromise",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Promises/ZipFuturesPromise",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Promises/ZipFuturesPromise",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -985,7 +985,7 @@
   },
   {
     "class_name": "Concurrent::ReInclude",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/ReInclude",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/ReInclude",
     "class_desc": 203,
     "method_count": 0,
     "method_desc": 0,
@@ -993,7 +993,7 @@
   },
   {
     "class_name": "Concurrent::ReadWriteLock",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/ReadWriteLock",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/ReadWriteLock",
     "class_desc": 512,
     "method_count": 9,
     "method_desc": 564,
@@ -1001,7 +1001,7 @@
   },
   {
     "class_name": "Concurrent::ReentrantReadWriteLock",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/ReentrantReadWriteLock",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/ReentrantReadWriteLock",
     "class_desc": 1319,
     "method_count": 9,
     "method_desc": 624,
@@ -1009,7 +1009,7 @@
   },
   {
     "class_name": "Concurrent::RubyExchanger",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/RubyExchanger",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/RubyExchanger",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -1017,7 +1017,7 @@
   },
   {
     "class_name": "Concurrent::RubyExchanger::Node",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/RubyExchanger/Node",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/RubyExchanger/Node",
     "class_desc": 0,
     "method_count": 3,
     "method_desc": 0,
@@ -1025,7 +1025,7 @@
   },
   {
     "class_name": "Concurrent::RubyExecutorService",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/RubyExecutorService",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/RubyExecutorService",
     "class_desc": 0,
     "method_count": 14,
     "method_desc": 856,
@@ -1033,7 +1033,7 @@
   },
   {
     "class_name": "Concurrent::RubySingleThreadExecutor",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/RubySingleThreadExecutor",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/RubySingleThreadExecutor",
     "class_desc": 895,
     "method_count": 14,
     "method_desc": 881,
@@ -1041,7 +1041,7 @@
   },
   {
     "class_name": "Concurrent::RubyThreadLocalVar",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/RubyThreadLocalVar",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/RubyThreadLocalVar",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 161,
@@ -1049,15 +1049,15 @@
   },
   {
     "class_name": "Concurrent::RubyThreadPoolExecutor",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/RubyThreadPoolExecutor",
-    "class_desc": 4311,
-    "method_count": 12,
-    "method_desc": 968,
-    "total": 5279
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/RubyThreadPoolExecutor",
+    "class_desc": 4027,
+    "method_count": 13,
+    "method_desc": 1089,
+    "total": 5116
   },
   {
     "class_name": "Concurrent::RubyThreadPoolExecutor::Worker",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/RubyThreadPoolExecutor/Worker",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/RubyThreadPoolExecutor/Worker",
     "class_desc": 0,
     "method_count": 4,
     "method_desc": 0,
@@ -1065,7 +1065,7 @@
   },
   {
     "class_name": "Concurrent::SafeTaskExecutor",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/SafeTaskExecutor",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/SafeTaskExecutor",
     "class_desc": 342,
     "method_count": 2,
     "method_desc": 0,
@@ -1073,7 +1073,7 @@
   },
   {
     "class_name": "Concurrent::ScheduledTask",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/ScheduledTask",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/ScheduledTask",
     "class_desc": 3861,
     "method_count": 10,
     "method_desc": 873,
@@ -1081,7 +1081,7 @@
   },
   {
     "class_name": "Concurrent::Semaphore",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Semaphore",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Semaphore",
     "class_desc": 356,
     "method_count": 6,
     "method_desc": 485,
@@ -1089,7 +1089,7 @@
   },
   {
     "class_name": "Concurrent::SerialExecutorService",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/SerialExecutorService",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/SerialExecutorService",
     "class_desc": 390,
     "method_count": 1,
     "method_desc": 61,
@@ -1097,7 +1097,7 @@
   },
   {
     "class_name": "Concurrent::SerializedExecution",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/SerializedExecution",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/SerializedExecution",
     "class_desc": 73,
     "method_count": 3,
     "method_desc": 179,
@@ -1105,7 +1105,7 @@
   },
   {
     "class_name": "Concurrent::SerializedExecution::Job",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/SerializedExecution/Job",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/SerializedExecution/Job",
     "class_desc": 0,
     "method_count": 7,
     "method_desc": 184,
@@ -1113,7 +1113,7 @@
   },
   {
     "class_name": "Concurrent::SerializedExecutionDelegator",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/SerializedExecutionDelegator",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/SerializedExecutionDelegator",
     "class_desc": 92,
     "method_count": 2,
     "method_desc": 58,
@@ -1121,23 +1121,23 @@
   },
   {
     "class_name": "Concurrent::Set",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Set",
-    "class_desc": 539,
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Set",
+    "class_desc": 206,
     "method_count": 0,
     "method_desc": 0,
-    "total": 539
+    "total": 206
   },
   {
     "class_name": "Concurrent::SettableStruct",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/SettableStruct",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/SettableStruct",
     "class_desc": 278,
-    "method_count": 14,
-    "method_desc": 2611,
-    "total": 2889
+    "method_count": 13,
+    "method_desc": 1262,
+    "total": 1540
   },
   {
     "class_name": "Concurrent::SimpleExecutorService",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/SimpleExecutorService",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/SimpleExecutorService",
     "class_desc": 515,
     "method_count": 10,
     "method_desc": 763,
@@ -1145,23 +1145,23 @@
   },
   {
     "class_name": "Concurrent::SingleThreadExecutor",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/SingleThreadExecutor",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/SingleThreadExecutor",
     "class_desc": 895,
-    "method_count": 14,
-    "method_desc": 881,
-    "total": 1776
+    "method_count": 13,
+    "method_desc": 856,
+    "total": 1751
   },
   {
     "class_name": "Concurrent::Synchronization",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Synchronization",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Synchronization",
     "class_desc": 49,
-    "method_count": 0,
+    "method_count": 6,
     "method_desc": 0,
     "total": 49
   },
   {
     "class_name": "Concurrent::Synchronization::AbstractLockableObject",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Synchronization/AbstractLockableObject",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Synchronization/AbstractLockableObject",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -1169,7 +1169,7 @@
   },
   {
     "class_name": "Concurrent::Synchronization::AbstractObject",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Synchronization/AbstractObject",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Synchronization/AbstractObject",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 0,
@@ -1177,7 +1177,7 @@
   },
   {
     "class_name": "Concurrent::Synchronization::AbstractStruct",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Synchronization/AbstractStruct",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Synchronization/AbstractStruct",
     "class_desc": 0,
     "method_count": 3,
     "method_desc": 124,
@@ -1185,7 +1185,7 @@
   },
   {
     "class_name": "Concurrent::Synchronization::Condition",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Synchronization/Condition",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Synchronization/Condition",
     "class_desc": 45,
     "method_count": 9,
     "method_desc": 0,
@@ -1193,7 +1193,7 @@
   },
   {
     "class_name": "Concurrent::Synchronization::ConditionSignalling",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Synchronization/ConditionSignalling",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Synchronization/ConditionSignalling",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -1201,7 +1201,7 @@
   },
   {
     "class_name": "Concurrent::Synchronization::JRubyAttrVolatile",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Synchronization/JRubyAttrVolatile",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Synchronization/JRubyAttrVolatile",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -1209,7 +1209,7 @@
   },
   {
     "class_name": "Concurrent::Synchronization::JRubyAttrVolatile::ClassMethods",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Synchronization/JRubyAttrVolatile/ClassMethods",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Synchronization/JRubyAttrVolatile/ClassMethods",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -1217,7 +1217,7 @@
   },
   {
     "class_name": "Concurrent::Synchronization::JRubyLockableObject",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Synchronization/JRubyLockableObject",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Synchronization/JRubyLockableObject",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -1225,7 +1225,7 @@
   },
   {
     "class_name": "Concurrent::Synchronization::JRubyObject",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Synchronization/JRubyObject",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Synchronization/JRubyObject",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -1233,7 +1233,7 @@
   },
   {
     "class_name": "Concurrent::Synchronization::Lock",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Synchronization/Lock",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Synchronization/Lock",
     "class_desc": 45,
     "method_count": 4,
     "method_desc": 0,
@@ -1241,15 +1241,15 @@
   },
   {
     "class_name": "Concurrent::Synchronization::LockableObject",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Synchronization/LockableObject",
-    "class_desc": 967,
-    "method_count": 7,
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Synchronization/LockableObject",
+    "class_desc": 955,
+    "method_count": 1,
     "method_desc": 0,
-    "total": 967
+    "total": 955
   },
   {
     "class_name": "Concurrent::Synchronization::MonitorLockableObject",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Synchronization/MonitorLockableObject",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Synchronization/MonitorLockableObject",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -1257,7 +1257,7 @@
   },
   {
     "class_name": "Concurrent::Synchronization::MriAttrVolatile",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Synchronization/MriAttrVolatile",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Synchronization/MriAttrVolatile",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 0,
@@ -1265,7 +1265,7 @@
   },
   {
     "class_name": "Concurrent::Synchronization::MriAttrVolatile::ClassMethods",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Synchronization/MriAttrVolatile/ClassMethods",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Synchronization/MriAttrVolatile/ClassMethods",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -1273,7 +1273,7 @@
   },
   {
     "class_name": "Concurrent::Synchronization::MriObject",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Synchronization/MriObject",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Synchronization/MriObject",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -1281,7 +1281,7 @@
   },
   {
     "class_name": "Concurrent::Synchronization::MutexLockableObject",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Synchronization/MutexLockableObject",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Synchronization/MutexLockableObject",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -1289,7 +1289,7 @@
   },
   {
     "class_name": "Concurrent::Synchronization::Object",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Synchronization/Object",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Synchronization/Object",
     "class_desc": 274,
     "method_count": 8,
     "method_desc": 1062,
@@ -1297,7 +1297,7 @@
   },
   {
     "class_name": "Concurrent::Synchronization::RbxAttrVolatile",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Synchronization/RbxAttrVolatile",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Synchronization/RbxAttrVolatile",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 0,
@@ -1305,7 +1305,7 @@
   },
   {
     "class_name": "Concurrent::Synchronization::RbxAttrVolatile::ClassMethods",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Synchronization/RbxAttrVolatile/ClassMethods",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Synchronization/RbxAttrVolatile/ClassMethods",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -1313,7 +1313,7 @@
   },
   {
     "class_name": "Concurrent::Synchronization::RbxLockableObject",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Synchronization/RbxLockableObject",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Synchronization/RbxLockableObject",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -1321,7 +1321,7 @@
   },
   {
     "class_name": "Concurrent::Synchronization::RbxObject",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Synchronization/RbxObject",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Synchronization/RbxObject",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -1329,7 +1329,7 @@
   },
   {
     "class_name": "Concurrent::Synchronization::TruffleRubyAttrVolatile",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Synchronization/TruffleRubyAttrVolatile",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Synchronization/TruffleRubyAttrVolatile",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 0,
@@ -1337,7 +1337,7 @@
   },
   {
     "class_name": "Concurrent::Synchronization::TruffleRubyAttrVolatile::ClassMethods",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Synchronization/TruffleRubyAttrVolatile/ClassMethods",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Synchronization/TruffleRubyAttrVolatile/ClassMethods",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -1345,7 +1345,7 @@
   },
   {
     "class_name": "Concurrent::Synchronization::TruffleRubyObject",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Synchronization/TruffleRubyObject",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Synchronization/TruffleRubyObject",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
@@ -1353,7 +1353,7 @@
   },
   {
     "class_name": "Concurrent::SynchronizedDelegator",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/SynchronizedDelegator",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/SynchronizedDelegator",
     "class_desc": 667,
     "method_count": 4,
     "method_desc": 0,
@@ -1361,31 +1361,31 @@
   },
   {
     "class_name": "Concurrent::TVar",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/TVar",
-    "class_desc": 2064,
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/TVar",
+    "class_desc": 2072,
     "method_count": 3,
     "method_desc": 94,
-    "total": 2158
+    "total": 2166
   },
   {
     "class_name": "Concurrent::ThreadLocalVar",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/ThreadLocalVar",
-    "class_desc": 2096,
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/ThreadLocalVar",
+    "class_desc": 2104,
     "method_count": 4,
     "method_desc": 274,
-    "total": 2370
+    "total": 2378
   },
   {
     "class_name": "Concurrent::ThreadPoolExecutor",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/ThreadPoolExecutor",
-    "class_desc": 4311,
-    "method_count": 24,
-    "method_desc": 1784,
-    "total": 6095
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/ThreadPoolExecutor",
+    "class_desc": 4027,
+    "method_count": 23,
+    "method_desc": 1759,
+    "total": 5786
   },
   {
     "class_name": "Concurrent::ThreadSafe",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/ThreadSafe",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/ThreadSafe",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -1393,7 +1393,7 @@
   },
   {
     "class_name": "Concurrent::ThreadSafe::Util",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/ThreadSafe/Util",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/ThreadSafe/Util",
     "class_desc": 0,
     "method_count": 2,
     "method_desc": 0,
@@ -1401,7 +1401,7 @@
   },
   {
     "class_name": "Concurrent::ThreadSafe::Util::Adder",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/ThreadSafe/Util/Adder",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/ThreadSafe/Util/Adder",
     "class_desc": 918,
     "method_count": 5,
     "method_desc": 265,
@@ -1409,7 +1409,7 @@
   },
   {
     "class_name": "Concurrent::ThreadSafe::Util::CheapLockable",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/ThreadSafe/Util/CheapLockable",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/ThreadSafe/Util/CheapLockable",
     "class_desc": 406,
     "method_count": 0,
     "method_desc": 0,
@@ -1417,7 +1417,7 @@
   },
   {
     "class_name": "Concurrent::ThreadSafe::Util::PowerOfTwoTuple",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/ThreadSafe/Util/PowerOfTwoTuple",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/ThreadSafe/Util/PowerOfTwoTuple",
     "class_desc": 0,
     "method_count": 5,
     "method_desc": 0,
@@ -1425,7 +1425,7 @@
   },
   {
     "class_name": "Concurrent::ThreadSafe::Util::Striped64",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/ThreadSafe/Util/Striped64",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/ThreadSafe/Util/Striped64",
     "class_desc": 3403,
     "method_count": 3,
     "method_desc": 343,
@@ -1433,7 +1433,7 @@
   },
   {
     "class_name": "Concurrent::ThreadSafe::Util::Striped64::Cell",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/ThreadSafe/Util/Striped64/Cell",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/ThreadSafe/Util/Striped64/Cell",
     "class_desc": 253,
     "method_count": 2,
     "method_desc": 0,
@@ -1441,7 +1441,7 @@
   },
   {
     "class_name": "Concurrent::ThreadSafe::Util::Volatile",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/ThreadSafe/Util/Volatile",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/ThreadSafe/Util/Volatile",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 509,
@@ -1449,7 +1449,7 @@
   },
   {
     "class_name": "Concurrent::ThreadSafe::Util::XorShiftRandom",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/ThreadSafe/Util/XorShiftRandom",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/ThreadSafe/Util/XorShiftRandom",
     "class_desc": 399,
     "method_count": 2,
     "method_desc": 187,
@@ -1457,7 +1457,7 @@
   },
   {
     "class_name": "Concurrent::TimerSet",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/TimerSet",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/TimerSet",
     "class_desc": 267,
     "method_count": 3,
     "method_desc": 398,
@@ -1465,7 +1465,7 @@
   },
   {
     "class_name": "Concurrent::TimerTask",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/TimerTask",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/TimerTask",
     "class_desc": 4065,
     "method_count": 8,
     "method_desc": 163,
@@ -1473,7 +1473,7 @@
   },
   {
     "class_name": "Concurrent::Transaction",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Transaction",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Transaction",
     "class_desc": 0,
     "method_count": 9,
     "method_desc": 0,
@@ -1481,7 +1481,7 @@
   },
   {
     "class_name": "Concurrent::Transaction::ReadLogEntry",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Transaction/ReadLogEntry",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Transaction/ReadLogEntry",
     "class_desc": 0,
     "method_count": 4,
     "method_desc": 122,
@@ -1489,7 +1489,7 @@
   },
   {
     "class_name": "Concurrent::Tuple",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Tuple",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Tuple",
     "class_desc": 155,
     "method_count": 9,
     "method_desc": 580,
@@ -1497,7 +1497,7 @@
   },
   {
     "class_name": "Concurrent::Utility",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Utility",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Utility",
     "class_desc": 0,
     "method_count": 0,
     "method_desc": 0,
@@ -1505,7 +1505,7 @@
   },
   {
     "class_name": "Concurrent::Utility::EngineDetector",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Utility/EngineDetector",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Utility/EngineDetector",
     "class_desc": 0,
     "method_count": 10,
     "method_desc": 0,
@@ -1513,7 +1513,7 @@
   },
   {
     "class_name": "Concurrent::Utility::NativeExtensionLoader",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Utility/NativeExtensionLoader",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Utility/NativeExtensionLoader",
     "class_desc": 0,
     "method_count": 4,
     "method_desc": 0,
@@ -1521,7 +1521,7 @@
   },
   {
     "class_name": "Concurrent::Utility::NativeInteger",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Utility/NativeInteger",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Utility/NativeInteger",
     "class_desc": 0,
     "method_count": 6,
     "method_desc": 0,
@@ -1529,15 +1529,15 @@
   },
   {
     "class_name": "Concurrent::Utility::ProcessorCounter",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/Concurrent/Utility/ProcessorCounter",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/Concurrent/Utility/ProcessorCounter",
     "class_desc": 0,
     "method_count": 3,
-    "method_desc": 1704,
-    "total": 1704
+    "method_desc": 1766,
+    "total": 1766
   },
   {
     "class_name": "TruffleRuby",
-    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.5/TruffleRuby",
+    "url": "https://rubydoc.info/gems/concurrent-ruby/1.1.7/TruffleRuby",
     "class_desc": 0,
     "method_count": 1,
     "method_desc": 0,
